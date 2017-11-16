@@ -1,0 +1,4263 @@
+"Subject","Body","From: (Name)","From: (Address)","From: (Type)","To: (Name)","To: (Address)","To: (Type)","CC: (Name)","CC: (Address)","CC: (Type)","BCC: (Name)","BCC: (Address)","BCC: (Type)","Billing Information","Categories","Importance","Mileage","Sensitivity"
+"RE: Questions about changes for the Chapter11.exe","What we are looking at is cleaning up for December.  So the schedule strips have already been created.  For settlement purposes, we have to go in and clean house.  So it wouldn't help to change the deal in Deal Entry and  I'm not even sure that we can do it anyway because of deal preservation.  So we are looking at a time strip for example Dec 8-31 to zero out ""Counter party"".  
+
+I will be talking to John tomorrow morning to find out more about the West Bankruptcy book.  Don't know anything about it.
+
+Thanks again,
+
+Diana
+
+ -----Original Message-----
+From: 	Poston, David  
+Sent:	Wednesday, January 02, 2002 3:36 PM
+To:	Scholtes, Diana
+Subject:	Questions about changes for the Chapter11.exe
+
+Good Afternoon Diana,
+
+Did I capture your question correctly?
+
+The users want to update the chapter11.exe program, that was developed to 'zero-out' schedule strip volumes for a given counterparty for a given day, to allow the users to zero-out the volume for a range of days?
+
+
+IT Questions
+1.  Schedule strips only get created for deals 2 days before day of flow.  So, based on the current design, the date range, at least looking forward, would only be a couple of days.
+- Option 1:  Maybe, instead of zeroing out schedules, we should adjust the dates on the deal.  This would prevent schedule strips from even being created after a certain date?
+
+2.  Working with John Postlethwaite & Stacey White, Will Smith has a program that converts deals from the real Enron books to a newly created West Bankruptcy book.  Will this work for you guys?
+
+Anyway, just give me a call when you get a chance.
+
+Thanks,  David Poston
+713-345-7834
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","david.poston@enron.com","david.poston@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: one more issue left with NCPA deals","ok try again
+
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Tuesday, November 27, 2001 11:02 AM
+To:	Scholtes, Diana
+Subject:	FW: one more issue left with NCPA deals
+
+oops, also the annuity for the 7th is with volume of 24MW/hr, should it be 25MW/hr?
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Tuesday, November 27, 2001 10:59 AM
+To:	Scholtes, Diana
+Subject:	one more issue left with NCPA deals
+
+the annuity deal is not yet scheduled for 11/22.
+
+-Fran
+
+ -----Original Mess age-----
+From: 	Scholtes, Diana  
+Sent:	Tuesday, November 27, 2001 10:19 AM
+To:	Chang, Fran
+Subject:	RE: NCPA deal review
+
+the 2nd is fixed
+
+ds
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Tuesday, November 27, 2001 9:55 AM
+To:	Scholtes, Diana; Crandall, Sean
+Subject:	NCPA deal review
+Importance:	High
+
+Diana and Sean:
+
+Up to 11/26/01, 
+1. we are missing the annuities for 11/7, 11/18, 11/19, 11/22, 11/23, and 11/24
+2. we need to restore HE23-24 for deal# 517676.1 for 11/2/01 (lightload sale in NP15) in scheduling
+
+Please let me know if you need any help entering the annuities or restoring the HE23-HE24 scheduling (for 11/2/01 for deal 517676.1).
+
+As the month-end is approaching, I am hoping we can clear the above issues up before Settlements captures the wrong P&L.
+
+Thanks,
+
+Fran
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","fran.chang@enron.com","fran.chang@enron.com","SMTP",,,,,,,,,"Normal"
+"RE:","thanks
+
+ -----Original Message-----
+From: 	Tully, Michael  
+Sent:	Tuesday, October 30, 2001 8:50 AM
+To:	Scholtes, Diana
+Subject:	RE: 
+
+Spoke to Houston, and they know that it is not working. It is a problem with the database. The Database Administrators are working on it as we speak. As soon as it is done, they will call me.
+
+Michael S. Tully
+Trade Floor Support, Portland
+(503)464-7790 Desk
+(503)807-7862 Cell
+michael.tully@enron.com
+
+He who runs behind car, often get exhausted.
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Tuesday, October 30, 2001 8:28 AM
+To:	Tully, Michael
+Subject:	
+
+Hey just wanted you to know that the Real-Time position Mgr. is still not working; or updating.  
+
+ds
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","michael.tully@enron.com","michael.tully@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: IMPORTANT MESSAGE TO ALL EMPLOYEES PARTICIPATING IN THE ENRON CORP SAVINGS & ESOP PLANS","
+
+ -----Original Message-----
+From: 	Enron General Announcements  
+Sent:	Wednesday, January 23, 2002 12:52 PM
+To:	DL-GA-all_domestic
+Subject:	IMPORTANT MESSAGE TO ALL EMPLOYEES PARTICIPATING IN THE ENRON CORP SAVINGS & ESOP PLANS
+
+
+PLEASE READ THIS IMPORTANT INFORMATION CONCERNING THE ENRON STOCK FUND IN THE ENRON CORP. SAVINGS AND ESOP PLANS
+
+On Friday, January 11, trading of Enron stock was suspended on the New York Stock Exchange (NYSE).  All Savings and ESOP Plan transactions, including 401(k) payroll contributions,  involving this fund were placed in a pending status until trading resumed.
+
+As announced by Enron's Office of the Chair on Wednesday, January 16, Enron stock would now be traded Over The Counter (OTC).  Upon receiving this information, work began immediately to develop a process that allows for OTC trades in the plans.
+
+On Thursday, January 17, Enron initiated a process to facilitate OTC trades of Enron stock inside the 401(k) and ESOP and all pending transactions were processed using Thursday's closing price.  
+
+Now that trading has resumed, we urge you to review your investment elections to ensure that they are consistent with your investment goals.  
+
+As things change, we will continue to update you.
+
+Enron Benefits Department
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","premierpumpcompany@attbi.com","premierpumpcompany@attbi.com","SMTP",,,,,,,,,"Normal"
+"RE: NCPA deal review","the 2nd is fixed
+
+ds
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Tuesday, November 27, 2001 9:55 AM
+To:	Scholtes, Diana; Crandall, Sean
+Subject:	NCPA deal review
+Importance:	High
+
+Diana and Sean:
+
+Up to 11/26/01, 
+1. we are missing the annuities for 11/7, 11/18, 11/19, 11/22, 11/23, and 11/24
+2. we need to restore HE23-24 for deal# 517676.1 for 11/2/01 (lightload sale in NP15) in scheduling
+
+Please let me know if you need any help entering the annuities or restoring the HE23-HE24 scheduling (for 11/2/01 for deal 517676.1).
+
+As the month-end is approaching, I am hoping we can clear the above issues up before Settlements captures the wrong P&L.
+
+Thanks,
+
+Fran
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","fran.chang@enron.com","fran.chang@enron.com","SMTP",,,,,,,,,"Normal"
+"","Hey Monica!
+
+Long time no hear!  Just wanted to make sure you and Kristian are doing fine.  Morale here is extremely low.  I'm sure its the same there.  But we continue to be busy.  Good thing for all of us!  When are you guys coming back to the states?  By the way, how are your parents?  I hope they are safe and well.  Keep in touch!
+
+Diana
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","monica.lande@enron.com","monica.lande@enron.com","SMTP",,,,,,,,,"Normal"
+"SEPT","9/23	Bill C. fixed this day and we check
+
+9/24	To MPC-EPMI Colstrip s/b priced with the .10 cent adder peak & off peak
+	To EPMI MC Memo {800 mw @ 18.40} s/b priced with the 1.50 parking/lending adder
+	* OK for the hard part!  our nets are ok for the balance of the problem but they aren't priced correctly.
+	We have a 101 peak plus a 25 peaker (15-20) totaling 1766 mwh's that s/b priced @ 20.55
+	Then we parked/lended for a total of 590 mwh that s/b priced @ 21.95.  
+	You have them dispursed between several accounts:	 To BPA-EPMI (PGE sys)= 497 mw
+								 To PGE CA EPMI Sale = 1459 @ 20.55 & 400 @ 21.55
+
+Purchases= $ 156,755.00
+Sales= $ 147,439.00
+
+9/25	I BELIEVE OUR INDICES ARE OFF- I SHOW 18.98 PEAK & 16.60 OFF PEAK????  Every account you have on this day is off. Or maybe I have the wrong index!
+
+
+	
+
+		 	
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","anne_snyder@pgn.com","anne_snyder@pgn.com","SMTP","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP",,,"Normal"
+"RE: Transmission with Bonneville","Steve Hall is contacting Al Paske regarding the transmission contract.  Apparently they have already been discussing this issue.  
+
+ds
+
+ -----Original Message-----
+From: 	Yoder, Christian  
+Sent:	Thursday, October 11, 2001 3:10 PM
+To:	Scholtes, Diana
+Cc:	Denton, Rhonda L.
+Subject:	RE: Transmission with Bonneville
+
+ 
+Have you been able to come up with any information about this transmission?----cgy
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Tuesday, October 02, 2001 3:13 PM
+To:	Yoder, Christian
+Subject:	RE: Transmission with Bonneville
+
+I don't.  I will pull our contract with BPA and give you a decent reply!
+
+d
+
+ -----Original Message-----
+From: 	Yoder, Christian  
+Sent:	Tuesday, October 02, 2001 9:32 AM
+To:	Scholtes, Diana
+Cc:	Hall, Steve C. (Legal)
+Subject:	FW: Transmission with Bonneville
+
+Diana, 
+The message below is a routine notification message from our contracts administrator in Houston.  Do you know which agreements she is referrring to and whether or not we need to renew them?  ----cgy
+
+ -----Original Message-----
+From: 	Denton, Rhonda L.  
+Sent:	Monday, October 01, 2001 3:02 PM
+To:	Yoder, Christian
+Cc:	King, Jan M.
+Subject:	Transmission with Bonneville
+
+I show that both of the transmission agreements that we had with Bonneville expired 9/31/01.  Do we need to execute firm and non-firm service agreements with them?  I'm copying Jan b/c I'm not sure you are back in town.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","christian.yoder@enron.com","christian.yoder@enron.com","SMTP",,,,,,,,,"Normal"
+"Sale to TID @ NP-15","In discussion with Bob Floyd with CDWR and Mike Brommer from TID, Enron will continue its obligations to TID with a delivery @ NP-15.  CDWR and TID have entered into the $3 In-Area facilitation between themselves.  If you have any further questions, please call me at 503-464-3807.
+
+Thanks again!
+
+Diana Scholtes
+Enron- West Portland
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","bfloyd@water.ca.gov;mtbrommer@tid.org","bfloyd@water.ca.gov;mtbrommer@tid.org","SMTP;SMTP","stewart.rosman@enron.com;chris.mallory@enron.com","stewart.rosman@enron.com;chris.mallory@enron.com","SMTP;SMTP","stewart.rosman@enron.com;chris.mallory@enron.com","stewart.rosman@enron.com;chris.mallory@enron.com","SMTP;SMTP",,,"Normal"
+"FW: (no subject)","
+
+-----Original Message-----
+From: Hara, Kathy [mailto:KHara@avistaenergy.com]
+Sent: Monday, January 21, 2002 10:32 AM
+To: Big Johnson (E-mail); Brian Malley (E-mail); Semperger, Cara; Chris
+Coast (E-mail); Craig Nielson (E-mail); Dan Logman (E-mail); Scholtes,
+Diana; Jim Ewers (E-mail); Joe Cole (E-mail); John Hughes (E-mail); Jon
+Perry (E-mail); Kevin McMahan (E-mail); Lance Titus (E-mail); Burnett,
+Lisa; Little Boogie (E-mail); Meg Coleman (E-mail); Nathan Joyner
+(E-mail); Patrick Jackson (E-mail); Randy Enders (E-mail); Robb Gray
+(E-mail); Ron Hadwiger (E-mail); Stephanie Gerk (E-mail); Todd
+Brinkmeyer (E-mail); Uncle Krusty (E-mail); Kevin Watler (E-mail)
+Subject: FW: (no subject)
+
+
+I've seen this one before, but it's always funny...
+
+BEER
+I have not seen anyone explain this as well as Cliff Clavin, on Cheers.  The
+Buffalo Theory as told by Cliff Clavin: One afternoon at Cheers, Cliff
+Clavin was explaining the Buffalo Theory to his buddy Norm, and here's how
+it went: ""Well ya see, Norm, it's like this... A herd of buffalo can only
+move as fast as the slowest buffalo. And when the herd is hunted, it is the
+slowest and weakest ones at the back that are killed first. This natural
+selection is good for the herd as a whole, because the general speed and
+health of the whole group keeps improving by the regular killing of the
+weakest members.  ""In much the same way, the human brain can only operate as
+fast as the slowest brain cells. Excessive intake of alcohol, as we know,
+kills brain cells. But naturally it attacks the slowest and weakest brain
+cells first. In this way, regular consumption of beer eliminates the weaker
+brain cells, making the brain a faster and more efficient machine."" That's
+why you always feel smarter after a few beers
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","sean.crandall@enron.com","sean.crandall@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Only the dog knows.......","
+
+-----Original Message-----
+From: Hara, Kathy [mailto:KHara@avistaenergy.com]
+Sent: Thursday, December 13, 2001 1:50 PM
+To: Big Johnson (E-mail); Brian Malley (E-mail); Semperger, Cara; Chris
+Coast (E-mail); Chris Smith (E-mail); Dan Logman (E-mail); Scholtes,
+Diana; Jim Ewers (E-mail); Joe Cole (E-mail); John Hughes (E-mail); Jon
+Perry (E-mail); Kathleen Dunham (E-mail); Keith Wagner (E-mail); Kenny
+Miller (E-mail); Kevin McMahan (E-mail); Kevin Watler (E-mail); Kimberly
+Werbner (E-mail); Burnett, Lisa; Little Boogie (E-mail); Marci Holland
+(E-mail); Meg Coleman (E-mail); Nathan Joyner (E-mail); Patrick Jackson
+(E-mail); Pete Karagianes (E-mail); Rameen Zahed (E-mail); Randy Enders
+(E-mail); Robb Gray (E-mail); Robert Pierce (E-mail); Ron Hadwiger
+(E-mail); Stephanie Gerk (E-mail); Titus Gillium (E-mail); Tom Johns
+(E-mail)
+Subject: FW: Only the dog knows.......
+
+
+
+
+-----Original Message-----
+From: Fewel, George 
+Sent: Thursday, December 13, 2001 13:43
+To: Hara, Kathy; Downing, Staci; Voelker, Carie
+Subject: FW: Only the dog knows.......
+
+
+
+
+-----Original Message-----
+From: Jeffery, Leon 
+Sent: Tuesday, December 04, 2001 6:13 AM
+To: Fewel, George
+Subject: FW: Only the dog knows.......
+
+
+
+
+-----Original Message-----
+From: ljeffery@teviainc.com [mailto:ljeffery@teviainc.com]
+Sent: Monday, December 03, 2001 3:09 PM
+To: ljeffery@avistaenergy.com
+Subject: FW: Only the dog knows.......
+
+
+Subject: FW: Only the dog knows.......
+
+
+
+
+-----Disgusting
+
+
+
+The information contained in this message is privileged and
+confidential.
+It is intended solely for the use of the named recipient.  If you are
+not
+the intended recipient, you are hereby notified that any disclosure,
+copying, distribution, or use of the contents of this transmission is
+strictly prohibited.  If you receive this message in error, please
+notify
+the sender immediately.  Thank you.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","jeff.richter@enron.com","jeff.richter@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Sale to TID @ NP-15","Deal # 614339.1 in the LTCA book has been changed from a fixed price of $158 to $155.  This is due to us not facilitating and paying for the CDWR In-Area sleeve.  
+
+
+Diana
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Wednesday, November 28, 2001 12:15 PM
+To:	'bfloyd@water.ca.gov'; 'mtbrommer@tid.org'
+Cc:	Rosman, Stewart; Mallory, Chris
+Subject:	Sale to TID @ NP-15
+
+In discussion with Bob Floyd with CDWR and Mike Brommer from TID, Enron will continue its obligations to TID with a delivery @ NP-15.  CDWR and TID have entered into the $3 In-Area facilitation between themselves.  If you have any further questions, please call me at 503-464-3807.
+
+Thanks again!
+
+Diana Scholtes
+Enron- West Portland
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","ann.murphy@enron.com","ann.murphy@enron.com","SMTP","heather.dunton@enron.com;fran.chang@enron.com;samantha.law@enron.com;robert.badeer@enron.com","heather.dunton@enron.com;fran.chang@enron.com;samantha.law@enron.com;robert.badeer@enron.com","SMTP;SMTP;SMTP;SMTP","heather.dunton@enron.com;fran.chang@enron.com;samantha.law@enron.com;robert.badeer@enron.com","heather.dunton@enron.com;fran.chang@enron.com;samantha.law@enron.com;robert.badeer@enron.com","SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"FW: Registration for New E-tag 1.7 data","How do we feel about having approval/denial authority in E-tag for all of the El Paso stuff.  How does it work now?
+
+ds
+-----Original Message-----
+From: Lynn Costantini [mailto:Lynn.Costantini@nerc.net]
+Sent: Tuesday, October 09, 2001 12:41 PM
+To: info@tsin.com
+Subject: Registration for New E-tag 1.7 data
+
+
+Ladies and Gentlemen:
+
+	Registration of new data elements as required by E-tag 1.7 can
+commence immediately.  Please go to http://reg.tsin.com, click
+Registrant's Area, and log onto your account for more information.  
+
+	Documents pertaining to electronic tagging, including
+""Electronic Tagging: Functional Specification, Version 1.7"" and ""What's
+New in E-tag 1.7"" are available from
+http://www.nerc.com/~filez/tag/E-tag/E-Tag.htm. 
+
+	Please email info@tsin.com if you have any questions.
+
+Sincerely,
+Lynn P. Costantini
+Robert W. Cummings
+NERC
+609-452-8060 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Shasta Lake Notification","
+
+ -----Original Message-----
+From: 	Buerkle, Jim  
+Sent:	Friday, November 16, 2001 10:45 AM
+To:	Scholtes, Diana; Crandall, Sean
+Subject:	Shasta Lake Notification
+
+Diana and Sean,
+
+We have agreed to send Shasta Lake daily e-mail notification with strike price information when we exercise the transmission option.  Here is Jerry Cupp's email address.  Please cc me on the notices.
+
+Thanks,
+
+Jim
+
+gerry.cupp@ci.shasta-lake.ca.us
+
+Jim Buerkle
+Manager
+Middle Market
+Enron North America
+121 SW Salmon St. 3WTC 0306
+Portland, OR 97204
+
+(503) 464-3832 (Office)
+(503) 702-4604 (Mobile)
+(503) 464-3740 (Fax)
+jim.buerkle@enron.com
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","phillip.platter@enron.com;chris.mallory@enron.com","phillip.platter@enron.com;chris.mallory@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"RE: Modesto","I talked to Arvina this morning and she noticed that she has calculated the loss return using the wrong indicies.  She will be fixing that this morning.  I am attaching a summary of the loss return calculation and a quick summary of checking I did against Arvina spreadsheet.  There is a deal that we entered in differently, but the net result is the same.  
+
+Diana
+
+ 
+
+
+
+ -----Original Message-----
+From: 	Williams, Gwendolyn  
+Sent:	Wednesday, January 09, 2002 6:49 AM
+To:	Purcell, Mike; Scholtes, Diana
+Cc:	Crandall, Sean
+Subject:	RE: Modesto
+
+Mike
+
+Were do we stand w/Modesto they are wanting to finish up Nov Prod.?
+
+Gwen
+
+ -----Original Message-----
+From: 	Purcell, Mike  
+Sent:	Thursday, January 03, 2002 3:56 PM
+To:	Scholtes, Diana
+Cc:	Williams, Gwendolyn; Crandall, Sean
+Subject:	Modesto
+
+Diana,
+
+I heard back from Gwen and she has given me these deals to be fixed according to Modesto's spreadsheet.
+
+Sales
+875830.1.2 and 875819.2 Need to have a price of $29.00 11/7-11/30
+
+Purchases
+875830.3 and 875819.3 Need to have a price of $31.00 11/7-11/30
+
+The deals above total 15,200 mw's.   The deals that could be the problem are  transmission deal 860363.1 at a $0.00 and Purchase annuities 859311.1 and 859389.1 @ $1.36, these deals total 15,200 mw's.
+
+Also, starting on the 7th we need to put in losses of 36 mw's per day using the Dow NP15 index price.
+
+let me know if you have any questions and what I can do to help.
+
+Thanks
+
+Mike P. Purcell
+Settlements Coordinator
+Volume Management-Portland
+503-464-8297
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","gwendolyn.williams@enron.com","gwendolyn.williams@enron.com","SMTP","mike.purcell@enron.com","mike.purcell@enron.com","SMTP","mike.purcell@enron.com","mike.purcell@enron.com","SMTP",,,"Normal"
+"RE: Energy Opportunities","Todd,
+
+Thank you for your e-mail.  I would be interested in speaking to you regarding your opportunities.  To give you a little bit of my background, I have been in the energy business since 1991.  My current position with Enron consists of Management of and Trading in the short term markets, specializing specifically in the Northwest market.  My prior experience includes Trading the short term markets for Portland General and NW Operation/Reliability functions within BPA.   You may reach me by either e-mail or my cell phone (503) 701-5759.
+
+Sincerely,
+
+Diana Scholtes
+Director
+Enron American- West Trading	
+(503) 464-3807
+
+
+-----Original Message-----
+From: Todd Kubicki [mailto:tkubicki@kappasearch.com]
+Sent: Tuesday, November 06, 2001 2:51 PM
+To: Scholtes, Diana
+Subject: Energy Opportunities
+
+
+Diana,
+
+I represent a firm which has specialized in energy and power market
+placement for over ten years.  I'm currently working with several
+organizations across the country looking for energy traders, coordinators,
+analysts and schedulers.  These are great opportunities to change location
+or better ones position quickly.  I'd like to schedule a ten minute
+telephone conversation to discuss these positions and determine whether or
+not you may have interest or may be able to assist with these openings.
+
+Please reply or call me at 630-990-7510 at your earliest convenience.  I
+look forward to speaking with you soon.
+
+Best Regards,
+Todd Kubicki
+Kappa Search, Inc.
+tkubicki@kappasearch.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","tkubicki@kappasearch.com","tkubicki@kappasearch.com","SMTP",,,,,,,,,"Normal"
+"FW: Energy Opportunities","
+
+-----Original Message-----
+From: Todd Kubicki [mailto:tkubicki@kappasearch.com]
+Sent: Tuesday, November 06, 2001 2:51 PM
+To: Scholtes, Diana
+Subject: Energy Opportunities
+
+
+Diana,
+
+I represent a firm which has specialized in energy and power market
+placement for over ten years.  I'm currently working with several
+organizations across the country looking for energy traders, coordinators,
+analysts and schedulers.  These are great opportunities to change location
+or better ones position quickly.  I'd like to schedule a ten minute
+telephone conversation to discuss these positions and determine whether or
+not you may have interest or may be able to assist with these openings.
+
+Please reply or call me at 630-990-7510 at your earliest convenience.  I
+look forward to speaking with you soon.
+
+Best Regards,
+Todd Kubicki
+Kappa Search, Inc.
+tkubicki@kappasearch.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","premierpumpcompany@home.com","premierpumpcompany@home.com","SMTP",,,,,,,,,"Normal"
+"FW: Thanks and All the Best"," 
+-----Original Message-----
+From: Crandall, Sean 
+Sent: Tuesday, December 04, 2001 1:45 PM
+To: Scholtes, Diana
+Subject: FW: Thanks and All the Best
+
+
+ 
+-----Original Message-----
+From: Dave Perrino [mailto:D_Perrino@msn.com]
+Sent: Tuesday, December 04, 2001 1:29 PM
+To: Fischer, Mark; Alonso, Tom; Scholtes, Diana; Crandall, Sean; Mallory, Chris; Belden, Tim; chris.foster@enron.com; Davidson, Debra
+Subject: Thanks and All the Best
+
+
+Dear Portland Friends,
+ 
+I am sorry I did not have to opportunity to say good-bye in person, so I am sending this message instead.  I am hoping that this message reaches all of you.  
+ 
+It has been my privilege to have been able to work with and represent you in the various western region forums that were of interest to Enron.  I want to wish all of you the best for the future and if any group of individuals can make a new Enron work again it would be you.  I have learned a lot in my brief tenure at Enron and it has been especially satisfying working with professionals like each of you.  Hopefully sometime in the future our paths will cross again.
+ 
+Happy Holidays to you and your families.  Also, if someone could also pass along this message to Cara S. in scheduling it would be much appreciated. (I cannot remember how to spell her last name...sorry Cara!)
+ 
+Kindest Regards,
+ 
+Dave
+
+David F. Perrino
+660 Greenview Place
+Los Altos, CA 94024
+Home: 650.948.6937
+Cell: 415.794.8740
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: **IMPORTANT** Stack Manager Users","1
+
+ -----Original Message-----
+From: 	Diamond, Daniel  
+Sent:	Wednesday, January 30, 2002 12:58 PM
+To:	DL-NETCO Gas Traders; DL-NETCO Power Traders
+Cc:	Forster, David; Mandola, Teresa; Mcquade, Jennifer
+Subject:	**IMPORTANT** Stack Manager Users
+Importance:	High
+
+
+We are in the process of confirming that all traders are set up correctly and ready to trade when the system goes live. 
+
+We need to make sure that your Stack Managers are accessing the correct database. In order to do this, we need to know how you access Stack Manager:
+
+1) Through Terminal Server (the one that opens up a desktop within a desktop and it actually appears that you have two Start buttons). 
+or
+2) By opening the Stack Manager directly from your ""native"" desktop.
+
+Please reply to this message with either a corresponding ""1"" or a ""2"" in the subject field.
+
+If you're not sure which one you have, please contact myself x39673, Teresa Mandola x39807 or Jennifer McQuade x53614 and we'll come by your desk to help you.
+
+Thank you,
+
+Dan Diamond
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","daniel.diamond@enron.com","daniel.diamond@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: The 10/301/01-10/31/01 NERC Interchange Subcommittee Meeting Repo","you might like reading this.
+ 
+ds
+-----Original Message-----
+From: Lacen, Don [mailto:DLACEN@pnm.com]
+Sent: Friday, November 09, 2001 1:49 PM
+To: Interchange Scheduling & Accounting Subcommittee (ISAS)
+Subject: The 10/301/01-10/31/01 NERC Interchange Subcommittee Meeting Repo
+
+
+
+Here is my 10/301/01-10/31/01 NERC Interchange Subcommittee Meeting Report.  If you have any questions please contact me.
+
+Thanks. 
+<<10-01 nerc is meeting notes.doc>> 
+
+Don Lacen 
+Public Service Company of New Mexico 
+Transmission Services Coordinator 
+Alvarado Square, MS EP11 
+Albuquerque, NM, 87158 
+505-241-2032 
+dlacen@pnm.com 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","sean.crandall@enron.com","sean.crandall@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Beautiful irony","
+
+ -----Original Message-----
+From: 	Semperger, Cara  
+Sent:	Friday, November 16, 2001 6:48 AM
+To:	Scholtes, Diana; Crandall, Sean; Alonso, Tom; Fischer, Mark; Salisbury, Holden; Runswick, Stacy; Robinson, Donald
+Subject:	FW: Beautiful irony
+
+
+
+ -----Original Message-----
+From: 	Lande, Monica  
+Sent:	Friday, November 16, 2001 4:03 AM
+To:	Semperger, Cara; Dunton, Heather; Wente, Laura
+Subject:	FW: Beautiful irony
+
+
+A laugh to start your day....
+ -----Original Message-----
+From: 	Frankova, Renata  
+Sent:	16 November 2001 11:10
+To:	Lande, Monica
+Subject:	FW: Beautiful irony
+
+
+
+ 
+
+Check out who sponsored the award too. 
+http://www.cfo.com/Pge_mag_detail_archives/1,4583,%7C83%7C10%7C1999%7C1337,00.html
+
+The Finest in Finance: Andrew S. Fastow, Russ Banham, CFO, October 1999. 
+Andrew Fastow, CFO of Enron Corporation, earned the 1999 CFO Excellence Award for Capital Structure Management by pioneering unique financing techniques. Those techniques are examined in this article and include buying and selling risk positions, focusing on cash flow and the firm's credit rating, selling assets, and using debt-like financing on a nondilutive equity issue. 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","premierpumpcompany@home.com","premierpumpcompany@home.com","SMTP",,,,,,,,,"Normal"
+"FW: CPM","Hey what's the scoop on this?
+
+diana
+
+ -----Original Message-----
+From: 	Belden, Tim  
+Sent:	Thursday, October 18, 2001 10:22 AM
+To:	Williams III, Bill; Semperger, Cara; Mallory, Chris; Scholtes, Diana; Crandall, Sean; Fischer, Mark; Alonso, Tom; Alport, Kysa; Symes, Kate
+Subject:	FW: CPM 
+
+What is this project?  Who is the sponsor in the west?
+
+ -----Original Message-----
+From: 	Nat, Steve  
+Sent:	Wednesday, October 17, 2001 1:34 PM
+To:	Belden, Tim; Will, Lloyd
+Subject:	CPM 
+
+
+Per our discussion yesterday, these are the people we have identified who will parallel test the consolidated position manager, after an initial limited production release, against results from whatever tools they are using in production today...
+
+EAST		WEST
+
+Smith Day	Kysa Alport
+Corry Bentley	Kate Symes
+
+Only the East guys have participated in early testing in our test environment.  Generally, it is much easier for everyone to test against production data once the app is migrated.  The data in test is pretty ugly.  Since CPM is new and does not update anything, we have no problem moving to prod for further testing once the app is stable.
+
+Glad to discuss...
+
+Steve
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","kysa.alport@enron.com","kysa.alport@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: NCPA buy/resale deal","I went into Scheduling to view these deals and they have been zeroed out.  I'm confused as to why they would appear in the view actuals in deal entry.  I believe these should synchronize, or they read off of one another. ??
+
+diana
+
+Deal # 517673.1 and 517674.1
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Monday, October 22, 2001 11:39 AM
+To:	Scholtes, Diana; Crandall, Sean
+Subject:	FW: NCPA buy/resale deal
+
+HI Diana and Sean:
+
+Would you advise whether I can ask scheduling to zero out volumes for NCPA buy/resale deals for 10/1/01-10/3/01 in ""View Actual"" tab in deal entry?  
+
+Thanks,
+Fran
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Wednesday, October 17, 2001 4:14 PM
+To:	Scholtes, Diana; Crandall, Sean
+Subject:	NCPA buy/resale deal
+Importance:	High
+
+Hi Diana and Sean:
+
+I believe we didn't buy/resell with NCPA for 10/1/01-10/3/01.  Although we are good in scheduling (no activities scheduled) there are some volumes showing up in deal entry side (""view actuals"" tab).  In order to make sure that at month end settlement processes will be smooth for these NCPA buy/resale deals, I would like to ask the scheduling group to zero out those volumes for 10/1/01-10/3/01 in view actuals in deal entry, but I need you to give me the green light first.  Your confirmation will be appreciated.
+
+Thanks,
+
+Fran 
+x7973
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","fran.chang@enron.com","fran.chang@enron.com","SMTP","sean.crandall@enron.com;cara.semperger@enron.com;michael.tully@enron.com","sean.crandall@enron.com;cara.semperger@enron.com;michael.tully@enron.com","SMTP;SMTP;SMTP","sean.crandall@enron.com;cara.semperger@enron.com;michael.tully@enron.com","sean.crandall@enron.com;cara.semperger@enron.com;michael.tully@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"RE: Detail for March","Anne,
+
+There seems to still be a problem with a couple of days.  I'm not sure if you've made the changes after sending me this detail.  If not here's the list of problems that I see:
+
+3/14	Purchases(ours)- To PCW-EPMI(PGE Sys) 142mw priced at 177.17 and it should be @ $177.77. Total= $895,776.78
+	
+
+3/17	Remember this is the day that should look exactly like the 16th purchases (ours).  
+
+3/18	On our sales to you....the MPC-EPMI Colstrip you have it priced @ $370.  This should be @ $343.85...
+	Total = $489,535.44
+
+Total for March
+Purchases:  $22,387,004.05
+Sales:	$22,250,089.59
+
+-----Original Message-----
+From: Anne Snyder [mailto:Anne_Snyder@pgn.com]
+Sent: Tuesday, November 27, 2001 4:03 PM
+To: Scholtes, Diana
+Subject: Detail for March
+
+
+March detail, Diana.
+Anne
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","anne_snyder@pgn.com","anne_snyder@pgn.com","SMTP",,,,,,,,,"Normal"
+"Re-Assignment of Transmission from the City of Shasta Lake","Vicky,
+
+Thank you again for you assistance with this process.  As you requested, this is our notification to PG&E of our purchase from the City of Shasta Lake of their COTP Transmission Capacity bi-directionally.  The term of the deal will include the months of November and December 2001.  Also as you requested, I faxed the Confirmation Notice between Shasta and EPMI to your office.  I have listed my office number below if you have any further questions.
+
+Thanks again,
+
+Diana Scholtes
+Enron West Trading	
+503-464-3807
+diana.scholtes@enron.com	
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","vrl1@pge.com","vrl1@pge.com","SMTP","stewart.rosman@enron.com;laird.dyer@enron.com;jim.buerkle@enron.com;sean.crandall@enron.com","stewart.rosman@enron.com;laird.dyer@enron.com;jim.buerkle@enron.com;sean.crandall@enron.com","SMTP;SMTP;SMTP;SMTP","stewart.rosman@enron.com;laird.dyer@enron.com;jim.buerkle@enron.com;sean.crandall@enron.com","stewart.rosman@enron.com;laird.dyer@enron.com;jim.buerkle@enron.com;sean.crandall@enron.com","SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"FW: new logo","
+
+ -----Original Message-----
+From: 	Semperger, Cara  
+Sent:	Wednesday, November 14, 2001 2:50 PM
+To:	Scholtes, Diana
+Subject:	FW: new logo
+
+
+
+ -----Original Message-----
+From: 	Semperger, Cara  
+Sent:	Tuesday, November 13, 2001 4:43 PM
+To:	Heizenrader, Tim
+Subject:	new logo
+
+ 
+
+<Embedded Picture (Metafile)>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","bill.casey@enron.com","bill.casey@enron.com","SMTP",,,,,,,,,"Normal"
+"PGE Settlements","Virginia,
+
+Not sure who handles the PGE account, but I have completed the settlements for the year 2001.  I am still working on Dec 2000 issues and should have those complete this week.  Can you please forward this to the appropriate people in Houston.
+
+Thanks,
+
+Diana Scholtes
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP","bill.casey@enron.com","bill.casey@enron.com","SMTP","bill.casey@enron.com","bill.casey@enron.com","SMTP",,,"Normal"
+"FW: tsin","FYI 
+Here's our password for the TSIN registry.  Dave, I figured someone in IT would need to have this password incase Cara and I aren't around!  
+
+Diana
+ -----Original Message-----
+From: 	Will, Lloyd  
+Sent:	Tuesday, October 30, 2001 5:20 AM
+To:	Scholtes, Diana
+Subject:	tsin 
+
+login and password for EPMI is
+
+jzurita
+redfish
+
+Note EPMI has two desks EPMIEA and EPMIWE
+
+If you dont mind just email me the changes you have made.
+
+Thanks.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP","david.steiner@enron.com","david.steiner@enron.com","SMTP","david.steiner@enron.com","david.steiner@enron.com","SMTP",,,"Normal"
+"RE: FOLLOW-UP: Were you able to pick up your parking access card?","Yes!  Thanks for all your help!
+
+ds
+
+ -----Original Message-----
+From: 	Rodriguez, Grace  
+Sent:	Wednesday, January 16, 2002 9:50 AM
+To:	Scholtes, Diana
+Subject:	FOLLOW-UP: Were you able to pick up your parking access card?
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","grace.rodriguez@enron.com","grace.rodriguez@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Get the gifts of your dreams this Christmas"," 
+-----Original Message-----
+From: Victoria's Secret [mailto:VictoriasSecret@vsd.m0.net]
+Sent: Wednesday, November 07, 2001 9:19 AM
+To: DSCHOLT@enron.com
+Subject: Get the gifts of your dreams this Christmas
+
+
+  <http://a676.g.akamaitech.net/f/676/773/60m/images.m0.net/cm50content/1061/090081018001425c/pixel.gif>	Victoria's Secret <http://vsd.m0.net/m/s.asp?HB4733646264X1138414X82810X> 
+  <http://a676.g.akamaitech.net/f/676/773/60m/images.m0.net/cm50content/1061/090081018001425c/pixel.gif>	
+Send him your Wish List <http://vsd.m0.net/m/s.asp?HB4733646264X1138415X82810X>	 Victoria's Secret <http://vsd.m0.net/m/s.asp?HB4733646264X1138416X82810X> 	
+CREATE YOUR WISH LIST <http://vsd.m0.net/m/s.asp?HB4733646264X1138417X82810X>	
+SHOP VictoriasSecret.com <http://vsd.m0.net/m/s.asp?HB4733646264X1138418X82810X>	
+OUR GIFT TO YOU <http://vsd.m0.net/m/s.asp?HB4733646264X1138419X82810X> 	
+Don't Miss The Victoria's Secret Fashion Show On ABC <http://vsd.m0.net/m/s.asp?HB4733646264X1138420X82810X>
+
+	
+SHOP ONLINE <http://vsd.m0.net/m/s.asp?HB4733646264X1138421X82810X> 	SEARCH THE SALE <http://vsd.m0.net/m/s.asp?HB4733646264X1138422X82810X> 	VISIT A STORE <http://vsd.m0.net/m/s.asp?HB4733646264X1138423X82810X> 	 CALL 1.800.888.8200 <http://a676.g.akamaitech.net/f/676/773/60m/images.m0.net/cm50content/1061/090081018001425c/14.gif>	
+  <http://a676.g.akamaitech.net/f/676/773/60m/images.m0.net/cm50content/1061/090081018001425c/dis.gif>	
+
+
+ <http://www.m0.net/m/logopen02.asp?vid=877&catid=4733646264&ecid=227919>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","sean.crandall@enron.com","sean.crandall@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: October detail","10/11 
+
+Sales to PGE- Missing 50 mw llh buy/resale System to Mid-c.  
+
+-----Original Message-----
+From: Anne Snyder [mailto:Anne_Snyder@pgn.com]
+Sent: Tuesday, November 27, 2001 4:05 PM
+To: Scholtes, Diana
+Subject: October detail
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","anne_snyder@pgn.com","anne_snyder@pgn.com","SMTP",,,,,,,,,"Normal"
+"FW:","i think this is some kind of hint.  please help
+ 
+-----Original Message-----
+From: William Scholtes [mailto:premierpumpcompany@attbi.com]
+Sent: Tuesday, February 05, 2002 11:50 AM
+To: Scholtes, Diana
+Subject: 
+
+
+Most men will never quite figure out why the sexual urges of men & women differ so much. And I never have figured out the whole Mars & Venus thing. And, I never have figured out why men think with their head and women with their heart.  And, I never yet have figured out how the sexual desire gene gets thrown into a state of turmoil, when it hears the words ""I do"". One evening last week, my wife and I were getting into bed. Well, the passion starts to heat up, and she eventually says, ""I don't feel like it, I just want you to hold me."" I said, ""WHAT??"" So she says the words that I and every husband on the planet dreads. She explains that I must not be in tune with her emotional needs as a Woman. I'm thinking, ""What was her first clue?"" I finally realize that nothing is going to happen that night, so I went to bed. The very next day the we went shopping at a big unnamed department store... I walked around while she tried on three very expensive outfits. She couldn't decide which one to take, so I told her to take all three of them. She then tells me that she wants matching shoes worth $200 each to which I say OK. And then we go to the Jewelry Dept. where she gets a set of diamond earrings. Let me tell you ...she was so excited. She must have thought that I was one wave short of a shipwreck, but I don't think she cared. I think she was testing me when she asked for a tennis bracelet because she doesn't even play tennis. I think I threw her for a loop when I told her that it was OK. She was almost sexually excited from all of this and you should have seen her face when she said, ""I'm ready to go, let's go to the cash register."" I could hardly contain myself when I blurted out, ""No, honey. I don't feel like buying all this stuff now."" You should have seen her face ... it went completely blank.  I then said, ""Really honey! I just want you to HOLD this stuff for a while."" And just when she had this look like she was going to kill me, I added, ""You must not be in tune with my financial needs as a Man."" I figure that I should be having sex again sometime during the spring thaw.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","sean.crandall@enron.com","sean.crandall@enron.com","SMTP",,,,,,,,,"Normal"
+"March","3/14	I found the 142 mw discrepancy.  Fixed it too.  But I'm still off with you.  Your sales and purchases don't match by 2 mw>???  I agree wtih 4326 total mwh's
+	Purchases: $895776.78
+	Sales:  $ 890921.78
+
+3/22	The 35 mw is actually 36 and you are right its the loss rtn, but we return those to you @ zero cost and should not be included in our totals.
+	Purchases:  2537 MW 	$ 915,712.31 - we check here
+	Sales:	2537 MW  $911,055.41	
+
+Is this all we have wrong with March?  If so, YEE HAW!
+
+
+ds
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","anne_snyder@pgn.com","anne_snyder@pgn.com","SMTP","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP",,,"Normal"
+"RE: todd j. goehring's information","Todd,
+
+I appreciate your call earlier this morning.  I apologize for not being able to speak to you at the time.  I have attached my resume and look forward to speaking with you.
+
+Regards,
+
+Diana Scholtes
+
+
+
+-----Original Message-----
+From: todd@mrienergy.com [mailto:todd@mrienergy.com]
+Sent: Friday, November 30, 2001 7:08 AM
+To: Scholtes, Diana
+Subject: todd j. goehring's information
+
+
+diana:
+i look forward to speaking with you late today or monday.
+
+Best Regards,
+Todd J. Goehring
+Vice President, MRI Energy
+1129 Broad Street, Suite 8
+Shrewsbury, NJ  07702
+tel: 732-578-0100 x105
+fax: 732-578-1800
+todd@mrienergy.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","todd@mrienergy.com","todd@mrienergy.com","SMTP",,,,,,,,,"Normal"
+"RE: Staying in touch","Hello John!  I appreciate the recommendation, but I am not in the position right now to make a move.  If they are interested in discussing a position here in the NW, I would be more interested in that.  I hope everything is going well for you.  
+
+Keep in touch!
+
+Diana
+
+-----Original Message-----
+From: Malowney, John [mailto:john.malowney@neg.pge.com]
+Sent: Wednesday, January 02, 2002 8:08 AM
+To: Scholtes, Diana
+Subject: Staying in touch 
+
+
+Diana; last week my boss and I met with Sean regarding a position within
+PG&E similar to what you're currently doing.  PG&E would be very interested
+talking to you but the catch is the job is located in Bethesda Maryland.
+Are you at all interested, and secondly would you and Sean consider residing
+in Bethesda performing the exact same function you are both performing
+today?  The second option is a long shot but I wanted to run it by you.
+Hopefully you had a pleasant Holiday.   John
+
+
+PG&E National Energy Group and any other
+company referenced herein that uses the PG&E name or
+logo are not the same company as Pacific Gas and
+Electric Company, the regulated California utility.  Neither
+PG&E National Energy Group nor these other
+referenced companies are regulated by the California Public
+Utilities Commission.  Customers of Pacific Gas and Electric Company
+do not have to buy products from these companies in order
+to continue to receive quality regulated services from the utility.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","'malowney@enron.com;john.malowney@neg.pge.com","'malowney@enron.com;john.malowney@neg.pge.com","SMTP;SMTP",,,,,,,,,"Normal"
+"FW: FW: Forward Warning","
+
+ -----Original Message-----
+From: 	Semperger, Cara  
+Sent:	Thursday, October 11, 2001 12:55 PM
+To:	Scholtes, Diana
+Subject:	FW: FW: Forward Warning
+
+
+
+ -----Original Message-----
+From: 	Ward, Kim S (Houston)  
+Sent:	Thursday, October 11, 2001 10:04 AM
+To:	Angie Conner (E-mail); Ann Sutton (E-mail); Brad Fagan (E-mail); Cathy Pocock (E-mail); Chris Todd (E-mail); Christopher Smith (E-mail); Cindy Tarsi (E-mail); Dave Breish (E-mail); David Hutchens (E-mail); David Payne (E-mail); Elizabeth Jordan (E-mail); Eric Strickland (E-mail); Gayleen Barrett (E-mail); Ginger& Michael Brown (E-mail); Harriet Turk (E-mail); Herman Green (E-mail); Slone, Jeanie; Jerry Ward (E-mail); John Schilke (E-mail); Kathy Wright (E-mail); Karla Dailey (E-mail); Linda Ward Elam (E-mail); Lisa Rosenberg (E-mail); Melissa Reese (E-mail); Matt Mitten (E-mail); Mike & Rosalia Nolan (E-mail); Mike Wardell (E-mail); Monica Padilla (E-mail); Natalie & Bret Boehmer (E-mail); Sally McElroy (E-mail); Scott Connelly (E-mail); Shawn McElmoyl (E-mail); Stanton Scott (E-mail); Susie Lejune (E-mail); Theresa Cline (E-mail); Tina lovett (E-mail); Wayne Brown (E-mail); Wes Kersey (E-mail); Yonnie Waller (E-mail); Olinger, Kimberly S.; Brewer, Stacey J.; 'wenderachels@aol.com'; Semperger, Cara; Fuller, Dave; Lucci, Paul T.; Nemec, Gerald; Vann, Suzanne; Heintzelman, Pete; McDonald, Rob; Vint, Peter; Foster, Chris H.; Mainzer, Elliot; Wente, Laura; Platter, Phillip; 'sscastle@srpnet.com'; Gerard, Camille; 'jana.morse@dynegy.com'; Cross, Edith EES; 'george.denos@neg.pge.com'; 'brad.king@usa.conoco.com'; 'lawrence.pope@haliburton.com'; Arnold, John; 'lisabarnwell1@yahoo.com'; 'kward1@houston.rr.com'; Miller, Stephanie; 'tomd1966@yahoo.com'; 'antlulu2@aol.com'; Kennedy, Susan L.; 'ilandman@verizon.net'
+Subject:	FW: FW: Forward Warning
+
+
+
+ I received this email today from a very good friend of mine who has a lot of close friends from India.  This letter is to one of those close friends.  I don't know if I should pass it around but I want everyone I know to be aware.
+
+Kim
+> >
+> >This is worth forwarding, just incase. . .
+> >
+> >========================================================================
+> >===============================================
+> >
+> >PLEASE READ!
+> >Subject: Malls on 10/31
+> >
+> >Hey guys..I dont want to scare anyone..but its better safe than sorry,
+> >right?? This is not just a foward I recieved..Its from one of my
+> >colleages at JPMorgan. It's been sent around within the firm, I wanted
+> >to pass it on just in case.
+> >Hi All -
+> >I think you all know that I don't send out hoaxes and don't
+> >do the reactionary thing and send out anything that crosses my
+> >path.
+> >This one,  however, is a friend of a friend and I've given it
+> >enough credibility in my mind that I'm writing it up and sending it out
+> >to all of you.
+> >My friend's friend was dating a guy from Afghanistan up until a month
+> >ago.  She had a date with him around 9/6 and was stood up. She was
+> >understandably upset and went to his home to find it completely emptied.
+> >On 9/10, she received a letter from her boyfriend explaining that
+> >he
+> >wished he could tell her why he had left and that he was sorry it
+> >had to be like that.  The part worth mentioning is that he BEGGED her
+> >not to get on any commercial airlines on 9/11 and to not to go any malls
+> >on Halloween.
+> >As soon as everything happened on the 11th, she called the FBI and has
+> >since turned over the letter. This is not an email that I've received
+> >and decided to pass on.  This came from a phone conversation with a
+> >long-time friend of mine last night.
+> >I may be wrong, and I hope I am.  However, with one of his warnings
+> >being correct and devastating, I'm not willing to take the chance on the
+> >second and wanted to make sure that people I cared about had the same
+> >information that I did.
+> >Laura Katsis
+> >Implementation Specialist
+> >714/921-5424
+> >lkatsis@volt.com <mailto:lkatsis@volt.com>
+> >OpsVolt_Track@volt.com <mailto:OpsVolt_Track@volt.com>
+> >
+> >
+> >
+> >--------------------------------------------------------------
+> >Reminder:  E-mail sent through the Internet is not secure.
+> >Do not use e-mail to send us confidential information
+> >such as credit card numbers, changes of address, PIN
+> >numbers, passwords, or other important information.
+> >Do not e-mail orders to buy or sell securities, transfer
+> >funds, or send time sensitive instructions. We will not
+> >accept such orders or instructions.  This e-mail is not
+> >an official trade confirmation for transactions executed
+> >for your account.  Your e-mail message is not private in
+> >that it is subject to review by the Firm, its officers,
+> >agents and employees.
+> >--------------------------------------------------------------
+> >
+> >
+> >**********************************************************************
+> >This e-mail is the property of Enron Corp. and/or its relevant affiliate
+> >and may contain confidential and privileged material for the sole use of
+> >the intended recipient (s). Any review, use, distribution or disclosure
+by
+> >others is strictly prohibited. If you are not the intended recipient (or
+> >authorized to receive for the recipient), please contact the sender or
+> >reply to Enron Corp. at enron.messaging.administration@enron.com and
+delete
+> >all copies of the message. This e-mail (and any attachments hereto) are
+not
+> >intended to be an offer (or an acceptance) and do not create or evidence
+a
+> >binding and enforceable contract between Enron Corp. (or any of its
+> >affiliates) and the intended recipient or any other party, and may not be
+> >relied on by anyone as the basis of a contract by estoppel or otherwise.
+> >Thank you.
+> >**********************************************************************
+>
+>
+> _________________________________________________________________
+> Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp
+>
+>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","bill_casey@pgn.com","bill_casey@pgn.com","SMTP",,,,,,,,,"Normal"
+"References","Audrey,
+
+Sorry to get this to you today.  I had originally sent this to you from home and it didn't work, so we'll try to do this from here at work.  I have listed some people and referenced their region.  Hope this is what you were looking for.  Have a nice weekend!
+
+Diana Scholtes	
+
+Northwest
+
+Dale Hubbard	Avista/Washington Water Power		509-495-4911
+Kathy Hara	Avista Energy				509-495-8712
+Dan Sparks	Idaho Power Company			208-275-8300
+Paul Wood	Pacificorp				503-813-5387
+
+Northern California
+
+Kevin McMahon	NCPA					916-786-0123
+John Perry 	Sierra Pacific				775-834-3529
+Spence Gerber	CISO					916-351-2284
+Pete Garris	CERS					916-574-1299
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","acullen@firstcallassociates.com","acullen@firstcallassociates.com","SMTP",,,,,,,,,"Normal"
+"FW:"," 
+-----Original Message-----
+From: William Scholtes [mailto:premierpumpcompany@home.com]
+Sent: Thursday, October 04, 2001 11:33 AM
+To: Scholtes, Diana
+Subject: 
+
+
+ 
+From the desk of
+Bill Scholtes
+Premier Pump Company
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","jmstebbins@duke-energy.com","jmstebbins@duke-energy.com","SMTP",,,,,,,,,"Normal"
+"RE: WSPP mtg -","Hey Young!
+
+Perfect timing I tell you, Natalie came down with the croup.  Hence I'm staying here to take care of her cuz Dad's out of town also.  Real bummer because there's a lot of fun going to happen up there!  Have a good time!  Maybe we can go hiking around here!
+
+Diana
+
+-----Original Message-----
+From: Linn, Young S - PTF-5 [mailto:yslinn@bpa.gov]
+Sent: Tuesday, October 09, 2001 11:03 AM
+To: Scholtes, Diana
+Subject: WSPP mtg - 
+
+
+Hi!
+
+I'm thinking  about going for a hike, around the lake, Thursday afternoon.
+The area supposed to be very pretty.  Do you already have a plan? 
+
+Young
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","'linn@enron.com;yslinn@bpa.gov","'linn@enron.com;yslinn@bpa.gov","SMTP;SMTP",,,,,,,,,"Normal"
+"FW: E-Tag 1.7 Testing - OATI","
+
+-----Original Message-----
+From: sccobb@srpnet.com [mailto:sccobb@srpnet.com]
+Sent: Tuesday, February 05, 2002 4:31 PM
+To: Interchange Scheduling & Accounting Subcommittee (ISAS)
+Subject: E-Tag 1.7 Testing - OATI
+
+
+ISAS Members and Interested Parties,
+
+OATI is currently not prepared to accommodate open ended testing during the
+WSCC test period of now through Tuesday, February 12, 2002. However, they
+have graciously agreed to provide us with two, four hour test periods as
+follows:
+
+Thursday, February 7, 2002, 0800-1200PPT
+ 
+Monday, February 11, 2002, 0800-1200PPT 
+
+Please make best efforts to kick the tires on E-Tag 1.7 during these time
+frames. We have attached another copy of the WSCC testing guidelines.
+
+Thanks and Good Luck!
+
+ <<E-Tag  Functionality Test V_1.pdf>>  <<E-tag Functionality Test
+Report.doc>> 
+
+
+
+
+
+  
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Midc long 11-4","Either Sean or I will be forwarding the e-mails to real-time for now on.
+
+Diana
+
+ -----Original Message-----
+From: 	Williams III, Bill  
+Sent:	Monday, November 05, 2001 8:11 AM
+To:	Scholtes, Diana
+Subject:	FW: Midc long 11-4
+Importance:	High
+
+Diana,
+Here is the message that Kate sent to Diane, and the original messages from Diane are below that. I think we will have this sorted out going forward.
+Let me know if you have any questions.
+Thanks,
+Bill
+
+ -----Original Message-----
+From: 	Symes, Kate  
+Sent:	Friday, November 02, 2001 5:00 PM
+To:	Cutsforth, Diane
+Cc:	Semperger, Cara
+Subject:	FW: Midc long 11-4
+Importance:	High
+
+Diane -
+
+I'd like to clarify the type of information Real Time needs in order to fulfill positions for the short term desks. 	As we're all sadly aware, PGE has become increasingly frustrated with our confusion regarding delivery points when we do lending and parking deals with them, so it is imperative that any information included in an e-mail to Real Time corroborates with data entered into Enpower. Following are the discrepancies I see between Enpower and the information given to Real Time:
+ 
+1. On Sunday, according to Enpower, STNW is long on peak @ PGE System. The deal number that would be relevant to Real Time in this case would be the purchase (855033, not 855032). That way we can link our real time sales to the day-ahead purchase in Deal Scheduling. Also, Diana confirmed that this length should be sold off @ Mid-Columbia, not PGE System, which is not what is shown in Enpower. 
+
+2. On Monday, according to Enpower, STNW is short 53 mw on peak @ Mid-Columbia. The relevant deal number here would be 855044 - again, we only need to know the deal number that corresponds with your position. Also, since anything that alludes to the wrong hours, delivery point, or deal number only serves to confuse the traders on shift, I was thinking it might work better if we sat down and went over these positions together before sending anything out to the group. (This is what I do with Holden when STSW does lending or parking deals.)
+
+Please let me know if you have any questions about this, or any suggestions about how to make this work more smoothly.
+
+Thanks,
+Kate 
+
+ -----Original Message-----
+From: 	Cutsforth, Diane  
+Sent:	Friday, November 02, 2001 1:24 PM
+To:	DL-Portland Real Time Shift; Alport, Kysa
+Subject:	FW: Midc long 11-4
+Importance:	High
+
+Forgot the light load on Monday and deal numbers - 
+The deal number is 855032.1 for Sunday the 4th 7-22 Heavy Load  Hours only.  
+
+The deal numbers for the 53 MWH on light load for Monday is 854942.1/855044.1 - please supply at PGE System.
+ -----Original Message-----
+From: 	Cutsforth, Diane  
+Sent:	Friday, November 02, 2001 1:17 PM
+To:	DL-Portland Real Time Shift; Alport, Kysa
+Subject:	Midc long 11-4
+Importance:	High
+
+For November 4th, Midc HL hours 7-22 only, we are 50 long, please supply at PGE system.
+
+Diane Cutsforth
+Enron North America
+Power Pre-Scheduling
+503-464-3831 desk
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,,,,,,,"Normal"
+"March 2001","Virginia,
+
+We match for March.  If you can inform whoever it is that's still here so we can follow thru our billing.  We are now working on August.
+
+Thanks,
+
+ds
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: NCPA deal review for Nov 01'","taken care of.  Sorry for the delay!
+
+ds
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Wednesday, November 07, 2001 10:53 AM
+To:	Scholtes, Diana
+Cc:	Crandall, Sean
+Subject:	NCPA deal review for Nov 01'
+Importance:	High
+
+Diana:
+
+Today I reviewed NCPA related deals for 11/1-11/6 and found:
+
+11/1 => good
+11/2 => somehow the lightload sale side (deal 517676.1) is only showing HE1-HE6 in the scheduling system now.  I wonder if someone deleted HE23-HE24 afterwards (*on the lightload purchase side we have both HE1-HE6 and HE23-HE24, deal 517673.1).  
+11/3 => good
+11/4 => annuity missing (no power delievered)
+11/5 => annuity missing (no power delievered)
+11/6 => annuity missing (no power delievered)
+
+Please let me know if you could restore the HE23-HE24 for 11/2 back in the scheduling system if they should be there, also please let me know when the missed annuities are entered.  I have also attached my worksheet for your convenient reference.
+
+ << File: NCPA NOV 01' CHECKSHEET.xls >> 
+Thanks,
+Fran Chang
+West Power Risk Management
+503.464.7973 (phone)
+503.464.3740 (fax)
+            
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","fran.chang@enron.com","fran.chang@enron.com","SMTP","sean.crandall@enron.com","sean.crandall@enron.com","SMTP","sean.crandall@enron.com","sean.crandall@enron.com","SMTP",,,"Normal"
+"RE: 650 11th update Nov 15 morning","Hi!  It has been a long time!  As you know things here are very shaky.  I can't believe the big E has crumbled!  Who would have ever guessed!  Everyone is completely disappointed and mostly pissed off.  I'll have to give you the inside scoop sometime when we get together!  And we need to!  I'll be traveling around making my rounds to find out what's in the market place soon. So, hopefully I'll get a chance to see you.  Any chance of you and Mark coming down?  We have plenty of room for the two of you; you're always welcome.  I love your house!  Thanks for sending the picture.  Its so exciting but its also a lot of work!  I'm glad I'm done!  It's nice to be in the house, but also funny all the work and effort you put in and how exciting it is all those months while you're in the process....all to be completely indifferent with it afterwards!  Its very strange, but what to do?  Natalie, I can't believe is 3!  And a very terrible 3.  My hands are full!  I'm contemplating of putting her in ski school this winter.  She quite the daring child, so I think she'll enjoy.  Ask Mark for me if this is too young.  She won't think so, its mostly my fear. =)  You'll get a kick of the pictures I've attached.  One of them is my depiction a young Penny Lane. Hopefully you saw Almost Famous to understand my analogy!  You'll also notice the Beagle that Bill bought for Natalie.  HAHA! His name is Presley.  She's absolutely in love with him. 
+
+Keep in touch!
+Diana
+
+
+
+-----Original Message-----
+From: Will, Lisa [mailto:Lisa.Will@powerex.com]
+Sent: Friday, November 16, 2001 7:13 AM
+To: 'Diana Scholtes'
+Subject: FW: 650 11th update Nov 15 morning
+
+
+
+Hi Diana...haven't spoken to you in awhile so thought I'd drop you a note.
+Hope all is well amongst this crazy market and confusing time.  
+
+I assume you are in your new house and wondered how you are enjoying it as I
+can't really imagine EVER moving in.  I am sure it will happen one day!
+Below is a picture Mark took yesterday (just proof that it is really moving
+ahead!) and thought I'd forward to you...perhaps you could give me your
+opinion, based on it's current stage of construction, how much longer I
+might be at my in-laws!?!?!?!?
+
+Take care!
+Lisa
+
+
+>  <<1Y140001.jpg>> 
+>  
+>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","lisa.will@powerex.com","lisa.will@powerex.com","SMTP",,,,,,,,,"Normal"
+"FW: Winter Wear"," 
+-----Original Message-----
+From: Hara, Kathy [mailto:KHara@avistaenergy.com]
+Sent: Thursday, December 13, 2001 7:36 AM
+To: Semperger, Cara; Chris Coast (E-mail); Scholtes, Diana; John Hughes (E-mail); Jon Perry (E-mail); Kathleen Dunham (E-mail); Keith Wagner (E-mail); Kevin McMahan (E-mail); Burnett, Lisa; Little Boogie (E-mail); Meg Coleman (E-mail); Stephanie Gerk (E-mail)
+Subject: FW: Winter Wear
+
+
+
+Subject: Fw: Winter Wear
+
+
+ 
+
+  _____  
+
+Get your FREE download of MSN Explorer at <http://explorer.msn.com>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","stacy.runswick@enron.com","stacy.runswick@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: i WISH","
+
+ -----Original Message-----
+From: 	Semperger, Cara  
+Sent:	Monday, December 03, 2001 4:51 PM
+To:	Scholtes, Diana
+Subject:	i WISH
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","jhughes@sppc.com","jhughes@sppc.com","SMTP",,,,,,,,,"Normal"
+"FW: IPC's OASIS and E-tag Servers on PPT","
+
+-----Original Message-----
+From: Grow, Lisa [mailto:LGrow@idahopower.com]
+Sent: Monday, November 19, 2001 4:21 PM
+To: Interchange Scheduling & Accounting Subcommittee (ISAS)
+Subject: IPC's OASIS and E-tag Servers on PPT
+
+
+
+
+To our customers and counterparts:
+
+As of Sunday, November 18 our OASIS and E-tag servers are running on PPT.
+The only business practices we are changing now, is that our OASIS
+transmission products are all based upon PPT.  Our scheduling system/e-tag
+server is also running on PPT.  However, we can and will continue to accept
+e-tags in any timezone, as long as the profile has a valid OASIS
+reservation.  We will also continue to check out with our counterparties in
+the time zone that we have historically used with each neighboring control
+area.  
+
+The cost?  $4.79 for a tall, skinny latte' and a plain bagel with light
+cream cheese for our programmer.
+
+If you have any questions, please give me a call at 208-388-2243.
+
+Thanks,
+Lisa
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Modesto","
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Wednesday, January 09, 2002 9:00 AM
+To:	Purcell, Mike
+Subject:	FW: Modesto
+
+Hey----We didn't use it on the 10th.  So i revised the spreadsheet and updated Enpower.
+
+ds
+
+ 
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Wednesday, January 09, 2002 8:55 AM
+To:	Williams, Gwendolyn
+Cc:	Purcell, Mike
+Subject:	RE: Modesto
+
+I talked to Arvina this morning and she noticed that she has calculated the loss return using the wrong indicies.  She will be fixing that this morning.  I am attaching a summary of the loss return calculation and a quick summary of checking I did against Arvina spreadsheet.  There is a deal that we entered in differently, but the net result is the same.  
+
+Diana
+
+ 
+
+
+
+ -----Original Message-----
+From: 	Williams, Gwendolyn  
+Sent:	Wednesday, January 09, 2002 6:49 AM
+To:	Purcell, Mike; Scholtes, Diana
+Cc:	Crandall, Sean
+Subject:	RE: Modesto
+
+Mike
+
+Were do we stand w/Modesto they are wanting to finish up Nov Prod.?
+
+Gwen
+
+ -----Original Message-----
+From: 	Purcell, Mike  
+Sent:	Thursday, January 03, 2002 3:56 PM
+To:	Scholtes, Diana
+Cc:	Williams, Gwendolyn; Crandall, Sean
+Subject:	Modesto
+
+Diana,
+
+I heard back from Gwen and she has given me these deals to be fixed according to Modesto's spreadsheet.
+
+Sales
+875830.1.2 and 875819.2 Need to have a price of $29.00 11/7-11/30
+
+Purchases
+875830.3 and 875819.3 Need to have a price of $31.00 11/7-11/30
+
+The deals above total 15,200 mw's.   The deals that could be the problem are  transmission deal 860363.1 at a $0.00 and Purchase annuities 859311.1 and 859389.1 @ $1.36, these deals total 15,200 mw's.
+
+Also, starting on the 7th we need to put in losses of 36 mw's per day using the Dow NP15 index price.
+
+let me know if you have any questions and what I can do to help.
+
+Thanks
+
+Mike P. Purcell
+Settlements Coordinator
+Volume Management-Portland
+503-464-8297
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP",,,,,,,,,"Normal"
+"FW:  Power Trading Needs","
+
+-----Original Message-----
+From: Garrett Stephenson [mailto:garrett@jobmenu.com]
+Sent: Thursday, November 29, 2001 11:36 AM
+To: Scholtes, Diana
+Subject: Power Trading Needs
+
+
+Seems there might be a problem with Michael's email.  We look forward to
+receiving your resume.
+
+Thanks,
+
+Garrett
+
+-----Original Message-----
+From: Michael Kane [mailto:mkane@jobmenu.com]
+Sent: Friday, November 30, 2001 1:13 PM
+To: Garrett Stephenson
+Subject: Fw: Power Trading Needs
+
+
+
+Michael P. Kane
+Kane & Associates
+mkane@jobmenu.com
+713-977-3600
+----- Original Message -----
+From: Michael Kane <mkane@jobmenu.com>
+To: <diana.scholtes@enron.com>
+Sent: Wednesday, November 28, 2001 11:02 AM
+Subject: Fw: Power Trading Needs
+
+
+>
+>
+> > Diana,
+> > Thanks for your time - Per our conversation we are working on a couple
+hot
+> > positions below is a note from our client in Pennsylvania on our urgency
+> to
+> > find the right candidate. The brief note is not complete detail I will
+> > forward job description after we speak this afternoon.  Currently our
+hot
+> > spots are 1 potential in Houston and 2 very real positions in Kansas
+City
+> > and 2 in Pennsylvania  . Please forward your resume and comp parameters
+as
+> > well as an indication of your interest in these areas - we will circle
+> back
+> > and move forward.
+> >
+> > Regards,
+> > Michael Kane
+> > mkane@jobmenu.com
+> > 713-977-3600
+> >
+> >
+> >
+> >  We need to speed up an effort to find an experienced power trader with
+> > > regional experience in SERC, ERCOT or WSPP. The person must have at
+> least
+> > > 2 years trading experience in these regions and 5 years overall energy
+> > > commodity trading experience. They must also have a working knowledge
+of
+> > > options evaluation, and direct risk book portfolio management
+> experience.
+> > >
+> > > Any extra effort you can put into this would be appreciated. Thanks.
+> > >
+> >
+>
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","premierpumpcompany@home.com","premierpumpcompany@home.com","SMTP",,,,,,,,,"Normal"
+"RE: September detail","Our Sales:
+
+9/4	Your missing 1mw llh @ 21.28.  Total= $93,973.24
+9/19	Missing HE 15-20 25 mw buy/resale @pge sys. Total= $103,264.86
+9/20	Peak= missing 25 mw HE 15-20. There should be 2 sets; 1. for the pge grizz and the second for park/lend.
+	Off Peak= out by 61 mw.  Not sure where we are missing it.
+9/27	Peak= missing 25 mw HE 15-20. There should be 2 sets; 1. for the pge grizz and the second for park/lend.
+9/28	Same as the 27th.  You also have 25 mw less than the 27th peak?????
+
+
+
+
+-----Original Message-----
+From: Anne Snyder [mailto:Anne_Snyder@pgn.com]
+Sent: Tuesday, November 27, 2001 4:05 PM
+To: Scholtes, Diana
+Subject: September detail
+
+
+September detail.  
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","anne_snyder@pgn.com","anne_snyder@pgn.com","SMTP",,,,,,,,,"Normal"
+"FW: PLEASE READ - IMPORTANT INFORMATION FOR PARTICIPANTS IN THE ENRON SAVINGS PLAN","
+
+ -----Original Message-----
+From: 	Enron Announcements/Corp/Enron@ENRON   On Behalf Of Corporate Benefits@ENRON
+Sent:	Thursday, November 29, 2001 5:27 PM
+To:	All US DOMESTIC & EXPAT EMPLOYEES@ENRON
+Subject:	PLEASE READ - IMPORTANT INFORMATION FOR PARTICIPANTS IN THE ENRON SAVINGS PLAN
+
+Due to current business circumstances, on November 28, 2001, Enron's Board of Directors adopted an amendment to the Enron Corp. Savings Plan.  The amendment includes the following changes, which became effective on November 29:
+
+?	Savings Plan contributions that are deducted from your November 30 paycheck will be matched by Enron in cash rather than Enron stock.  The cash match will be placed into the Fidelity Freedom 2000 fund, the default fund for the Plan.  
+
+?	After November 30, Enron will no longer match your savings plan contributions.  As an exception, the company will continue the union matching contributions to the Plan.
+
+?	The Savings Plan has always permitted employees to place their contributions in Enron stock or one or more alternative investment options.  Effective immediately, diversification within the Plan will ALSO be allowed, regardless of your age, from COMPANY contribution accounts.  This removes the restriction for all employees under the age of 50 to diversify the company contributions held in their account.  These accounts include all prior company contributions, QNEC, and company match accounts.  
+
+To move funds:
+On the Web, choose ""Savings Plan--Restricted Employer Acct Transfer/Reallocation"" from the drop down menu.
+On Voice Response, choose ""request for fund transfer/reallocation of your restricted employer accounts.""
+This will allow you to move money from the four formerly restricted accounts: Company Matching, Union Matching, Prior Matching, and QNEC.
+
+To avoid phone delays, we recommend that you access your account through the web at http://resources.hewitt.com/enron or through benefits.enron.com.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","premierpumpcompany@home.com","premierpumpcompany@home.com","SMTP",,,,,,,,,"Normal"
+"","Hey just wanted you to know that the Real-Time position Mgr. is still not working; or updating.  
+
+ds
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","michael.tully@enron.com","michael.tully@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Reminder-Flu Shots-Please respond by 11/6/01 if you have not yet signed up and would like to participate","please sign me up for myself and spouse.
+
+Thank you
+Diana Scholtes
+
+ -----Original Message-----
+From: 	Jarnagin, Josie  
+Sent:	Monday, November 05, 2001 11:16 AM
+To:	DL-Portland World Trade Center
+Subject:	Reminder-Flu Shots-Please respond by 11/6/01 if you have not yet signed up and would like to participate
+
+
+Flu Shot Clinic Sponsored By Enron
+
+When:  Tuesday, November 13, 2001
+				        Time: 8:30 a.m.-10:30 a.m.
+				        Where:  Enron 3WTC Office
+					Who: Enron employees, spouses and domestic partners are 							welcome to participate
+
+Please sign up, via email to Josie Jarnagin,  by Tuesday, November 6, 2001.
+
+The following is a list of employees already signed up for the clinic.
+
+			
+Last Name	First Name	Quantity	
+Alport	Kysa	1	
+Axford	Kathy	1	
+Belden	Tim	2	
+Bruce	James	1	
+Calger 	Chris	1	
+Clark	Ed	2	
+Cutsforth	Diane	1	
+Davidson	Debra	1	
+Driscoll	Michael	1	
+Elafandi	Mo	1	
+Eriksson	Fredrik	1	
+Fuller	Dave	1	
+Gilbert	Jim	2	
+Gustafson	Mollie	1	
+Hall	Steve	1	
+Hall	Erin	1	
+Malowney	John	1	
+Mays	Wayne	1	
+Meyer	Jim	1	
+Miles	Darryl	2	
+Mumm	Chris	1	
+Nalluri	Susmitha	2	
+Nelson	Kourtney	1	
+Oh	John	1	
+Rance	Susan	2	
+Rasmussen	Dale	1	
+Semperger	Cara	2	
+Sheppard	Kathryn	1	
+Shields	Jeff	2	
+Slaughter	Jeff	2	
+Soderquist	Larry	1	
+Van Gelder	Jon	2	
+Villeggiante	Theresa	1	
+Wente	Laura	1	
+Williams	Bill	1	
+Williams III	Bill	1	
+Yoder	Christian	2	
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","josie.jarnagin@enron.com","josie.jarnagin@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: OASIS Posting - No Tag/No Flow Implementation Update","
+
+-----Original Message-----
+From: Suzie Stone [mailto:sistone@bpa.gov]
+Sent: Monday, December 31, 2001 10:34 AM
+To: OASISPOSTINGS-L@LIST.TRANSMISSION.BPA.GOV
+Subject: OASIS Posting - No Tag/No Flow Implementation Update
+
+
+Please click on the attached icon or the Web address below to go to the most recent OASIS Posting.
+
+If that doesn't work highlight and copy the address below, then paste it into the address line of your Web browser and hit ""enter"":
+
+Information on BPAT's implementation of tariff terms and conditions and/or transmission marketing policy has been posted to:
+
+http://www.transmission.bpa.gov/oasis/bpat/scheduling/NoTagNoFlow2.doc""> No Tag/No Flow Implementation Update
+
+For questions or comments, please contact your Transmission Account Executive.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","donald.robinson@enron.com;stacy.runswick@enron.com;diane.cutsforth@enron.com;cara.semperger@enron.com","donald.robinson@enron.com;stacy.runswick@enron.com;diane.cutsforth@enron.com;cara.semperger@enron.com","SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"FW: IPC's OASIS and E-tag Servers on PPT","FYI
+
+-----Original Message-----
+From: Grow, Lisa [mailto:LGrow@idahopower.com]
+Sent: Monday, November 19, 2001 4:21 PM
+To: Interchange Scheduling & Accounting Subcommittee (ISAS)
+Subject: IPC's OASIS and E-tag Servers on PPT
+
+
+
+
+To our customers and counterparts:
+
+As of Sunday, November 18 our OASIS and E-tag servers are running on PPT.
+The only business practices we are changing now, is that our OASIS
+transmission products are all based upon PPT.  Our scheduling system/e-tag
+server is also running on PPT.  However, we can and will continue to accept
+e-tags in any timezone, as long as the profile has a valid OASIS
+reservation.  We will also continue to check out with our counterparties in
+the time zone that we have historically used with each neighboring control
+area.  
+
+The cost?  $4.79 for a tall, skinny latte' and a plain bagel with light
+cream cheese for our programmer.
+
+If you have any questions, please give me a call at 208-388-2243.
+
+Thanks,
+Lisa
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","holden.salisbury@enron.com;cara.semperger@enron.com;bill.williams@enron.com","holden.salisbury@enron.com;cara.semperger@enron.com;bill.williams@enron.com","SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"FW: Why stick people are extinct."," 
+-----Original Message-----
+From: Hara, Kathy [mailto:KHara@avistaenergy.com]
+Sent: Thursday, October 18, 2001 1:52 PM
+To: Semperger, Cara; Scholtes, Diana; Demetrios Fotiou (E-mail); Flint Mitchell (E-mail); Jim Ewers (E-mail); Jon Perry (E-mail); Keith Wagner (E-mail); Kevin McMahan (E-mail); Burnett, Lisa; Little Boogie (E-mail); Meg Coleman (E-mail); Patrick Jackson (E-mail); Pete Karagianes (E-mail); Randy Enders (E-mail); Robb Gray (E-mail); Ron Hadwiger (E-mail); Stephanie Gerk (E-mail); Uncle Krusty (E-mail)
+Subject: FW: Why stick people are extinct.
+
+
+ 
+-----Original Message-----
+From: Chapman, Michelle 
+Sent: Thursday, October 18, 2001 13:33
+To: French, Blaine; Hara, Kathy; Harper, Steve; Holland, Kevin; Stelzer, Chris; Steiner, Nolan; Amy Palmer (E-mail); Carrie Wurzburg (E-mail); Kim Lechtenberg (E-mail); Kris Bauer (E-mail); Melissa Camp (E-mail); Sylvia Super (E-mail); Law, Andy; Shortell, Greg
+Cc: 'mchapman@icehouse.net'
+Subject: FW: Why stick people are extinct.
+
+
+Subject: Why stick people are extinct.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","bill_casey@pgn.com","bill_casey@pgn.com","SMTP",,,,,,,,,"Normal"
+"FW: Clinton"," 
+-----Original Message-----
+From: Hara, Kathy [mailto:KHara@avistaenergy.com]
+Sent: Tuesday, November 20, 2001 7:50 AM
+To: Brian Malley (E-mail); Semperger, Cara; Dan Logman (E-mail); Scholtes, Diana; Jim Ewers (E-mail); Joe Cole (E-mail); John Hughes (E-mail); Jon Perry (E-mail); Kathleen Dunham (E-mail); Kevin McMahan (E-mail); Kimberly Werbner (E-mail); Larry Mayfield (E-mail); Burnett, Lisa; Little Boogie (E-mail); Meg Coleman (E-mail); Randy House (E-mail); Ron Hadwiger (E-mail); Robb Gray (E-mail); Stephanie Gerk (E-mail)
+Subject: FW: Clinton
+
+
+ 
+
+Subject: Fw: Clinton
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","sean.crandall@enron.com","sean.crandall@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: other recommendation","
+
+ -----Original Message-----
+From: 	Hall, Steve C. (Legal)  
+Sent:	Monday, January 07, 2002 1:20 PM
+To:	Scholtes, Diana
+Subject:	other recommendation
+
+http://www.gevurtzmenashe.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","bill.casey@enron.com","bill.casey@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Modesto","Hey----We didn't use it on the 10th.  So i revised the spreadsheet and updated Enpower.
+
+ds
+
+ 
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Wednesday, January 09, 2002 8:55 AM
+To:	Williams, Gwendolyn
+Cc:	Purcell, Mike
+Subject:	RE: Modesto
+
+I talked to Arvina this morning and she noticed that she has calculated the loss return using the wrong indicies.  She will be fixing that this morning.  I am attaching a summary of the loss return calculation and a quick summary of checking I did against Arvina spreadsheet.  There is a deal that we entered in differently, but the net result is the same.  
+
+Diana
+
+ 
+
+
+
+ -----Original Message-----
+From: 	Williams, Gwendolyn  
+Sent:	Wednesday, January 09, 2002 6:49 AM
+To:	Purcell, Mike; Scholtes, Diana
+Cc:	Crandall, Sean
+Subject:	RE: Modesto
+
+Mike
+
+Were do we stand w/Modesto they are wanting to finish up Nov Prod.?
+
+Gwen
+
+ -----Original Message-----
+From: 	Purcell, Mike  
+Sent:	Thursday, January 03, 2002 3:56 PM
+To:	Scholtes, Diana
+Cc:	Williams, Gwendolyn; Crandall, Sean
+Subject:	Modesto
+
+Diana,
+
+I heard back from Gwen and she has given me these deals to be fixed according to Modesto's spreadsheet.
+
+Sales
+875830.1.2 and 875819.2 Need to have a price of $29.00 11/7-11/30
+
+Purchases
+875830.3 and 875819.3 Need to have a price of $31.00 11/7-11/30
+
+The deals above total 15,200 mw's.   The deals that could be the problem are  transmission deal 860363.1 at a $0.00 and Purchase annuities 859311.1 and 859389.1 @ $1.36, these deals total 15,200 mw's.
+
+Also, starting on the 7th we need to put in losses of 36 mw's per day using the Dow NP15 index price.
+
+let me know if you have any questions and what I can do to help.
+
+Thanks
+
+Mike P. Purcell
+Settlements Coordinator
+Volume Management-Portland
+503-464-8297
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","mike.purcell@enron.com","mike.purcell@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: August detail","Here we go!!!!
+
+My Purchases:
+
+8/9	To BPA-EPMI(PWX) 51 mw should be priced at 70.72 and not 70.22  Total= $433,054.06
+8/17  Looks like your missing the park/lending deal [150 peak @41.21; 100 off @ 31.39] Total=$269,516.56
+8/18  Same as the 17th. Total= 267,475.56
+
+Once these are fixed I'm good on the purchase side.  Will be working on my sales to you next!
+
+thanks
+
+ds
+
+
+
+
+-----Original Message-----
+From: Anne Snyder [mailto:Anne_Snyder@pgn.com]
+Sent: Tuesday, November 27, 2001 4:04 PM
+To: Scholtes, Diana
+Subject: August detail
+
+
+Diana, here is my August detail.
+Anne
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","anne_snyder@pgn.com","anne_snyder@pgn.com","SMTP",,,,,,,,,"Normal"
+"RE: Super Saturdays!","Either Saturday will be fine.  
+
+diana
+
+ -----Original Message-----
+From: 	Kearney, Julie  
+Sent:	Tuesday, October 09, 2001 10:28 AM
+To:	Mainzer, Elliot; Foster, Chris H.; Choi, Paul; Mallory, Chris; Rosman, Stewart; Wente, Laura; Alonso, Tom; Perry, Todd; Buerkle, Jim; Etringer, Michael; Fuller, Dave; Fischer, Mark; Van Gelder, John; Williams III, Bill; Motley, Matt; Badeer, Robert; Swerzbin, Mike; Scholtes, Diana; Nelson, Kourtney; Page, Jonalan; Swain, Steve; Savage, Gordon; Gilbert, Jim; Slaughter, Jeff G.; Richter, Jeff; Thomas, Jake
+Cc:	Belden, Tim; Calger, Christopher F.; Sheppard, Kathryn; Chatterton, Jill; Gustafson, Mollie; Mehrer, Anna; Davidson, Debra
+Subject:	Super Saturdays!
+
+Fall Recruiting for Associates & Analysts is here once again and you have been elected to participate in our Super Saturday Event!  
+
+This year, the onsite interviews are scheduled for two Saturdays in November.  On each Saturday, the top 9 - 12 candidates from our local schools will be present.  This will help tremendously with our cross-calibration process.  The dates and schools are as follows:
+
+	Saturday, November 10, candidates will be drawn from:  
+		University of Portland
+		University of Oregon
+		University of Washington
+		Washington State University
+
+	Saturday, November 17, candidates will be drawn from:
+		Portland State University
+		UC Davis (Associate candidates only)
+		Oregon State University
+
+We will need you to participate in at least one of these Saturday events.  We will also need 5-6 people to overlap and attend both Saturdays, so please volunteer if you are able.  (PS:  If we don't have enough overlap, we will have to begin ""drafting"", so please help out where you can.)
+
+TASK ITEM:  Please respond to this message, indicating which Saturday(s) you will be able to attend.  
+
+If you have any questions, please give me a call.  Thank you in advance for your help.  It is very much appreciated!
+
+
+Julie K
+x7404
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","julie.kearney@enron.com","julie.kearney@enron.com","SMTP",,,,,,,,,"Normal"
+"FW:","
+
+ -----Original Message-----
+From: 	Semperger, Cara  
+Sent:	Monday, December 03, 2001 4:52 PM
+To:	Scholtes, Diana
+Subject:	
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","lisa.will@powerex.com","lisa.will@powerex.com","SMTP",,,,,,,,,"Normal"
+"RE: Employment Application","Hi Amy!
+
+So glad to have you back!  I talked to Grace this morning and she said it was ups'd yesterday.  I submitted it last week, so I'm not sure why the delay.  Please let me know if you don't receive it today.  Talk to you soon!
+
+Diana
+
+ -----Original Message-----
+From: 	Fitzpatrick, Amy  
+Sent:	Tuesday, February 05, 2002 3:27 PM
+To:	Scholtes, Diana
+Subject:	Employment Application
+
+Diana -
+
+Our records indicate that we haven't received your employment application.  If you have turned it in to Julie, can you please let me know?  Otherwise, please complete the attached document to me via fax (713-646-2308) as soon as possible.
+
+Thanks!
+Amy
+
+ << File: EmpApp.pdf >> 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","amy.fitzpatrick@enron.com","amy.fitzpatrick@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: October detail","
+10/11 We are in trouble.  You have some price points that don't make sense.  We should go thru this day together.
+
+10/12  To BPA-EPMI RP-LS-MC .....there should be 3 mw off peak priced at 22.27.  Total Purch= $74,629.93
+
+10/17 You don't show the lending; 13 mw off peak at system.
+
+10/21  You should have a total of 1200 mw @ $29.21  adder and 600 @ $24.81.  I fixed the 600 mw descrepancy that we had.  Total Purchase = $103,251.56
+Total Sale = $ 96,342.80
+
+10/22 To PCW-EPMI Sale -MC you show 400 @ 24.81.  I show 200 @ that price and 200 should be priced with a 60 cent adder for busbar/mid.c
+Total Purch= $98,692.26
+
+10/28 To BPA-EPMI(PGE SYS)  You have 1 mw priced @ 28.73 instead of 28.83.  Total Purch= $76,287.15
+
+10/29  To BPA EPMI-RP-LS MC ....is priced at $35.35 and it should be at 34.47  Total Purch= $118,078.79
+
+10/31  To MPC-EPMI Colstrip - you have 14 mw priced at $30 and it should be at 30.48.  Total Purch= $123,318.72
+
+send you some more later!!!
+
+ds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----Original Message-----
+From: Anne Snyder [mailto:Anne_Snyder@pgn.com]
+Sent: Tuesday, November 27, 2001 4:05 PM
+To: Scholtes, Diana
+Subject: October detail
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","anne_snyder@pgn.com","anne_snyder@pgn.com","SMTP",,,,,,,,,"Normal"
+"RE: Portland State","julie,
+
+this is first of the month week for us and busy!  if there is no one else, let me know and we can try to re-arrange our coverage.
+
+
+Thanks,
+
+diana
+
+ -----Original Message-----
+From: 	Kearney, Julie  
+Sent:	Monday, October 29, 2001 1:59 PM
+To:	Scholtes, Diana
+Subject:	Portland State
+Importance:	High
+
+
+Diana,
+
+Would you be available to help me with the Assoc / Analyst recruiting this week?  We are going to Portland State this week.  
+
+Here's how it works:  There is an Info Session on Thursday at 5:00 PM and interviews on Friday.  The Info Session is from 5:00 PM  --> 6:30.  There is a PowerPoint presentation which explains Enron's business  which depending upon how many questions, usually takes from an hour to an hour and a half.
+
+Then, Friday morning, we are only interviewing in the morning from 8:00 AM to 12:00 Noon.  The interviews are 1/2 hour each.  You should be back to the office before Noon. 
+
+Would your schedule allow you to help me out?
+
+
+Julie K
+x7404
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","julie.kearney@enron.com","julie.kearney@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: An Inbound Message For You Has Been Quarantined","
+
+-----Original Message-----
+From: Enron MailSweeper Admin 
+Sent: Monday, October 22, 2001 2:38 PM
+To: Scholtes, Diana
+Subject: An Inbound Message For You Has Been Quarantined
+
+
+
+You have received this message because someone has attempted to send you an e-mail from outside of Enron with an attachment type that Enron does not allow into our messaging environment. Your e-mail has been quarantined and is being held at the MailSweeper server.
+
+
+Sender:  sliebert@dcpud.org
+Date:  Mon, 22 Oct 2001 14:36:56 -0700
+Subject:  November Capacity information
+Attachment Type: Scenarios/Incoming/Inbound EXE Catcher: A filename matching the file mask was detected: 'capacity contract template.exe'.
+
+
+
+If the intended email is of valid business-related content and you believe it requires Enron resources to retrieve it, you may call your Help Desk and ask to have it released from quarantine and delivered to your e-mail Inbox. Your message will be scanned and checked for viruses prior to requested release.  If it contains a virus or there is reason to suspect it is malicious code, it will not be delivered.
+
+North American Resolution Center: 713 853 1411
+European Resolution Center: 0044 207 78 36777
+EES Help Desk: 888 853 9797
+ETS Solution Center: 713 345 4745 (Houston) or 402 398 7454 (Omaha)
+
+Please DO NOT reply to this address as it is not a monitored system mailbox.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","adam.senn@enron.com","adam.senn@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Drug Test for UBS","102nd
+
+ -----Original Message-----
+From: 	Fitzpatrick, Amy  
+Sent:	Wednesday, February 06, 2002 9:16 AM
+To:	Scholtes, Diana
+Subject:	RE: Drug Test for UBS
+
+Do you remember the location?
+
+Thanks!
+A
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Wednesday, February 06, 2002 11:16 AM
+To:	Fitzpatrick, Amy
+Subject:	RE: Drug Test for UBS
+
+Everything is getting lost!  I did my drug test last Friday.  
+
+ds
+
+ -----Original Message-----
+From: 	Fitzpatrick, Amy  
+Sent:	Tuesday, February 05, 2002 3:15 PM
+To:	Scholtes, Diana
+Cc:	Belden, Tim
+Subject:	Drug Test for UBS
+
+Diana -
+
+Our records indicate that you have not taken your pre-employment drug test for UBS.  Can you please do so ASAP, or if you have already completed, can you please let me know the date that you went so that we can update our records.
+
+Thanks!
+Amy
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","amy.fitzpatrick@enron.com","amy.fitzpatrick@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: FBI information regarding possible terrorist threat on West Coast","FYI
+
+ -----Original Message-----
+From: 	Belden, Tim  
+Sent:	Thursday, November 01, 2001 10:12 AM
+To:	DL-Portland World Trade Center
+Subject:	FW: FBI information regarding possible terrorist threat on West Coast
+
+This just came to me today.  This information is widely available to corporations and law enforcement around the country.  It will likely hit the media in the next day or so.  This is all the information that is available.
+
+Enron Corp. Business Controls/Corporate Security received the following information via the National Threat Warning system.  While we do not wish to unduly alarm employees, the specificity of the information dictated immediate dissemination to our West Coast offices.  
+
+THE FBI IS IN POSSESSION OF UNCORROBORATED INFORMATION INDICATING THE
+POSSIBILITY OF ADDITIONAL TERRORIST ATTACKS AGAINST THE UNITED STATES,
+SPECIFICALLY THE WEST COAST.  REPORTEDLY, UNSPECIFIED GROUPS ARE
+TARGETING SUSPENSION BRIDGES ON THE WEST COAST.  SIX INCIDENTS ARE TO
+TAKE PLACE DURING RUSH HOUR BEGINNING FRIDAY, NOVEMBER 2 AND CONTINUING
+THROUGH NOVEMBER 7, 2001.
+
+NO FURTHER INFORMATION ABOUT THIS ALLEGED ATTACK IS KNOWN AT THIS TIME.
+THE FBI IS ATTEMPTING TO VERIFY THE VALIDITY OF THIS REPORT.  RECIPIENTS
+WILL BE UPDATED AS EVENTS WARRANT.
+
+RECIPIENTS WHO RECEIVE OR DEVELOP INFORMATION RELATED TO THIS MATTER
+SHOULD IMMEDIATELY CONTACT THEIR LOCAL FBI OFFICE.
+
+We will keep you apprised if we receive any further information.
+
+Thank you.
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","premierpumpcompany@home.com","premierpumpcompany@home.com","SMTP",,,,,,,,,"Normal"
+"Wire funds to Avista","Steve,
+
+Please wire $301,632.00 to Avista.  This will cover our NW book of business for January 20 thru January 26.  I will e-mail you the net P& L associated with this transaction as soon as I find the original spreadsheet.  If you have any questions, please let me know.
+
+Diana
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","stephen.thome@enron.com","stephen.thome@enron.com","SMTP","tim.belden@enron.com;sean.crandall@enron.com","tim.belden@enron.com;sean.crandall@enron.com","SMTP;SMTP","tim.belden@enron.com;sean.crandall@enron.com","tim.belden@enron.com;sean.crandall@enron.com","SMTP;SMTP",,,"Normal"
+"","sean just asked who jeff shields was AGAIN	
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","stewart.rosman@enron.com","stewart.rosman@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Address Info","20219 SE Fernridge Drive
+Camas, Wa 98607
+
+Thanks for the invite!  This will be a great event!
+
+d
+
+ -----Original Message-----
+From: 	Cutsforth, Diane  
+Sent:	Wednesday, November 28, 2001 2:45 PM
+To:	Sheidun, Donna; Emmert, Caroline; Cavanaugh, Darren; Bishop, Serena; Gang, Lisa; Thompson, Virginia; Gilbert, Scotty; Reyes, James; Purcell, Mike; Dunton, Heather; Runswick, Stacy; Robinson, Donald; Kearney, Julie; Semperger, Cara; Wilson, Susie; Scholtes, Diana; Sheppard, Kathryn; Badeer, Robert
+Subject:	Address Info
+Importance:	High
+
+Hi Guys,
+
+Before it all goes in the tubes and people start to bail, I wanted to get your addresses, if you don't mind to send you the wedding invites.  I can just pass on the info as well, just let me know.
+
+Thanks Tons!
+Diane
+
+Diane Cutsforth
+Enron North America
+Power Pre-Scheduling
+503-464-3831 desk
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","diane.cutsforth@enron.com","diane.cutsforth@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: One Fish, Two Fish, Yellow Fish, Enron","
+
+-----Original Message-----
+From: Runswick, Stacy 
+Sent: Thursday, December 06, 2001 8:18 AM
+To: Salisbury, Holden; Alonso, Tom; Fischer, Mark; Scholtes, Diana;
+Crandall, Sean; Cutsforth, Diane; Wilson, Susie
+Subject: FW: One Fish, Two Fish, Yellow Fish, Enron
+
+
+
+
+-----Original Message-----
+From: dlpatterson@reliant.com [mailto:dlpatterson@reliant.com]
+Sent: Thursday, December 06, 2001 8:07 AM
+To: Runswick, Stacy
+Subject: One Fish, Two Fish, Yellow Fish, Enron
+
+
+Enron, according to Dr. Seuss...
+
+They exercised and sold, exercised and sold.
+And told all the employees to hold.
+While they made billions, they continued to say
+Our company will be the greatest someday.
+
+But lo and behold it would not come to pass.
+It was all a fraud and scam most would call crass.
+""How could it be true?"" we all asked.
+""All we do is buy and sell gas"".
+
+But to make their personal billions
+They had to keep in the dark their minions.
+So they lied and cheated, stole and cajoled
+Analysts, investors, workers and sold and sold.
+
+But they found out the scam
+And put the company in quite a stew.
+They told Ken and Andy ""we have lost confidence"".
+Little did they know, that confidence is what cons do.
+
+The old man in charge said ""we all trust Andy, he's fine,
+He made me my fortune and never charged a dime!""
+Andy got paid to manage illegal partnerships you see,
+And for that he collected thirty m! illion as his fee.
+
+But the pressure was on, and Ken had to act.
+He told Andy, ""You must go on leave""
+Is he still on the payroll we asked?
+We get no answer. Seems Andy will be there to the last.
+
+Ken restated his books, and oh the looks that
+Were on the faces of all but the crooks.
+The books had been cooked! Not one year, not two, not even three,
+They had been cooked a total of four.
+And many suspect even more!..
+
+He went into the elevator, that old gas trader.
+He hit floor fifty, where his offices reside.
+With two armed guards standing at his side.
+
+And so he rose to the top of 1400 Smith
+And went into the boardroom forthwith.
+There were the ghosts of Fastow, and Skilling.
+Where with their cronies they devised great scams.
+How to deceive, cheat, and steal millions of clams.
+
+And with one more scam to do
+He picked up the phone and called his friend Chuck.
+""Chuck"", he said, "" I'm in quite a jam, can! you please
+help me I got caught in my scam"".
+So old Chuck bit a nd came to Kens side,
+First with some money and took Ken as his bride.
+
+But that old scoundrel had played too many scams
+This one he could not hide as Chucks lawyers and guides
+Went over Ken's books and found such a surprise.
+
+There were no trades, there were no counterparties.
+There were no assets, there was no Christmas party.
+And so Chuck went to Ken and said ""Your company
+Is a sham. It was all lies. I cannot merge with you.
+Your firm is a rotting carcass festering with flies!
+
+And so Ken thought. He thought and he thought.
+He will file Chapter eleven and fire a lot.
+Four thousand to be exact.
+We thought he has lost gazillions,
+but prior filing he managed to bonus
+his friends fifty eight Million.
+
+And so we are told, the company will be back.
+A shell of itself but not quite the same.
+The shell is appropriate as we all know,
+The core business of Ken is a shell game.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","tim.heizenrader@enron.com","tim.heizenrader@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Mid-C Seminar","I'm not sure how much money is in the fund for these types of events, but it may help get our name out there.
+
+ds
+
+-----Original Message-----
+From: Frazier, Doug [mailto:Douglas@chelanpud.org]
+Sent: Tuesday, February 05, 2002 9:53 AM
+To: Scholtes, Diana
+Subject: FW: Mid-C Seminar
+
+
+
+You're on the list again! See you next week, Doug
+
+
+
+>  -----Original Message-----
+> From: 	Frazier, Doug  
+> Sent:	Friday, February 01, 2002 3:36 PM
+> To:	Doug Andrews (E-mail); Bert Brehm (E-mail); Josi Keyser (E-mail);
+> Kevin Holland (E-mail); Michael Dehaven (E-mail); Peter Blood (E-mail);
+> Todd Torgerson (E-mail); Eric Strickland (E-mail); Scott Connelly
+> (E-mail); Mike Lynch (E-mail); Dick Barnette (E-mail); Joe Morrato
+> (E-mail); Andrew Goldberg (E-mail)
+> Cc:	Frazier, Doug
+> Subject:	Mid-C Seminar
+> 
+> I'm happy to announce (you're the first to know, officially) that we are
+> once again hosting the 6th annual Mid-C Marketing Seminar here in
+> Wenatchee. The dates are July 9th for a semi-pro baseball game & BBQ, July
+> 10th for the meeting and July 11th for a golf tournament. I realize this
+> is an early request, but helps with the logistics as we approach the
+> dates.
+> 
+> Last year, your company helped us by making a donation in the amount of
+> $500.00 toward sponsorship of the golf tournament. That was very
+> beneficial to Mid-C Services, played a large part in the success of  the
+> seminar and we appreciated it very much.
+>  
+> We are offering you the same opportunity this year. Chelan PUD cannot
+> legally sponsor this tournament, so your participation is important.
+> Please don't feel obligated, but if this works for you, we will publicize
+> your sponsorship as much as possible during the 2-day event.
+> 
+> Most importantly, we want you to join us and participate in the learning
+> and fun. Please respond to me at your convenience. 
+> 
+> Thank You, Doug
+> 509-665-7867
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","tim.belden@enron.com","tim.belden@enron.com","SMTP",,,,,,,,,"Normal"
+"","I will be out of the office Friday Dec 7.  I can be reached at home or by cell		
+
+diana
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","tim.belden@enron.com","tim.belden@enron.com","SMTP","kathy.axford@enron.com;debra.davidson@enron.com","kathy.axford@enron.com;debra.davidson@enron.com","SMTP;SMTP","kathy.axford@enron.com;debra.davidson@enron.com","kathy.axford@enron.com;debra.davidson@enron.com","SMTP;SMTP",,,"Normal"
+"Smurfit","Wonder what their nomination will be for Nov?
+
+Thanks
+Diana
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","john.malowney@enron.com","john.malowney@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: TBL Transmission:  Improper rejection of tags","FYI	
+
+ -----Original Message-----
+From: 	Hall, Steve C. (Legal)  
+Sent:	Wednesday, October 24, 2001 11:27 AM
+To:	Scholtes, Diana
+Cc:	Crandall, Sean
+Subject:	TBL Transmission:  Improper rejection of tags
+
+Diana,
+
+As a follow-up to our discussions earlier this week, Sally Long (Al Paschke's assistant) called me this morning to inform me that 
+
+1.  TBL ""inappropriately denied our tag last week.""
+
+2.  She has ""educated a few people"" so this won't happen again.
+
+
+Let me know if you have any further problems.
+
+Steve
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com;donald.robinson@enron.com;diane.cutsforth@enron.com","cara.semperger@enron.com;donald.robinson@enron.com;diane.cutsforth@enron.com","SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"FW: New WSCC Electronic Scheduling Work Group","
+
+-----Original Message-----
+From: John.Pespisa@sce.com [mailto:John.Pespisa@sce.com]
+Sent: Monday, December 10, 2001 1:32 PM
+To: Multiple Committees
+Subject: Re: New WSCC Electronic Scheduling Work Group
+
+
+Please add
+1)  John Pespisa, Manager Real-Time Operations, Southern California Edison
+2)  John.Pespisa@sce.com
+3)  No
+4)  Yes
+
+
+                                                                                                                   
+                    Ronald D                                                                                       
+                    Nunnally             To:     Kevin Cini/SCE/EIX@SCE, Doug Parker/SCE/EIX@SCE, John             
+                                         Pespisa/SCE/EIX@SCE                                                       
+                    12/06/01             cc:                                                                       
+                    05:16 PM             Subject:     New WSCC Electronic Scheduling Work Group                    
+                                                                                                                   
+                                                                                                                   
+
+
+                                                                 
+ (Embedded                                                       
+ image moved   (Embedded image moved to file: pic25106.pcx)      
+ to file:                                                        
+ pic18295.pcx)  FOR INTERNAL USE ONLY                            
+                                                                 
+                                                                 
+
+
+
+
+FYI, in case you haven't seen this notice from WSCC.  Please let me know if
+you plan to participate in this group.
+
+-------------------------------------------------------------------
+Ron Nunnally
+Director, Federal Regulation & Contracts
+Transmission and Distribution Business Unit
+Southern California Edison
+Tel:  626/302-1653 - Fax:  626/302-9114
+Ronald.D.Nunnally@sce.com
+----- Forwarded by Ronald D Nunnally/SCE/EIX on 12/06/2001 05:15 PM -----
+                                                                                                                   
+                    ""JERRY                                                                                         
+                    DEMPSEY""             To:     ""Multiple Committees"" <multi10@wscc.com>                          
+                    <dempsey@wapa        cc:                                                                       
+                    .gov>                Subject:     New WSCC Electronic Scheduling Work Group                    
+                    Sent by:                                                                                       
+                    Maiser@wscc.c                                                                                  
+                    om                                                                                             
+                                                                                                                   
+                                                                                                                   
+                    12/03/2001                                                                                     
+                    03:34 PM                                                                                       
+                                                                                                                   
+                                                                                                                   
+
+
+
+
+email to:
+JOINT GUIDANCE COMMITTEE
+OPERATIONS COMMITTEE
+WESTERN MARKET INTERFACE COMMITTEE
+INTERCHANGE SCHEDULING and ACCOUNTING SUBCOMMITTEE
+
+
+Dear JGC, OC, WMIC and ISAS,
+
+On November 29, 2001, the WSCC Joint Guidance Committee (JGC) approved
+formation of a new working group to coordinate western positions and/or
+proposals on Electronic Scheduling issues and practices.  This new working
+group (called the WSCC Electronic Scheduling Work Group or ESWG) will
+report to the JGC and coordinate with the OC, WMIC and ISAS.  Attached
+please find the ESWG Scope Statement.
+
+As many of you are aware, the Electronic Scheduling Collaborative currently
+being facilitated by NERC is moving forward at a rapid pace on many issues.
+In order to be more productive and proactive with the formation of
+electronic scheduling issues and practices, the ESWG would like to make you
+aware of this new group and invite your participation and assistance to
+more adequately ensure a broader representation of WSCC interests.  To this
+end, if you are interested in being an active member of this work group, or
+if you are interested in being on the email exploder for this group, please
+reply to this email as follows:
+
+Please provide (via reply to this email):
+1. Your name and organization
+2. Your email address
+3. Yes/No for being an active member (i.e. - you will provide comments,
+attend meetings, etc as feasible)
+4. Yes/No for being on the ESWG email exploder (you will receive all emails
+of the working group)
+
+Please note - if your name is listed below, then you will automatically be
+added on the working group email exploder and there is no need to reply to
+this email (unless you want to be removed).
+
+Current email list -
+Barbara Rehman<brehman@bpa.gov>,
+Bert Gumm<rgumm@idahopower.com>
+Bill Comish (WSCC)<bill@wscc.com
+Bob Sullivan (CISO)<rsullivan@caiso.com>
+Bruce Sembrick<bsembrick@tristategt.org>
+Dean Perry <dean.perry@nwpp.org>
+Dennis Eyre<dennis@wscc.com>
+Duane Helderlein <dhelderlein@tristategt.org>
+Ed Riley<eriley@caiso.com>
+Jeff Ackerman (WAUC) <ackerman@wapa.gov
+Jerry Dempsey (WACM) - <Dempsey@wapa.gov>
+John Canavan<jcanavan@mtpower.com>
+John Dake <dake@wapa.gov>
+John Hormozi (LDWP) <jhormo@ladwp.com>
+Kevin Johnson<kmjohnson@bpa.gov>
+LeRoy Patterson<lpatter@mtpower.com>
+Lisa Grow (IPC) <lgrow@idahopower.com>
+Lorie Hoffman<Lshoffman@bpa.gov>
+marcd@mtpower.com
+Mark Hackney <mhackney@apsc.com>,
+Mark Meyer<mmeyer@wapa.gov>
+Mike Green (CHPD) <mike@chelanpud.org>
+Mike Raezer<mraezer@tucsonelectric.com>
+Scott Coe<sacoe@bpa.gov>
+smcmah@ladwp.com
+Steve McCoy (CISO) <SMcCoy@caiso.com>
+Sue Holden-Baker (WALC)<holden@wapa.gov>
+Tarcy Lee (PAC) <tarcy.lee@pacificorp.com>
+Terry Baker <bakert@prpa.org>
+Terry Larson (BPA) <talarson@bpa.gov>
+Tom Smith (TSGT) <tsmith@tristategt.org>
+Wendy Weathers (SRP) <wdweathe@srpnet.com>
+
+For those who may be interested and to help facilitate meeting scheduling,
+the next ESC meeting (coordinated by NERC) is scheduled for Jan 16th (8-5)
+and Jan 17th (8-12) in Las Vegas.  The next WSCC ESWG meeting is scheduled
+for Jan 17th (1-5) in Las Vegas.
+
+Thank you in advance for your interest and help -
+
+Jerry Dempsey
+Chair, WSCC ESWG
+
+
+
+Western Area Power Administration
+(970) 461-7299
+(970) 481-8581 - cell
+dempsey@wapa.gov
+
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,,,,,,,"Normal"
+"RE:  Power Trading Needs","Michael and Garrett,
+
+I appreciate your patience in advance. Things here at Enron have been quite hectic.  I have attached my resume and look forward to speaking with you both.
+
+Regards,
+
+Diana Scholtes
+
+-----Original Message-----
+From: Garrett Stephenson [mailto:garrett@jobmenu.com]
+Sent: Thursday, November 29, 2001 11:36 AM
+To: Scholtes, Diana
+Subject: Power Trading Needs
+
+
+Seems there might be a problem with Michael's email.  We look forward to
+receiving your resume.
+
+Thanks,
+
+Garrett
+
+-----Original Message-----
+From: Michael Kane [mailto:mkane@jobmenu.com]
+Sent: Friday, November 30, 2001 1:13 PM
+To: Garrett Stephenson
+Subject: Fw: Power Trading Needs
+
+
+
+Michael P. Kane
+Kane & Associates
+mkane@jobmenu.com
+713-977-3600
+----- Original Message -----
+From: Michael Kane <mkane@jobmenu.com>
+To: <diana.scholtes@enron.com>
+Sent: Wednesday, November 28, 2001 11:02 AM
+Subject: Fw: Power Trading Needs
+
+
+>
+>
+> > Diana,
+> > Thanks for your time - Per our conversation we are working on a couple
+hot
+> > positions below is a note from our client in Pennsylvania on our urgency
+> to
+> > find the right candidate. The brief note is not complete detail I will
+> > forward job description after we speak this afternoon.  Currently our
+hot
+> > spots are 1 potential in Houston and 2 very real positions in Kansas
+City
+> > and 2 in Pennsylvania  . Please forward your resume and comp parameters
+as
+> > well as an indication of your interest in these areas - we will circle
+> back
+> > and move forward.
+> >
+> > Regards,
+> > Michael Kane
+> > mkane@jobmenu.com
+> > 713-977-3600
+> >
+> >
+> >
+> >  We need to speed up an effort to find an experienced power trader with
+> > > regional experience in SERC, ERCOT or WSPP. The person must have at
+> least
+> > > 2 years trading experience in these regions and 5 years overall energy
+> > > commodity trading experience. They must also have a working knowledge
+of
+> > > options evaluation, and direct risk book portfolio management
+> experience.
+> > >
+> > > Any extra effort you can put into this would be appreciated. Thanks.
+> > >
+> >
+>
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","garrett@jobmenu.com","garrett@jobmenu.com","SMTP","mkane@jobmenu.com","mkane@jobmenu.com","SMTP","mkane@jobmenu.com","mkane@jobmenu.com","SMTP",,,"Normal"
+"RE:","Michael,
+
+I had a family emergency that I had to attend to prior to the holidays.  So I apologize, I haven't been in town.  Not sure what happened with our pre-arranged days to have discussions with your prospect, but hopefully we can reschedule.  Considering my situation now with my family, I will not be looking for a re-location anytime soon, but rather something either in Portland or within the West.  If Exelon is willing to explore opportunities with that in mind, then please set some time aside to discuss.  You can continue to reach me either at home (360-834-3579) or at work (503-464-3807).  I no longer have a cell phone available at this time.  Thank you for your time.  Hope your holidays were good.
+
+Regards,
+
+Diana Scholtes
+
+-----Original Message-----
+From: Michael Kane [mailto:mkane@jobmenu.com]
+Sent: Friday, December 21, 2001 10:50 AM
+To: Scholtes, Diana
+Subject: Re: 
+
+
+Diana,
+
+Trying to reach you - should we arrange conversation tomorrow with Exelon or
+pull the plug they have called us 3 times to coordinate- please give me some
+feedback.
+Michael P. Kane
+Kane & Associates
+mkane@jobmenu.com
+713-977-3600
+----- Original Message -----
+From: Scholtes, Diana <Diana.Scholtes@ENRON.com>
+To: <mkane@jobmenu.com>
+Sent: Sunday, December 09, 2001 10:53 AM
+
+
+I received your message and those times are good for me.  I will be in
+contact with you next week.
+
+Regards,
+
+Diana Scholtes
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you.
+**********************************************************************
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","mkane@jobmenu.com","mkane@jobmenu.com","SMTP",,,,,,,,,"Normal"
+"FW: OATI Digital Certificates Deadline March 6th","
+
+-----Original Message-----
+From: ben.porath@oatiinc.com [mailto:ben.porath@oatiinc.com]
+Sent: Thursday, January 10, 2002 2:24 PM
+To: Scholtes, Diana
+Subject: OATI Digital Certificates Deadline March 6th
+
+
+When E-Tag 1.7 is activated on March 6, 2002 the OATI webTag (ETS) system will require secure access using an OATI Digital Certificate.  OATI Digital Certificates will be provided to our existing webTag customers at no additional cost under their existing ETS Agreement.
+
+For those companies that have not yet acquired OATI Digital Certificates, to start the process, please download the Company Information document at the following URL:
+
+http://www.oaticerts.com/repository/company_information.doc
+
+Complete the form, and then e-mail it to OATI at support@oatiinc.com.  Please do not delay, get this service today to avoid access problems on March 6.
+
+For those companies that have already acquired OATI Digital Certificates, our OATI webTag Administrator will be contacting your company shortly to activate this service with your current E-Tag 1.67 access.
+
+If you have questions, please feel free to contact us at (763) 553-2725 or support@oatiinc.com.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,,,,,,,"Normal"
+"E-TAG Survey","Bill, 
+
+There's going to be a NERC E-Tag survey on Saturday 17th for HE 1400 PST.  CA's will be reporting who is and who isn't in compliance.  I received a call today to remind us of this from PGE transmission.  Apparently, they have been noting, as practice who's in compliance and who isn't, and I guess our stats aren't looking good.  We just need to make sure we submit tags for every transaction whether is on time or late.  
+
+ds
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","bill.williams@enron.com","bill.williams@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Recruiting and Floor Buildout","
+
+ -----Original Message-----
+From: 	Belden, Tim  
+Sent:	Tuesday, October 30, 2001 2:48 PM
+To:	DL-Portland World Trade Center
+Cc:	Lavorato, John; Kitchen, Louise
+Subject:	Recruiting and Floor Buildout
+
+During the past few days several people have approached us wondering why we are continuing to do college recruiting and continuing with the floor build out given the state of the company today.  We appreciate people's concerns about adding people and spending money at a time when we ought to be reducing unnecessary expenses.  Let us begin by saying that we share these concerns and are not hiring people or undertaking significant capital expenditures without a great deal of thought.  We would also encourage people to talk to their manager or either of us if you don't understand why we are doing certain things.  In short, we have decided to continue with the college recruiting, although we have not yet decided how many, if any, we will hire.  We have decided to delay the beginning of the floor build out for a couple of weeks.
+
+Why Are We Continuing With College Recruiting?
+During the last few years we have made tremendous progress establishing a presence for Enron broadly and the Portland office specifically with leading schools in the northwest.  This past year we finally reached critical mass and had tremendous success in our recruiting efforts.  Although we are uncertain about our hiring needs this year, we feel that it is in our best long term interest to continue having a presence with the schools in the northwest.  We have already made presentations and done initial screenings at most schools.  We have identified the best people from each school and have already made plans for them to come to our office for two super Saturdays.  The cost to us to finish this process is not large compared to the benefit that we gain from honoring our commitment to the schools and students as participants in their on-campus recruiting programs.  We also realize that it is a hard year to be coming out of school looking for a job.  It is our belief that students would rather interview with us even if the possibilities of employment may be somewhat diminished.  Finally, we would like to emphasize the point that we have not yet committed to hiring anybody.  We will interview people, identify the best candidates, and make hiring decisions based on the needs of the office.  Before extending offers we will consider the potential impact that it could have on people in this office and Enron employees in other offices who have been redeployed.  Stated another way, we don't intend to hire a bunch of new people if there are people within Enron who could fill positions or if it would put the jobs of the people already here at risk.  We may end up postponing hiring decisions until we are more certain about the state of affairs in the company.
+
+How Will the Floor Move Play Out?
+We have decided to postpone the floor build out for a few weeks.  While we still think that it makes sense for the office, we have decided to pause for a couple of weeks before we start to spend significant amounts of money on this.  When talking to the build out team today it became clear that delaying would accomplish several goals.  First, it allows us to get final architectural plans in place and firm quotes from contractors so that we can more precisely peg down the costs before moving forward.  Second, it gives the build out team breathing room to iron out more of the details of the move.  Finally, it buys us a little more time to decide whether or not it makes sense to do this project given the state of affairs of the company right now.  While we still think that we are going to move forward with this project, it seems like buying a couple of weeks of time is the right thing to do right now.  In about two weeks we will reconvene with the build out team with firm budget numbers and make a decision to either move ahead, cancel, or delay again.  
+
+As always, we will try to keep people updated on things as soon as new, reliable information becomes available.  We recognize that this is a very hard time for everyone.  Please try to stay focused on the job at hand and keep up the success of this office.
+
+
+
+Tim Belden and Chris Calger
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","sean.crandall@enron.com","sean.crandall@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: The 10/301/01-10/31/01 NERC Interchange Subcommittee Meeting Repo","time lines for continued e-tag implementation is listed towards the bottom of the attachment.  There's other information that will be useful also.        
+ 
+ds
+-----Original Message-----
+From: Lacen, Don [mailto:DLACEN@pnm.com]
+Sent: Friday, November 09, 2001 1:49 PM
+To: Interchange Scheduling & Accounting Subcommittee (ISAS)
+Subject: The 10/301/01-10/31/01 NERC Interchange Subcommittee Meeting Repo
+
+
+
+Here is my 10/301/01-10/31/01 NERC Interchange Subcommittee Meeting Report.  If you have any questions please contact me.
+
+Thanks. 
+<<10-01 nerc is meeting notes.doc>> 
+
+Don Lacen 
+Public Service Company of New Mexico 
+Transmission Services Coordinator 
+Alvarado Square, MS EP11 
+Albuquerque, NM, 87158 
+505-241-2032 
+dlacen@pnm.com 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: December 2001","We match with $424.80 owing to PGE for the month of December 01
+
+ds
+
+-----Original Message-----
+From: Anne Snyder [mailto:Anne_Snyder@pgn.com]
+Sent: Monday, January 21, 2002 8:18 AM
+To: Scholtes, Diana
+Subject: December 2001
+
+
+Hi Diana
+
+Here is our detail for December 2001.  There are only real power losses and it's only from 12/4 to 12/7.  This should be an easy one to match.
+
+Anne
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","anne_snyder@pgn.com","anne_snyder@pgn.com","SMTP","bill.casey@enron.com","bill.casey@enron.com","SMTP","bill.casey@enron.com","bill.casey@enron.com","SMTP",,,"Normal"
+"FW: The 10/301/01-10/31/01 NERC Interchange Subcommittee Meeting Repo","FYI
+-----Original Message-----
+From: Lacen, Don [mailto:DLACEN@pnm.com]
+Sent: Friday, November 09, 2001 1:49 PM
+To: Interchange Scheduling & Accounting Subcommittee (ISAS)
+Subject: The 10/301/01-10/31/01 NERC Interchange Subcommittee Meeting Repo
+
+
+
+Here is my 10/301/01-10/31/01 NERC Interchange Subcommittee Meeting Report.  If you have any questions please contact me.
+
+Thanks. 
+<<10-01 nerc is meeting notes.doc>> 
+
+Don Lacen 
+Public Service Company of New Mexico 
+Transmission Services Coordinator 
+Alvarado Square, MS EP11 
+Albuquerque, NM, 87158 
+505-241-2032 
+dlacen@pnm.com 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","dave.perrino@enron.com","dave.perrino@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Re-Assignment of Transmission from the City of Shasta Lake","O.K.!  Just to keep you appraised of what I'm doing,  I have left a message with Bob Sullivan @ CISO and I spoke to WAPA.  I think the call to WAPA was just to notify them that they won't be managing Shasta's transmission position for the term of our deal.  I'm going to be working with Bob Sullivan to create procedures for scheduling purposes.  Not sure if you want to stay in the loop for that?  You can update Gerry though, for me.  I appreciate your help!
+
+Thanks
+
+Diana
+
+ -----Original Message-----
+From: 	Dyer, Laird  
+Sent:	Thursday, October 25, 2001 10:22 AM
+To:	Scholtes, Diana
+Subject:	RE: Re-Assignment of Transmission from the City of Shasta Lake
+
+Diana,
+
+Great work.  Is there anything you need me to do?
+
+If everything is in place, I will contact Gerry Cupp at Shasta letting him know.  Or, if he needs to do something, I will get that started.
+
+Thanks,
+
+Laird
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Thursday, October 25, 2001 10:19 AM
+To:	'vrl1@pge.com'
+Cc:	Rosman, Stewart; Dyer, Laird; Buerkle, Jim; Crandall, Sean
+Subject:	Re-Assignment of Transmission from the City of Shasta Lake
+
+Vicky,
+
+Thank you again for you assistance with this process.  As you requested, this is our notification to PG&E of our purchase from the City of Shasta Lake of their COTP Transmission Capacity bi-directionally.  The term of the deal will include the months of November and December 2001.  Also as you requested, I faxed the Confirmation Notice between Shasta and EPMI to your office.  I have listed my office number below if you have any further questions.
+
+Thanks again,
+
+Diana Scholtes
+Enron West Trading	
+503-464-3807
+diana.scholtes@enron.com	
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","laird.dyer@enron.com","laird.dyer@enron.com","SMTP","jim.buerkle@enron.com;stewart.rosman@enron.com","jim.buerkle@enron.com;stewart.rosman@enron.com","SMTP;SMTP","jim.buerkle@enron.com;stewart.rosman@enron.com","jim.buerkle@enron.com;stewart.rosman@enron.com","SMTP;SMTP",,,"Normal"
+"FW: Short due to lending at PGE System for Wednesday, 10/17.","
+
+ -----Original Message-----
+From: 	Robinson, Donald  
+Sent:	Tuesday, October 16, 2001 11:41 AM
+To:	DL-Portland Real Time Shift
+Cc:	Scholtes, Diana; Crandall, Sean
+Subject:	Short due to lending at PGE System for Wednesday, 10/17.
+
+We are short at PGE system for Wednesday, 10/17/01.  HE1-6, 23-24pdt, we are 13mw short (total of 104mw).  This is due to a lending deal done by the NW Cash desk.  Please supply Portland at their system in the most cost effective manner possible.  Deal #821995.1
+
+Thanks, 
+Donald Robinson, NW preschedule desk
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","kysa.alport@enron.com","kysa.alport@enron.com","SMTP",,,,,,,,,"Normal"
+"SHORT AT MID-C HLH","THE STNW DESK IS SHORT 20 MW AT THE MID-C HLH FOR FRIDAY AND SATURDAY 11/16 & 11/17
+
+PLEASE SUPPLY AT THE MID-C UNLESS OTHERWISE NEGOTIATED WITH PGE REAL-TIME.
+
+DEAL #  871827.1
+
+
+IF YOU HAVE ANY QUESTIONS, PLEASE TALK TO SEAN OR I.
+
+
+THANKS
+
+DIANA
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","bill.williams@enron.com;shift.dl-portland@enron.com","bill.williams@enron.com;shift.dl-portland@enron.com","SMTP;SMTP","cara.semperger@enron.com;kysa.alport@enron.com;kate.symes@enron.com","cara.semperger@enron.com;kysa.alport@enron.com;kate.symes@enron.com","SMTP;SMTP;SMTP","cara.semperger@enron.com;kysa.alport@enron.com;kate.symes@enron.com","cara.semperger@enron.com;kysa.alport@enron.com;kate.symes@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"FW: Conference Call with Houston","
+
+ -----Original Message-----
+From: 	Thome, Stephen  
+Sent:	Monday, January 14, 2002 10:09 AM
+To:	Murphy, Harlan; Rasmussen, Dale; Hall, Steve C. (Legal); Thomas, Jake; Alonso, Tom; Richter, Brad; Crandall, Sean; Scholtes, Diana; Mallory, Chris; Salisbury, Holden; Fischer, Mark; Platter, Phillip
+Cc:	Baughman, Edward; Brysch, Jim; Wax, Brandon; Belden, Tim; Calger, Christopher F.
+Subject:	Conference Call with Houston
+
+Houston has requested we sit down with them on the phone and go over all the in-the-money contracts we have.  By their count we have about 50.  They want to account for each and understand why we may not be delivering on them.
+
+Ed Baughman will be sending his master list in advance of a 11:30 call in Mt. Bachelor.  Please send at least one representative from each of the regional desks to discuss the list.
+
+Thanks,
+
+Steve
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","alan.comnes@enron.com","alan.comnes@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Drug Test for UBS","Everything is getting lost!  I did my drug test last Friday.  
+
+ds
+
+ -----Original Message-----
+From: 	Fitzpatrick, Amy  
+Sent:	Tuesday, February 05, 2002 3:15 PM
+To:	Scholtes, Diana
+Cc:	Belden, Tim
+Subject:	Drug Test for UBS
+
+Diana -
+
+Our records indicate that you have not taken your pre-employment drug test for UBS.  Can you please do so ASAP, or if you have already completed, can you please let me know the date that you went so that we can update our records.
+
+Thanks!
+Amy
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","amy.fitzpatrick@enron.com","amy.fitzpatrick@enron.com","SMTP",,,,,,,,,"Normal"
+"D. Scholtes' resume","Anna,
+
+Thank you for taking the time to forward my resume to Ohio.  Hope everything is going well for you!
+
+Diana Scholtes
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","ameher@aep.com","ameher@aep.com","SMTP",,,,,,,,,"Normal"
+"RE: Enron Compliance Review Recommendation Log item","I will concur with Cara's response of nothing serious as to bring up in a formal setting.  
+
+Diana
+
+ -----Original Message-----
+From: 	Perrino, Dave  
+Sent:	Tuesday, November 20, 2001 10:06 AM
+To:	Comnes, Alan
+Cc:	Semperger, Cara; Scholtes, Diana; Mallory, Chris; Fischer, Mark
+Subject:	FW: Enron Compliance Review Recommendation Log item
+Importance:	High
+
+Alan,
+
+The forwarded message below contains an issue cited by Dick Ingersoll back in June of 1997 in which Control Areas were changing the properties of our submitted schedules/transactions (tags?) and not informing us.  In a subsequent letter in September 2000 Dick had noted an imporvement but with Enron still experiencing some minor problems.
+
+My question(s) to you and the traders/schedulers are, are the problems noted above still occuring, is this still causing us problems and if so are there specific incidents that you can provide to me so I can pass them on to the WSCC?
+
+Please accpet my wishes for a Happy Thanksgiving!
+
+Kind Regards,
+
+Dave
+
+ -----Original Message-----
+From: 	""Steve Ashbaker"" <ashbaker@wscc.com>@ENRON  
+Sent:	Tuesday, November 20, 2001 10:03 AM
+To:	Perrino, Dave
+Cc:	ashbaker@wscc.com
+Subject:	Enron Compliance Review Recommendation Log item
+
+Dear David,
+Attached is a copy of the outstanding EPMI Compliance Review
+Recommendation lot items. Could you please email any status update to
+these items to me before December 14, 2001?
+Thanks
+Steve Ashbaker
+WSCC
+801-582-0353
+
+The following section of this message contains a file attachment
+prepared for transmission using the Internet MIME message format.
+If you are using Pegasus Mail, or any another MIME-compliant system,
+you should be able to save it or view it from within your mailer.
+If you cannot, please ask your system administrator for assistance.
+
+   ---- File information -----------
+     File:  Enron Comp log request 11-14-01.doc
+     Date:  20 Nov 2001, 11:01
+     Size:  19456 bytes.
+     Type:  Unknown
+
+ - Enron Comp log request 11-14-01.doc << File: Enron Comp log request 11-14-01.doc >> 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","dave.perrino@enron.com","dave.perrino@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Auto Scheduler","Hey Will!
+
+Remeber us dicussing deals showing up in Real-Time Position manager that are the EPMI-West-Bank.  Can you remove these from this view?
+
+thanks,
+
+Diana
+
+ -----Original Message-----
+From: 	Smith, Will  
+Sent:	Thursday, January 03, 2002 7:55 AM
+To:	Scholtes, Diana
+Subject:	RE: Auto Scheduler
+
+For the West:
+
+Schedule:	12/14/2001 - 12/28/2001
+Analysis:	4/2/1996 - 12/13/2001
+
+Regards,
+Will
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Thursday, January 03, 2002 9:16 AM
+To:	Smith, Will
+Subject:	Auto Scheduler
+
+Will,
+
+Can you tell me what day was the last to be rolled in Auto Scheduler?  I'm trying to go back into December to balance Enpower for Settlement purposes.  
+
+Thank you,
+
+Diana Scholtes
+503-464-3807
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","will.smith@enron.com","will.smith@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: All Domestic Employees who Participate in the Enron Corp Savings Plan","not that we have much equity in our 401 anymore, but we may need to look at which fund to invest in.
+
+ds
+
+ -----Original Message-----
+From: 	Enron Announcements/Corp/Enron@ENRON   On Behalf Of Corporate Benefits@ENRON
+Sent:	Monday, October 22, 2001 8:28 PM
+To:	All Enron Employees United States Group@ENRON
+Subject:	To: All Domestic Employees who Participate in the Enron Corp Savings Plan
+
+October 26 is fast approaching!  
+
+Mark your calendar-- 
+	as the Enron Corp. Savings Plan moves to a new administrator!
+
+As a Savings Plan Participant, Friday, October 26 at 3:00pm CST will be your last day to:
+
+?    Transfer Investment Fund Balances and make Contribution Allocation Changes
+?	Change your Contribution Rate for the November 15th payroll deductions
+?	Enroll if you were hired before October 1
+
+TWO important reminders: 
+
+?    Vanguard Lifestrategy investment options  are being replaced with Fidelity Freedom funds and;  
+?	Your funds will remain invested in the funds chosen as of 3:00pm CST until 8:00 am November 20.  
+
+At 8:00 am CST, November 20 the Savings Plan system re-opens with great new features.  
+
+Should you need assistance during the transition period, call ext. 3-7979 and press Option 6.  This option will be available from 8:00am CST October 29 until 5:00pm CST November 19.
+
+Enron Benefits... keeping pace with your lifestyle.
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","premierpumpcompany@home.com","premierpumpcompany@home.com","SMTP",,,,,,,,,"Normal"
+"FW:"," 
+-----Original Message-----
+From: William Scholtes [mailto:premierpumpcompany@home.com]
+Sent: Friday, November 02, 2001 8:34 AM
+To: Scholtes, Diana
+Subject: 
+
+
+ 
+From the desk of
+Bill Scholtes
+Premier Pump Company
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","kevinm@ncpa.com","kevinm@ncpa.com","SMTP",,,,,,,,,"Normal"
+"FW: City of Shasta Lake","FYI
+
+ -----Original Message-----
+From: 	Clemons, Amy  
+Sent:	Monday, December 10, 2001 12:31 PM
+To:	Scholtes, Diana; Rosman, Stewart
+Cc:	Purcell, Mike
+Subject:	City of Shasta Lake
+
+Diana & Stewart
+
+I am hoping one of you can help me.  I am trying to send aninvoice out to City of Shasta Lake, but there is a deal we don't show in view actuals,or CARP, etc. so it's not part of the numbers I have to invoice then on - but they say they owe it to us.  It is the transmission capacity deal #839722.1 for City of Shasta Lake.  They see they owe us for this deal in the amount of $36,600.  Stewart, I had faxed you the confirm on #659898.1. It was a Laird Dyer deal and you were going to see if you could find out how we would settle it.  I am not sure if the two deals are related, but maybe they are?  Could the two of you look into these and let me know.  I need to invoice them with deal #839722.1, and I also need to know if we need to do anything for deal #659898.1.  Let me know.
+
+Thanks - Amy
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","sean.crandall@enron.com","sean.crandall@enron.com","SMTP",,,,,,,,,"Normal"
+"MID-COLUMBIA LENGTH 50 MW PEAK","STNW DESK IS LONG 50 MW PEAK FOR MONDAY AND TUESDAY 11/12 - 11/13.
+
+ITS PARKED WITH PGE.  PLEASE SELL AT THE MID-C UNLESS NEGOTIATED TO A DIFFERENT DP WITH PGE.
+
+DEAL # 865749.1 IS OUR PURCHASE FROM PGE.  
+
+IF YOU HAVE ANY QUESTION PLEASE CALL MYSELF OR SEAN.
+
+THANKS!!
+
+DIANA
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","bill.williams@enron.com;kysa.alport@enron.com;kate.symes@enron.com;shift.dl-portland@enron.com","bill.williams@enron.com;kysa.alport@enron.com;kate.symes@enron.com;shift.dl-portland@enron.com","SMTP;SMTP;SMTP;SMTP","cara.semperger@enron.com;sean.crandall@enron.com","cara.semperger@enron.com;sean.crandall@enron.com","SMTP;SMTP","cara.semperger@enron.com;sean.crandall@enron.com","cara.semperger@enron.com;sean.crandall@enron.com","SMTP;SMTP",,,"Normal"
+"Schedules for 11/8 & 11/9","	8-Nov				9-Nov		
+							
+	To PGE @ PGE SYS	LOSS RTN			To PGE @ PGE SYS	LOSS RTN	
+	DJ-MC-O  - .25				DJ-MC/DJ-MC-O  - .25		
+0100	2			0100	2		
+0200	2			0200	2		
+0300	2			0300	2		
+0400	2			0400	2		
+0500	2			0500	2		
+0600	2			0600	1	1	
+0700		3		0700	1	2	
+0800		3		0800	1	2	
+0900		3		0900	1	2	
+1000		3		1000	1	2	
+1100		3		1100	1	2	
+1200		3		1200	1	2	
+1300		3		1300	1	2	
+1400		3		1400		3	
+1500		3		1500		3	
+1600		3		1600		3	
+1700		3		1700	1	2	
+1800		3		1800		3	
+1900		3		1900	1	2	
+2000		3		2000	1	2	
+2100		3		2100		3	
+2200		3		2200		3	
+2300	2			2300	2		
+2400	2			2400	2		
+	16	48			25	39	
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","tom.ward@enron.com","tom.ward@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Registration for New E-tag 1.7 data","Lynn,
+
+Who can I talk to regarding my password to get into the TSIN site?  
+
+Diana Scholtes	
+Enron 
+503-464-3807
+diana.scholtes@enron.com
+
+-----Original Message-----
+From: Lynn Costantini [mailto:Lynn.Costantini@nerc.net]
+Sent: Tuesday, October 09, 2001 12:41 PM
+To: info@tsin.com
+Subject: Registration for New E-tag 1.7 data
+
+
+Ladies and Gentlemen:
+
+	Registration of new data elements as required by E-tag 1.7 can
+commence immediately.  Please go to http://reg.tsin.com, click
+Registrant's Area, and log onto your account for more information.  
+
+	Documents pertaining to electronic tagging, including
+""Electronic Tagging: Functional Specification, Version 1.7"" and ""What's
+New in E-tag 1.7"" are available from
+http://www.nerc.com/~filez/tag/E-tag/E-Tag.htm. 
+
+	Please email info@tsin.com if you have any questions.
+
+Sincerely,
+Lynn P. Costantini
+Robert W. Cummings
+NERC
+609-452-8060 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","lynn.costantini@nerc.net","lynn.costantini@nerc.net","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,"Normal"
+"RE: NCPA deal review","Deal # 880982.1 for the 18/19 ....22/24
+Deal # 880928.2 for the 7th
+
+i still need to fix the 2nd
+
+ds
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Tuesday, November 27, 2001 9:55 AM
+To:	Scholtes, Diana; Crandall, Sean
+Subject:	NCPA deal review
+Importance:	High
+
+Diana and Sean:
+
+Up to 11/26/01, 
+1. we are missing the annuities for 11/7, 11/18, 11/19, 11/22, 11/23, and 11/24
+2. we need to restore HE23-24 for deal# 517676.1 for 11/2/01 (lightload sale in NP15) in scheduling
+
+Please let me know if you need any help entering the annuities or restoring the HE23-HE24 scheduling (for 11/2/01 for deal 517676.1).
+
+As the month-end is approaching, I am hoping we can clear the above issues up before Settlements captures the wrong P&L.
+
+Thanks,
+
+Fran
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","fran.chang@enron.com","fran.chang@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Checkout for November 2001","
+
+-----Original Message-----
+From: Thompson, Virginia 
+Sent: Thursday, December 13, 2001 2:33 PM
+To: Scholtes, Diana
+Subject: FW: Checkout for November 2001
+
+
+Diana-
+
+  We seem to be off on both Purchases and Sales for November '01 for Modesto.  I'm thinking it may have to do with the $26 deal....(?)
+
+  Can you look over these numbers and tell me if you agree with Modesto.  Given everything that has happened lately, I'm not sure who is correct.
+
+  Thanks,
+
+  Virginia
+
+  
+
+-----Original Message-----
+From: ARVINA JULIEN [mailto:arvinaj@mid.org]
+Sent: Tuesday, December 04, 2001 2:07 PM
+To: Thompson, Virginia; Williams, Gwendolyn
+Cc: Thompson, Virginia
+Subject: Checkout for November 2001
+
+
+Gwen,
+
+Please confirm my November 2001 numbers.  I show that MID purchased 26,800 MWh's at $2,089,704.00 from Enron and MID had sales to Enron of 23,520 MWh's at $2,225,962.36.  If you agree with my numbers, I will net invoice Enron for 3,280 MWh's for $136,258.36.
+
+
+
+Arvina Julien
+Power System Scheduler
+Modesto Irrigation District
+209-526-7514
+arvinaj@mid.org
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: October detail","Sales to PGE:
+
+10/3	After you put in the lending for this day, I agree we are still out by 150 mw.  Its down to two schedules; can you check to see what you show for the Montana buy/resale.  This should be 32 peak everyday.  The other for the day is our pge system to grizzly this should be 26 mw peak.  You have the correct number of MW's coming to us but not going to you. 
+
+10/5 & 10/6   You show 200 more llh....I don't know why????
+
+10/8	The 200 mw you show llh should be a total of 256 (32 llh due to colstrip).  Call me to go thru the hourly at your system to find our 2 mw descrepancy.  You have the correct number of MW's coming to us but not going to you. 
+
+10/9  You show 8 mw @ 24.20 under To BPA-EPMI RP-LS-MC account.  Don't know what that is?  You also only show it on one side??
+
+I'll send more when i get thru it!!
+
+diana
+
+
+
+
+
+ 
+
+-----Original Message-----
+From: Anne Snyder [mailto:Anne_Snyder@pgn.com]
+Sent: Tuesday, November 27, 2001 4:05 PM
+To: Scholtes, Diana
+Subject: October detail
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","anne_snyder@pgn.com","anne_snyder@pgn.com","SMTP",,,,,,,,,"Normal"
+"FW: PGE Transmission Annuity","
+
+ -----Original Message-----
+From: 	Robinson, Donald  
+Sent:	Tuesday, February 05, 2002 9:28 AM
+To:	Scholtes, Diana
+Subject:	FW: PGE Transmission Annuity
+
+
+Here you go.
+
+Thanks.
+ -----Original Message-----
+From: 	Thome, Stephen  
+Sent:	Tuesday, February 05, 2002 9:09 AM
+To:	Robinson, Donald; Lew, Elsie; Elafandi, Mo
+Cc:	Sewell, Doug
+Subject:	PGE Transmission Annuity
+
+Don,
+
+Can you please modify the PGE Transmission Annuity in Enpower to reflect the following:
+
+It is current set at $152,668.80.  Our payment due to PGE is $101,304.00.  
+
+According to Elsie, we need to log a Sale Annuity for $51,364.80
+
+Thanks,
+
+Steve Thome
+x3806
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Happy Halloween  8)~","
+
+-----Original Message-----
+From: Runswick, Stacy 
+Sent: Wednesday, October 31, 2001 11:42 AM
+To: Semperger, Cara; Scholtes, Diana; Salisbury, Holden; Fischer, Mark;
+Alonso, Tom
+Subject: FW: Happy Halloween 8)~
+
+
+
+
+-----Original Message-----
+From: Scott Sallee [mailto:scott.sallee@tlcd.com]
+Sent: Wednesday, October 31, 2001 11:17 AM
+To: Jaime Dyer; julez1974@aol.com; Katie; Mark Mitchell; Leslie Rogers;
+Runswick, Stacy; Bill Sallee; Carol Sallee; Carie Wineger
+Subject: FWD:Happy Halloween 8)~
+
+
+
+-------------------------------------------------------------
+On 10/31/01, Monique Lazzaro wrote:
+
+Top 10 reasons why trick or treating is better than sex..... 8 )~
+
+
+10. You're guaranteed to get at least a little something in the sack.
+
+9. If you get tired, you can wait ten minutes and go at it again.
+
+8. The uglier you look, the easier it is to get some.
+
+7. You don't have to compliment the person who gave you candy.
+
+6. It's okay when the person you're with fantasizes you're someone else,
+because you ARE someone else.
+
+5. 40 years from now you will still enjoy candy.
+
+4. If you don't get what you want, you can always go next door.
+
+3. It doesn't matter if the kids hear you moaning and groaning.
+
+2. Less guilt the next morning.
+
+ .....AND the #1 reason,
+
+1. You can do the whole neighborhood!!
+
+ Happy Halloween ! Be safe!
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","bill_casey@pgn.com","bill_casey@pgn.com","SMTP",,,,,,,,,"Normal"
+"FW:"," 
+-----Original Message-----
+From: William Scholtes [mailto:premierpumpcompany@home.com]
+Sent: Monday, October 01, 2001 11:02 AM
+To: Scholtes, Diana
+Subject: 
+
+
+ 
+From the desk of
+Bill Scholtes
+Premier Pump Company
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","kevinm@ncpa.com","kevinm@ncpa.com","SMTP",,,,,,,,,"Normal"
+"December Settlements","P:| Trading|California|CaScheduling|Cash/Postion| (CA,NW,SW)  needs to be made available for Houston settlements.
+
+Thank you,
+
+Diana Scholtes
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","david.steiner@enron.com","david.steiner@enron.com","SMTP","tim.belden@enron.com;leslie.reeves@enron.com","tim.belden@enron.com;leslie.reeves@enron.com","SMTP;SMTP","tim.belden@enron.com;leslie.reeves@enron.com","tim.belden@enron.com;leslie.reeves@enron.com","SMTP;SMTP",,,"Normal"
+"FW: Power Trading Needs","
+
+-----Original Message-----
+From: Michael Kane [mailto:mkane@jobmenu.com]
+Sent: Wednesday, November 28, 2001 9:03 AM
+To: Scholtes, Diana
+Subject: Fw: Power Trading Needs
+
+
+
+
+> Diana,
+> Thanks for your time - Per our conversation we are working on a couple hot
+> positions below is a note from our client in Pennsylvania on our urgency
+to
+> find the right candidate. The brief note is not complete detail I will
+> forward job description after we speak this afternoon.  Currently our hot
+> spots are 1 potential in Houston and 2 very real positions in Kansas City
+> and 2 in Pennsylvania  . Please forward your resume and comp parameters as
+> well as an indication of your interest in these areas - we will circle
+back
+> and move forward.
+>
+> Regards,
+> Michael Kane
+> mkane@jobmenu.com
+> 713-977-3600
+>
+>
+>
+>  We need to speed up an effort to find an experienced power trader with
+> > regional experience in SERC, ERCOT or WSPP. The person must have at
+least
+> > 2 years trading experience in these regions and 5 years overall energy
+> > commodity trading experience. They must also have a working knowledge of
+> > options evaluation, and direct risk book portfolio management
+experience.
+> >
+> > Any extra effort you can put into this would be appreciated. Thanks.
+> >
+>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","premierpumpcompany@home.com","premierpumpcompany@home.com","SMTP",,,,,,,,,"Normal"
+"Auto Scheduler","Will,
+
+Can you tell me what day was the last to be rolled in Auto Scheduler?  I'm trying to go back into December to balance Enpower for Settlement purposes.  
+
+Thank you,
+
+Diana Scholtes
+503-464-3807
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","will.smith@enron.com","will.smith@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Nov. visit","
+
+ -----Original Message-----
+From: 	Frazier, Doug [mailto:Douglas@chelanpud.org] 
+Sent:	Tuesday, October 30, 2001 11:14 AM
+To:	Diana Scholtes (E-mail)
+Subject:	Nov. visit
+
+Hi, Here is my schedule to be home in Nov.
+11/5 - 11/9 and 11/26 - 11/30.
+
+The rest of the time I'll be gone somewhere. If your schedule says to come some other time during the month, I'll make sure there will be someone here.
+Let me know what your plans are.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","stewart.rosman@enron.com","stewart.rosman@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Credit w/ City of Klamath Falls","Stewart, 
+ 
+I left you an envelope with information regarding the City of K. Falls. Not sure if you forwarded it to anyone to begin the process for credit approval.  Can you please respond to Ray's E-mail?  Let me know if there is something else you need me to do.
+ 
+ds
+-----Original Message-----
+From: Grinberg, Ray [mailto:Ray.Grinberg@PacifiCorp.com]
+Sent: Friday, October 19, 2001 9:39 AM
+To: Scholtes, Diana
+Subject: Credit w/ City of Klamath Falls
+
+
+
+Hey Diana- 
+
+What's up with getting credit with the City of Klamath Falls?  I didn't hear back from you the other day.  It sure would be nice to get that in place.  Is there someone there I need to talk to?
+
+thanks, 
+
+Ray Grinberg 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","stewart.rosman@enron.com","stewart.rosman@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: One Fish, Two Fish, Yellow Fish, Enron","
+
+-----Original Message-----
+From: Heizenrader, Tim 
+Sent: Thursday, December 06, 2001 9:25 AM
+To: Scholtes, Diana
+Subject: RE: One Fish, Two Fish, Yellow Fish, Enron
+
+
+Thanks! Seen this one?
+
+Understanding Enron
+
+FEUDALISM: You have two cows. Your lord takes some of the milk.
+
+FASCISM: You have two cows. The government takes both, hires you to take care of them and sells you the milk.
+
+PURE COMMUNISM: You have two cows. Your neighbours help take care of them and you all share the milk.
+
+APPLIED COMMUNISM: You have two cows. You must take care of them, but the government takes all the milk.
+
+TOTALITARIANISM: You have two cows. The government takes them both and denies they ever existed. Milk is banned.
+
+MEXICAN DEMOCRACY: You have two cows. The government takes both and drafts you into the army.
+
+EUROPEAN DEMOCRACY: You have two cows. The EU commission decides which regulations for feeding and milking apply. If there aren't any, they invent some. They pay you not to milk the cows. They take both cows, shoot one, milk the other and pour the milk down the drain. They then require you to fill out forms accounting for the missing cows.
+
+CAPITALISM: You have two cows. You sell one and buy a bull. Your herd multiplies and the economy grows. You sell them and retire on the income.
+
+ENRON VENTURE CAPITALISM: You have two cows. You sell three of them to your publicly listed company, using letters of credit opened by your brother-in-law at the bank, then execute a debt/equity swap with an associated general offer so you get all four cows back, with a tax exemption for five cows. The milk rights of the six cows are transferred via an intermediary to a Cayman Island company secretly owned by the majority shareholder who sells the rights to all seven cows back to your listed company. The annual report says the company owns eight cows, with an option on one more.
+
+-----Original Message-----
+From: Scholtes, Diana 
+Sent: Thursday, December 06, 2001 9:13 AM
+To: Heizenrader, Tim
+Subject: FW: One Fish, Two Fish, Yellow Fish, Enron
+
+
+
+
+-----Original Message-----
+From: Runswick, Stacy 
+Sent: Thursday, December 06, 2001 8:18 AM
+To: Salisbury, Holden; Alonso, Tom; Fischer, Mark; Scholtes, Diana;
+Crandall, Sean; Cutsforth, Diane; Wilson, Susie
+Subject: FW: One Fish, Two Fish, Yellow Fish, Enron
+
+
+
+
+-----Original Message-----
+From: dlpatterson@reliant.com [mailto:dlpatterson@reliant.com]
+Sent: Thursday, December 06, 2001 8:07 AM
+To: Runswick, Stacy
+Subject: One Fish, Two Fish, Yellow Fish, Enron
+
+
+Enron, according to Dr. Seuss...
+
+They exercised and sold, exercised and sold.
+And told all the employees to hold.
+While they made billions, they continued to say
+Our company will be the greatest someday.
+
+But lo and behold it would not come to pass.
+It was all a fraud and scam most would call crass.
+""How could it be true?"" we all asked.
+""All we do is buy and sell gas"".
+
+But to make their personal billions
+They had to keep in the dark their minions.
+So they lied and cheated, stole and cajoled
+Analysts, investors, workers and sold and sold.
+
+But they found out the scam
+And put the company in quite a stew.
+They told Ken and Andy ""we have lost confidence"".
+Little did they know, that confidence is what cons do.
+
+The old man in charge said ""we all trust Andy, he's fine,
+He made me my fortune and never charged a dime!""
+Andy got paid to manage illegal partnerships you see,
+And for that he collected thirty m! illion as his fee.
+
+But the pressure was on, and Ken had to act.
+He told Andy, ""You must go on leave""
+Is he still on the payroll we asked?
+We get no answer. Seems Andy will be there to the last.
+
+Ken restated his books, and oh the looks that
+Were on the faces of all but the crooks.
+The books had been cooked! Not one year, not two, not even three,
+They had been cooked a total of four.
+And many suspect even more!..
+
+He went into the elevator, that old gas trader.
+He hit floor fifty, where his offices reside.
+With two armed guards standing at his side.
+
+And so he rose to the top of 1400 Smith
+And went into the boardroom forthwith.
+There were the ghosts of Fastow, and Skilling.
+Where with their cronies they devised great scams.
+How to deceive, cheat, and steal millions of clams.
+
+And with one more scam to do
+He picked up the phone and called his friend Chuck.
+""Chuck"", he said, "" I'm in quite a jam, can! you please
+help me I got caught in my scam"".
+So old Chuck bit a nd came to Kens side,
+First with some money and took Ken as his bride.
+
+But that old scoundrel had played too many scams
+This one he could not hide as Chucks lawyers and guides
+Went over Ken's books and found such a surprise.
+
+There were no trades, there were no counterparties.
+There were no assets, there was no Christmas party.
+And so Chuck went to Ken and said ""Your company
+Is a sham. It was all lies. I cannot merge with you.
+Your firm is a rotting carcass festering with flies!
+
+And so Ken thought. He thought and he thought.
+He will file Chapter eleven and fire a lot.
+Four thousand to be exact.
+We thought he has lost gazillions,
+but prior filing he managed to bonus
+his friends fifty eight Million.
+
+And so we are told, the company will be back.
+A shell of itself but not quite the same.
+The shell is appropriate as we all know,
+The core business of Ken is a shell game.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","stewart.rosman@enron.com","stewart.rosman@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: NCPA deal review","Thanks Fran!  I was just running the report to do the same thing!  I'll take care of it all today.
+
+ds
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Tuesday, November 27, 2001 9:55 AM
+To:	Scholtes, Diana; Crandall, Sean
+Subject:	NCPA deal review
+Importance:	High
+
+Diana and Sean:
+
+Up to 11/26/01, 
+1. we are missing the annuities for 11/7, 11/18, 11/19, 11/22, 11/23, and 11/24
+2. we need to restore HE23-24 for deal# 517676.1 for 11/2/01 (lightload sale in NP15) in scheduling
+
+Please let me know if you need any help entering the annuities or restoring the HE23-HE24 scheduling (for 11/2/01 for deal 517676.1).
+
+As the month-end is approaching, I am hoping we can clear the above issues up before Settlements captures the wrong P&L.
+
+Thanks,
+
+Fran
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","fran.chang@enron.com","fran.chang@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: November detail","Our Purchases:
+
+11/1	To PSE-EPMI MC - you have 23mw @ 35.58 and it should be @ 35.68.  Total= 210,080.72
+11/6	We are out by the 1mw real loss return that you should show.  Total= 60,503.77
+11/14	I think you have wrong indicies. Really really wrong! =)
+11/15	To MPC-EPMI Colstrip- you have 96 MW price wrong.  Should be @ 19.69.  Total=49,993.27
+11/16	To BPA-EPMI @ MC- 36mw s/b @ 18.66 & To PSE-EPMI @ MC s/b @ 18.66. Total=50,286.56
+11/17 Same as the 16th but a different dispursment of mw's between accounts.  Total= 50,303.73
+11/26	To PSE-EPMI @ MC 32mw s/b priced @ 17.54 & 48mw s/b @ 20.53.  Total= 52,932.97
+
+With these changes we will match on our purchases.  Total = $2,105,816.35
+
+I'll look at my sales and send it along.
+
+ds
+
+
+
+ 
+
+-----Original Message-----
+From: Anne Snyder [mailto:Anne_Snyder@pgn.com]
+Sent: Friday, January 11, 2002 10:10 AM
+To: Scholtes, Diana
+Subject: November detail
+
+
+Hi Diana,
+Not sure I sent this to you, but thought I would send it now just in case.
+
+Anne
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","anne_snyder@pgn.com","anne_snyder@pgn.com","SMTP",,,,,,,,,"Normal"
+"RE: City of Shasta Lake","Amy,
+
+I have forward this to Sean Crandall to help you settle.  I will be out of the office for the balance of the year.
+
+Thanks,
+
+Diana Scholtes
+
+ -----Original Message-----
+From: 	Clemons, Amy  
+Sent:	Monday, December 10, 2001 12:31 PM
+To:	Scholtes, Diana; Rosman, Stewart
+Cc:	Purcell, Mike
+Subject:	City of Shasta Lake
+
+Diana & Stewart
+
+I am hoping one of you can help me.  I am trying to send aninvoice out to City of Shasta Lake, but there is a deal we don't show in view actuals,or CARP, etc. so it's not part of the numbers I have to invoice then on - but they say they owe it to us.  It is the transmission capacity deal #839722.1 for City of Shasta Lake.  They see they owe us for this deal in the amount of $36,600.  Stewart, I had faxed you the confirm on #659898.1. It was a Laird Dyer deal and you were going to see if you could find out how we would settle it.  I am not sure if the two deals are related, but maybe they are?  Could the two of you look into these and let me know.  I need to invoice them with deal #839722.1, and I also need to know if we need to do anything for deal #659898.1.  Let me know.
+
+Thanks - Amy
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","amy.clemons@enron.com","amy.clemons@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Enjoy 35% off resorts worldwide"," 
+-----Original Message-----
+From: Starwood Preferred Guest [mailto:Starwood@spg.0mm.com]
+Sent: Tuesday, November 06, 2001 10:47 AM
+To: DIANA
+Subject: Enjoy 35% off resorts worldwide
+
+
+ SPG Brands <http://image.0mm.com/38669/2001/1102-1/logobar_blue.gif>
+Save 35% <http://spg.0mm.com/sta114058>
+	at resorts & destinations worldwide <http://spg.0mm.com/sta114059>	
+
+Exclusively For Starwood Preferred Guests!
+Enjoy 35% off some of the most desired resorts and destinations around the world...the Princeville in Hawaii...The Westin Regina Resort in Cancun...the Sheraton San Marcos Golf Resort in Arizona.
+Experience the incredible savings, special offers and rewards.
+Anytime. Anywhere(SM).
+
+
+
+
+  <http://image.0mm.com/38669/2001/1102-1/princeville1.jpg>	
+ <http://spg.0mm.com/sta114060>	  <http://spg.0mm.com/sta114061>
+
+When making your reservations by phone, 
+please call 1-877-STARWOOD. 
+
+
+  _____  
+
+
+
+If you would like to receive future promotional e-mails in text-only format, click here <http://spg.0mm.com/sta114062+diana_scholtes@enron.com>.
+
+You are subscribed as: diana_scholtes@enron.com
+
+If you would like your e-mail to be sent to a different address, please click here <http://spg.0mm.com/sta114063+diana_scholtes@enron.com>.
+
+Click here <http://spg.0mm.com/sta114064> to review the Starwood Preferred Guest privacy statement. 
+
+Click here <http://spg.0mm.com/sta114065> to review the Starwood Preferred Guest program terms and conditions.
+
+You have received this e-mail as a member of Starwood Preferred Guest. If you prefer not to receive future promotional e-mails from Starwood Preferred Guest, please click here <http://spg.0mm.com/sta114066+diana_scholtes@enron.com>. It may take up to 10 business days to completely remove you from our e-mail list and there is a slight chance that you may receive e-mail from us within that time. 
+
+  <http://secure.emailpub.com/sensor?image=3379&id=122713117>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","sean.crandall@enron.com","sean.crandall@enron.com","SMTP",,,,,,,,,"Normal"
+"","I received your message and those times are good for me.  I will be in contact with you next week.
+
+Regards,
+
+Diana Scholtes
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","mkane@jobmenu.com","mkane@jobmenu.com","SMTP",,,,,,,,,"Normal"
+"FW: E-Tag 1.7 Test Procedure","
+
+-----Original Message-----
+From: sccobb@srpnet.com [mailto:sccobb@srpnet.com]
+Sent: Friday, January 25, 2002 4:09 PM
+To: Interchange Scheduling & Accounting Subcommittee (ISAS)
+Subject: E-Tag 1.7 Test Procedure
+
+
+ISAS Members,
+
+Attached is a draft test procedure for E-Tag 1.7. It was created and
+approved by a small ""swat team"" of ISAS members and WSCC Staff. Please
+review this draft procedure and provide any comments you may have by 1200
+MST Tuesday, January 29, 2002. 
+
+Thanks.
+
+
+
+
+ <<E-Tag  Functionality Test Ver 1_1-25-02.doc>> 
+
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Wire instructions and Applications for APS","Steve-  Below is the wire transfer information needed to pay the November bill.
+
+Paul-  Also attached are blank enabling agreements needed for transmission.  Mark Hackney said the turn around for this can be 1 to 2 days and with credit established he can waive the deposits.  
+
+Diana
+
+-----Original Message-----
+From: Hackney, Mark W(Z39911) [mailto:Mark.Hackney@aps.com]
+Sent: Tuesday, January 08, 2002 8:39 AM
+To: Scholtes, Diana
+Subject: Wire instructions and Applications
+
+
+wire transfer information
+
+ABA # 121000248
+Well Fargo Bank
+707 Wilshire Blvd.
+LA, CA  90017
+Acct # 4159540921
+
+
+Applications for new:
+
+The POR/POD stuff is not needed to be specific,  just as determined at time
+of OASIS request.
+
+ <<Firm PtP Transmission Service Application Form.doc>>  <<NonFirm PtP
+Transmission Service Application Form.doc>> 
+
+Mark W. Hackney
+Section Leader
+Pre and Real-time Transmission Scheduling, AGC Operations
+APS OATT Administration
+Arizona Public Service Company
+602.250.1128 - Office
+602.908.1423 - Cell
+602.250.1155 - Fax
+mailto:Mark.Hackney@aps.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","tom.alonso@enron.com;stephen.thome@enron.com;paul.choi@enron.com;mark.fischer@enron.com","tom.alonso@enron.com;stephen.thome@enron.com;paul.choi@enron.com;mark.fischer@enron.com","SMTP;SMTP;SMTP;SMTP","legal;christian.yoder@enron.com",".hall@enron.com;christian.yoder@enron.com","SMTP;SMTP","legal;christian.yoder@enron.com",".hall@enron.com;christian.yoder@enron.com","SMTP;SMTP",,,"Normal"
+"RE: Monitor Sale","Paul,
+
+Put me down for a 21"" and a 19"" if there's availability.  
+
+diana
+
+ -----Original Message-----
+From: 	Kane, Paul  
+Sent:	Wednesday, October 24, 2001 8:32 AM
+To:	DL-Portland World Trade Center
+Subject:	Monitor Sale
+
+All,
+
+We will be offering monitors for sale again in the Portland Office.  We have a variety of monitors for you to choose from. 
+
+Older 17' units - $10
+Newer Compaq 17' units - $20
+Older 21' units - $25
+Newer Compaq 19' units - $35
+
+Please respond to this email with the type of monitor you would like to purchase.  Will have a lottery type drawing on Friday Morning. By Friday afternoon, you will be notified that you can come by and pick out your monitor. We need to have all monitors picked up and removed my Friday the 2nd. After that, all remaining monitors will be donated to charity.
+
+Regards,
+Paul Kane
+Portland IT
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","paul.kane@enron.com","paul.kane@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Dear Mr. Abby","
+
+-----Original Message-----
+From: William Scholtes [mailto:premierpumpcompany@attbi.com]
+Sent: Wednesday, January 30, 2002 9:18 AM
+To: Scholtes, Diana
+Subject: Fw: Dear Mr. Abby
+
+
+
+From the desk of
+Bill Scholtes
+Premier Pump Company
+
+
+> Ever wondered what it would be like if Dear Abby were
+> a man?
+> 
+> Dear Mr. Abby:
+> Q: My husband wants a threesome with me and my best
+> friend.
+> A: Obviously your husband cannot get enough of you!
+> Knowing that there is only one of you, he can only
+> settle for the next best thing - your best friend. Far
+> from being an issue, this can bring you closer
+> together. Why not get some of your old college
+> roommates involved too? If you are still apprehensive,
+> maybe you should let him be with your friends without
+> you. If you're still not sure then just perform oral
+> on him and cook him a nice meal while you think about
+> it.
+> 
+> Dear Mr. Abby:
+> Q: My husband continually asks me to perform oral sex
+> on him.
+> A: Do it. Sperm can help you loose weight and gives a
+> great glow to your skin. Interestingly, men know
+> this. His offer to allow you to perform oral sex on
+> him is totally selfless. This shows he loves you. The
+> best thing to do is to thank him by performing it
+> twice a day. Then cook him a nice meal.
+> 
+> Dear Mr. Abby:
+> Q: My husband has too many nights out with the boys.
+> A: This is perfectly natural behavior and it should be
+> encouraged. The man is a hunter and he needs to prove
+> his prowess with other men. A night out chasing young
+> single girls is a great stress relief and can foster a
+> more peaceful and relaxing home. Remember, nothing can
+> rekindle your relationship better than the man being
+> away for a day or two (it's a great time to clean the
+> house too)! Just look at how emotional and happy he is
+> when he returns to his stable home. The best thing to
+> do when he gets home is for you and your best friend
+> to perform oral sex on him. Then cook him a nice meal.
+> 
+> Dear Mr. Abby:
+> Q: My husband doesn't know where my clitoris is.
+> A: Your clitoris is of no concern to your husband. If
+> you must mess with it, do it in your own time or ask
+> your best friend to help. You may wish to videotape
+> yourself while doing this, and present it to your
+> husband as a birthday gift. To ease your selfish
+> guilt, perform oral sex on him and cook him a
+> delicious meal.
+> 
+> Dear Mr. Abby:
+> Q: My husband is uninterested in foreplay.
+> A: You are a bad person for bringing it up and should
+> seek sensitivity training. Foreplay to a man is
+> very stressful and time consuming. Sex should be
+> available to your husband on demand with no pesky
+> requests for foreplay. What this means is that you do
+> not love your man as much as you should - he should
+> never have to work to get you in the mood. Stop being
+> so selfish! Perhaps you can make it up to him by
+> performing oral sex on him and cook him a nice meal.
+> 
+> Dear Mr. Abby:
+> Q: My husband always has an orgasm then rolls over and
+> goes to sleep never giving me one.
+> A: I'm not sure I understand the problem. Perhaps
+> you've forgotten to cook him a nice meal.
+> 
+> 
+> 
+> 
+> 
+> __________________________________________________
+> Do You Yahoo!?
+> Great stuff seeking new owners in Yahoo! Auctions! 
+> http://auctions.yahoo.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","jhughes@sppc.com","jhughes@sppc.com","SMTP",,,,,,,,,"Normal"
+"FW: Business Practice #11","FYI.....
+-----Original Message-----
+From: Frazier, Doug [mailto:Douglas@chelanpud.org]
+Sent: Thursday, October 04, 2001 12:54 PM
+To: Interchange Scheduling & Accounting Subcommittee (ISAS)
+Subject: RE: Business Practice #11
+
+
+
+I have to tell you more than you want to know to preface this response. 
+There are 5 hydro projects in the Mid-Columbia region. These 5 projects are owned and controlled by 3 control areas - Douglas County PUD, Chelan County PUD and Grant County PUD. Some of the generation from these 5 projects has been sold on a long-term basis to several participants. I'm not familiar with the term ""take away rights"", but every mwh generated at these 5 projects is either used for load in the 3 control areas or it is moved away to participant's control areas. The fact that some want to represent their share of generation as being part of a ""single bus"" and claiming it can be moved away without naming a transmission provider does not accurately represent the transfer of energy from one control area to another. Douglas, Chelan and Grant are the only control areas at the Mid-Columbia with other adjacent control areas.
+
+Each participant has transmission capability (either their own or purchased) to transfer their share of generation from one of our control areas to their own. These transmission paths serve one of two purposes. 1) dynamic schedules or fixed schedules to serve load or 2) transfers for sale or resale.
+
+The ""single bus"" idea at the Mid-C will soon be correctly represented for 4 of the 5 projects. Chelan and Grant plan to combine their control area boundaries (for scheduling and tagging purposes only) and call it the Mid-C HUB. This HUB is registered as a TP with NERC as MHUB and will accomodate transfers of energy BETWEEN participants. All other transactions will require other transmission to move energy OUT OF the Mid-C HUB. Douglas County PUD is not part of the Mid-C HUB or MHUB.
+
+
+-----Original Message----- 
+From: Hackney, Mark W(Z39911) [ <mailto:Mark.Hackney@aps.com>] 
+Sent: Wednesday, October 03, 2001 3:04 PM 
+To: Interchange Scheduling & Accounting Subcommittee (ISAS) 
+Subject: Business Practice #11 
+
+
+""For transactions that occur at only one bus (i.e. no OASIS/GF transmission 
+involved) use a willing TP on the second line with the same PSE as on the 
+first line and the words ""Single Bus"" in the OASIS reservation field and 
+""7-F"" as the Product."" 
+
+Is this practice not being practiced?  I've seen/heard that at the MID 
+Columbia folks selling energy to those who have take away rights at MID C 
+are have their tags denied because the tag creators are not using a ""TP 
+specific transmission path or designation"".  It was agreed to use ""Single 
+Bus"" in these situations to avoid the implications of transmission service 
+where no transmission service was necessary from the MID C. 
+
+If the sink control area is bringing the energy back to their system at that 
+point then the sink should have it indicated that it's not a single bus for 
+their transmission portion, but may be ""GF"" or ""No reservation required"" 
+from the bus to the system.  But in this circumstance then the path is not 
+MIDC-MIDC but MIDC-SYS.  That's my take.  Others wish to pipe in? 
+
+Mark W. Hackney 
+Section Leader 
+Pre and Real-time Transmission Scheduling 
+APS OATT Administration 
+Arizona Public Service Company 
+602.250.1128 - Office 
+602.908.1423 - Cell 
+602.250.1155 - Fax 
+<mailto:Mark.Hackney@aps.com> 
+_________________________________________________________________ 
+Click to add my contact info to your organizer: 
+<http://my.infotriever.com/cc2tf0ey> 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","sean.crandall@enron.com","sean.crandall@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Update","
+
+ -----Original Message-----
+From: 	Belden, Tim  
+Sent:	Friday, November 30, 2001 8:49 AM
+To:	DL-Portland World Trade Center; DL-San Francisco
+Subject:	Update
+
+There have been no ""official"" developments relating to Enron North America or the Portland office that I am aware of since the floor meeting on Wednesday.  The news of the Europe office closing so suddenly has certainly been unsettling.  Absent any tangible news pertaining to the fate of our office I thought that I could, at a minimum, try to explain to people what I've seen going on over the last couple of days.
+
+On the trading side we are doing several things.  First, we are trying to honor as many of our physical delivery obligations as possible.  Several customers have stopped making deliveries to us which is making it impossible for us, in turn, to honor all of our physical deliveries.  In these circumstances we are constantly updating our customers on the status of their schedules so that they can make alternative arraingements.  The Cash Trading, Scheduling, Services, and Real Time groups are doing an unbelievable job with this.  I am impressed at how capable, professional, and calm our team has remained.  On the Term Trading side we are working with our customers to close out positions.  This process is going very smoothly as well.  We traded a record volume yesterday as our customers reduced their exposure to us.  The Term trading team has done an excellent job with this.  Third, on the Middle Market and Origination side we are trying to work with customers to bring cash in the door.  Many customers owe us money due to out of the money future positions.  Many customers would prefer to settle up with us now rather than in bankruptcy if that is what ends up happening to us.  We have brought a significant amount of cash in the door as a result of these efforts and saved our customers from going through a potentially onerous bankruptcy proceeding.  I am very appreciative of the efforts of our Origination and Middle Marketing team that has made this happen.
+
+On the bright side, I remain optimistic that someone will buy or fund the North America gas and power businesses.  While it is impossible to handicap anything these days with Enron I am seeing some very positive signs on this front.  Unlike the Dynegy deal, which required Dynegy to purchase the very profitable core business along along with the rest of Enron's baggage, the deals being considered now would likely involve only the core business.  I don't know whether these deals happen, and if they do, I don't know what form the core business takes as a result.  Chris Calger and I have been part of the team talking to our potential suitors.  We will both be in Houston through the weekend and into early next week working on this.  We will update people as soon as possible as things unfold.
+
+I know that this situation really sucks.  Given the anxiety and uncertainty that we are all feeling people are doing a great job keeping focused and staying positive.  I think that things are going to unfold very quickly from here -- most likely in the next week or two.  Please hang in there.
+
+Tim
+(on behalf of Tim and Chris)
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","premierpumpcompany@home.com","premierpumpcompany@home.com","SMTP",,,,,,,,,"Normal"
+"FW: !!!   OATI Etag 1.7 Minimum Requirements   !!!","ms. freeland,
+
+I don't know who will be updating this information for the estate, but someone needs to.  
+
+ds
+
+-----Original Message-----
+From: frank.billington@oatiinc.com [mailto:frank.billington@oatiinc.com]
+Sent: Friday, February 01, 2002 11:26 AM
+To: Scholtes, Diana
+Subject: !!! OATI Etag 1.7 Minimum Requirements !!!
+
+
+Time is running very short.  Is your company prepared for Etag 1.7?  These are the minimum REQUIRED steps that must be completed prior to March 6, 2002:
+
+---------------------------
+
+(1)  All entities must update the NERC Registry at http://www.tsin.com.
+
+(1a)  CA's and TP's must designate PORs and PODs that are valid on tags.
+
+(1b)  PSE's must designate associated scheduling PORs and PODs.  See http://www.tsin.com or inquire with NERC for details.
+
+---------------------------
+
+(2)  All OATI Users must have functioning OATI Digital Certificates.
+
+(2a)  Without the certificate you cannot access Etag 1.7 after March 6, 2002 at all.
+
+(2b)  Inquire internally to determine if a supervisor has already contacted us.
+
+(3b)  To begin the process of acquiring OATI Digital Certificates, please complete this document and send it to OATI:
+
+http://www.oaticerts.com/repository/Company_Information.doc
+
+---------------------------
+
+Failure to complete these steps will result in a partial or complete lack of tagging access and capability!
+
+For additional information on these and other critical Etagging issues, please visit OATI's Etag 1.7 Information Page at http://www.oatiinc.com/etag17.
+
+
+Frank Billington
+
+OATI Manager of Customer Services
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","cara.semperger@enron.com","cara.semperger@enron.com","SMTP",,,,,,,,,"Normal"
+"January Settlements","Leslie,
+
+I'm trying to get a jump on making sure we have everything done properly in Enpower for the month of January.  My question is whether we, the West desk, should enter any changes in Enpower due to OUR non-delivery and/or incremental deals?  We have everything recorded on our Trade sheets, but if it would make it easier for you to settle or relay to the Estate by us making the changes in Deal Scheduling, we can do so.  
+
+I also understand, after talking to John, you will be using our Trade sheets for such changes for the month of December.  I'm not sure who you would like us to assist in translating our sheets, but if you can call me, we can set up a conference call and I'll coordinate from each desk to attend.  
+
+If there is anything else that you need us to do to help your group please let me know.
+
+Diana Scholtes
+West Desk 
+503-464-3807
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","leslie.reeves@enron.com","leslie.reeves@enron.com","SMTP","scotty.gilbert@enron.com;john.postlethwaite@enron.com;tim.belden@enron.com","scotty.gilbert@enron.com;john.postlethwaite@enron.com;tim.belden@enron.com","SMTP;SMTP;SMTP","scotty.gilbert@enron.com;john.postlethwaite@enron.com;tim.belden@enron.com","scotty.gilbert@enron.com;john.postlethwaite@enron.com;tim.belden@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"RE:","Audrey,
+
+I'll try again from your original e-mail. I obviously didn't work the first time!  Thanks again for your time.  I look forward to working with you.
+
+Regards,
+
+Diana Scholtes
+
+
+-----Original Message-----
+From: Audrey Cullen Davis [mailto:ACullen@FirstCallAssociates.com]
+Sent: Tuesday, December 04, 2001 2:59 PM
+To: Scholtes, Diana
+Subject: 
+
+
+Could you kindly give me a call at your earliest convenience.
+Thank you.
+
+Regards,
+
+Audrey Cullen Davis
+FIRST CALL ASSOCIATES, INC.
+
+(860) 693-4122 (New telephone number)
+(860) 693-4118 Fax
+(860) 670-1387 Cell
+
+ACullen@FirstCallAssociates.com
+
+
+
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","diana.scholtes@enron.com","diana.scholtes@enron.com","SMTP","acullen@firstcallassociates.com","acullen@firstcallassociates.com","SMTP",,,,,,,,,"Normal"

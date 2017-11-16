@@ -1,0 +1,1311 @@
+"Subject","Body","From: (Name)","From: (Address)","From: (Type)","To: (Name)","To: (Address)","To: (Type)","CC: (Name)","CC: (Address)","CC: (Type)","BCC: (Name)","BCC: (Address)","BCC: (Type)","Billing Information","Categories","Importance","Mileage","Sensitivity"
+"RE: Amerex - Scott Halprian","Sounds good.  I'll plan on arriving to the office just after lunch and follow your lead on the beers.
+
+Keith
+
+ -----Original Message-----
+From: 	Fairley, Andrew  
+Sent:	Tuesday, October 30, 2001 10:02 AM
+To:	Holst, Keith
+Subject:	RE: Amerex - Scott Halprian
+
+Keith,
+
+If you would like to come in and see the office on the 9th I can sort that out no problem.
+Scott was suggesting that you would be over, and that he would like to meet me with you at the same time.
+
+Any interest in a few beers that night?
+
+
+A
+
+
+ -----Original Message-----
+From: 	Holst, Keith  
+Sent:	30 October 2001 15:58
+To:	Fairley, Andrew
+Subject:	RE: Amerex - Scott Halprian
+
+Andy,
+
+Coincidentally, I will be visiting London November 9th-11th and thought I might visit Enron's offices.
+
+I am unaware of Amerax's penetration into the UK energy markets, but they are among the top three in North America.  As far as brokers go, Scott does a good job.  He is straight forward and honest and consequently was getting the largest share of our business in the west.
+
+If you are interested, I would be happy to introduce you to Scott during my trip.  My schedule is fairly flexible.
+
+Keith 
+
+ -----Original Message-----
+From: 	Fairley, Andrew  
+Sent:	Tuesday, October 30, 2001 9:13 AM
+To:	Holst, Keith; Allen, Phillip K.
+Subject:	Amerex - Scott Halprian
+
+
+Hi guys,
+
+We met last February when I was over in Houston and you kindly gave me some pointers as to how we in the UK can apply your experiences to the UK market.
+
+I have had a call from Scott at Amerex saying he is moving to London to set up here.
+He has said you would recommend him with a view to working our numbers here in Europe.
+
+Would you be able to comment favourably or otherwise when you get a minute?
+
+Many thanks
+
+Andy
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","andrew.fairley@enron.com","andrew.fairley@enron.com","SMTP",,,,,,,,,"Normal"
+"West Fundies","Mike,
+
+Following is a west fundies update.  We have not yet produced an abundance of finished product, but several great projects are in the development stage.  These projects are making nice progress even though it may not be visible to the casual observer.
+
+PRODUCTION
+
+This effort is being led by Tori and supported by both Jay and myself.  Gaskill's staff will be providing most of the manpower.  The concept is to design a model which takes a methodical and scientific approach in forecasting: (1) declines of existing production,  (2) increases due to drilling. 
+
+Existing production
+
+Using externally provided production data, we are in the process of dividing production into zones of like characteristics.  Each zone will be identified by: Basin --> Reservoir --> Formation.  Analysis will be done at the zone level to determine its unique depletion curve.  This curve will be extrapolated to forecast future production from existing wells.
+
+New production
+
+From rig count data (or completion data if we buy the more expensive database) we can determine which ""zone"" a new well is targeting.  Forecasted production can then be determined by applying a recent historical success ratio and the corresponding depletion curve identified in the preceding step.  The difficult component to forecast with great accuracy is future drilling.  Our current thinking is a calculation that considers forward prices, drilling costs (which are increasing since all the ""easy wells"" have already been drilled), and common required rates of return.
+
+Unresolved
+
+Determining the specific plants which will be affected by depletions and new drilling is an unresolved issue.  The reciepient plant for new drilling may be identified in public records or we may be able to use rig coordinates to determine the closest and most likely plant.  Depletions may be more difficult as I am unsure if the well data can be readily cross-referenced with the corresponding plants.
+
+DEMAND
+
+This effort is being led by Mat Smith and supported by Jason Huang and myself.  Our near-term goals are to refine the existing California model and to develop similar models for the PNW, DSW, and RM.
+
+Jason Wolfe is facilitating data collection and interpretation for the PNW.  I will likely recruit Billianna to follow suit in the DSW.  Jason Huang is moving to Gaskill's group, however, he will still have some involvement in this project.  I still intend on recruiting an individual from the research group, but feel that it is best to have the other regions ""framed"" (ie: model built) prior to bringing that person aboard.  His role will be to refine our technique and mathematics.
+
+Data collection and interpretation
+
+Much of the needed data is already in place, however some work remains.  Our existing NWPL histories consist of a handfull of compressor flows; demand is calculated by subtracting the downstream flow from the upstream flow.  This ""rough""  method works, but the downsides are: (1) this calculated number includes changes in line pack and therfore true demand is hidden; (2) we are forced to break NWPL into arbitrary regions determined by the placement of compressors.  Jason W. is working on collecting flows at every meter on the pipe.  This will afford a much more accurate reading of true demand devoid of linepack changes and significantly better regression analysis will result.  Jason is also looking at a more meaningful way of dividing the pipe into demand zones.
+
+El Paso's system does not provide flows at individual meters, but we have recently discovered that several years of actual flows for pre-determined zones are available.  (Phoenix area, Tucson area, and El Paso City area).  Monique was working on uploading this data into our database.  I think Bilianna can pick up where Monique left off.
+
+An ongoing process will be to drill into the various demand zones to gain a better understanding of specific drivers of that demand.  ie: weather sensitive load, industrial load and related economic factors, etc...
+
+PNW, DSW, and RM regression analsysis
+
+Two hurdles have prevented us from moving forward on this front.  First, the data collection discussed above-- this process should be complete within two weeks.  Second, our intention is to use Portland's power demand forecasts as a variable in our gas demand models.  Mat Smith needs to visit Portland to gain a comprehensive understanding of these load forecasts.  He has a trip scheduled for the end of October.
+
+Provided things go according to plan, we should have ""rough"" models in place by mid-November.  At that time I will look to bring a research person aboard.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","mike.grigsby@enron.com","mike.grigsby@enron.com","SMTP","k..allen@enron.com;matt.smith@enron.com","k..allen@enron.com;matt.smith@enron.com","SMTP;SMTP","k..allen@enron.com;matt.smith@enron.com","k..allen@enron.com;matt.smith@enron.com","SMTP;SMTP",,,"Normal"
+"Rotation on west gas desk","Brent:
+
+Phillip Allen passed your resume to me.  I would like to discuss the possibilty of you spending your first rotation in Houston with Mike Grigsby and myself on the west natural gas trading desk.  I understand that you are a trading candidate and a rotation on the west desk would fulfill one of the program requirements.  I will be in London November 9th, please let me know if you can spare a few minutes.
+
+Thanks
+Keith Holst
+713-853-7069   
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","brent.dornier@enron.com","brent.dornier@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Work Hours","F.U.!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+Just kidding.
+
+ -----Original Message-----
+From: 	Grigsby, Mike  
+Sent:	Monday, October 22, 2001 6:46 PM
+To:	Allen, Phillip K.; Gay, Randall L.; Heu, Mog; Holst, Keith; Huang, Jason; Kuykendall, Tori; Lenhart, Matthew; Lisk, Daniel; Reitmeyer, Jay; Sanchez, Monique; Scott, Susan M.; Smith, Matt; South, Steven P.; Sullivan, Patti; Tholt, Jane M.; Tycholiz, Barry; Wolfe, Jason
+Subject:	Work Hours
+
+Dear West,
+
+We talked briefly on Monday about our commitment to a full work day at Enron.  If you are in the office, then please be prepared to contribute to the group for a full day.  Our schedule now calls for critical communication in the afternoons.  We need to know that each employee will be here every day to create the consistency needed to outperform the rest of the market.  
+
+We want to remain as flexible as possible with all traders when it comes to an emergency, but remember that you have a commitment to Enron to contribute a full work day.  
+
+Please organize your vacation on the west desk calendar with Ina and coordinate any early afternoon departures with Ina and myself.  Also, prepare to have your markets covered when you leave the office early.
+
+Sincerely,
+
+Mike
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","mike.grigsby@enron.com","mike.grigsby@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Rotation on west gas desk","Brent:
+
+We are really looking forward to having you on the team.  The new trading floor is awesome.  Feel free to take a couple extra days if you need them.
+
+Keith
+
+ -----Original Message-----
+From: 	Dornier, Brent  
+Sent:	Tuesday, November 20, 2001 6:07 AM
+To:	Holst, Keith
+Subject:	RE: Rotation on west gas desk
+
+Keith,
+
+I hope that you had a good time in London... Scotland was fantastic. I'm really glad that I got to go before I leave. Speaking of which, I received word from Karen Buckley that I'll be joining West Gas. I must admit, I'm pretty excited about it. I think that my start date will be December 5, although I haven't received any confirmation of that...
+
+See you soon,
+
+-Brent
+
+ -----Original Message-----
+From: 	Holst, Keith  
+Sent:	02 November 2001 18:07
+To:	Dornier, Brent
+Subject:	RE: Rotation on west gas desk
+
+Going to Scotland for the weekend....Why the hell are you moving back to Houston?  In 2 months you'll be going to Galveston for the weekend.  Anyway, I'm arriving early Friday morning and plan on reaching Enron around 1:00 PM.  If it works for you, lets plan on meeting around 1:30 PM.
+
+Keith 
+
+ -----Original Message-----
+From: 	Dornier, Brent  
+Sent:	Friday, November 02, 2001 11:42 AM
+To:	Holst, Keith
+Subject:	RE: Rotation on west gas desk
+
+Let's do it. The only time requirement I have on Friday is in the afternoon. I'm going to have to blow out of here around 4:00pm to catch a flight to Scotland for the weekend. The rest of day is open.
+
+Looking forward to seeing you.
+
+-Brent
+
+ -----Original Message-----
+From: 	Holst, Keith  
+Sent:	02 November 2001 17:34
+To:	Dornier, Brent
+Subject:	Rotation on west gas desk
+
+Brent:
+
+Phillip Allen passed your resume to me.  I would like to discuss the possibilty of you spending your first rotation in Houston with Mike Grigsby and myself on the west natural gas trading desk.  I understand that you are a trading candidate and a rotation on the west desk would fulfill one of the program requirements.  I will be in London November 9th, please let me know if you can spare a few minutes.
+
+Thanks
+Keith Holst
+713-853-7069   
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","brent.dornier@enron.com","brent.dornier@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: London","Thanks for the e-mail.  I'm excited to come visit in Nov.  However, this ""bring your wallet"" idea doesn't fit well with my new ""I'm a cheap-skate mode"". Oh well, what's a few bucks...money well spent to hang with a good buddy London.
+
+Nov 2, or Nov 5 work fine, its upto you.  Well I've got to cut this short, Calpine is out banging on some N-M.
+
+Cheers
+KH 
+
+-----Original Message-----
+From: scott halperin [mailto:sahamrx@yahoo.com]
+Sent: Monday, October 22, 2001 3:21 AM
+To: Holst, Keith
+Subject: London
+
+
+Morning sunshine..all is well here in London...doing
+alot of looking around and am totally overwhelmed with
+the sense of world history with each step taken and
+each sight seen...looked at 16 flats to try and find a
+place to live on friday, only one is a real candidate
+with possibly one other..will know more today on that
+front...you need to do one thing when you pack for
+your trip to London.BRING YOUR WALLET. ive lived in
+chicago, miami, houston, kansas city, seattle and
+spent alot of time in both  san fran and las vegas..im
+here to tell you no TWO of those cities combined are
+as expensive as London standing alone..its unreal!!!
+It seems to me we might have a shot at closing on that
+friday Nov.2...give me a few more days to get things
+cleared up and Ill let you know...if your dying to
+hear my sexy voice u can dial direct just as you read
+it..011447786844020..it is my new mobile phone..hope
+all is well..S
+
+__________________________________________________
+Do You Yahoo!?
+Make a great connection at Yahoo! Personals.
+http://personals.yahoo.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","sahamrx@yahoo.com","sahamrx@yahoo.com","SMTP",,,,,,,,,"Normal"
+"RE:","how about monday and tuesday?
+
+
+-----Original Message-----
+From: Lyons, Jeff (CA - Calgary) [mailto:jlyons@deloitte.ca]
+Sent: Monday, November 26, 2001 4:32 PM
+To: Keith Holst
+Subject: 
+Importance: High
+
+
+can you take thursday and friday off?
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","'lyons@enron.com;jlyons@deloitte.ca","'lyons@enron.com;jlyons@deloitte.ca","SMTP;SMTP",,,,,,,,,"Normal"
+"RE: London","I am sorry.  I forgot that you're the only people on earth that have things going on in their lives!!!!
+
+
+-----Original Message-----
+From: scott halperin [mailto:sahamrx@yahoo.com]
+Sent: Monday, October 22, 2001 3:21 AM
+To: Holst, Keith
+Subject: London
+
+
+Morning sunshine..all is well here in London...doing
+alot of looking around and am totally overwhelmed with
+the sense of world history with each step taken and
+each sight seen...looked at 16 flats to try and find a
+place to live on friday, only one is a real candidate
+with possibly one other..will know more today on that
+front...you need to do one thing when you pack for
+your trip to London.BRING YOUR WALLET. ive lived in
+chicago, miami, houston, kansas city, seattle and
+spent alot of time in both  san fran and las vegas..im
+here to tell you no TWO of those cities combined are
+as expensive as London standing alone..its unreal!!!
+It seems to me we might have a shot at closing on that
+friday Nov.2...give me a few more days to get things
+cleared up and Ill let you know...if your dying to
+hear my sexy voice u can dial direct just as you read
+it..011447786844020..it is my new mobile phone..hope
+all is well..S
+
+__________________________________________________
+Do You Yahoo!?
+Make a great connection at Yahoo! Personals.
+http://personals.yahoo.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","sahamrx@yahoo.com","sahamrx@yahoo.com","SMTP",,,,,,,,,"Normal"
+"Potential rotation in west gas trading discussed with Mike Roberts","Vince,
+
+We are searching for an individual to join the west gas trading desk on a temporary basis to lead the development of a comprehensive energy demand model.  Mike Roberts suggested that a member from your research team might be a good fit.
+
+Our vision is to develop a consumption model for the western states (WSCC) which merges factors from natural gas and electricity markets.  This model would consider but may not be limited to: weather, electricity loads, a generation stack and commodity prices (hyrdo, coal, nuclear, oil, etc...), electricity transmission across regions, and predictable non-economic behavior patterns.  This individual would receive extensive exposure to our commercial environment and would have significant support from team members on our desk.
+
+Two members of our team have started this project and I am very excited by the scope and depth that can be achieved with your help.  Please let me know if you are interested.
+
+Sincerely,
+Keith Holst
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","j.kaminski@enron.com","j.kaminski@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: [Fwd: Enron trades]","Peter,
+ 
+Credit just blessed these transactions.  Give me a call in the morning and we can confirm them.
+ 
+Thanks.
+Keith
+
+-----Original Message-----
+From: Peter Sherk [mailto:Peter.Sherk@morganstanley.com]
+Sent: Monday, October 29, 2001 2:45 PM
+To: Holst, Keith
+Subject: [Fwd: Enron trades]
+
+
+Keith, I've just spoke with Mark, and he agrees with all this.   If you want to give me a call when you have a minute, I'll conference in Mark from Aron, and we'll just confirm all this. 
+
+Peter 
+
+-------- Original Message -------- 
+Subject: 	 Enron trades	
+Date: 	 Mon, 29 Oct 2001 14:47:10 -0500	
+From: 	 Peter Sherk <Peter.Sherk@morganstanley.com>	
+Reply-To: 	 Peter.Sherk@morganstanley.com	
+Organization: 	 Morgan Stanley	
+To: 	 mark.griffith@gs.com	
+
+Mark, 
+
+I've been speaking with Enron and trying to get one person that we can talk to about all these trades. Keith Holst is set to go, and I'll send him this email once you agree with it.  Then we'll all get on the phone together. 
+
+Peter 
+  
+
+Transco Zone 6 
+  
+
+    X1H2       Morgan Stanley sells, Enron buys 1.5/day @ Nymex Last Day + $1.50 
+                    Morgan Stanley buys, J Aron sells, ..... 
+                    J Aron buys, Enron sells, .... 
+
+    J2V2        Morgan Stanley sells, Enron buys 1/day @ Nymex Last Day + $0.43 
+                    Morgan Stanley buys, J Aron sells, ..... 
+                    J Aron buys, Enron sells, .... 
+  
+
+Malin 
+
+  Z1H2       Morgan Stanley sells, Enron buys 1.5/day @ Nymex Last Day - $0.05 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, .... 
+
+Permian 
+
+X1H2         Morgan Stanley sells, Enron buys 1/day @ Nymex Last Day - $0.20 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, .... 
+
+J2V2          Morgan Stanley sells, Enron buys 1/day @ Nymex Last Day - $0.135 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, .... 
+
+San Juan 
+
+  Cal 2003 Morgan Stanley sells, Enron buys 0.5/day @ Nymex Last Day - $.235 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, . 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","peter.sherk@morganstanley.com","peter.sherk@morganstanley.com","SMTP",,,,,,,,,"Normal"
+"Suggested course in uncertain times","John,
+
+Let me begin by recognizing that you are now entrusted to resolve issues that were not of your own creation.  I also appreciate the tremendous amount of stress that you have been under especially considering the birth of your second child.  I do not envy you now, yet I am sincerely grateful that it is you and Greg leading us through these times.
+
+The message that you have sent throughout my six years with Enron has been ""trust the system until it fails you"".  We would all be disappointed if our troubled times were a result of a few (rather large) ill-conceived investments, but the violation of trust comes from the deliberate misrepresentation of facts.  Namely the restatement of earnings and balance sheet items back to 1997.  We have all based our decisions to continue employment with Enron upon publicly available information.  Has fraudulence been proven in a court of law?  No.  However, the court of public opinion has already had it its trial, the perpetrators have been convicted and the victims now await retribution.  In this matter, the corporation is responsible to the court of public opinions jurisdiction.  I write you now to offer my version of justice.
+
+From 1997 to date I have received restricted stock and options with a notional value of approximately $700,000 (by memory).  At the end of each compensation period, I based my decision to continue my employment with Enron on all publicly available information.  This corporation has deliberately and knowingly misrepresented these facts.  Today, I call on Enron to repurchase my entire equity portfolio and replace it with a one time lump sum payment equal to the exact notional value.
+
+My situation is certainly unique.  I can save you the effort and inform you that my net career to date contribution is $zero.  To this I have three responses: (1)  At no time did I falter from the highest ethical standard, whereas Enron has; (2) I am calling for Enron to address its misrepresentations made prior to my 2001 misfortune.  It would be an injustice for Enron to use my 2001 performance to justify its prior unethical compensation program; and (3) I am fully prepared to accept zero performance bonus for this year. 
+
+Enron may not be able to offer this solution to all of its employees.  You may need to make decisions on who to keep.  Perhaps Enron should offer to release those less desired individuals from any contractual obligations.
+
+John, I recognize that these issues cannot be resolved over night.  I will be as patient as I can be.
+
+Sincerely,
+Keith
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","k..allen@enron.com","k..allen@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: ACCEPTANCE: West Gas Trading Rotation","Zac
+ 
+We are looking forward to having you join our team.  I will be out of the office Friday, returning Monday.
+ 
+Keith
+
+-----Original Message-----
+From: McCarroll, Zachary 
+Sent: Wednesday, November 07, 2001 5:33 PM
+To: Grigsby, Mike; Holst, Keith
+Cc: Friesenhahn, Shelly; Smida, Ed
+Subject: ACCEPTANCE: West Gas Trading Rotation
+
+
+Mike and Keith,
+ 
+I am accepting the position with the West Trading Desk.  I am excited about the opportunity and look forward to starting on the desk soon.  I will discuss the timing of my departure with Ed Smida, but expect the rotation will within the week.  
+ 
+Shelly, we need to complete the ""back-office"" changes as soon as possible.  Let me know what I need to do to help.
+ 
+Thank you all very much for the opportunity.
+ 
+Zac
+
+-----Original Message-----
+From: Grigsby, Mike 
+Sent: Tuesday, November 06, 2001 10:00 PM
+To: McCarroll, Zachary
+Cc: Friesenhahn, Shelly
+Subject: RE: West Gas Trading Rotation
+
+
+Shelly,
+ 
+I have extended an offer to Zac to join the west gas trading desk.  He will let you and I know what his decision is as soon as possible.  We could have him rotate immediately.
+ 
+I may be reached at 37031.
+ 
+Sincerely,
+Mike Grigsby
+ 
+
+-----Original Message----- 
+From: McCarroll, Zachary 
+Sent: Mon 11/5/2001 1:45 PM 
+To: Grigsby, Mike 
+Cc: Friesenhahn, Shelly 
+Subject: West Gas Trading Rotation
+
+
+
+Mike, 
+
+I spoke with Andrea and Shelly from the A/A office and they informed me that there are currently positions available within West Gas Trading.  I am interested in the opportunity and would like to speak with you.  Please inform me on the current opportunities available and how you would like to proceed with this process in subsequent discussions.  You can contact me at x-57122.  
+
+I have attached a resume for your reference. 
+
+Thank you and I look forward to speaking with you. 
+
+Zac McCarroll 
+Senior Analyst 
+w:  713-345-7122 
+c:  713-859-8021 
+
+
+<<Resume 10-15-01.doc>> 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","zachary.mccarroll@enron.com","zachary.mccarroll@enron.com","SMTP",,,,,,,,,"Normal"
+"ENA marketing staff taking origination on EES deals","Don,
+
+I wanted to bring to your attention the practice of EES traders transacting with ENA through our origination group. (At least in the SoCal basis which is the product I trade.)  This practice hurts both your business and ours as our marketers are adding origination.  EES incurs higher transaction costs and ENA may be losing out on deal flow because of inflated prices.  
+
+We addressed this issue several months ago by requesting that EES traders call our trading desk directly.  Assuming it was solved, I had not given it another thought.  Unfortunately, I have learned that this practice has been resurrected.  It is neither my place nor intention to tell you how to run your group, so I am requesting that you put an end to it on your side.  We are committed to providing liquidity at market prices to your desk.
+
+Sincerely,
+Keith Holst 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","don.black@enron.com","don.black@enron.com","SMTP","mike.grigsby@enron.com","mike.grigsby@enron.com","SMTP","mike.grigsby@enron.com","mike.grigsby@enron.com","SMTP",,,"Normal"
+"FW: enron risk remaining natgas position","Geoff:
+
+Attached is J.Aron's request and their exposure to Enron.  Rita has not already found a suitable offset as she felt it was most appropriate to get our permission first.  PLease make go away.
+
+Also, I received a similar request from David Dutch at Entergy-Koch.  Please call him at 713-544-5580.  Make this go away too.
+
+Finally, find paper I put on your desk from Harrison wtih Sempra.
+
+Have fun Sweet Pea!!!
+
+
+-----Original Message-----
+From: Nagle, Rita [mailto:rita.nagle@gs.com]
+Sent: Tuesday, October 30, 2001 3:34 PM
+To: Holst, Keith
+Subject: FW: enron risk remaining natgas position
+
+
+CONFIDENTIAL INFORMATION - FOR YOUR USE ONLY
+
+Keith:
+
+This is what I am showing for our open exposure with enron in the western
+region.  The positions represent your side...ie: you are net long perm basis
+from us.  If you can scan your files to see who we could all wash with to
+reduce net exposure, I would appreciate it.
+Please give me a buzz in the morning.
+
+Hope all is well with you.
+
+Rita
+
+New York  212-902-0776/London  441-71-774-1021/Singapore
+65-889-2171/Calgary  403-233-9293
+This material has been prepared specifically for you by the Fixed Income or
+J. Aron Trading/Sales Department and is not the product of Fixed Income or
+J. Aron Research.  We are not soliciting any action based upon this
+material. Opinions expressed are our present opinions only.  The material is
+based upon information which we consider reliable, but we do not represent
+that it is accurate or complete, and it should not be relied upon as such.
+Certain transactions, including those involving futures, options and high
+yield securities, give rise to substantial risk and are not suitable for all
+investors. We, or persons involved in the preparation or issuance of this
+material, may from time to time, have long or short positions in, and buy or
+sell, the securities, futures, options or other instruments and investments
+identical with or related to those mentioned herein. Goldman Sachs does not
+provide accounting, tax or legal advice; such matters should be discussed
+with your advisors and or counsel.  In addition, we mutually agree that,
+subject to applicable law, you may disclose any and all aspects of this
+material that are necessary to support any U.S. federal income tax benefits,
+without Goldman Sachs imposing any limitation of any kind.  This material
+has been issued by Goldman, Sachs & Co. and has been approved by Goldman
+Sachs International, which is regulated by The Securities and Futures
+Authority, in connection with its distribution in the United Kingdom and by
+Goldman Sachs Canada in connection with its distribution in Canada.  Further
+information on any of the securities, futures or options mentioned in this
+material may be obtained upon request and for this purpose persons in Italy
+should contact Goldman Sachs S.I.M. S.p.A. in Milan, or at its London branch
+office at 133 Fleet Street.
+
+-----Original Message-----
+From: Nagle, Rita 
+Sent: Tuesday, October 30, 2001 4:03 PM
+To: Okabayashi, Sai
+Subject: FW: enron risk remaining natgas position
+
+
+Sai:
+
+Plse take the spreadsheet below and cut out ELPerm/ELPSan
+Juan/Norcan/Malor/Sobcal and put these into a separate spreadsheet.  I need
+to send those points to Enron tonight with a disclaimer on the bottom so
+that we can work on rolling out of risk.
+
+thanks.
+rita
+
+-----Original Message-----
+From: Lesin, Alex 
+Sent: Tuesday, October 30, 2001 2:35 PM
+To: Bachman, Paul; Griffith, Mark; Nagle, Rita; Petry, Herb
+Subject: enron risk remaining natgas position
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","geoff.storey@enron.com","geoff.storey@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: enron risk remaining natgas position","Rita:
+
+In an effort to handle these matters in an efficient and coordinated manner, we have assigned Geoff Storey as the Enron point person.  I am forwarding your request to him.  Geoff can be reached at 713-853-7058.  Please let me know if I can help in any way.
+
+Thanks
+Keith
+
+-----Original Message-----
+From: Nagle, Rita [mailto:rita.nagle@gs.com]
+Sent: Tuesday, October 30, 2001 3:34 PM
+To: Holst, Keith
+Subject: FW: enron risk remaining natgas position
+
+
+CONFIDENTIAL INFORMATION - FOR YOUR USE ONLY
+
+Keith:
+
+This is what I am showing for our open exposure with enron in the western
+region.  The positions represent your side...ie: you are net long perm basis
+from us.  If you can scan your files to see who we could all wash with to
+reduce net exposure, I would appreciate it.
+Please give me a buzz in the morning.
+
+Hope all is well with you.
+
+Rita
+
+New York  212-902-0776/London  441-71-774-1021/Singapore
+65-889-2171/Calgary  403-233-9293
+This material has been prepared specifically for you by the Fixed Income or
+J. Aron Trading/Sales Department and is not the product of Fixed Income or
+J. Aron Research.  We are not soliciting any action based upon this
+material. Opinions expressed are our present opinions only.  The material is
+based upon information which we consider reliable, but we do not represent
+that it is accurate or complete, and it should not be relied upon as such.
+Certain transactions, including those involving futures, options and high
+yield securities, give rise to substantial risk and are not suitable for all
+investors. We, or persons involved in the preparation or issuance of this
+material, may from time to time, have long or short positions in, and buy or
+sell, the securities, futures, options or other instruments and investments
+identical with or related to those mentioned herein. Goldman Sachs does not
+provide accounting, tax or legal advice; such matters should be discussed
+with your advisors and or counsel.  In addition, we mutually agree that,
+subject to applicable law, you may disclose any and all aspects of this
+material that are necessary to support any U.S. federal income tax benefits,
+without Goldman Sachs imposing any limitation of any kind.  This material
+has been issued by Goldman, Sachs & Co. and has been approved by Goldman
+Sachs International, which is regulated by The Securities and Futures
+Authority, in connection with its distribution in the United Kingdom and by
+Goldman Sachs Canada in connection with its distribution in Canada.  Further
+information on any of the securities, futures or options mentioned in this
+material may be obtained upon request and for this purpose persons in Italy
+should contact Goldman Sachs S.I.M. S.p.A. in Milan, or at its London branch
+office at 133 Fleet Street.
+
+-----Original Message-----
+From: Nagle, Rita 
+Sent: Tuesday, October 30, 2001 4:03 PM
+To: Okabayashi, Sai
+Subject: FW: enron risk remaining natgas position
+
+
+Sai:
+
+Plse take the spreadsheet below and cut out ELPerm/ELPSan
+Juan/Norcan/Malor/Sobcal and put these into a separate spreadsheet.  I need
+to send those points to Enron tonight with a disclaimer on the bottom so
+that we can work on rolling out of risk.
+
+thanks.
+rita
+
+-----Original Message-----
+From: Lesin, Alex 
+Sent: Tuesday, October 30, 2001 2:35 PM
+To: Bachman, Paul; Griffith, Mark; Nagle, Rita; Petry, Herb
+Subject: enron risk remaining natgas position
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","'nagle@enron.com;rita.nagle@gs.com","'nagle@enron.com;rita.nagle@gs.com","SMTP;SMTP",,,,,,,,,"Normal"
+"FW: tw shippers","
+
+ -----Original Message-----
+From: 	Gay, Randall L.  
+Sent:	Tuesday, November 06, 2001 11:37 AM
+To:	Holst, Keith
+Subject:	tw shippers
+
+  
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","jason.wolfe@enron.com","jason.wolfe@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: tonight...","FU, u stupid b-tch.
+
+-----Original Message-----
+From: Tracy Brassard [mailto:tracy@texexenergy.com]
+Sent: Monday, October 29, 2001 9:13 AM
+To: KHolst@Enron.com
+Subject: tonight...
+
+
+Hey there!  My head is still killing me! I just didn't think it was
+appropriate for me to call in sick on my fourth day...
+
+Tonight we need to go to my place and look online and decide what we want to
+for Thanksgiving.  Where we want to go and where we could stay.  I want to
+tell my dad something soon so he can decide.
+
+T
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","tracy@texexenergy.com","tracy@texexenergy.com","SMTP",,,,,,,,,"Normal"
+"Analyst from London (Brent Dornier)","John,
+
+This is not a critical matter, but one you may want to consider when you get a moment.
+
+Brent Dornier is an analyst who is moving back to Houston from London.  He has been invited to join the trading track program and was scheduled to spend the first rotation on the west desk.  I met him face to face in London a few weeks ago and think he is exceptionally strong.
+
+In the event that we are cutting people from the team and Brent is overlooked I think you should consider meeting him yourself.
+
+Keith 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","john.lavorato@enron.com","john.lavorato@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: [Fwd: Enron trades]","Peter,
+ 
+Enron's credit department is reviewing the proposed transactions.  We will have a response tonight.
+ 
+Keith
+713-853-7069
+
+-----Original Message-----
+From: Peter Sherk [mailto:Peter.Sherk@morganstanley.com]
+Sent: Monday, October 29, 2001 2:45 PM
+To: Holst, Keith
+Subject: [Fwd: Enron trades]
+
+
+Keith, I've just spoke with Mark, and he agrees with all this.   If you want to give me a call when you have a minute, I'll conference in Mark from Aron, and we'll just confirm all this. 
+
+Peter 
+
+-------- Original Message -------- 
+Subject: 	 Enron trades	
+Date: 	 Mon, 29 Oct 2001 14:47:10 -0500	
+From: 	 Peter Sherk <Peter.Sherk@morganstanley.com>	
+Reply-To: 	 Peter.Sherk@morganstanley.com	
+Organization: 	 Morgan Stanley	
+To: 	 mark.griffith@gs.com	
+
+Mark, 
+
+I've been speaking with Enron and trying to get one person that we can talk to about all these trades. Keith Holst is set to go, and I'll send him this email once you agree with it.  Then we'll all get on the phone together. 
+
+Peter 
+  
+
+Transco Zone 6 
+  
+
+    X1H2       Morgan Stanley sells, Enron buys 1.5/day @ Nymex Last Day + $1.50 
+                    Morgan Stanley buys, J Aron sells, ..... 
+                    J Aron buys, Enron sells, .... 
+
+    J2V2        Morgan Stanley sells, Enron buys 1/day @ Nymex Last Day + $0.43 
+                    Morgan Stanley buys, J Aron sells, ..... 
+                    J Aron buys, Enron sells, .... 
+  
+
+Malin 
+
+  Z1H2       Morgan Stanley sells, Enron buys 1.5/day @ Nymex Last Day - $0.05 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, .... 
+
+Permian 
+
+X1H2         Morgan Stanley sells, Enron buys 1/day @ Nymex Last Day - $0.20 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, .... 
+
+J2V2          Morgan Stanley sells, Enron buys 1/day @ Nymex Last Day - $0.135 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, .... 
+
+San Juan 
+
+  Cal 2003 Morgan Stanley sells, Enron buys 0.5/day @ Nymex Last Day - $.235 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, . 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","peter.sherk@morganstanley.com","peter.sherk@morganstanley.com","SMTP",,,,,,,,,"Normal"
+"Suggested course in uncertain times","
+
+ -----Original Message-----
+From: 	Holst, Keith  
+Sent:	Wednesday, November 14, 2001 8:11 AM
+To:	Allen, Phillip K.
+Subject:	Suggested course in uncertain times
+
+John,
+
+Let me begin by recognizing that you are now entrusted to resolve issues that were not of your own creation.  I also appreciate the tremendous amount of stress that you have been under especially considering the birth of your second child.  I do not envy you now, yet I am sincerely grateful that it is you and Greg leading us through these times.
+
+The message that you have sent throughout my six years with Enron has been ""trust the system until it fails you"".  We would all be disappointed if our troubled times were a result of a few (rather large) ill-conceived investments, but the violation of trust comes from the deliberate misrepresentation of facts.  Namely the restatement of earnings and balance sheet items back to 1997.  We have all based our decisions to continue employment with Enron upon publicly available information.  Has fraudulence been proven in a court of law?  No.  However, the court of public opinion has already had it its trial, the perpetrators have been convicted and the victims now await retribution.  In this matter, the corporation is responsible to the court of public opinions jurisdiction.  I write you now to offer my version of justice.
+
+From 1997 to date I have received restricted stock and options with a notional value of approximately $700,000 (by memory).  At the end of each compensation period, I based my decision to continue my employment with Enron on all publicly available information.  This corporation has deliberately and knowingly misrepresented these facts.  Today, I call on Enron to repurchase my entire equity portfolio and replace it with a one time lump sum payment equal to the exact notional value.
+
+My situation is certainly unique.  I can save you the effort and inform you that my net career to date contribution is $zero.  To this I have four responses: (1)  At no time did I falter from the highest ethical standard, whereas Enron has; (2) I am calling for Enron to address its misrepresentations made prior to my 2001 misfortune.  It would be an injustice for Enron to use my 2001 performance to justify its prior unethical compensation program; (3) I am fully prepared to accept zero performance bonus for this year; and (4) Despite my expectation of zero bonus I have continued to work diligently (including nights and weekends at your suggestion) at rebuilding this team.
+
+Enron may not be able to offer this solution to all of its employees.  You may need to make decisions on who to keep.  Perhaps Enron should offer to release those less desired individuals from any contractual obligations.
+
+John, I recognize that these issues cannot be resolved over night.  I will be as patient as I can be.
+
+Sincerely,
+Keith
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","john.lavorato@enron.com","john.lavorato@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Scott Freeman","Jeff,
+
+Lets make dinner plans to discuss this.....Just kidding.  While Scott was here, we arranged for him to be included in the Oct 29th Trading Track interviews.  This seems to be the best thing for him given that he really wants to become a trader.  Once in the program, he'll have 4 rotations (6 months each), some of these would likely be on the west desk.
+
+Mike and I have talked and both agree that it makes good sense for Scott to join west gas given his experience in Portland.  However, the only hitch is that Mike cannot unilaterally decide to bring Scott to the desk.  He will need to negotiate this with the other desk heads and the program director.  This should not be an issue.
+
+Keith 
+
+ -----Original Message-----
+From: 	Richter, Jeff  
+Sent:	Tuesday, October 16, 2001 8:02 AM
+To:	Holst, Keith
+Subject:	Scott Freeman
+
+Keith,
+
+Just wanted to follow up with your group regarding the possibility of Scott Freeman working in your group starting in January.  Either give me a call or send me an email.
+
+Thanks for talking with him last week.
+
+Richter
+
+Jeff Richter                            503.464.3917 (w-pdx)
+Enron North America                            503.701.6488 (c)
+West Power Services                          503.464.3740 (fax)
+121 SW Salmon Street 3WTC0306       jeff.richter@enron.com
+Portland, Oregon  97204
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","jeff.richter@enron.com","jeff.richter@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Scott Freeman","Karen,
+
+Mike Grigsby and I would really appreciate being two of the interviewers of Scott on the 29th if that's not to difficult to arrange.
+
+Thanks
+
+ -----Original Message-----
+From: 	Buckley, Karen  
+Sent:	Tuesday, October 16, 2001 5:29 PM
+To:	Holst, Keith
+Subject:	Scott Freeman
+
+Hi Keith,
+
+Just spoke with Scott with regard to the trading track.  He has been scheduled to interview.
+
+Kind regards,
+
+Karen.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","karen.buckley@enron.com","karen.buckley@enron.com","SMTP",,,,,,,,,"Normal"
+"Travel to the south pacific","Andrew,
+
+Please e-mail a phone number were I can give you a call in a few minutes....Need travel advice.
+
+Keith
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","andrewhescock@hotmail.com","andrewhescock@hotmail.com","SMTP",,,,,,,,,"Normal"
+"RE: London","FYI.  One sure way to piss me off beyond anything you could possibly imagine is critize me for something BEFORE checking the facts!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  I told your wife that I was gonna get the title company's number from you and set it up.  So go fuck yourself!!!!!!!!!!!!!!!!!
+
+-----Original Message-----
+From: scott halperin [mailto:sahamrx@yahoo.com]
+Sent: Monday, October 22, 2001 3:21 AM
+To: Holst, Keith
+Subject: London
+
+
+Morning sunshine..all is well here in London...doing
+alot of looking around and am totally overwhelmed with
+the sense of world history with each step taken and
+each sight seen...looked at 16 flats to try and find a
+place to live on friday, only one is a real candidate
+with possibly one other..will know more today on that
+front...you need to do one thing when you pack for
+your trip to London.BRING YOUR WALLET. ive lived in
+chicago, miami, houston, kansas city, seattle and
+spent alot of time in both  san fran and las vegas..im
+here to tell you no TWO of those cities combined are
+as expensive as London standing alone..its unreal!!!
+It seems to me we might have a shot at closing on that
+friday Nov.2...give me a few more days to get things
+cleared up and Ill let you know...if your dying to
+hear my sexy voice u can dial direct just as you read
+it..011447786844020..it is my new mobile phone..hope
+all is well..S
+
+__________________________________________________
+Do You Yahoo!?
+Make a great connection at Yahoo! Personals.
+http://personals.yahoo.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","sahamrx@yahoo.com","sahamrx@yahoo.com","SMTP",,,,,,,,,"Normal"
+"RE: Rotation on west gas desk","Going to Scotland for the weekend....Why the hell are you moving back to Houston?  In 2 months you'll be going to Galveston for the weekend.  Anyway, I'm arriving early Friday morning and plan on reaching Enron around 1:00 PM.  If it works for you, lets plan on meeting around 1:30 PM.
+
+Keith 
+
+ -----Original Message-----
+From: 	Dornier, Brent  
+Sent:	Friday, November 02, 2001 11:42 AM
+To:	Holst, Keith
+Subject:	RE: Rotation on west gas desk
+
+Let's do it. The only time requirement I have on Friday is in the afternoon. I'm going to have to blow out of here around 4:00pm to catch a flight to Scotland for the weekend. The rest of day is open.
+
+Looking forward to seeing you.
+
+-Brent
+
+ -----Original Message-----
+From: 	Holst, Keith  
+Sent:	02 November 2001 17:34
+To:	Dornier, Brent
+Subject:	Rotation on west gas desk
+
+Brent:
+
+Phillip Allen passed your resume to me.  I would like to discuss the possibilty of you spending your first rotation in Houston with Mike Grigsby and myself on the west natural gas trading desk.  I understand that you are a trading candidate and a rotation on the west desk would fulfill one of the program requirements.  I will be in London November 9th, please let me know if you can spare a few minutes.
+
+Thanks
+Keith Holst
+713-853-7069   
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","brent.dornier@enron.com","brent.dornier@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: ENA Trading Track - Interviews October","Mike Grigsby and I wish to recommend Scott Freeman for the October 29th trading track interviews.  Scott has accepted an analyst position with Enron and will be starting full-time in January, however, he worked as an intern this past summer with West-Power Trading in Portland and comes highly recommended.
+
+Scott's phone number is 512-294-7692.  Please let me know if you anything else from us.
+
+Thanks,
+Keith Holst
+
+ -----Original Message-----
+From: 	Buckley, Karen  
+Sent:	Wednesday, October 10, 2001 2:17 PM
+To:	Allen, Phillip K.; Arnold, John; Arora, Harry; Benson, Robert; Brawner, Sandra F.; Carson, Mike; Cuilla, Martin; Davis, Mark Dana; Ermis, Frank; Forney, John M.; Gilbert-smith, Doug; Grigsby, Mike; Holst, Keith; King, Jeff; Lewis, Andrew H.; Maggi, Mike; Martin, Thomas A.; May, Larry; Mckay, Brad; Mckay, Jonathan; Neal, Scott; Presto, Kevin M.; Schwieger, Jim; Shively, Hunter S.; Storey, Geoff; Sturm, Fletcher J.; Suarez, John; Zipper, Andy; Engler, Adrianne
+Cc:	Lavorato, John; Kitchen, Louise
+Subject:	ENA Trading Track - Interviews October
+
+All,
+
+Please mark you calendars, you  have been selected to participate in the  ENA Trading Track recruiting event Monday, October 29th , 3 pm - 7 pm.     If you are unable to interview on this date please advise.
+
+A selection of you will telephone screen 18 external candidates, and decide whether or not they should proceed to the final round on the above date.    A separate e:mail will be sent in relation to this.
+
+Any questions let me know.
+
+Regards,
+
+Karen 
+x54667
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","karen.buckley@enron.com","karen.buckley@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Its all good news","Nobody is better than you George!!!!!
+
+Thanks
+Keith
+
+-----Original Message-----
+From: George Arvanitis [mailto:George.Arvanitis@mirant.com]
+Sent: Wednesday, October 31, 2001 5:14 PM
+To: Keith Holst (E-mail)
+Subject: Its all good news
+
+
+
+Keith,
+
+Your stock is recovering.
+Your the smartest guy I know in the industry.
+Good family.
+Proven track record.
+Good friends.
+Lots of money.
+Great, I mean fantastic girl.
+And you can always option to come home.
+
+STAY THE ROAD
+
+George
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","george.arvanitis@mirant.com","george.arvanitis@mirant.com","SMTP",,,,,,,,,"Normal"
+"RE: West New Gen file in dropbox","James,
+
+I haved deleted those files.  Sorry for any inconvience this may have caused.  I think I inadvertantly created two new sub folders which I was unathorized to delete.
+
+Keith
+
+ -----Original Message-----
+From: 	Bruce, James  
+Sent:	Friday, October 19, 2001 5:17 PM
+To:	Holst, Keith
+Subject:	West New Gen file in dropbox
+
+Keith,
+
+I noticed that a bunch of files have been placed in the folder O:_Dropbox/West New Gen.  They appear to have been created by you. This is the folder that I designated as a dropbox and the entire westpower trading organization uses that folder to look up this report.  If you would like me to move my folder, I will, but it would involve a great number of people and I hope it would be much simpler if I could move your files to a different folder.  Thanks,
+
+
+James Bruce	
+Enron North America		(503) 464-8122
+West Power Desk		(503) 860-8612 (c)
+121 SW Salmon, 3WTC0306	(503) 464-3740 (fax)
+Portland, OR 97204		James.Bruce@Enron.com
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","james.bruce@enron.com","james.bruce@enron.com","SMTP",,,,,,,,,"Normal"
+"Brent Dornier","Ron,
+
+We are interviewing Brent Dornier for a position on the West gas trading desk and understand that he worked for you in the past.  We seek an individual who possesses exceptional computer skills, is able to complete projects with very little guidance, and has some commercial awareness.  Is Brent our man?
+
+Keith Holst
+713-853-7069
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","ron.slimp@enron.com","ron.slimp@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: [Fwd: Enron trades]"," 
+-----Original Message-----
+From: Peter Sherk [mailto:Peter.Sherk@morganstanley.com]
+Sent: Monday, October 29, 2001 2:45 PM
+To: Holst, Keith
+Subject: [Fwd: Enron trades]
+
+
+Keith, I've just spoke with Mark, and he agrees with all this.   If you want to give me a call when you have a minute, I'll conference in Mark from Aron, and we'll just confirm all this. 
+
+Peter 
+
+-------- Original Message -------- 
+Subject: 	 Enron trades	
+Date: 	 Mon, 29 Oct 2001 14:47:10 -0500	
+From: 	 Peter Sherk <Peter.Sherk@morganstanley.com>	
+Reply-To: 	 Peter.Sherk@morganstanley.com	
+Organization: 	 Morgan Stanley	
+To: 	 mark.griffith@gs.com	
+
+Mark, 
+
+I've been speaking with Enron and trying to get one person that we can talk to about all these trades. Keith Holst is set to go, and I'll send him this email once you agree with it.  Then we'll all get on the phone together. 
+
+Peter 
+  
+
+Transco Zone 6 
+  
+
+    X1H2       Morgan Stanley sells, Enron buys 1.5/day @ Nymex Last Day + $1.50 
+                    Morgan Stanley buys, J Aron sells, ..... 
+                    J Aron buys, Enron sells, .... 
+
+    J2V2        Morgan Stanley sells, Enron buys 1/day @ Nymex Last Day + $0.43 
+                    Morgan Stanley buys, J Aron sells, ..... 
+                    J Aron buys, Enron sells, .... 
+  
+
+Malin 
+
+  Z1H2       Morgan Stanley sells, Enron buys 1.5/day @ Nymex Last Day - $0.05 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, .... 
+
+Permian 
+
+X1H2         Morgan Stanley sells, Enron buys 1/day @ Nymex Last Day - $0.20 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, .... 
+
+J2V2          Morgan Stanley sells, Enron buys 1/day @ Nymex Last Day - $0.135 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, .... 
+
+San Juan 
+
+  Cal 2003 Morgan Stanley sells, Enron buys 0.5/day @ Nymex Last Day - $.235 
+                  Morgan Stanley buys, J Aron sells, ..... 
+                  J Aron buys, Enron sells, . 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","max.sonnonstine@enron.com","max.sonnonstine@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Amerex - Scott Halprian","Andy,
+
+Coincidentally, I will be visiting London November 9th-11th and thought I might visit Enron's offices.
+
+I am unaware of Amerax's penetration into the UK energy markets, but they are among the top three in North America.  As far as brokers go, Scott does a good job.  He is straight forward and honest and consequently was getting the largest share of our business in the west.
+
+If you are interested, I would be happy to introduce you to Scott during my trip.  My schedule is fairly flexible.
+
+Keith 
+
+ -----Original Message-----
+From: 	Fairley, Andrew  
+Sent:	Tuesday, October 30, 2001 9:13 AM
+To:	Holst, Keith; Allen, Phillip K.
+Subject:	Amerex - Scott Halprian
+
+
+Hi guys,
+
+We met last February when I was over in Houston and you kindly gave me some pointers as to how we in the UK can apply your experiences to the UK market.
+
+I have had a call from Scott at Amerex saying he is moving to London to set up here.
+He has said you would recommend him with a view to working our numbers here in Europe.
+
+Would you be able to comment favourably or otherwise when you get a minute?
+
+Many thanks
+
+Andy
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","andrew.fairley@enron.com","andrew.fairley@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Two requests regarding power load forecasts","Tim,
+
+We definitely appreciate any time that Steve is able to spare.  If you like, I will ask Mat coordinate his travel plans with Steve.  Also, if Steve made his rework documentation available, Mat would become familiar with it prior to his trip.
+
+Keith
+
+----Original Message-----
+From: 	Heizenrader, Tim  
+Sent:	Monday, October 01, 2001 4:47 PM
+To:	Holst, Keith
+Subject:	RE: Two requests regarding power load forecasts
+
+
+Keith,
+
+The hitch here is that our demand expert, Steve Swain, is currently on emergency loan to the EES rehabilitation effort, and he's got a pretty tight schedule. I just talked to Steve, though, and he's willing to spend a day or two if we can accomodate his schedule. Also, he's put together some documentation on last year's major rework of the model that will probably make the time available sufficient to get a good understanding of what we're doing.
+
+Tim
+ -----Original Message-----
+From: 	Holst, Keith  
+Sent:	Monday, October 01, 2001 2:25 PM
+To:	Heizenrader, Tim
+Subject:	Two requests regarding power load forecasts
+
+Tim,
+
+Following our discussion in Portland, I reconfigured the structure of west gas fundamentals.  We will have a demand team, production team, and a gas transmission/storage team.  Mat Smith, whom you met last week in Portland, will attack demand and will be joined by an individual from the research group.
+
+Since power consumption is a key driver of gas demand, I have two requests: (1) Will you allow us to use your load forecasts as variables into our gas demand models?;  (2) If you are alright with this, would you mind if Mat traveled to Portland and spent a couple days with your demand person to become more familiar with your process and assumptions?  Mat has been with Enron for about one year and holds a masters in engineering from MIT.  He has a firm grasp on our business and general mathematics and I am confident that he is able to learn quickly.  As far as security is concerned, Mat is bound by a standard Enron non-compete/confidentiality agreement.
+
+Thanks again for your help.
+Keith Holst
+713-853-7069
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","tim.heizenrader@enron.com","tim.heizenrader@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: L1A Visa Extension - Keith Holst","Margaret,
+
+I do wish to renew my visa, however, the system has deleted your previous e-mail containing the questionnaire.  Could you please resend this and a list of other requirements.  I will turn the paper work around in 24 hours.
+
+I am unsure how to respond to the following questions:
+
+	6.   U.S. Alien registration number.....unsure what this is
+
+	7.   Address outside U.S....................I have severed Canadian residency for tax purposes.  Can I answer N/A?
+
+	11. Complete legal name and address of Enron affiliate......similar to #7.  I have severed all ties to Canada, including Enron Canada.
+
+	Entire section on ""Current postino abroad""....similar issue as described in #11.
+
+
+Sorry for the inconvience this has caused.
+
+Thanks
+Keith
+
+ -----Original Message-----
+From: 	Daffin, Margaret  
+Sent:	Wednesday, October 24, 2001 3:01 PM
+To:	Holst, Keith
+Cc:	Slone, Jeanie
+Subject:	L1A Visa Extension - Keith Holst
+
+Keith:  I had sent to you on August 14, an email regarding the extension of your L1A visa. 
+
+Please let me know if you wish to renew this before it expires on February 11, 2002?
+
+If so, I will need you to complete the visa questionnaire form I sent to you and return to me with the required documents.
+
+Please advise soonest.
+Thanks
+Margaret
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","margaret.daffin@enron.com","margaret.daffin@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Scott Freeman","Neither Mike nor I have interviewed Scott before.  Our connection to Scott came through a very strong recommendation from our West-Power trading desk in Portland.  We are interested in Scott because his west power experience is directly related to the west gas market that Mike and I trade.
+
+I don't mean to be a pain.  If this is unconventional, Mike and I will make seperate arrangements for Scott to meet with us.
+
+Thanks
+Keith
+
+
+inal Message-----
+From: 	Buckley, Karen  
+Sent:	Tuesday, October 16, 2001 5:34 PM
+To:	Holst, Keith
+Subject:	RE: Scott Freeman
+
+Gee don't know about that keith... have you interviewed him before?
+
+Karen.
+
+ -----Original Message-----
+From: 	Holst, Keith  
+Sent:	Tuesday, October 16, 2001 5:33 PM
+To:	Buckley, Karen
+Subject:	RE: Scott Freeman
+
+Karen,
+
+Mike Grigsby and I would really appreciate being two of the interviewers of Scott on the 29th if that's not to difficult to arrange.
+
+Thanks
+
+ -----Original Message-----
+From: 	Buckley, Karen  
+Sent:	Tuesday, October 16, 2001 5:29 PM
+To:	Holst, Keith
+Subject:	Scott Freeman
+
+Hi Keith,
+
+Just spoke with Scott with regard to the trading track.  He has been scheduled to interview.
+
+Kind regards,
+
+Karen.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","karen.buckley@enron.com","karen.buckley@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: must see","
+
+ -----Original Message-----
+From: 	Marquez, Jose  
+Sent:	Tuesday, October 23, 2001 2:14 PM
+To:	Holst, Keith
+Subject:	FW: must see
+
+
+
+ -----Original Message-----
+From: 	Roberts, Mike A.  
+Sent:	Tuesday, October 23, 2001 2:10 PM
+To:	Hamilton, Tony; Marquez, Jose; Stevens, Adam; Bennett, Stephen W.
+Subject:	FW: must see
+
+
+
+ -----Original Message-----
+From: 	Davenport, Kaye  
+Sent:	Tuesday, October 23, 2001 8:52 AM
+To:	Dorothy Barnes (E-mail); Evelyn Hickey (E-mail); John/Jen Davenport (E-mail); Katchy Bennett Myer (E-mail); Judy Smith (E-mail); Kathy White (E-mail); Kay Polk (E-mail); Larry Graham (E-mail); Linda Jenkins (E-mail); Lisa Micheaux (E-mail); Malcolm Jacobson - Magnolia (E-mail); Sherry Kelley (E-mail); Roberts, Mike A.
+Subject:	FW: must see
+
+Too good!
+
+ -----Original Message-----
+From: 	Poulson, Marc  
+Sent:	Tuesday, October 23, 2001 8:43 AM
+To:	Cooper, Ford; Murillo, Heriberto; Phelan, Joseph; Davenport, Kaye; Wren, Kimberly; Llamas-Granado, Anita; Finger , Michael; Adler, Jon; Alkhayat, Alhamd
+Subject:	must see
+
+http://www.madblast.com/oska/humor_bin.swf
+
+Marc Poulson
+Enron Xcelerator
+1400 Smith St. 0518e
+Houston, TX 77002
+713.345.7875
+Fax: 713.646.4735
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","k..allen@enron.com","k..allen@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: ???","What the hell are you talking about?
+
+-----Original Message-----
+From: Tlbrassard@aol.com [mailto:Tlbrassard@aol.com]
+Sent: Thursday, October 25, 2001 10:41 AM
+To: KHolst@enron.com
+Subject: ???
+
+
+What would you think about me pulling a Darin and keeping my options open?  Pretty shitty?
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","keith.holst@enron.com","keith.holst@enron.com","SMTP","tlbrassard@aol.com","tlbrassard@aol.com","SMTP",,,,,,,,,"Normal"

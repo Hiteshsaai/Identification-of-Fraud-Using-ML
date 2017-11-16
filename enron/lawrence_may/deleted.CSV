@@ -1,0 +1,437 @@
+"Subject","Body","From: (Name)","From: (Address)","From: (Type)","To: (Name)","To: (Address)","To: (Type)","CC: (Name)","CC: (Address)","CC: (Type)","BCC: (Name)","BCC: (Address)","BCC: (Type)","Billing Information","Categories","Importance","Mileage","Sensitivity"
+"TRV Notification:  (NG - PROPT P/L - 11/21/2001)","The report named: NG - PROPT P/L <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=11&report_name=NG+-+PROPT+P/L&category_cd=5&category_name=FINANCIAL&toc_hide=1&sTV1=5&TV1Exp=Y&current_efct_date=11/21/2001>, published as of 11/21/2001 is now available for viewing on the website.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","errol.mclaughlin@enron.com","errol.mclaughlin@enron.com","SMTP","john.arnold@enron.com;bilal.bajwa@enron.com;john.griffith@enron.com;george.huan@enron.com;mike.maggi@enron.com;larry.may@enron.com;hal.mckinney@enron.com;errol.mclaughlin@enron.com;dutch.quigley@enron.com;sean.riordan@enron.com;joey.taylor@enron.com;dan.thibaut@enron.com","john.arnold@enron.com;bilal.bajwa@enron.com;john.griffith@enron.com;george.huan@enron.com;mike.maggi@enron.com;larry.may@enron.com;hal.mckinney@enron.com;errol.mclaughlin@enron.com;dutch.quigley@enron.com;sean.riordan@enron.com;joey.taylor@enron.com;dan.thibaut@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Gas Indices","
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         IntercontinentalExchange                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Firm Physical Natural Gas Price Bulletin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      For Natural Gas Delivered on Thursday, November  22, 2001 thru Monday, November  26, 2001                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (Trade Date of Wednesday, November  21, 2001)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Click here to access index history .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         * volume represents sell-side only *                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+Region     Hub	High	Low	Wtd Avg Index	Change ($)	Vol (mmBtu)	Hub Name	
+ LOUISIANA 							
+    ANR SE	          $2.0100	          $1.6000	          $1.8645	-    .7481	       1,068,000	American Natural Resources Pipeline Co. - SE  Transmission Pool	
+    Columbia Onshore	          $2.0600	          $1.6300	          $1.8317	-    .6560	       1,342,500	Columbia Gulf Transmission Co. - Onshore Pool 	
+    Henry Hub	          $2.2450	          $1.6700	          $1.9115	-    .7065	       5,318,000	Henry Hub tailgate - Louisiana 	
+    NGPL LA	          $1.9800	          $1.6300	          $1.8028	-    .7152	         935,500	Natural Gas Pipeline Co. of America, Louisiana Pool 	
+    Tenn 500L	          $1.8800	          $1.6025	          $1.7718	-    .7577	         603,000	Tennessee Gas Pipeline Co.-Zone L, 500 Leg Pool 	
+    Tenn 800L	          $1.9100	          $1.6000	          $1.8127	-    .6713	         775,500	Tennessee Gas Pipeline Co.-Zone L, 800 Leg Pool 	
+    TETCO ELA	          $2.1700	          $1.6300	          $1.8862	-    .7131	         610,000	Texas Eastern - East LA 	
+    TETCO WLA	          $2.0000	          $1.6100	          $1.7888	-    .8088	         946,000	Texas Eastern - West LA 	
+    Transco 65	          $2.1100	          $1.7200	          $1.9390	-    .7366	       1,040,500	Transco - Station 65 	
+    Trunkline ELA	          $1.9600	          $1.6000	          $1.8091	-    .7390	         369,500	Trunkline Gas Company - East Louisiana Pool 	
+    TxGas SL	          $2.1500	          $1.6700	          $1.8971	-    .7273	         993,000	Texas Gas Transmission Corp.-Zone SL FT Pool 	
+ MIDCONTINENT 							
+    MichCon, citygate	          $2.2500	          $2.0000	          $2.1075	-    .6977	         977,000	Michigan Consolidated 	
+    NGPL Midcont	          $1.8400	          $1.5800	          $1.7032	-    .7773	         764,500	Natural Gas Pipeline Co. of America, Mid-Continent Pool 	
+    NGPL Nicor, citygate	          $2.1650	          $1.7475	          $1.8816	-    .7266	       2,890,000	Natural Gas Pipeline Co. of America, Nicor Citygate	
+    NGPL NIPSCO, citygate	          $2.0850	          $1.7900	          $1.8770	-    .8610	         450,000	Natural Gas Pipeline Co. of America, Nipsco Citygate	
+    NNG Demarcation	          $1.9700	          $1.6700	          $1.7476	-    .7355	         907,500	Northern Natural Gas, Demarcation Pool 	
+ NORTHEAST 							
+    Columbia TCO	          $2.1000	          $1.6800	          $1.9483	-    .7804	         772,500	Columbia Gas Co. - TCO Pool 	
+    Dominion So.Point	          $2.3800	          $1.8400	          $2.1367	-    .7606	         997,000	Dominion - South Point 	
+    TETCO M3	          $2.3100	          $1.9200	          $2.1651	-    .8869	         831,500	Texas Eastern - M3 Zone 	
+    Transco Z-6 (NY)	          $2.4700	          $2.1500	          $2.3261	-    .9184	         725,500	Transcontinental Gas Pipe Line Corp. - Zone 6 (NY)	
+ WEST 							
+    El Paso non-Bondad	          $1.6500	          $1.3200	          $1.4438	-    .9084	       1,081,500	El Paso - San Juan Basin, Blanco Pool	
+    Huntingdon/Sumas	          $1.9000	          $1.5000	          $1.6757	-    .7201	         732,000	Westcoast Energy & Northwest Pipeline Corp.	
+    Opal	          $1.6300	          $1.3200	          $1.4566	-    .7948	       1,024,000	Opal	
+    PG?Citygate	          $1.8500	          $1.6000	          $1.7012	-    .8513	         980,000	PG?- Citygate 	
+    SoCal Border	          $1.8200	          $1.4500	          $1.5886	-    .9707	       1,145,000	Southern California Border Points (Ehrenberg,Topock,Needles)	
+ WEST TEXAS 							
+    El Paso - Keystone	          $1.8500	          $1.4500	          $1.5963	-    .8563	       2,508,500	El Paso - Keystone Pool	
+    Waha	          $1.9000	          $1.5500	          $1.6598	-    .8520	       1,445,000	Waha Hub - West Texas 	
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Includes all firm physical fixed price trades done from 7 AM to 11:30 AM Central Prevailing Time on the trade date specified for natural gas delivered on the specified date(s).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          IntercontinentalExchange is the world's most liquid trading platform for over-the-counter energy and metals.  Active markets include North American power and natural gas, global crude and refined oil products, and precious metals.  Traded instruments include forwards, swaps, and options.                                                                                                                                                                                                                                                                                                                                                                                                         
+In order to receive the proprietary information contained in this email, you acknowledge and agree that you shall not further disseminate the IntercontinentalExchange Market Data contained herein to any person or entity without the express written consent of IntercontinentalExchange.    Furthermore, you acknowledge that (1) IntercontinentalExchange has exclusive and valuable property rights in this data; (2) IntercontinentalExchange's data is being made available to you only for your own business or personal activities; and (3) you cannot communicate the data, in any form, to any other person or entity without the express written consent of IntercontinentalExchange.                 
+This data is provided to you free of charge.  IntercontinentalExchange reserves the right to cancel this service at any time for any reason or no reason at all.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+You agree that IntercontinentalExchange does not make any representations or warranties, express or implied, with respect to the data.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+To become an Exchange Participant or inquire about the indices, please contact sales@intcx.com .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+To unsubscribe from this service, click here unsubscribe .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ?Copyright IntercontinentalExchange, Inc. 2001, All Rights Reserved.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","feedback@intcx.com","feedback@intcx.com","SMTP","gasindex@list.intcx.com","gasindex@list.intcx.com","SMTP",,,,,,,,,"Normal"
+"PIRA's Electricity Daily Demand Forecast 11/24/01","Attached is PIRA's latest ""Electricity Daily Demand Forecast.""
+
+If you have any questions regarding the report's content, please contact
+Morris Greenberg (email: morris@pira.com) or Victoria Watkins (email:
+vwatkins@pira.com), at (212) 686-6808.
+
+Contact Client Services regarding PIRA report distribution and address
+changes at (212) 686-6808, email: support@pira.com.
+
+NOTE: Circulation of the ""Electricity Daily Demand Forecast"" outside a
+Client's licensed distribution area is strictly prohibited. Clients that are
+unsure of their licensed distribution or require an extension of their
+current license should contact their PIRA sales representative, or email to
+sales@pira.com.
+
+PIRA Energy Group
+
+
+ - ed112401.pdf 
+ - ed112401.xls 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","alex@pira.com","alex@pira.com","SMTP","alex@pira.com","alex@pira.com","SMTP",,,,,,,,,"Normal"
+"Hoil and Unleaded charts 1/25","
+The information contained herein is based on sources that we believe to be
+reliable, but we do not represent that it is accurate or complete.  Nothing
+contained herein should be considered as an offer to sell or a solicitation
+of an offer to buy any financial instruments discussed herein.  Any
+opinions expressed herein are solely those of the author.  As such, they
+may differ in material respects from those of, or expressed or published by
+on behalf of Carr Futures or its officers, directors, employees or
+affiliates.  ? 2001 Carr Futures
+
+
+The charts are now available on the web by clicking on the hot link(s)
+contained in this email. If for any reason you are unable to receive the
+charts via the web, please contact me via email and I will email the charts
+to you as attachments.
+
+
+Distillate     http://www.carrfut.com/research/Energy1/hoil11.pdf
+Unleaded     http://www.carrfut.com/research/Energy1/unlded11.pdf
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","rvujtech@carrfut.com","rvujtech@carrfut.com","SMTP","smollner@carrfut.com","smollner@carrfut.com","SMTP",,,,,,,,,"Normal"
+"Power Indices","
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 IntercontinentalExchange                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Firm Power Price Bulletin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  For Power Delivered on Tuesday, November  27, 2001                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 (Trade Date of Monday, November  26, 2001)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+Click here to access index history
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","feedback@intcx.com","feedback@intcx.com","SMTP","powerindex@list.intcx.com","powerindex@list.intcx.com","SMTP",,,,,,,,,"Normal"
+"Daily Charts 1/25","
+The information contained herein is based on sources that we believe to be
+reliable, but we do not represent that it is accurate or complete.  Nothing
+contained herein should be considered as an offer to sell or a solicitation
+of an offer to buy any financial instruments discussed herein.  Any
+opinions expressed herein are solely those of the author.  As such, they
+may differ in material respects from those of, or expressed or published by
+on behalf of Carr Futures or its officers, directors, employees or
+affiliates.  ? 2001 Carr Futures
+
+
+The charts are now available on the web by clicking on the hot link(s)
+contained in this email. If for any reason you are unable to receive the
+charts via the web, please contact me via email and I will email the charts
+to you as attachments.
+
+
+Crude     http://www.carrfut.com/research/Energy1/crude11.pdf
+Natural Gas     http://www.carrfut.com/research/Energy1/ngas11.pdf
+
+
+Dec/Red Dec WTI Spread
+http://www.carrfut.com/research/Energy1/clz2-clz3.pdf
+April Heat Crack     http://www.carrfut.com/research/Energy1/heatcrack.pdf
+April Gas Crack     http://www.carrfut.com/research/Energy1/gascrack.pdf
+Feb Gas/Heat Spread     http://www.carrfut.com/research/Energy1/hug-hog.pdf
+June Gas/Heat Spread
+http://www.carrfut.com/research/Energy1/HUM-HOM.pdf
+March Gas/Heat Spread
+http://www.carrfut.com/research/Energy1/HUH-HOH.pdf
+Feb/May Unlead Spread
+http://www.carrfut.com/research/Energy1/HUG-HUK.pdf
+April/Dec Crude oil Spread
+http://www.carrfut.com/research/Energy1/clj-clz.pdf
+
+Nat Gas Strip Matrix
+http://www.carrfut.com/research/Energy1/StripmatrixNG11.pdf
+Nat Gas Spread Matrix
+http://www.carrfut.com/research/Energy1/SpreadmatrixNG11.pdf
+
+Crude and Products Spread Matrix
+http://www.carrfut.com/research/Energy1/SpreadmatrixCL11.pdf
+
+Scott Mollner Recommendation
+http://www.carrfut.com/research/Energy1/recom1-25-02.pdf
+
+Mean Reversion Data on CL & Products Spreads
+http://www.carrfut.com/research/Energy1/crude01-25-02.pdf
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","rvujtech@carrfut.com","rvujtech@carrfut.com","SMTP","smollner@carrfut.com","smollner@carrfut.com","SMTP",,,,,,,,,"Normal"
+"Gas Indices","
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         IntercontinentalExchange                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Firm Physical Natural Gas Price Bulletin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      For Natural Gas Delivered on Tuesday, November  27, 2001                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         (Trade Date of Monday, November  26, 2001)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+Click here to access index history
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","feedback@intcx.com","feedback@intcx.com","SMTP","gasindex@list.intcx.com","gasindex@list.intcx.com","SMTP",,,,,,,,,"Normal"
+"Power Indices","
+
+IntercontinentalExchange 
+Firm Power Price Bulletin 
+For Power Delivered on Friday, November 23, 2001 
+(Trade Date of Wednesday, November 21, 2001) 
+Click here to access index history. 
+* volume represents sell-side only * 
+ Hub 	 High 	 Low 	 Wtd Avg Index 	 Change ($) 	 Vol (Mwh) 	
+ Cinergy 	 $17.50 	 $14.75 	 $15.47 	 -5.42 	 7,200 	
+ Comed 	 $13.00 	 $13.00 	 $13.00 	 -3.00 	 800 	
+ Entergy 	 $18.50 	 $16.50 	 $17.06 	 -3.26 	 11,200 	
+ Nepool 	 $28.50 	 $28.25 	 $28.38 	 -3.62 	 3,200 	
+ * Palo Verde 	 $22.00 	 $17.50 	 $19.99 	 +4.33 	 16,800 	
+ PJM-West 	 $20.10 	 $19.90 	 $19.99 	 -5.47 	 33,600 	
+ * SP-15 	 $23.95 	 $20.00 	 $22.75 	 +5.26 	 28,800 	
+ TVA 	 $15.50 	 $15.00 	 $15.25 	 -5.08 	 2,400 	
+
+
+                                    * Trade date of Tuesday, November 20th, 2001
+
+ 
+For Power Delivered on Monday, November 26, 2001 
+(Trade Date of Wednesday, November 21, 2001) 
+ 
+* volume represents sell-side only * 
+ Hub 	 High 	 Low 	 Wtd Avg Index 	 Change ($) 	 Vol (Mwh) 	
+ Cinergy 	 $21.00 	 $18.00 	 $19.14 	 +3.67 	 11,200 	
+ Comed 	 $17.50 	 $17.00 	 $17.33 	 +4.33 	 2,400 	
+ Entergy 	 $20.50 	 $18.00 	 $19.33 	 +2.27 	 8,800 	
+ Nepool 	 $32.75 	 $31.75 	 $32.33 	 +3.95 	 2,400 	
+ Palo Verde 	 $23.00 	 $20.00 	 $21.00 	 +1.01 	 6,000 	
+ PJM-West 	 $25.15 	 $24.75 	 $24.90 	 +4.91 	 18,400 	
+ SP-15 	 $24.50 	 $23.25 	 $23.90 	 +1.15 	 6,800 	
+ TVA 	 $19.50 	 $17.00 	 $18.70 	 +3.45 	 4,000 	
+
+
+ 
+ 
+Includes all trades done from 6 AM to 11 AM Central Prevailing Time on the trade date specified for financially firm power delivered during the on-peak hours (6 AM - 10 PM CPT for Eastern hubs / 6 AM - 10 PM Pacific Prevailing Time for Western hubs) on the delivery date(s) specified. 
+IntercontinentalExchange is the world's most liquid trading platform for over-the-counter energy and metals.  Active markets include North American power and natural gas, global crude and refined oil products, and precious metals.  Traded instruments include forwards, swaps, and options. 
+In order to receive the proprietary information contained in this email, you acknowledge and agree that you shall not further disseminate the IntercontinentalExchange Market Data contained herein to any person or entity without the express written consent of IntercontinentalExchange.   Furthermore, you acknowledge that (1) IntercontinentalExchange has exclusive and valuable property rights in this data; (2) IntercontinentalExchange's data is being made available to you only for your own business or personal activities; and (3) you cannot communicate the data, in any form, to any other person or entity without the express written consent of IntercontinentalExchange. 
+This data is provided to you free of charge.  IntercontinentalExchange reserves the right to cancel this service at any time for any reason or no reason at all. 
+You agree that IntercontinentalExchange does not make any representations or warranties, express or implied, with respect to the data. 
+To become an Exchange Participant or inquire about the indices, please contact sales@intcx.com. 
+To unsubscribe from this service, click here unsubscribe. 
+?Copyright IntercontinentalExchange, Inc. 2001, All Rights Reserved. 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","feedback@intcx.com","feedback@intcx.com","SMTP","powerindex@list.intcx.com","powerindex@list.intcx.com","SMTP",,,,,,,,,"Normal"
+"Subscription probe for list Reeves (larry.may@enron.com:10)","Subscription probe for list Reeves (larry.may@enron.com:10)
+
+This is a periodic automatic posting from the
+Reeves mailing list.
+
+Do NOT reply to this message unless you want to be
+unsubscribed from this mailing list.
+
+Your current settings for the Reeves are:
+
+Automatic acknowledgement of list postings:	No
+Conceal your email address from queries:	Yes
+Digest mode:					No
+Send mailing list messages to you:		Yes
+Send your own mailing list postings to you:	Yes
+
+You have posted a total of 0 messages
+to the list since subscribing on 10/26/01 15:03:33.
+
+For a list of valid mailing list commands, please send a
+message to ListCaster@LISTSERV.AMUNET.EDU with the word ""HELP"" in
+the message body.
+
+-ListCaster-
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","probe@listserv.amunet.edu","probe@listserv.amunet.edu","SMTP","larry.may@enron.com","larry.may@enron.com","SMTP",,,,,,,,,"Normal"
+"Weekend Outage Report for 11-21-01 through 11-25-01","------------------------------------------------------------------------------------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+November 21, 2001 5:00pm through November 26, 2001 12:00am
+------------------------------------------------------------------------------------------------------
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+ 
+EES: 
+Impact:  EES
+Time:  Sat 11/24/2001 at  10:30:00 PM CT thru Sun 11/25/2001 at  6:30:00 AM CT
+	Sat 11/24/2001 at    8:30:00 PM PT thru Sun 11/25/2001 at  4:30:00 AM PT
+	Sun 11/25/2001 at  4:30:00 AM London thru Sun 11/25/2001 at  12:30:00 PM London
+Outage:  EESHOU-FS2 ""R"" drive migration outage
+Environments Impacted:  EES
+Purpose: migration of ""R"" drive to larger disk space
+Backout: restore from backup
+Contact(s): 	Mark Jordan             713-562-4247  
+		Roderic H Gerlach  713-345-3077  
+		Jeff Hughes              713-345-8809
+		Tom Novark              713-345-4962
+ 
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:  No Scheduled Outages.
+
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+MESSAGING: 
+Impact:  nahou-msmbx01p and 02p
+Time:  Wed 11/21/2001 at  7:00:00 PM CT  thru Wed 11/21/2001 at  7:30:00 PM CT
+	Wed 11/21/2001 at  5:00:00 PM PT thru Wed 11/21/2001 at  5:30:00 PM PT
+	Thur 11/22/2001 at  1:00:00 AM London thru Thur 11/22/2001 at  1:30:00 AM
+Outage:  nahou-msdog01v
+Environments Impacted:  Messaging Team
+Purpose: Need to make sure the hotfix works on a production box.
+Backout: remove EXifs.sys and replace with the previous version.
+Contact(s): 	David Lin    713-345-1619
+ 
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER: 
+Impact:  ENPOWER Application
+Time:  Sat 11/24/2001 at  10:00:00 AM CT thru Sun 11/25/2001 at  6:00:00 PM CT
+	Sat 11/24/2001 a     8:00:00 AM PT thru Sun 11/25/2001 at  4:00:00 PM PT
+	Sat 11/24/2001 at  4:00:00 PM London thru Mon 11/26/2001 at  12:00:00 AM London
+Outage:  PWRPROD1 Maintenance
+Environments Impacted:  EnPower Users
+Purpose: Maintenance of database objects. Increase efficiency of space utilization and query performance of the EnPower system.
+Backout: Revert to backed-up copies of objects (All will be backed-up prior to each re-org)
+Contact(s): 	Michael Berger  713-345-3190  281-960-5571
+		Oracle On-Call DBA  N/A  888-993-3793
+		Charles Brewer  713-345-4868  281-960-7066
+		Tantra Invedy  713-853-4304  281-960-7184
+
+Impact: Corp
+Time:   Thur 11/22/2001 at  6:00:00 AM CT thru Fri 11/23/2001 at  12:00:00 AM CT
+	Thur 11/22/2001 at  4:00:00 AM PT thru Thur 11/22/2001 at 10:00:00 PM PT
+	Thur  11/22/2001 at  12:00:00 PM London thru Fri 11/23/2001 at  6:00:00 AM London 
+Outage: Test / Dev disk re layouts, server Croaker
+Environments Impacted: Custom Logs (CEI), EnPower, Equities, ERP/TRV, Estreme Relocation, Etalk, Government Affairs, Infinity, ITOPS, IZZIE, OMS (Yantra), RMS, SIEBEL, WEBMODAL, REMEDY 
+Purpose: Migrate to the new more efficient disk layout with enhanced performance now that testing is complete.
+Backout: Restore original disklayout. Restore data from backup storage.
+Contact(s):  Dolan, Michael713-345-3251
+                   Wells, Malcolm713-345-3716
+ 
+Impact: Corp
+Time:   Thur 11/22/2001 at  6:00:00 AM CT thru Fri 11/23/2001 at  12:00:00 AM CT
+	Thur 11/22/2001 at  4:00:00 AM PT thru Thur 11/22/2001 at 10:00:00 PM PT
+	Thur  11/22/2001 at  12:00:00 PM London thru Fri 11/23/2001 at  6:00:00 AM London 
+Outage: Test/Dev maintenance weekend, server Salmon
+Environments Impacted: CAS, CPR, DCAF-2, ECM, EIM, Global, Infinity, MKM, PEP, POPS 
+Purpose: Migrate to the new more efficient disk layout with enhanced performance now that testing is complete.
+Backout: Restore original disklayout. Restore data from backup storage.
+Contact(s):  Dolan, Michael713-345-3251
+                    Wells, Malcolm713-345-3716
+ 
+Impact: Corp
+Time: Thur 11/22/2001 at  6:00:00 AM CT thru Fri 11/23/2001 at  12:00:00 AM CT
+	Thur 11/22/2001 at  4:00:00 AM PT thru Thur 11/22/2001 at 10:00:00 PM PT
+	Thur  11/22/2001 at  12:00:00 PM London thru Fri 11/23/2001 at  6:00:00 AM London 
+Outage: Test / Dev disk re layouts, Server Charon
+Environments Impacted: OPM, EnLighten, RAM 
+Purpose: Migrate to the new more efficient disk layout with enhanced performance now that testing is complete.
+Backout: Restore original disklayout. Restore data from backup storage.
+Contact(s):  Dolan, Michael713-345-3251
+                   Wells, Malcolm713-345-3716
+ 
+Impact: Corp
+Time: Sat 11/24/2001 06:00 PM thru Sun 11/25/2001 6:00 AM CT
+           Sat 11/24/2001 04:00 PM thru Sun 11/25/2001 4:00 AM PT
+           Sun 11/25/2001 00:00 AM thru Sun 11/25/2001 12:00 PM London
+Outage: Test / Dev disk re layouts, server Ferrari
+Environments Impacted: CPR,EnPower, OMS (Yantra), Power-Exotic, SIEBEL, POPS 
+Purpose: Migrate to the new more efficient disk layout with enhanced performance now that testing is complete.
+Backout: Restore original disklayout. Restore data from backup storage.
+Contact(s):  Dolan, Michael713-345-3251
+                    Wells, Malcolm713-345-3716
+ 
+Impact: Corp
+Time: Sat 11/24/2001 06:00 PM thru Sun 11/25/2001 6:00 AM CT
+           Sat 11/24/2001 04:00 PM thru Sun 11/25/2001 4:00 AM PT
+           Sun 11/25/2001 00:00 AM thru Sun 11/25/2001 12:00 PM London
+Outage: Test / Dev disk re layouts for astral
+Environments Impacted: DCAF3, EQUITIES, Phoenix, RMS, SITARA - OLTP, Infinity, ECM 
+Purpose: Migrate to the new more efficient disk layout with enhanced performance now that testing is complete.
+Backout: Restore original disklayout. Restore data from backup storage.
+Contact(s):  Dolan, Michael713-345-3251
+                    Wells, Malcolm713-345-3716
+ 
+Impact: Corp
+Time: Sat 11/24/2001 06:00 PM thru Sun 11/25/2001 6:00 AM CT
+           Sat 11/24/2001 04:00 PM thru Sun 11/25/2001 4:00 AM PT
+           Sun 11/25/2001 00:00 AM thru Sun 11/25/2001 12:00 PM London
+Outage: Test / Dev disk re layouts for titania
+Environments Impacted: CAS, Custom Logs (CEI), Equities, Estreme Relocation, Global, Government Affairs, POPS, SIEBEL 
+Purpose: Migrate to the new more efficient disk layout with enhanced performance now that testing is complete.
+Backout: Restore original disklayout. Restore data from backup storage.
+Contact(s):  Dolan, Michael713-345-3251
+                    Wells, Malcolm713-345-3716
+
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+								FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management			(713) 853-5536
+SAP/ISC                                                                               (713) 345-4727
+Unify On-Call 					(713) 284-3757  [Pager]
+Sitara On-Call					(713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS			(713) 639-9726  [Pager]
+OSS/UA4/TARP				(713) 285-3165  [Pager]
+CPR						(713) 284-4175  [Pager]
+EDI Support 					(713) 327-3893  [Pager]
+EES Help Desk					(713)853-9797 OR (888)853-9797
+TDS -Trader Decision Support On-Call                    (713) 327-6032 [Pager]
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","no.address@enron.com","no.address@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"TRV Notification:  (NG - Price P/L - 11/21/2001)","The report named: NG - Price P/L <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=10&report_name=NG+-+Price+P/L&category_cd=5&category_name=FINANCIAL&toc_hide=1&sTV1=5&TV1Exp=Y&current_efct_date=11/21/2001>, published as of 11/21/2001 is now available for viewing on the website.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","joey.taylor@enron.com","joey.taylor@enron.com","SMTP","john.arnold@enron.com;bilal.bajwa@enron.com;john.griffith@enron.com;george.huan@enron.com;mike.maggi@enron.com;larry.may@enron.com;hal.mckinney@enron.com;errol.mclaughlin@enron.com;dutch.quigley@enron.com;sean.riordan@enron.com;joey.taylor@enron.com;dan.thibaut@enron.com","john.arnold@enron.com;bilal.bajwa@enron.com;john.griffith@enron.com;george.huan@enron.com;mike.maggi@enron.com;larry.may@enron.com;hal.mckinney@enron.com;errol.mclaughlin@enron.com;dutch.quigley@enron.com;sean.riordan@enron.com;joey.taylor@enron.com;dan.thibaut@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"

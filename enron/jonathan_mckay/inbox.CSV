@@ -1,0 +1,588 @@
+"Subject","Body","From: (Name)","From: (Address)","From: (Type)","To: (Name)","To: (Address)","To: (Type)","CC: (Name)","CC: (Address)","CC: (Type)","BCC: (Name)","BCC: (Address)","BCC: (Type)","Billing Information","Categories","Importance","Mileage","Sensitivity"
+"TRV Notification:  (East P/L Totals - 10/29/2001)","The report named: East P/L Totals <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=1&report_name=East+P/L+Totals&category_cd=1&category_name=EAST&toc_hide=1&sTV1=1&TV1Exp=Y&current_efct_date=10/29/2001>, published as of 10/29/2001 is now available for viewing on the website.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","alejandra.chavez@enron.com","alejandra.chavez@enron.com","SMTP","chuck.ames@enron.com;f..brawner@enron.com;alejandra.chavez@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;chris.germany@enron.com;scott.goodell@enron.com;john.hodge@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;f..keavey@enron.com;kam.keiser@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;scott.neal@enron.com;scott.palmer@enron.com;w..pereira@enron.com;vladi.pimenov@enron.com;andrea.ring@enron.com;jeff.royed@enron.com;kimat.singla@enron.com;craig.taylor@enron.com;judy.townsend@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","chuck.ames@enron.com;f..brawner@enron.com;alejandra.chavez@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;chris.germany@enron.com;scott.goodell@enron.com;john.hodge@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;f..keavey@enron.com;kam.keiser@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;scott.neal@enron.com;scott.palmer@enron.com;w..pereira@enron.com;vladi.pimenov@enron.com;andrea.ring@enron.com;jeff.royed@enron.com;kimat.singla@enron.com;craig.taylor@enron.com;judy.townsend@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"TRV Notification:  (East P/L Totals - 11/26/2001)","The report named: East P/L Totals <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=1&report_name=East+P/L+Totals&category_cd=1&category_name=EAST&toc_hide=1&sTV1=1&TV1Exp=Y&current_efct_date=11/26/2001>, published as of 11/26/2001 is now available for viewing on the website.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","melissa.videtto@enron.com","melissa.videtto@enron.com","SMTP","chuck.ames@enron.com;f..brawner@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;chris.germany@enron.com;scott.goodell@enron.com;john.hodge@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;f..keavey@enron.com;m..love@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;scott.neal@enron.com;scott.palmer@enron.com;w..pereira@enron.com;vladi.pimenov@enron.com;craig.taylor@enron.com;judy.townsend@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","chuck.ames@enron.com;f..brawner@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;chris.germany@enron.com;scott.goodell@enron.com;john.hodge@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;f..keavey@enron.com;m..love@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;scott.neal@enron.com;scott.palmer@enron.com;w..pereira@enron.com;vladi.pimenov@enron.com;craig.taylor@enron.com;judy.townsend@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Quick Tips for the UBSWE migration","
+As of start of business, Wednesday, February 6th, you will have been migrated to the UBSW Energy environment.
+Here are a couple of quick tips and reminders to get you going:
+
+? You will log in with your Enron NT ID, this will not change
+
+?	You will be asked to change your password, follow the standard Enron rules
+
+?	Your desktop will look the same
+
+?	Email will not be affected until Day 1, on which you will have your new UBSWE email address
+
+?	All compliant data and email should be copied to the UBSWE environment no later than Midnight (CST), Thursday, February 7, 2002 (see Data Migration Protocol email for compliancy direction)
+
+?	No data or emails are to be deleted from the system
+
+
+If you have any questions or concerns, please contact the Resolution Center at x 3-1411
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","infrastructure.ubsw@enron.com","infrastructure.ubsw@enron.com","SMTP","canada.dl-ubsw@enron.com;houston.dl-ubsw@enron.com;portland.dl-ubsw@enron.com","canada.dl-ubsw@enron.com;houston.dl-ubsw@enron.com;portland.dl-ubsw@enron.com","SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Here is the Tetco data","Jon,
+
+I have put the data in both raw format and pivot table format.  Sorry about how late this is.  Any questions just let me know.  How is the map comming? Have you had a chance to sit down with the schedulers yet?
+ 
+
+Adam
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","adam.bayer@enron.com","adam.bayer@enron.com","SMTP","jonathan.mckay@enron.com","jonathan.mckay@enron.com","SMTP",,,,,,,,,"Normal"
+"","
+Hi Jonathan, 
+Our compliance department has just contacted us back regarding your request to hold a small cash account here to pay your RSP fees each year.  Their suggestion is that we sell the Janus mutual funds and convert this money to US funds then transfer it to your Dane Rascher account in the US because you are now a US resident and the Investment regulations want it handled that way.
+You could simply send us a cheque for the RSP fees when we notify you each June. 
+I hope you had a good holiday season, did you get home for Christmas?  Let me know by phone if we can proceed as suggested above and I will look after it for you in the new year.  Thanks.
+Dale Onrait, BSP MBA 
+RBC Investments-Kelowna 
+1-800-756-2211 or (250) 712-2191 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dale.onrait@rbc.com","dale.onrait@rbc.com","SMTP","jonathan.mckay@enron.com","jonathan.mckay@enron.com","SMTP",,,,,,,,,"Normal"
+"Enron/Dynegy Merger; Antitrust Issues","
+As you know, Enron has signed a merger agreement by which Dynegy will acquire Enron.  We expect the transaction to close following shareholder and regulatory approvals and various conditions to closing.
+
+Even though Enron has entered into this agreement, U.S. and foreign antitrust laws require that Enron and Dynegy continue to operate independently of each other.  In particular, to the extent that Enron and Dynegy are competitors in various businesses or markets, their respective activities must be undertaken at arm's length until the transaction has closed.  Therefore, for antitrust purposes you should treat Dynegy as you would any other unaffiliated company notwithstanding the merger agreement.
+
+In addition, all information, documents and communications related to the merger between Enron and Dynegy should be coordinated through and approved by Mark Muller, Lance Schuler, Robert Eickenroht, Mark Haedicke, Rob Walls or Greg Whalley of Enron.  It is absolutely critical that this procedure be maintained.  To the extent that information is required to be disclosed to Dynegy under the merger agreement, then such disclosure should be approved by one of the foregoing individuals.
+
+If you have any questions concerning this notice, please contact Lance Schuler (713/853-5419), Robert Eickenroht (713/853-3155), Mark Haedicke (713/853-6544) or Rob Walls (713/646-6017).  Thank you for your help in this matter.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","announcements.enron@enron.com","announcements.enron@enron.com","SMTP","dl-ga-all_enron_worldwide2@enron.com","dl-ga-all_enron_worldwide2@enron.com","SMTP",,,,,,,,,"Normal"
+"YOU HAVE 48 HOURS - Message from Louise Kitchen","
+
+It appears that the following email may not have been clear.  You have to copy all documents yourself.
+
+This is my cheat sheet if it helps:  
+
+H Drives:
+1.  Each person will have to move any data over personally from the old H drive (which is now Z:) drive to their new H drive.  
+2. The Z: drive (old H:) will be removed from UBS employees on Thursday night.
+
+O Drives:
+1. For the old O or M drives go to O:\ESTATE\ O (or M ? pending location of data) and copy to the new common O.  The Estate O and M will be removed from UBS employees on Thursday night.
+
+Do not delete anything and only copy information which is complies with the policy.  Please make sure that those people who are not in the office are contacted and comply.  
+
+
+Louise
+
+  
+
+To:		All Enron Employees Transferring to UBS Warburg Energy (or its affiliates)
+
+Under the terms of the various agreements among certain Enron entities and UBS AG, certain Enron data and documents may be provided to UBS.  To ensure compliance with those agreements, Enron's document retention policy, as well as directives of various investigative agencies, the attached protocol regarding the process for migration of any information or data to UBS has been developed.
+
+Please review the protocol carefully.  Then, complete the attached Certification and return it, with attachments, to Linda Guinn at EB 3829a no later than February 11, 2002.
+
+Questions about this matter may be directed to Michelle Cash at (713) 853-6401 or Francisco Pinto-Leite at (713) 345-7942 .
+
+Protocol Document and Data Copy Instructions
+   
+
+Certification Document
+
+ 
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","julie.clyatt@enron.com","julie.clyatt@enron.com","SMTP","darren.adamik@enron.com;p..adams@enron.com;habib.ahsan@enron.com;d.alexander@enron.com;diana.allen@enron.com;k..allen@enron.com;jason.althaus@enron.com;susan.amador@enron.com;amanullah.aman@enron.com;sherry.anastas@enron.com;dan.arellano@enron.com;ravi.arumbakkam@enron.com;chris.austin@enron.com;luis.aybar@enron.com;natalie.baker@enron.com;arun.balasundaram@enron.com;ted.ballinger@enron.com;charles.ballmer@enron.com;michael.barber@enron.com;eric.bass@enron.com;nilay.basu@enron.com;david.baumbach@enron.com;bryce.baxter@enron.com;chris.behney@enron.com;cedric.belt@enron.com;troy.beyer@enron.com;randy.bhatia@enron.com;jae.black@enron.com;gary.bode@enron.com;f..brawner@enron.com;ryan.brennan@enron.com;craig.breslau@enron.com;karen.buckley@enron.com;victor.bulbes@enron.com;simon.burgess@enron.com;janine.cashin@enron.com;michael.castillo@enron.com;john.cheng@enron.com;suzanne.christiansen@enron.com;diana.cioffi@enron.com;kristen.clause@enron.com;julie.clyatt@enron.com;frank.coles@enron.com;paige.cox@enron.com;a..cummings@enron.com;amanda.curless@enron.com;neil.davies@enron.com;roberto.deleon@enron.com;janet.devereaux@enron.com;dan.dietrich@enron.com;michael.dolan@enron.com;keith.dziadek@enron.com;clay.elliott@enron.com;frank.ermis@enron.com;j..ewing@enron.com;amy.fitzpatrick@enron.com;bryant.frihart@enron.com;l..gay@enron.com;doug.gichana@enron.com;n..gilbert@enron.com;c..giron@enron.com;c..gossett@enron.com;mike.grigsby@enron.com;marlin.gubser@enron.com;claudia.guerra@enron.com;joe.hall@enron.com;mark.hall@enron.com;j..hanson@enron.com;kimberly.hillis@enron.com;d..hogan@enron.com;keith.holst@enron.com;james.hungerford@enron.com;charles.jacobs@enron.com;matthew.james@enron.com;tammy.jaquet@enron.com;anthony.jarrett@enron.com;jamey.johnston@enron.com;brad.jones@enron.com;monte.jones@enron.com;jared.kaiser@enron.com;shivshankar.kandavelu@enron.com;kam.keiser@enron.com;bill.knox@enron.com;brian.larkin@enron.com;john.lavorato@enron.com;rick.le@enron.com;matthew.lenhart@enron.com;kathy.link@enron.com;kori.loibl@enron.com;m..love@enron.com;mike.maggi@enron.com;danielle.marcinkowski@enron.com;a..martin@enron.com;larry.may@enron.com;bob.mcauliffe@enron.com;jonathan.mckay@enron.com;errol.mclaughlin@enron.com;darren.mcnair@enron.com;jason.mcnair@enron.com;shelly.mendel@enron.com;genaro.mendoza@enron.com;stephanie.miller@enron.com;bruce.mills@enron.com;l..mims@enron.com;g..moore@enron.com;daniel.muschar@enron.com;donnie.myers@enron.com;acey.nash@enron.com;scott.neal@enron.com;john.oh@enron.com;matthew.olney@enron.com;michael.olsen@enron.com;kari.oquinn@enron.com;ryan.o'rourke@enron.com;h..otto@enron.com;david.oxley@enron.com;scott.palmer@enron.com;stephen.perich@enron.com;richard.pinion@enron.com;faheem.qavi@enron.com;dutch.quigley@enron.com;ina.rangel@enron.com;edward.ray@enron.com;jay.reitmeyer@enron.com;trey.rhodes@enron.com;andrea.ring@enron.com;tina.rode@enron.com;jenny.rub@enron.com;amanda.rybarski@enron.com;tammie.schoppe@enron.com;russ.severson@enron.com;jennifer.shipos@enron.com;scott.shishido@enron.com;s..shively@enron.com;steve.shortt@enron.com;john.shupak@enron.com;jeanie.slone@enron.com;bruce.smith@enron.com;mathew.smith@enron.com;p..south@enron.com;cathy.sprowls@enron.com;micah.staggs@enron.com;david.steiner@enron.com;geoff.storey@enron.com;patti.sullivan@enron.com;john.taylor@enron.com;joseph.taylor@enron.com;todd.thelen@enron.com;m..tholt@enron.com;benjamin.thompson@enron.com;brent.tiner@enron.com;judy.townsend@enron.com;barry.tycholiz@enron.com;carlos.uribe@enron.com;john.valdes@enron.com;leah.van@enron.com;laura.vargas@enron.com;frank.vickers@enron.com;melissa.videtto@enron.com;laura.vuittonet@enron.com;houston;charles.weldon@enron.com;jon.werner@enron.com;kevin.whitehurst@enron.com;trading;d..winfree@enron.com;ashley.worthing@enron.com;becky.young@enron.com;eddie.zhang@enron.com","darren.adamik@enron.com;p..adams@enron.com;habib.ahsan@enron.com;d.alexander@enron.com;diana.allen@enron.com;k..allen@enron.com;jason.althaus@enron.com;susan.amador@enron.com;amanullah.aman@enron.com;sherry.anastas@enron.com;dan.arellano@enron.com;ravi.arumbakkam@enron.com;chris.austin@enron.com;luis.aybar@enron.com;natalie.baker@enron.com;arun.balasundaram@enron.com;ted.ballinger@enron.com;charles.ballmer@enron.com;michael.barber@enron.com;eric.bass@enron.com;nilay.basu@enron.com;david.baumbach@enron.com;bryce.baxter@enron.com;chris.behney@enron.com;cedric.belt@enron.com;troy.beyer@enron.com;randy.bhatia@enron.com;jae.black@enron.com;gary.bode@enron.com;f..brawner@enron.com;ryan.brennan@enron.com;craig.breslau@enron.com;karen.buckley@enron.com;victor.bulbes@enron.com;simon.burgess@enron.com;janine.cashin@enron.com;michael.castillo@enron.com;john.cheng@enron.com;suzanne.christiansen@enron.com;diana.cioffi@enron.com;kristen.clause@enron.com;julie.clyatt@enron.com;frank.coles@enron.com;paige.cox@enron.com;a..cummings@enron.com;amanda.curless@enron.com;neil.davies@enron.com;roberto.deleon@enron.com;janet.devereaux@enron.com;dan.dietrich@enron.com;michael.dolan@enron.com;keith.dziadek@enron.com;clay.elliott@enron.com;frank.ermis@enron.com;j..ewing@enron.com;amy.fitzpatrick@enron.com;bryant.frihart@enron.com;l..gay@enron.com;doug.gichana@enron.com;n..gilbert@enron.com;c..giron@enron.com;c..gossett@enron.com;mike.grigsby@enron.com;marlin.gubser@enron.com;claudia.guerra@enron.com;joe.hall@enron.com;mark.hall@enron.com;j..hanson@enron.com;kimberly.hillis@enron.com;d..hogan@enron.com;keith.holst@enron.com;james.hungerford@enron.com;charles.jacobs@enron.com;matthew.james@enron.com;tammy.jaquet@enron.com;anthony.jarrett@enron.com;jamey.johnston@enron.com;brad.jones@enron.com;monte.jones@enron.com;jared.kaiser@enron.com;shivshankar.kandavelu@enron.com;kam.keiser@enron.com;bill.knox@enron.com;brian.larkin@enron.com;john.lavorato@enron.com;rick.le@enron.com;matthew.lenhart@enron.com;kathy.link@enron.com;kori.loibl@enron.com;m..love@enron.com;mike.maggi@enron.com;danielle.marcinkowski@enron.com;a..martin@enron.com;larry.may@enron.com;bob.mcauliffe@enron.com;jonathan.mckay@enron.com;errol.mclaughlin@enron.com;darren.mcnair@enron.com;jason.mcnair@enron.com;shelly.mendel@enron.com;genaro.mendoza@enron.com;stephanie.miller@enron.com;bruce.mills@enron.com;l..mims@enron.com;g..moore@enron.com;daniel.muschar@enron.com;donnie.myers@enron.com;acey.nash@enron.com;scott.neal@enron.com;john.oh@enron.com;matthew.olney@enron.com;michael.olsen@enron.com;kari.oquinn@enron.com;ryan.o'rourke@enron.com;h..otto@enron.com;david.oxley@enron.com;scott.palmer@enron.com;stephen.perich@enron.com;richard.pinion@enron.com;faheem.qavi@enron.com;dutch.quigley@enron.com;ina.rangel@enron.com;edward.ray@enron.com;jay.reitmeyer@enron.com;trey.rhodes@enron.com;andrea.ring@enron.com;tina.rode@enron.com;jenny.rub@enron.com;amanda.rybarski@enron.com;tammie.schoppe@enron.com;russ.severson@enron.com;jennifer.shipos@enron.com;scott.shishido@enron.com;s..shively@enron.com;steve.shortt@enron.com;john.shupak@enron.com;jeanie.slone@enron.com;bruce.smith@enron.com;mathew.smith@enron.com;p..south@enron.com;cathy.sprowls@enron.com;micah.staggs@enron.com;david.steiner@enron.com;geoff.storey@enron.com;patti.sullivan@enron.com;john.taylor@enron.com;joseph.taylor@enron.com;todd.thelen@enron.com;m..tholt@enron.com;benjamin.thompson@enron.com;brent.tiner@enron.com;judy.townsend@enron.com;barry.tycholiz@enron.com;carlos.uribe@enron.com;john.valdes@enron.com;leah.van@enron.com;laura.vargas@enron.com;frank.vickers@enron.com;melissa.videtto@enron.com;laura.vuittonet@enron.com;.ward@enron.com;charles.weldon@enron.com;jon.werner@enron.com;kevin.whitehurst@enron.com;.williams@enron.com;d..winfree@enron.com;ashley.worthing@enron.com;becky.young@enron.com;eddie.zhang@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Cost Basis","We are trying to establish your cost basis in your account.  Do you have
+confirms from the purchase date on your securities so we can see when
+the securities were purchased?  We need to know the date because of the
+currency conversion.  Dale Onrait in Canada said you purchased the
+securities from another branch so he does not have the records.  This is
+for your benefit in determining your position if you sell the
+securities.
+
+Also, please contact Dale to sell your Canadian securities and have them
+convert the proceeds to US$.  Tell them to send the money to us for your
+account in Houston.
+
+We still have not received your check.  Did you send it?
+
+Let me know if you would like to grab a drink over the next 2 weeks.
+Everything is slowing down for the holidays and my shopping to done!
+
+Stephen P. Brown
+Financial Consultant
+RBC Dain Rauscher
+2000 West Sam Houston Parkway South, Suite #1500
+Houston, TX  77042
+Phone: 713-623-9258
+Fax: 713-623-9283
+888-246-6675
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","stephen.brown@rbcdain.com","stephen.brown@rbcdain.com","SMTP","jonathan.mckay@enron.com","jonathan.mckay@enron.com","SMTP",,,,,,,,,"Normal"
+"Immigration","
+Hi Jonathan
+
+I have received from Fragomen, the following data which is required for completion of your visa application:
+
+Copy of transcript for field of study.
+
+Regards,
+
+Karen.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","karen.buckley@enron.com","karen.buckley@enron.com","SMTP","jonathan.mckay@enron.com","jonathan.mckay@enron.com","SMTP",,,,,,,,,"Normal"
+"TRV Notification:  (East Position Totals - 10/29/2001)","The report named: East Position Totals <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=2&report_name=East+Position+Totals&category_cd=1&category_name=EAST&toc_hide=1&sTV1=1&TV1Exp=Y&current_efct_date=10/29/2001>, published as of 10/29/2001 is now available for viewing on the website.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","james.hungerford@enron.com","james.hungerford@enron.com","SMTP","chuck.ames@enron.com;alejandra.chavez@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;kam.keiser@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;scott.palmer@enron.com;jeff.royed@enron.com;kimat.singla@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","chuck.ames@enron.com;alejandra.chavez@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;kam.keiser@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;scott.palmer@enron.com;jeff.royed@enron.com;kimat.singla@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"TRV Notification:  (East Position Totals - 11/26/2001)","The report named: East Position Totals <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=2&report_name=East+Position+Totals&category_cd=1&category_name=EAST&toc_hide=1&sTV1=1&TV1Exp=Y&current_efct_date=11/26/2001>, published as of 11/26/2001 is now available for viewing on the website.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","melissa.videtto@enron.com","melissa.videtto@enron.com","SMTP","chuck.ames@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;m..love@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;scott.palmer@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","chuck.ames@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;m..love@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;scott.palmer@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"REMINDER: UBSW Orientation - Thursday. For those that did not attend the Houstonian Sessions","Date: Thursday, February 7th , 2002
+
+Location: ECS 06980
+
+Orientation will be split into two sessions and divided by alpha-order. Sessions will run 10am-12 pm and 2pm- 4 pm.
+
+We encourage all of you to attend your designated session as valuable information will be presented, and you will have the opportunity to get answers to your questions.
+
+You can speed things up tomorrow by filing in the attached forms - alternatively you can complete them there
+
+10am Session   Letters A- K
+
+2pm Session Letters L-Z
+
+
+
+    
+PLEASE RSVP (BY REPLYING TO THIS E-MAIL) - IF YOU HAVEN'T DONE SO ALREADY
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","neil.davies@enron.com","neil.davies@enron.com","SMTP","darren.adamik@enron.com;p..adams@enron.com;habib.ahsan@enron.com;d.alexander@enron.com;diana.allen@enron.com;k..allen@enron.com;jason.althaus@enron.com;susan.amador@enron.com;amanullah.aman@enron.com;sherry.anastas@enron.com;dan.arellano@enron.com;ravi.arumbakkam@enron.com;chris.austin@enron.com;luis.aybar@enron.com;natalie.baker@enron.com;arun.balasundaram@enron.com;ted.ballinger@enron.com;charles.ballmer@enron.com;michael.barber@enron.com;eric.bass@enron.com;nilay.basu@enron.com;david.baumbach@enron.com;bryce.baxter@enron.com;chris.behney@enron.com;cedric.belt@enron.com;troy.beyer@enron.com;randy.bhatia@enron.com;jae.black@enron.com;gary.bode@enron.com;f..brawner@enron.com;ryan.brennan@enron.com;craig.breslau@enron.com;karen.buckley@enron.com;victor.bulbes@enron.com;simon.burgess@enron.com;janine.cashin@enron.com;michael.castillo@enron.com;john.cheng@enron.com;suzanne.christiansen@enron.com;diana.cioffi@enron.com;kristen.clause@enron.com;julie.clyatt@enron.com;frank.coles@enron.com;paige.cox@enron.com;a..cummings@enron.com;amanda.curless@enron.com;neil.davies@enron.com;roberto.deleon@enron.com;janet.devereaux@enron.com;dan.dietrich@enron.com;michael.dolan@enron.com;keith.dziadek@enron.com;clay.elliott@enron.com;frank.ermis@enron.com;j..ewing@enron.com;amy.fitzpatrick@enron.com;bryant.frihart@enron.com;l..gay@enron.com;doug.gichana@enron.com;n..gilbert@enron.com;c..giron@enron.com;c..gossett@enron.com;mike.grigsby@enron.com;marlin.gubser@enron.com;claudia.guerra@enron.com;joe.hall@enron.com;mark.hall@enron.com;j..hanson@enron.com;kimberly.hillis@enron.com;d..hogan@enron.com;keith.holst@enron.com;james.hungerford@enron.com;charles.jacobs@enron.com;matthew.james@enron.com;tammy.jaquet@enron.com;anthony.jarrett@enron.com;jamey.johnston@enron.com;brad.jones@enron.com;monte.jones@enron.com;jared.kaiser@enron.com;shivshankar.kandavelu@enron.com;kam.keiser@enron.com;bill.knox@enron.com;brian.larkin@enron.com;john.lavorato@enron.com;rick.le@enron.com;matthew.lenhart@enron.com;kathy.link@enron.com;kori.loibl@enron.com;m..love@enron.com;mike.maggi@enron.com;danielle.marcinkowski@enron.com;a..martin@enron.com;larry.may@enron.com;bob.mcauliffe@enron.com;jonathan.mckay@enron.com;errol.mclaughlin@enron.com;darren.mcnair@enron.com;jason.mcnair@enron.com;shelly.mendel@enron.com;genaro.mendoza@enron.com;stephanie.miller@enron.com;bruce.mills@enron.com;l..mims@enron.com;g..moore@enron.com;daniel.muschar@enron.com;donnie.myers@enron.com;acey.nash@enron.com;scott.neal@enron.com;john.oh@enron.com;matthew.olney@enron.com;michael.olsen@enron.com;kari.oquinn@enron.com;ryan.o'rourke@enron.com;h..otto@enron.com;david.oxley@enron.com;scott.palmer@enron.com;stephen.perich@enron.com;richard.pinion@enron.com;faheem.qavi@enron.com;dutch.quigley@enron.com;ina.rangel@enron.com;edward.ray@enron.com;jay.reitmeyer@enron.com;trey.rhodes@enron.com;andrea.ring@enron.com;tina.rode@enron.com;jenny.rub@enron.com;amanda.rybarski@enron.com;tammie.schoppe@enron.com;russ.severson@enron.com;jennifer.shipos@enron.com;scott.shishido@enron.com;s..shively@enron.com;steve.shortt@enron.com;john.shupak@enron.com;jeanie.slone@enron.com;bruce.smith@enron.com;mathew.smith@enron.com;p..south@enron.com;cathy.sprowls@enron.com;micah.staggs@enron.com;david.steiner@enron.com;geoff.storey@enron.com;patti.sullivan@enron.com;john.taylor@enron.com;joseph.taylor@enron.com;todd.thelen@enron.com;m..tholt@enron.com;benjamin.thompson@enron.com;brent.tiner@enron.com;judy.townsend@enron.com;barry.tycholiz@enron.com;carlos.uribe@enron.com;john.valdes@enron.com;leah.van@enron.com;laura.vargas@enron.com;frank.vickers@enron.com;melissa.videtto@enron.com;laura.vuittonet@enron.com;houston;charles.weldon@enron.com;jon.werner@enron.com;kevin.whitehurst@enron.com;trading;d..winfree@enron.com;ashley.worthing@enron.com;becky.young@enron.com;eddie.zhang@enron.com","darren.adamik@enron.com;p..adams@enron.com;habib.ahsan@enron.com;d.alexander@enron.com;diana.allen@enron.com;k..allen@enron.com;jason.althaus@enron.com;susan.amador@enron.com;amanullah.aman@enron.com;sherry.anastas@enron.com;dan.arellano@enron.com;ravi.arumbakkam@enron.com;chris.austin@enron.com;luis.aybar@enron.com;natalie.baker@enron.com;arun.balasundaram@enron.com;ted.ballinger@enron.com;charles.ballmer@enron.com;michael.barber@enron.com;eric.bass@enron.com;nilay.basu@enron.com;david.baumbach@enron.com;bryce.baxter@enron.com;chris.behney@enron.com;cedric.belt@enron.com;troy.beyer@enron.com;randy.bhatia@enron.com;jae.black@enron.com;gary.bode@enron.com;f..brawner@enron.com;ryan.brennan@enron.com;craig.breslau@enron.com;karen.buckley@enron.com;victor.bulbes@enron.com;simon.burgess@enron.com;janine.cashin@enron.com;michael.castillo@enron.com;john.cheng@enron.com;suzanne.christiansen@enron.com;diana.cioffi@enron.com;kristen.clause@enron.com;julie.clyatt@enron.com;frank.coles@enron.com;paige.cox@enron.com;a..cummings@enron.com;amanda.curless@enron.com;neil.davies@enron.com;roberto.deleon@enron.com;janet.devereaux@enron.com;dan.dietrich@enron.com;michael.dolan@enron.com;keith.dziadek@enron.com;clay.elliott@enron.com;frank.ermis@enron.com;j..ewing@enron.com;amy.fitzpatrick@enron.com;bryant.frihart@enron.com;l..gay@enron.com;doug.gichana@enron.com;n..gilbert@enron.com;c..giron@enron.com;c..gossett@enron.com;mike.grigsby@enron.com;marlin.gubser@enron.com;claudia.guerra@enron.com;joe.hall@enron.com;mark.hall@enron.com;j..hanson@enron.com;kimberly.hillis@enron.com;d..hogan@enron.com;keith.holst@enron.com;james.hungerford@enron.com;charles.jacobs@enron.com;matthew.james@enron.com;tammy.jaquet@enron.com;anthony.jarrett@enron.com;jamey.johnston@enron.com;brad.jones@enron.com;monte.jones@enron.com;jared.kaiser@enron.com;shivshankar.kandavelu@enron.com;kam.keiser@enron.com;bill.knox@enron.com;brian.larkin@enron.com;john.lavorato@enron.com;rick.le@enron.com;matthew.lenhart@enron.com;kathy.link@enron.com;kori.loibl@enron.com;m..love@enron.com;mike.maggi@enron.com;danielle.marcinkowski@enron.com;a..martin@enron.com;larry.may@enron.com;bob.mcauliffe@enron.com;jonathan.mckay@enron.com;errol.mclaughlin@enron.com;darren.mcnair@enron.com;jason.mcnair@enron.com;shelly.mendel@enron.com;genaro.mendoza@enron.com;stephanie.miller@enron.com;bruce.mills@enron.com;l..mims@enron.com;g..moore@enron.com;daniel.muschar@enron.com;donnie.myers@enron.com;acey.nash@enron.com;scott.neal@enron.com;john.oh@enron.com;matthew.olney@enron.com;michael.olsen@enron.com;kari.oquinn@enron.com;ryan.o'rourke@enron.com;h..otto@enron.com;david.oxley@enron.com;scott.palmer@enron.com;stephen.perich@enron.com;richard.pinion@enron.com;faheem.qavi@enron.com;dutch.quigley@enron.com;ina.rangel@enron.com;edward.ray@enron.com;jay.reitmeyer@enron.com;trey.rhodes@enron.com;andrea.ring@enron.com;tina.rode@enron.com;jenny.rub@enron.com;amanda.rybarski@enron.com;tammie.schoppe@enron.com;russ.severson@enron.com;jennifer.shipos@enron.com;scott.shishido@enron.com;s..shively@enron.com;steve.shortt@enron.com;john.shupak@enron.com;jeanie.slone@enron.com;bruce.smith@enron.com;mathew.smith@enron.com;p..south@enron.com;cathy.sprowls@enron.com;micah.staggs@enron.com;david.steiner@enron.com;geoff.storey@enron.com;patti.sullivan@enron.com;john.taylor@enron.com;joseph.taylor@enron.com;todd.thelen@enron.com;m..tholt@enron.com;benjamin.thompson@enron.com;brent.tiner@enron.com;judy.townsend@enron.com;barry.tycholiz@enron.com;carlos.uribe@enron.com;john.valdes@enron.com;leah.van@enron.com;laura.vargas@enron.com;frank.vickers@enron.com;melissa.videtto@enron.com;laura.vuittonet@enron.com;.ward@enron.com;charles.weldon@enron.com;jon.werner@enron.com;kevin.whitehurst@enron.com;.williams@enron.com;d..winfree@enron.com;ashley.worthing@enron.com;becky.young@enron.com;eddie.zhang@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Trader Presentations - 2/7 @ 2:30 p.m. (CST) in Conf RM 06980","     
+There will be two presentations tomorrow from UBS commencing at 2:30 p.m. (CST).  These will be held in ECS 06980 and the conference dial-in numbers are listed below.  
+
+				2:30 p.m.	Bill Glass & Bill Bradford - Credit
+				3:00 p.m.	Alex Fusco - New Business Guidelines
+
+Dial-in #		800.486.2726
+Host code	353763 (Louise)
+Participant	547763
+
+Many Thanks,
+
+Liz Taylor
+Assistant to Greg Whalley
+713.853.1935 office
+713.853.1838 fax
+713.854.3056 mobile
+
+
+ 
+
+
+
+
+                    
+
+
+      
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","liz.taylor@enron.com","liz.taylor@enron.com","SMTP","chris.lackey@enron.com;michael.mcdonald@enron.com;laura.wente@enron.com;tim.belden@enron.com;jeff.richter@enron.com;bryant.frihart@enron.com;deirdre.mccaffrey@enron.com;h..lewis@enron.com;vladi.pimenov@enron.com;s..shively@enron.com;geoff.storey@enron.com;trading;r..brackett@enron.com;s..bradford@enron.com;kortney.brown@enron.com;wendy.conwell@enron.com;stephanie.mcginnis@enron.com;roderick.nelson@enron.com;monica.reasoner@enron.com;edward.sacks@enron.com;max.sonnonstine@enron.com;john.suttle@enron.com;credit;caroline.abramo@enron.com;craig.breslau@enron.com;n..gilbert@enron.com;fred.lagrasta@enron.com;h..otto@enron.com;sheetal.patel@enron.com;jennifer.shipos@enron.com;jared.kaiser@enron.com;craig.taylor@enron.com;frank.vickers@enron.com;chuck.ames@enron.com;f..brawner@enron.com;jonathan.mckay@enron.com;scott.neal@enron.com;andrea.ring@enron.com;judy.townsend@enron.com;robert.stalford@enron.com;steve.wang@enron.com;m..presto@enron.com;gerry.hrap@enron.com;grant.oh@enron.com;fabian.taylor@enron.com;garrett.tripp@enron.com;edith.cross@enron.com;mike.curry@enron.com;leonardo.pacheco@enron.com;doug.gilbert-smith@enron.com;jeff.king@enron.com;paul.schiavone@enron.com;dipak.agarwalla@enron.com;adam.bayer@enron.com;bart.burk@enron.com;jd.buss@enron.com;mog.heu@enron.com;kevin.cline@enron.com;chris.gaskill@enron.com;gustavo.giron@enron.com;tim.heizenrader@enron.com;rika.imai@enron.com;robert.johnston@enron.com;jozef.lieskovsky@enron.com;martin.lin@enron.com;souad.mahmassani@enron.com;mauricio.marquez@enron.com;kourtney.nelson@enron.com;justin.o'malley@enron.com;biliana.pehlivanova@enron.com;willis.philip@enron.com;gulay.soykok@enron.com;chris.stokley@enron.com;ellen.su@enron.com;steve.swain@enron.com;patrick.tucker@enron.com;maria.van@enron.com;kristin.walsh@enron.com;lloyd.will@enron.com;ryan.williams@enron.com;jason.wolfe@enron.com;virawan.yawapongsiri@enron.com;brian.redmond@enron.com;david.cash@enron.com;e..haedicke@enron.com;legal;t..hodge@enron.com;marcus.nettelton@enron.com;elizabeth.sager@enron.com;legal;christian.yoder@enron.com;dale.furrow@enron.com;larry.valderrama@enron.com;russell.ballato@enron.com;jason.kaniss@enron.com;j..sturm@enron.com;f..calger@enron.com;john.llodra@enron.com;jim.meyn@enron.com;george.wood@enron.com;robert.benson@enron.com;dana.davis@enron.com;bryce.schneider@enron.com;d..thomas@enron.com;jeff.shields@enron.com;andrea.woodland@enron.com;sean.crandall@enron.com;diana.scholtes@enron.com;mike.swerzbin@enron.com;john.griffith@enron.com;john.lavorato@enron.com;mike.maggi@enron.com;larry.may@enron.com;andy.zipper@enron.com;john.anderson@enron.com;don.baughman@enron.com;craig.dean@enron.com;joe.errigo@enron.com;john.kinser@enron.com;carrie.larkworthy@enron.com;peter.makkai@enron.com;albert.meyers@enron.com;michael.mier@enron.com;jeffrey.miller@enron.com;seung-taek.oh@enron.com;juan.padron@enron.com;holden.salisbury@enron.com;michael.seely@enron.com;ryan.slinger@enron.com;geir.solberg@enron.com;brian.terp@enron.com;bill.abler@enron.com;w..donovan@enron.com;reagan.rorschach@enron.com;mike.carson@enron.com;eric.saibi@enron.com;michael.etringer@enron.com;jake.thomas@enron.com;stephen.thome@enron.com;jim.brysch@enron.com;gary.bryan@enron.com;morris.larubbio@enron.com;eric.bass@enron.com;a..martin@enron.com;charles.weldon@enron.com;david.ryan@enron.com;stephanie.miller@enron.com;l..mims@enron.com;barry.tycholiz@enron.com;houston;k..allen@enron.com;don.black@enron.com;frank.ermis@enron.com;mike.grigsby@enron.com;keith.holst@enron.com;matthew.lenhart@enron.com;jay.reitmeyer@enron.com;mathew.smith@enron.com;p..south@enron.com;m..tholt@enron.com;h..foster@enron.com;jason.biever@enron.com;derek.davies@enron.com;dean.drozdiak@enron.com;nicole.laporte@enron.com;eric.le@enron.com;mike.macphee@enron.com;rob.milnthorp@enron.com;howard.sangwine@enron.com;chad.clark@enron.com;mike.cowan@enron.com;chris.dorland@enron.com;lon.draper@enron.com;chris.lambie@enron.com;cooper.richey@enron.com;ryan.watt@enron.com;john.zufferli@enron.com;mary.cook@enron.com;angela.davis@enron.com;genia.fitzgerald@enron.com;leslie.hansen@enron.com;marie.heard@enron.com;tana.jones@enron.com;c..koehler@enron.com;pinto.leite@enron.com;david.portz@enron.com;carol.st.@enron.com","chris.lackey@enron.com;michael.mcdonald@enron.com;laura.wente@enron.com;tim.belden@enron.com;jeff.richter@enron.com;bryant.frihart@enron.com;deirdre.mccaffrey@enron.com;h..lewis@enron.com;vladi.pimenov@enron.com;s..shively@enron.com;geoff.storey@enron.com;.williams@enron.com;r..brackett@enron.com;s..bradford@enron.com;kortney.brown@enron.com;wendy.conwell@enron.com;stephanie.mcginnis@enron.com;roderick.nelson@enron.com;monica.reasoner@enron.com;edward.sacks@enron.com;max.sonnonstine@enron.com;john.suttle@enron.com;.williams@enron.com;caroline.abramo@enron.com;craig.breslau@enron.com;n..gilbert@enron.com;fred.lagrasta@enron.com;h..otto@enron.com;sheetal.patel@enron.com;jennifer.shipos@enron.com;jared.kaiser@enron.com;craig.taylor@enron.com;frank.vickers@enron.com;chuck.ames@enron.com;f..brawner@enron.com;jonathan.mckay@enron.com;scott.neal@enron.com;andrea.ring@enron.com;judy.townsend@enron.com;robert.stalford@enron.com;steve.wang@enron.com;m..presto@enron.com;gerry.hrap@enron.com;grant.oh@enron.com;fabian.taylor@enron.com;garrett.tripp@enron.com;edith.cross@enron.com;mike.curry@enron.com;leonardo.pacheco@enron.com;doug.gilbert-smith@enron.com;jeff.king@enron.com;paul.schiavone@enron.com;dipak.agarwalla@enron.com;adam.bayer@enron.com;bart.burk@enron.com;jd.buss@enron.com;mog.heu@enron.com;kevin.cline@enron.com;chris.gaskill@enron.com;gustavo.giron@enron.com;tim.heizenrader@enron.com;rika.imai@enron.com;robert.johnston@enron.com;jozef.lieskovsky@enron.com;martin.lin@enron.com;souad.mahmassani@enron.com;mauricio.marquez@enron.com;kourtney.nelson@enron.com;justin.o'malley@enron.com;biliana.pehlivanova@enron.com;willis.philip@enron.com;gulay.soykok@enron.com;chris.stokley@enron.com;ellen.su@enron.com;steve.swain@enron.com;patrick.tucker@enron.com;maria.van@enron.com;kristin.walsh@enron.com;lloyd.will@enron.com;ryan.williams@enron.com;jason.wolfe@enron.com;virawan.yawapongsiri@enron.com;brian.redmond@enron.com;david.cash@enron.com;e..haedicke@enron.com;.hall@enron.com;t..hodge@enron.com;marcus.nettelton@enron.com;elizabeth.sager@enron.com;.taylor@enron.com;christian.yoder@enron.com;dale.furrow@enron.com;larry.valderrama@enron.com;russell.ballato@enron.com;jason.kaniss@enron.com;j..sturm@enron.com;f..calger@enron.com;john.llodra@enron.com;jim.meyn@enron.com;george.wood@enron.com;robert.benson@enron.com;dana.davis@enron.com;bryce.schneider@enron.com;d..thomas@enron.com;jeff.shields@enron.com;andrea.woodland@enron.com;sean.crandall@enron.com;diana.scholtes@enron.com;mike.swerzbin@enron.com;john.griffith@enron.com;john.lavorato@enron.com;mike.maggi@enron.com;larry.may@enron.com;andy.zipper@enron.com;john.anderson@enron.com;don.baughman@enron.com;craig.dean@enron.com;joe.errigo@enron.com;john.kinser@enron.com;carrie.larkworthy@enron.com;peter.makkai@enron.com;albert.meyers@enron.com;michael.mier@enron.com;jeffrey.miller@enron.com;seung-taek.oh@enron.com;juan.padron@enron.com;holden.salisbury@enron.com;michael.seely@enron.com;ryan.slinger@enron.com;geir.solberg@enron.com;brian.terp@enron.com;bill.abler@enron.com;w..donovan@enron.com;reagan.rorschach@enron.com;mike.carson@enron.com;eric.saibi@enron.com;michael.etringer@enron.com;jake.thomas@enron.com;stephen.thome@enron.com;jim.brysch@enron.com;gary.bryan@enron.com;morris.larubbio@enron.com;eric.bass@enron.com;a..martin@enron.com;charles.weldon@enron.com;david.ryan@enron.com;stephanie.miller@enron.com;l..mims@enron.com;barry.tycholiz@enron.com;.ward@enron.com;k..allen@enron.com;don.black@enron.com;frank.ermis@enron.com;mike.grigsby@enron.com;keith.holst@enron.com;matthew.lenhart@enron.com;jay.reitmeyer@enron.com;mathew.smith@enron.com;p..south@enron.com;m..tholt@enron.com;h..foster@enron.com;jason.biever@enron.com;derek.davies@enron.com;dean.drozdiak@enron.com;nicole.laporte@enron.com;eric.le@enron.com;mike.macphee@enron.com;rob.milnthorp@enron.com;howard.sangwine@enron.com;chad.clark@enron.com;mike.cowan@enron.com;chris.dorland@enron.com;lon.draper@enron.com;chris.lambie@enron.com;cooper.richey@enron.com;ryan.watt@enron.com;john.zufferli@enron.com;mary.cook@enron.com;angela.davis@enron.com;genia.fitzgerald@enron.com;leslie.hansen@enron.com;marie.heard@enron.com;tana.jones@enron.com;c..koehler@enron.com;pinto.leite@enron.com;david.portz@enron.com;carol.st.@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","louise.kitchen@enron.com;greg.whalley@enron.com;tammie.schoppe@enron.com","louise.kitchen@enron.com;greg.whalley@enron.com;tammie.schoppe@enron.com","SMTP;SMTP;SMTP","louise.kitchen@enron.com;greg.whalley@enron.com;tammie.schoppe@enron.com","louise.kitchen@enron.com;greg.whalley@enron.com;tammie.schoppe@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"Distribution of report","
+The method for distribution of the weekly reports has changed.  Hard copies will now be distributed through your administrative assistant.  
+
+To receive a paper copy of the report, please send me an e-mail request including you location and admin.  
+
+The information in these reports is for internal use only and should not be the basis for investment decisions.  
+
+Please let me know if you have any questions or comments,
+
+James Bruce	
+Enron North America		(503) 464-8122
+West Power Desk		(503) 860-8612 (c)
+121 SW Salmon, 3WTC0306	(503) 464-3740 (fax)
+Portland, OR 97204		James.Bruce@Enron.com
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","james.bruce@enron.com","james.bruce@enron.com","SMTP","k..allen@enron.com;tom.alonso@enron.com;kysa.alport@enron.com;robert.badeer@enron.com;tim.belden@enron.com;kortney.brown@enron.com;james.bruce@enron.com;jesse.bryson@enron.com;jim.buerkle@enron.com;angela.cadena@enron.com;f..calger@enron.com;fran.chang@enron.com;andy.chen@enron.com;paul.choi@enron.com;ed.clark@enron.com;alan.comnes@enron.com;wendy.conwell@enron.com;minal.dalia@enron.com;debra.davidson@enron.com;w..donovan@enron.com;m..driscoll@enron.com;heather.dunton@enron.com;laird.dyer@enron.com;fredrik.eriksson@enron.com;michael.etringer@enron.com;mark.fillinger@enron.com;h..foster@enron.com;david.frost@enron.com;dave.fuller@enron.com;jim.gilbert@enron.com;a..gomez@enron.com;stan.gray@enron.com;mike.grigsby@enron.com;david.guillaume@enron.com;mark.guzman@enron.com;don.hammond@enron.com;keith.holst@enron.com;paul.kaufman@enron.com;chris.lackey@enron.com;samantha.law@enron.com;elliot.mainzer@enron.com;john.malowney@enron.com;wayne.mays@enron.com;michael.mcdonald@enron.com;jonathan.mckay@enron.com;stephanie.miller@enron.com;matt.motley@enron.com;mark.mullen@enron.com;chris.mumm@enron.com;kourtney.nelson@enron.com;tracy.ngo@enron.com;jeffrey.oh@enron.com;jonalan.page@enron.com;david.parquet@enron.com;todd.perry@enron.com;phil.polsky@enron.com;darin.presto@enron.com;paul.radous@enron.com;susan.rance@enron.com;lester.rawson@enron.com;jeff.richter@enron.com;stewart.rosman@enron.com;edward.sacks@enron.com;holden.salisbury@enron.com;julie.sarnowski@enron.com;gordon.savage@enron.com;diana.scholtes@enron.com;cara.semperger@enron.com;jeff.shields@enron.com;g..slaughter@enron.com;sarabeth.smith@enron.com;larry.soderquist@enron.com;glenn.surowiec@enron.com;steve.swain@enron.com;mike.swerzbin@enron.com;kate.symes@enron.com;jake.thomas@enron.com;stephen.thome@enron.com;stephen.thome@enron.com;virginia.thompson@enron.com;john.van@enron.com;houston;laura.wente@enron.com;bill.williams@enron.com;bill.williams@enron.com;credit;john.zufferli@enron.com","k..allen@enron.com;tom.alonso@enron.com;kysa.alport@enron.com;robert.badeer@enron.com;tim.belden@enron.com;kortney.brown@enron.com;james.bruce@enron.com;jesse.bryson@enron.com;jim.buerkle@enron.com;angela.cadena@enron.com;f..calger@enron.com;fran.chang@enron.com;andy.chen@enron.com;paul.choi@enron.com;ed.clark@enron.com;alan.comnes@enron.com;wendy.conwell@enron.com;minal.dalia@enron.com;debra.davidson@enron.com;w..donovan@enron.com;m..driscoll@enron.com;heather.dunton@enron.com;laird.dyer@enron.com;fredrik.eriksson@enron.com;michael.etringer@enron.com;mark.fillinger@enron.com;h..foster@enron.com;david.frost@enron.com;dave.fuller@enron.com;jim.gilbert@enron.com;a..gomez@enron.com;stan.gray@enron.com;mike.grigsby@enron.com;david.guillaume@enron.com;mark.guzman@enron.com;don.hammond@enron.com;keith.holst@enron.com;paul.kaufman@enron.com;chris.lackey@enron.com;samantha.law@enron.com;elliot.mainzer@enron.com;john.malowney@enron.com;wayne.mays@enron.com;michael.mcdonald@enron.com;jonathan.mckay@enron.com;stephanie.miller@enron.com;matt.motley@enron.com;mark.mullen@enron.com;chris.mumm@enron.com;kourtney.nelson@enron.com;tracy.ngo@enron.com;jeffrey.oh@enron.com;jonalan.page@enron.com;david.parquet@enron.com;todd.perry@enron.com;phil.polsky@enron.com;darin.presto@enron.com;paul.radous@enron.com;susan.rance@enron.com;lester.rawson@enron.com;jeff.richter@enron.com;stewart.rosman@enron.com;edward.sacks@enron.com;holden.salisbury@enron.com;julie.sarnowski@enron.com;gordon.savage@enron.com;diana.scholtes@enron.com;cara.semperger@enron.com;jeff.shields@enron.com;g..slaughter@enron.com;sarabeth.smith@enron.com;larry.soderquist@enron.com;glenn.surowiec@enron.com;steve.swain@enron.com;mike.swerzbin@enron.com;kate.symes@enron.com;jake.thomas@enron.com;stephen.thome@enron.com;stephen.thome@enron.com;virginia.thompson@enron.com;john.van@enron.com;.ward@enron.com;laura.wente@enron.com;bill.williams@enron.com;bill.williams@enron.com;.williams@enron.com;john.zufferli@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Edition 2 New Gen Weekly","The second edition of ""New Gen Weekly"" is available for download.  The report can be found at:
+
+O:_Dropbox/West New Gen/Weekly/2_10_26_01
+
+If you have any comments about this report (including ease of access) please direct them to me as soon as possible.
+
+
+James Bruce	
+Enron North America		(503) 464-8122
+West Power Desk		(503) 860-8612 (c)
+121 SW Salmon, 3WTC0306	(503) 464-3740 (fax)
+Portland, OR 97204		James.Bruce@Enron.com
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","james.bruce@enron.com","james.bruce@enron.com","SMTP","k..allen@enron.com;tom.alonso@enron.com;kysa.alport@enron.com;robert.badeer@enron.com;tim.belden@enron.com;kortney.brown@enron.com;james.bruce@enron.com;jesse.bryson@enron.com;jim.buerkle@enron.com;angela.cadena@enron.com;f..calger@enron.com;fran.chang@enron.com;andy.chen@enron.com;paul.choi@enron.com;ed.clark@enron.com;alan.comnes@enron.com;wendy.conwell@enron.com;minal.dalia@enron.com;debra.davidson@enron.com;w..donovan@enron.com;m..driscoll@enron.com;heather.dunton@enron.com;laird.dyer@enron.com;fredrik.eriksson@enron.com;michael.etringer@enron.com;mark.fillinger@enron.com;h..foster@enron.com;david.frost@enron.com;dave.fuller@enron.com;jim.gilbert@enron.com;a..gomez@enron.com;stan.gray@enron.com;mike.grigsby@enron.com;david.guillaume@enron.com;mark.guzman@enron.com;don.hammond@enron.com;keith.holst@enron.com;paul.kaufman@enron.com;chris.lackey@enron.com;samantha.law@enron.com;elliot.mainzer@enron.com;john.malowney@enron.com;wayne.mays@enron.com;michael.mcdonald@enron.com;jonathan.mckay@enron.com;stephanie.miller@enron.com;matt.motley@enron.com;mark.mullen@enron.com;chris.mumm@enron.com;kourtney.nelson@enron.com;tracy.ngo@enron.com;jeffrey.oh@enron.com;jonalan.page@enron.com;david.parquet@enron.com;todd.perry@enron.com;phil.polsky@enron.com;darin.presto@enron.com;paul.radous@enron.com;susan.rance@enron.com;lester.rawson@enron.com;jeff.richter@enron.com;stewart.rosman@enron.com;edward.sacks@enron.com;holden.salisbury@enron.com;julie.sarnowski@enron.com;gordon.savage@enron.com;diana.scholtes@enron.com;cara.semperger@enron.com;jeff.shields@enron.com;g..slaughter@enron.com;sarabeth.smith@enron.com;larry.soderquist@enron.com;glenn.surowiec@enron.com;steve.swain@enron.com;mike.swerzbin@enron.com;kate.symes@enron.com;jake.thomas@enron.com;stephen.thome@enron.com;stephen.thome@enron.com;virginia.thompson@enron.com;john.van@enron.com;houston;laura.wente@enron.com;bill.williams@enron.com;bill.williams@enron.com;credit;john.zufferli@enron.com","k..allen@enron.com;tom.alonso@enron.com;kysa.alport@enron.com;robert.badeer@enron.com;tim.belden@enron.com;kortney.brown@enron.com;james.bruce@enron.com;jesse.bryson@enron.com;jim.buerkle@enron.com;angela.cadena@enron.com;f..calger@enron.com;fran.chang@enron.com;andy.chen@enron.com;paul.choi@enron.com;ed.clark@enron.com;alan.comnes@enron.com;wendy.conwell@enron.com;minal.dalia@enron.com;debra.davidson@enron.com;w..donovan@enron.com;m..driscoll@enron.com;heather.dunton@enron.com;laird.dyer@enron.com;fredrik.eriksson@enron.com;michael.etringer@enron.com;mark.fillinger@enron.com;h..foster@enron.com;david.frost@enron.com;dave.fuller@enron.com;jim.gilbert@enron.com;a..gomez@enron.com;stan.gray@enron.com;mike.grigsby@enron.com;david.guillaume@enron.com;mark.guzman@enron.com;don.hammond@enron.com;keith.holst@enron.com;paul.kaufman@enron.com;chris.lackey@enron.com;samantha.law@enron.com;elliot.mainzer@enron.com;john.malowney@enron.com;wayne.mays@enron.com;michael.mcdonald@enron.com;jonathan.mckay@enron.com;stephanie.miller@enron.com;matt.motley@enron.com;mark.mullen@enron.com;chris.mumm@enron.com;kourtney.nelson@enron.com;tracy.ngo@enron.com;jeffrey.oh@enron.com;jonalan.page@enron.com;david.parquet@enron.com;todd.perry@enron.com;phil.polsky@enron.com;darin.presto@enron.com;paul.radous@enron.com;susan.rance@enron.com;lester.rawson@enron.com;jeff.richter@enron.com;stewart.rosman@enron.com;edward.sacks@enron.com;holden.salisbury@enron.com;julie.sarnowski@enron.com;gordon.savage@enron.com;diana.scholtes@enron.com;cara.semperger@enron.com;jeff.shields@enron.com;g..slaughter@enron.com;sarabeth.smith@enron.com;larry.soderquist@enron.com;glenn.surowiec@enron.com;steve.swain@enron.com;mike.swerzbin@enron.com;kate.symes@enron.com;jake.thomas@enron.com;stephen.thome@enron.com;stephen.thome@enron.com;virginia.thompson@enron.com;john.van@enron.com;.ward@enron.com;laura.wente@enron.com;bill.williams@enron.com;bill.williams@enron.com;.williams@enron.com;john.zufferli@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Access to UBSWenergy Production Environment","IMPORTANT - THE IDS BELOW WILL BE YOUR PERMANENT ACCESS TO PRODUCTION
+
+Your PRODUCTION User ID and Password has been set up on UBSWenergy.  Please follow the steps below to access the new environment:
+
+From Internet Explorer connect to the UBSWenergy Production Cluster through the following link:
+http://remoteservices.netco.enron.com/ica/ubswenergy.ica  (use your UBSWenergy/Enron NT Log In & Password)
+
+From the second Start menu,  select appropriate application:
+
+STACK MANAGER
+User ID: jmckay
+Password: q#9M#npX	(Please Change)
+
+Below is a special internal use only link for the simulation purposes only to get to the trading area of the website.
+DO NOT PROVIDE THIS LINK TO ANYONE NOT PART OF THE SIMULATION. 
+(customers should be directed to go to the direct link www.ubsenergy.com).
+
+http://www.ubswenergy.com/site_index.html  (FOR SIMULATION ONLY)
+
+WEBSITE - Book (PB-EAST 3)
+User ID: MUS84447
+Password: WELCOME!
+PLEASE DO NOT TRANSACT BEFORE SIMULATION TOMORROW!
+
+Should you have any questions or issues, please contact me at x33465 or the Call Center at 713-584-4444
+
+
+Thank you,
+
+Stephanie Sever
+713-853-3465
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","stephanie.sever@enron.com","stephanie.sever@enron.com","SMTP","jonathan.mckay@enron.com","jonathan.mckay@enron.com","SMTP",,,,,,,,,"Normal"
+"Lexis-Nexis Training: Houston & Worldwide / Dow Jones Training","
+eSource Presents Lexis-Nexis Training
+
+Basic
+
+Lexis-Nexis Basic is geared to the novice or prospective user.  You will learn the basics of getting around Nexis.com. 
+ We will talk about news and company information available on Lexis-Nexis.
+
+Attend our Lexis-Nexis Basics Clinic: 
+				
+November 6	  1:00 - 2:00 PM 	EB572
+	  
+Due Diligence
+
+This session will focus on the specific
+company, public records, and other sources available on Lexis-Nexis that help
+you find all possible aspects of a company's business and strengths or
+liabilities. 
+
+
+Attend our Lexis-Nexis Due Diligence Clinic: 
+
+November 6	  2:30 - 4:00 PM 	EB572
+
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 5-7928.
+The cost is $100.00 per person.
+No-shows will be charged $200.00.
+
+* Please bring your Lexis-Nexis login ID and password. If you don't have one, a guest ID will be provided.
+
+
+  * * *
+
+
+eSource presents free Lexis-Nexis Online Training 
+
+Using Placeware, an interactive web learning tool, you can participate in this training session from anywhere in the world.
+
+Basics
+
+Lexis-Nexis Basic is geared to the novice or prospective user.  You will learn the basics of getting around Nexis.com and of the news and company information available on Lexis-Nexis.
+
+Attend our Lexis-Nexis Basics Online Clinic: 
+
+November 14	10:00 AM Central Standard Time
+
+
+Please RSVP to Stephanie E. Taylor at 713-345-7928 or stephanie.e.taylor@enron.com.
+We will email instructions for Placeware to you.
+
+* Note:  If the time scheduled is not convenient to your time zone, please let us know so we can schedule other sessions.
+
+
+ * * *
+
+eSource Presents Dow Jones Interactive Training
+
+Introduction to Dow Jones Interactive: Personalizing/Customizing DJI and Custom Clips
+
+You will learn how to tailor DJI to display information that is most helpful to you.  
+You will learn how to create your own Personal News page to view headlines from your chosen publications and your custom clip folders.  
+Custom clips can be set up to automatically send to you important news about any key topic or company information that affects your business decisions. 
+
+Attend one of our Dow Jones Interactive Basics Clinics: 
+				
+November 14	1:00 - 2:00 PM	EB560
+November 14	3:00 - 4:00 PM	EB560
+	  			
+Advanced
+
+Learn how to be more efficient on Dow Jones Interactive.  Put some power tools to work for you. 
+ Learn how to employ codes, use search history, and customize.  Hands on time is provided.
+
+Attend our Dow Jones Interactive Advanced Clinic: 
+
+November 14	2:00 - 3:00 PM	EB560
+		
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 5-7928.
+
+The cost is $100.00 per person.
+No-shows will be charged $200.00.
+
+*******
+
+Check the eSource training page at  http://esource.enron.com/training.htm for additional training sessions and vendor presentations.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","no.address@enron.com","no.address@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"TRV Notification:  (East P/L Totals - 11/27/2001)","The report named: East P/L Totals <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=1&report_name=East+P/L+Totals&category_cd=1&category_name=EAST&toc_hide=1&sTV1=1&TV1Exp=Y&current_efct_date=11/27/2001>, published as of 11/27/2001 is now available for viewing on the website.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","kulvinder.fowler@enron.com","kulvinder.fowler@enron.com","SMTP","chuck.ames@enron.com;f..brawner@enron.com;kristen.clause@enron.com;edward.brady@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;chris.germany@enron.com;scott.goodell@enron.com;john.hodge@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;f..keavey@enron.com;m..love@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;bruce.mills@enron.com;scott.neal@enron.com;scott.palmer@enron.com;w..pereira@enron.com;vladi.pimenov@enron.com;kimat.singla@enron.com;craig.taylor@enron.com;judy.townsend@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","chuck.ames@enron.com;f..brawner@enron.com;kristen.clause@enron.com;edward.brady@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;chris.germany@enron.com;scott.goodell@enron.com;john.hodge@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;f..keavey@enron.com;m..love@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;bruce.mills@enron.com;scott.neal@enron.com;scott.palmer@enron.com;w..pereira@enron.com;vladi.pimenov@enron.com;kimat.singla@enron.com;craig.taylor@enron.com;judy.townsend@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"","
+Hi Jonathan, 
+Here is the address to send the cheque: 
+RBC Dominion Securities 
+#1100-1708 Dolphin Avenue 
+Kelowna, BC V1Y 9S4 
+Just so you know our firm charges a administration/trustee fee for Registered accounts each year as do all full service brokerage firms (Nesbitt/Wood Gundy etc).  It is for the work involved in reporting the accounts to Revenue Canada.  For accounts holding only bonds, mutual funds and trust units the fee is $45 dollars plus taxes.  For accounts such as yours holding the above plus stock positions the fee is $125 dollars plus taxes each year.
+We can rebalance your account to take positions in only mutual funds and trust units but you are not allowed to add any money to the account to buy new positions.  
+Only Credit Unions and Banks provide fee free RSP accounts and those usually do not include stock positions.  I guess it is your decision on how you would like to proceed with this account.  If you want to check other firms to see if they would hold the RSP account for no fee you can certainly do that but if you decide to stay with RBC Dominion Securities they will charge you each year.  Sorry for the bad news.  Of course if your account goes up even 5% per year you would have a gain of $2500 dollars and a $125 dollar fee would be a small part of that gain.  We could sell $600 dollars worth of something in the account to generate cash for the fees for 4 years if you would like, That would get you some time to see if you remain in the US.
+Let me know how you would like to proceed. 
+Dale Onrait, BSP MBA 
+RBC Investments-Kelowna 
+1-800-756-2211 or (250) 712-2191 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dale.onrait@rbcinvestments.com","dale.onrait@rbcinvestments.com","SMTP","jonathan.mckay@enron.com","jonathan.mckay@enron.com","SMTP",,,,,,,,,"Normal"
+"FW:","
+
+ -----Original Message-----
+From: 	Pathak, Neeran  
+Sent:	Tuesday, October 16, 2001 8:07 AM
+To:	Keavey, Peter F.
+Subject:	
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","f..keavey@enron.com","f..keavey@enron.com","SMTP","brad.mckay@enron.com;jonathan.mckay@enron.com","brad.mckay@enron.com;jonathan.mckay@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"Access Card Information","
+Dear Colleagues,
+
+We know you have many questions about your new benefits plan, payroll issues and other changes that will occur over the next few weeks. Human Resources and Communications are preparing a thorough Q&A, which we will send to you tomorrow and will regularly update as more information is available. 
+
+Meanwhile, please read the announcement below from Security about how you can obtain a new UBS Warburg access card that will allow you to enter our new office space after Friday.
+
+I am confident that you share my enthusiasm about our new opportunity.  We look forward to working along side each of you in the coming days.
+
+David Oxley
+Head, Human Resources
+____________________________________________________________________
+
+Access Cards
+
+There will be a two-day transition for the new UBS Warburg access cards. Beginning Monday, February 11, access to the 5th and 6th floors of Enron Center South will require these new cards. UBS Warburg access cards can be picked up from 7 a.m. to 7 p.m. at the reception area on the 5th floor of Enron Center South on Thursday, February 7th ; Friday, February 8th ; and Monday, February 11. Enron Security will produce new access cards with existing photographs, then simultaneously issue the new and collect the old cards. Employees without UBS Warburg cards will be allowed into the Enron Center South building on Monday but will have to collect their new cards as soon as possible to gain access to the 5th and 6th floors.
+
+Employees who fail to collect their new cards by 7 p.m. Monday will be required to contact Enron Security's general information number at 713-853-5360 to arrange to pick them up.
+
+There will be security staff available at the pick up point on ECS 5 to help with any problems you might have.
+
+It is suggested employees wear their access cards at all times while on the premise.
+
+Accessible Areas - The new cards will allow UBS-W employees to enter:
+5th & 6th floors and Plaza area of Enron Center South , 
+The Sky Ring 
+Body Shop, Enron Center North Plaza and therefore access the Credit Union and Cafeteria from either building.
+
+Restricted Areas - Employees must submit to Enron Security a Restricted Access Request form (available by calling 713 8535360 ) and signed by Bob McAuliffe (713-853-7468) to enter:
+Enron Center South, 8th and 9th floors
+Enron Center North, 22nd and 34th floor 
+Ardmore Data Center.
+
+Employees staying with the Enron estate while visa and other issues are completed - Employees in this group who are on assignment arrangements to UBS-W will be issued a regular access card - available in the same way as other new UBS-W employees.
+
+Estate employees who are working with UBS-W on transition issues  - If they will be based in UBS-W office space they should talk to their UBS-W counterpart for approval and then UBSW HR for the issue of a UBS-W contractor card (in addition to their regular Enron badge). 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","david.oxley@enron.com","david.oxley@enron.com","SMTP","darren.adamik@enron.com;p..adams@enron.com;habib.ahsan@enron.com;d.alexander@enron.com;diana.allen@enron.com;k..allen@enron.com;jason.althaus@enron.com;susan.amador@enron.com;amanullah.aman@enron.com;sherry.anastas@enron.com;dan.arellano@enron.com;ravi.arumbakkam@enron.com;chris.austin@enron.com;luis.aybar@enron.com;natalie.baker@enron.com;arun.balasundaram@enron.com;ted.ballinger@enron.com;charles.ballmer@enron.com;michael.barber@enron.com;eric.bass@enron.com;nilay.basu@enron.com;david.baumbach@enron.com;bryce.baxter@enron.com;chris.behney@enron.com;cedric.belt@enron.com;troy.beyer@enron.com;randy.bhatia@enron.com;jae.black@enron.com;gary.bode@enron.com;f..brawner@enron.com;ryan.brennan@enron.com;craig.breslau@enron.com;karen.buckley@enron.com;victor.bulbes@enron.com;simon.burgess@enron.com;janine.cashin@enron.com;michael.castillo@enron.com;john.cheng@enron.com;suzanne.christiansen@enron.com;diana.cioffi@enron.com;kristen.clause@enron.com;julie.clyatt@enron.com;frank.coles@enron.com;paige.cox@enron.com;a..cummings@enron.com;amanda.curless@enron.com;neil.davies@enron.com;roberto.deleon@enron.com;janet.devereaux@enron.com;dan.dietrich@enron.com;michael.dolan@enron.com;keith.dziadek@enron.com;clay.elliott@enron.com;frank.ermis@enron.com;j..ewing@enron.com;amy.fitzpatrick@enron.com;bryant.frihart@enron.com;l..gay@enron.com;doug.gichana@enron.com;n..gilbert@enron.com;c..giron@enron.com;c..gossett@enron.com;mike.grigsby@enron.com;marlin.gubser@enron.com;claudia.guerra@enron.com;joe.hall@enron.com;mark.hall@enron.com;j..hanson@enron.com;kimberly.hillis@enron.com;d..hogan@enron.com;keith.holst@enron.com;james.hungerford@enron.com;charles.jacobs@enron.com;matthew.james@enron.com;tammy.jaquet@enron.com;anthony.jarrett@enron.com;jamey.johnston@enron.com;brad.jones@enron.com;monte.jones@enron.com;jared.kaiser@enron.com;shivshankar.kandavelu@enron.com;kam.keiser@enron.com;bill.knox@enron.com;brian.larkin@enron.com;john.lavorato@enron.com;rick.le@enron.com;matthew.lenhart@enron.com;kathy.link@enron.com;kori.loibl@enron.com;m..love@enron.com;mike.maggi@enron.com;danielle.marcinkowski@enron.com;a..martin@enron.com;larry.may@enron.com;bob.mcauliffe@enron.com;jonathan.mckay@enron.com;errol.mclaughlin@enron.com;darren.mcnair@enron.com;jason.mcnair@enron.com;shelly.mendel@enron.com;genaro.mendoza@enron.com;stephanie.miller@enron.com;bruce.mills@enron.com;l..mims@enron.com;g..moore@enron.com;daniel.muschar@enron.com;donnie.myers@enron.com;acey.nash@enron.com;scott.neal@enron.com;john.oh@enron.com;matthew.olney@enron.com;michael.olsen@enron.com;kari.oquinn@enron.com;ryan.o'rourke@enron.com;h..otto@enron.com;david.oxley@enron.com;scott.palmer@enron.com;stephen.perich@enron.com;richard.pinion@enron.com;faheem.qavi@enron.com;dutch.quigley@enron.com;ina.rangel@enron.com;edward.ray@enron.com;jay.reitmeyer@enron.com;trey.rhodes@enron.com;andrea.ring@enron.com;tina.rode@enron.com;jenny.rub@enron.com;amanda.rybarski@enron.com;tammie.schoppe@enron.com;russ.severson@enron.com;jennifer.shipos@enron.com;scott.shishido@enron.com;s..shively@enron.com;steve.shortt@enron.com;john.shupak@enron.com;jeanie.slone@enron.com;bruce.smith@enron.com;mathew.smith@enron.com;p..south@enron.com;cathy.sprowls@enron.com;micah.staggs@enron.com;david.steiner@enron.com;geoff.storey@enron.com;patti.sullivan@enron.com;john.taylor@enron.com;joseph.taylor@enron.com;todd.thelen@enron.com;m..tholt@enron.com;benjamin.thompson@enron.com;brent.tiner@enron.com;judy.townsend@enron.com;barry.tycholiz@enron.com;carlos.uribe@enron.com;john.valdes@enron.com;leah.van@enron.com;laura.vargas@enron.com;frank.vickers@enron.com;melissa.videtto@enron.com;laura.vuittonet@enron.com;houston;charles.weldon@enron.com;jon.werner@enron.com;kevin.whitehurst@enron.com;trading;d..winfree@enron.com;ashley.worthing@enron.com;becky.young@enron.com;eddie.zhang@enron.com","darren.adamik@enron.com;p..adams@enron.com;habib.ahsan@enron.com;d.alexander@enron.com;diana.allen@enron.com;k..allen@enron.com;jason.althaus@enron.com;susan.amador@enron.com;amanullah.aman@enron.com;sherry.anastas@enron.com;dan.arellano@enron.com;ravi.arumbakkam@enron.com;chris.austin@enron.com;luis.aybar@enron.com;natalie.baker@enron.com;arun.balasundaram@enron.com;ted.ballinger@enron.com;charles.ballmer@enron.com;michael.barber@enron.com;eric.bass@enron.com;nilay.basu@enron.com;david.baumbach@enron.com;bryce.baxter@enron.com;chris.behney@enron.com;cedric.belt@enron.com;troy.beyer@enron.com;randy.bhatia@enron.com;jae.black@enron.com;gary.bode@enron.com;f..brawner@enron.com;ryan.brennan@enron.com;craig.breslau@enron.com;karen.buckley@enron.com;victor.bulbes@enron.com;simon.burgess@enron.com;janine.cashin@enron.com;michael.castillo@enron.com;john.cheng@enron.com;suzanne.christiansen@enron.com;diana.cioffi@enron.com;kristen.clause@enron.com;julie.clyatt@enron.com;frank.coles@enron.com;paige.cox@enron.com;a..cummings@enron.com;amanda.curless@enron.com;neil.davies@enron.com;roberto.deleon@enron.com;janet.devereaux@enron.com;dan.dietrich@enron.com;michael.dolan@enron.com;keith.dziadek@enron.com;clay.elliott@enron.com;frank.ermis@enron.com;j..ewing@enron.com;amy.fitzpatrick@enron.com;bryant.frihart@enron.com;l..gay@enron.com;doug.gichana@enron.com;n..gilbert@enron.com;c..giron@enron.com;c..gossett@enron.com;mike.grigsby@enron.com;marlin.gubser@enron.com;claudia.guerra@enron.com;joe.hall@enron.com;mark.hall@enron.com;j..hanson@enron.com;kimberly.hillis@enron.com;d..hogan@enron.com;keith.holst@enron.com;james.hungerford@enron.com;charles.jacobs@enron.com;matthew.james@enron.com;tammy.jaquet@enron.com;anthony.jarrett@enron.com;jamey.johnston@enron.com;brad.jones@enron.com;monte.jones@enron.com;jared.kaiser@enron.com;shivshankar.kandavelu@enron.com;kam.keiser@enron.com;bill.knox@enron.com;brian.larkin@enron.com;john.lavorato@enron.com;rick.le@enron.com;matthew.lenhart@enron.com;kathy.link@enron.com;kori.loibl@enron.com;m..love@enron.com;mike.maggi@enron.com;danielle.marcinkowski@enron.com;a..martin@enron.com;larry.may@enron.com;bob.mcauliffe@enron.com;jonathan.mckay@enron.com;errol.mclaughlin@enron.com;darren.mcnair@enron.com;jason.mcnair@enron.com;shelly.mendel@enron.com;genaro.mendoza@enron.com;stephanie.miller@enron.com;bruce.mills@enron.com;l..mims@enron.com;g..moore@enron.com;daniel.muschar@enron.com;donnie.myers@enron.com;acey.nash@enron.com;scott.neal@enron.com;john.oh@enron.com;matthew.olney@enron.com;michael.olsen@enron.com;kari.oquinn@enron.com;ryan.o'rourke@enron.com;h..otto@enron.com;david.oxley@enron.com;scott.palmer@enron.com;stephen.perich@enron.com;richard.pinion@enron.com;faheem.qavi@enron.com;dutch.quigley@enron.com;ina.rangel@enron.com;edward.ray@enron.com;jay.reitmeyer@enron.com;trey.rhodes@enron.com;andrea.ring@enron.com;tina.rode@enron.com;jenny.rub@enron.com;amanda.rybarski@enron.com;tammie.schoppe@enron.com;russ.severson@enron.com;jennifer.shipos@enron.com;scott.shishido@enron.com;s..shively@enron.com;steve.shortt@enron.com;john.shupak@enron.com;jeanie.slone@enron.com;bruce.smith@enron.com;mathew.smith@enron.com;p..south@enron.com;cathy.sprowls@enron.com;micah.staggs@enron.com;david.steiner@enron.com;geoff.storey@enron.com;patti.sullivan@enron.com;john.taylor@enron.com;joseph.taylor@enron.com;todd.thelen@enron.com;m..tholt@enron.com;benjamin.thompson@enron.com;brent.tiner@enron.com;judy.townsend@enron.com;barry.tycholiz@enron.com;carlos.uribe@enron.com;john.valdes@enron.com;leah.van@enron.com;laura.vargas@enron.com;frank.vickers@enron.com;melissa.videtto@enron.com;laura.vuittonet@enron.com;.ward@enron.com;charles.weldon@enron.com;jon.werner@enron.com;kevin.whitehurst@enron.com;.williams@enron.com;d..winfree@enron.com;ashley.worthing@enron.com;becky.young@enron.com;eddie.zhang@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"TRV Notification:  (East Position Totals - 11/27/2001)","The report named: East Position Totals <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=2&report_name=East+Position+Totals&category_cd=1&category_name=EAST&toc_hide=1&sTV1=1&TV1Exp=Y&current_efct_date=11/27/2001>, published as of 11/27/2001 is now available for viewing on the website.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","kulvinder.fowler@enron.com","kulvinder.fowler@enron.com","SMTP","chuck.ames@enron.com;kristen.clause@enron.com;edward.brady@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;m..love@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;bruce.mills@enron.com;scott.palmer@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","chuck.ames@enron.com;kristen.clause@enron.com;edward.brady@enron.com;darren.espey@enron.com;kulvinder.fowler@enron.com;james.hungerford@enron.com;luchas.johnson@enron.com;m..love@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;hal.mckinney@enron.com;bruce.mills@enron.com;scott.palmer@enron.com;victoria.versen@enron.com;melissa.videtto@enron.com;ashley.worthing@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Canadian Transfer","The transfer of your securities and mutual funds is in process.  There
+are a few Canadian items that will not transfer.  You mentioned that you
+would like to sell the Canadian securities and transfer the cash.  Can
+you please call Dale Onrait at 250-712-2195 and have him liquidate the
+Canadian positions and tell him you would like the proceeds and the
+Candian cash to be converted to US dollars and transfered to RBC Dain
+Rauscher.  This instruction must come from you.  If you have any
+questions, please give me a call.
+
+Stephen P. Brown
+Financial Consultant
+RBC Dain Rauscher
+2000 West Sam Houston Parkway South, Suite #1500
+Houston, TX  77042
+Phone: 713-623-9258
+Fax: 713-623-9283
+888-246-6675
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","stephen.brown@rbcdain.com","stephen.brown@rbcdain.com","SMTP","jonathan.mckay@enron.com","jonathan.mckay@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Presentation Announcement","
+
+
+
+*************************************************************************************************************************************************
+
+You are invited to attend the following presentation: 
+
+PSIM: A Power Simulation Tool
+
+PSIM is a proprietary model developed by Enron Research Group.
+
+?	It takes Power, Gas, Weather and demand information into consideration and 
+	uses Monte-Carlo simulation to assess the expected deal value and risk distribution. 
+?	It evaluates complex electricity related contracts such
+as Full Requirement  and load following contract. 
+?	It also provides a valuation tool for power assets and asset management deals.
+?	It works for both deal specific or portfolio issues.
+
+In this presentation we will show how the model can be used to deal with various types 
+of contracts, explain the model structure and point out further applications. 
+
+Date:		October 30, 2001
+Time: 	4:00 pm
+Location: 	EB5C2
+Presenter: 	Alex Huang
+
+
+Registration is required for a head count. 
+Please call Shirley Crenshaw at 3-5290 to register.
+
+Pizza and soft drinks will be served. 
+
+
+
+
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","kimberly.bates@enron.com","kimberly.bates@enron.com","SMTP","bryant.frihart@enron.com;c..giron@enron.com;patrick.tucker@enron.com;l..mims@enron.com;s..pollan@enron.com;lindsay.culotta@enron.com;e.murrell@enron.com;chuck.ames@enron.com;f..brawner@enron.com;chris.germany@enron.com;john.hodge@enron.com;f..keavey@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;scott.neal@enron.com;w..pereira@enron.com;vladi.pimenov@enron.com;andrea.ring@enron.com;leonidas.savvas@enron.com;judy.townsend@enron.com;victoria.versen@enron.com;robin.barbe@enron.com;ruth.concannon@enron.com;scott.goodell@enron.com;david.jones@enron.com;jared.kaiser@enron.com;scott.loving@enron.com;gil.muhl@enron.com;maureen.smith@enron.com;shauywn.smith@enron.com;craig.taylor@enron.com;jim.willis@enron.com;t..zivley@enron.com","bryant.frihart@enron.com;c..giron@enron.com;patrick.tucker@enron.com;l..mims@enron.com;s..pollan@enron.com;lindsay.culotta@enron.com;e.murrell@enron.com;chuck.ames@enron.com;f..brawner@enron.com;chris.germany@enron.com;john.hodge@enron.com;f..keavey@enron.com;brad.mckay@enron.com;jonathan.mckay@enron.com;scott.neal@enron.com;w..pereira@enron.com;vladi.pimenov@enron.com;andrea.ring@enron.com;leonidas.savvas@enron.com;judy.townsend@enron.com;victoria.versen@enron.com;robin.barbe@enron.com;ruth.concannon@enron.com;scott.goodell@enron.com;david.jones@enron.com;jared.kaiser@enron.com;scott.loving@enron.com;gil.muhl@enron.com;maureen.smith@enron.com;shauywn.smith@enron.com;craig.taylor@enron.com;jim.willis@enron.com;t..zivley@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Checking In","Jon, how are things going these days?  Are you going to stay in Houston?
+Did you get a job with UBS?  How is the job search going for your
+girlfriend?
+
+So many questions...
+
+Things have been going okay up here, other than the fact that we have to
+look for summer jobs.  Christmas holidays back home were definitely fun, but
+I missed talking to you.  I went back to visit the office a couple of times,
+and Lambie and I managed to get out for an afternoon sporting clays shoot
+and a couple of beers.
+
+Since getting back here, I have had the opportunity to go skiing and play
+hockey a number of times.  Classes are okay, but could be a lot better.  We
+are currently taking marketing, strategy and corporate finance.  The corp
+fin course is cool, and we learned a little bit about real options and
+valuing debt and equity using black-scholes modeling.  That stuff if pretty
+interesting, and I think that I am going to try and get a summer job doing
+corp fin with a company.  We have a big hockey tournament here this weekend
+which should prove to be fun, and the olympics also start.  I can't wait to
+watch the Canadians kick a little Yankee ass at hockey.  I have also planned
+a trip to Costa Rica for a couple of weeks in March, where I will hopefully
+spend a little time on the beach and meet a couple of sweet latin american
+girls.
+
+Anyway, hopefully all is well down there for you.  I am interested in
+hearing how things are going for you.
+
+Take Care.
+
+Jeff
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jeffrey.r.pearson@dartmouth.edu","jeffrey.r.pearson@dartmouth.edu","SMTP","jonathan.mckay@enron.com","jonathan.mckay@enron.com","SMTP",,,,,,,,,"Normal"
+"Online Trading Simulation Feb 7th","Preparations are continuing for our simulation on Thursday, Feb. 7 from 9-11 am.
+
+During the simulation, you will be able to use your normal, ""live"" Stack Manager User ID and password, which will be emailed to you separately.
+
+The attached word document below provides a basic review on Accessing the Stack Manager.  You should manage the same products as you normally would, even if those products are not expected to be going live on our initial launch day. If you have products that need to be created, please contact Kevin Meredith (3-9555) or Chris Walker (3-7533) with UBSWenergy.com immediately.
+
+Trading Goals - for all traders participating in the simulation.
+Log into the stack manager on Wednesday afternoon and ensure that your products are ready to be activated on Thursday morning. We will send you a reminder on Wednesday to advise you of the time when the application will be available.
+Start and end with a flat position
+Make markets in your respective products
+Maintain tight spreads in the products you manage
+
+NON-UBS PERSONNEL WILL NOT BE ABLE TO SEE OR TRANSACT ON PRODUCTS DURING THE SIMULATION.
+
+Internal Originators will be playing the roles of customers and will be hitting your stacks throughout the simulation.  You will also be able to trade book to book via the website with your website User ID and password which will also be emailed separately.
+
+Market ""News"" events may be emailed to you at certain points throughout the simulation (e.g. ""storm in the gulf"").
+
+Immediately after the simulation, the website will be inactivated, so that the operations group can test the mid/back-office systems, while the IT groups clean-up the transaction data from the simulation. 
+
+The system will be made available again for live, internal trading (book to book) between traders on Friday, February 8, 2002. FRIDAY'S TRADES ARE FOR REAL.
+
+If you can't log into any application on the day or are having trouble with your systems, please contact the UBSWenergy.com Help Desk immediately at 713.584.4444
+
+Regards,
+UBSWenergy.com
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","bob.shults@enron.com","bob.shults@enron.com","SMTP","traders.dl-netco@enron.com;traders.dl-netco@enron.com","traders.dl-netco@enron.com;traders.dl-netco@enron.com","SMTP;SMTP","david.forster@enron.com;rahil.jafry@enron.com;corp;michael.guadarrama@enron.com;jennifer.denny@enron.com;louise.kitchen@enron.com","david.forster@enron.com;rahil.jafry@enron.com;.carter@enron.com;michael.guadarrama@enron.com;jennifer.denny@enron.com;louise.kitchen@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","david.forster@enron.com;rahil.jafry@enron.com;corp;michael.guadarrama@enron.com;jennifer.denny@enron.com;louise.kitchen@enron.com","david.forster@enron.com;rahil.jafry@enron.com;.carter@enron.com;michael.guadarrama@enron.com;jennifer.denny@enron.com;louise.kitchen@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,"Normal"

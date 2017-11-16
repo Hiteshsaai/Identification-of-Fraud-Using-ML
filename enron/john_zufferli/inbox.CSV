@@ -1,0 +1,1359 @@
+"Subject","Body","From: (Name)","From: (Address)","From: (Type)","To: (Name)","To: (Address)","To: (Type)","CC: (Name)","CC: (Address)","CC: (Type)","BCC: (Name)","BCC: (Address)","BCC: (Type)","Billing Information","Categories","Importance","Mileage","Sensitivity"
+"RE: Ontario Update","Rob,
+
+Markets
+My marks show how we believe the market would trade if the market were open today, considering neighboring markets, transmission/wheeling costs, and fuel costs.  More of a expected liquidation value vs. the current Ontario market players bids and offers.
+
+The market on 3yr 7x24 is being shown by a broker: $46-$48, and on the wholesale side I doubt the bid is actually there, or if so it is only a piece deep (50MW).  
+
+As a result, I would show an actually two way of $43-$47.50 and be coming from the sell side to the industrial customers who may pay in the $46-$47 range.
+
+Peak, my 3yr mark is $52, but given the often bullish nature of new markets, I would be a bid for this summer and then look to offer the 3yr in the low fifties.  Upcoming changes in the Ontario system (Nodal vs. Zonal pricing) would have an effect on these term deals.
+
+
+Staffing and Services
+
+Trading
+On the trading side, I will need to rehire personnel for the roles we laid off (an analyst and a temp IT programmer for fundies development).  Analyst wise, I am interested in bringing Brian Loy back if he is still available.  He has a good knowledge of the NUG contracts and is a good fit for a trading desk.  As our need for providing IMO Energy and Operating Reserve Services (bidding for specific NUGS and Dispatchable Loads) grows, it may be a good idea to bring Heather Mcillmurray over from the settlements group.  I have had initial discussions with Richard Crouch, Paul Devries and Heather on this matter.
+
+Origination
+This is your area of expertise. I would suggest two originators and an analyst.  If Dan Dorland is staying, he could continue on the origination side providing education to our new origination team, and being the analyst to assist the OEFC-NUG point personnel (Brian Loy's previous role).  
+
+IT
+Implementing the trading and VMS systems is a very important issue where timing will become an issue. I would suggest a short term (6mo) contract with Mike Marryott to manage the system's side of this process and to integrate with the Estate and NETCO on trading and settlements systems (specifically David Posten's VMS team).  His location should be in Toronto.  
+
+Let's get on these issues as soon as possible.
+
+On specific personnel, I would have liked to have retained Jeff Borg and Chris Gaffney. 
+
+Office Space
+Tembec, our neighbor on this floor, has often indicated that they are interested in some of our office space. If that interest remains, we could examine leasing all of the space passed the flat screens (the origination desk/pod, one conference room and storage area, not to include our server room).  This would leave us with space for up to 24 people, two conference rooms, & kitchen.  As an alternative, we could consider moving upstairs into the Enron Direct location.
+
+Potential Conflict of Interest
+I would suggest releasing employees that will not be part of Estate or UBS relatively soon.  Specifically, the group that is leaving here, but will be participating in the Ontario market.  UBS Ontario information and resources are proprietary and confidential.  If personnel are being kept on to wind-down specific activities, their access to UBS power & gas curves should be restricted.
+
+As time becomes available, we should get together and discuss Ontario's business plan. 
+
+Thank you
+Garrett
+
+
+ -----Original Message-----
+From: 	Milnthorp, Rob  
+Sent:	Wednesday, January 16, 2002 6:53 PM
+To:	Tripp, Garrett
+Subject:	RE: Ontario Update
+
+Garrett, I take that these are your mids. Where would your 3yr two-way be?
+
+ -----Original Message-----
+From: 	Tripp, Garrett  
+Sent:	Monday, January 14, 2002 1:31 PM
+To:	Devries, Paul
+Cc:	Milnthorp, Rob
+Subject:	Ontario Update
+
+	
+CAD	Peak		7x24
+1yr	$50.00		$42.75
+3yr	$52.00		$44.00
+5yr	$52.50		$44.00
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","garrett.tripp@enron.com","garrett.tripp@enron.com","SMTP","rob.milnthorp@enron.com","rob.milnthorp@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,"Normal"
+"Online Trading Simulation Feb 7th","Preparations are continuing for our simulation on Thursday, Feb. 7 from 9-11 am.
+
+During the simulation, you will be able to use your normal, ""live"" Stack Manager User ID and password, which will be emailed to you separately.
+
+The attached word document below provides a basic review on Accessing the Stack Manager.  You should manage the same products as you normally would, even if those products are not expected to be going live on our initial launch day. If you have products that need to be created, please contact Kevin Meredith (3-9555) or Chris Walker (3-7533) with UBSWenergy.com immediately.
+
+Trading Goals - for all traders participating in the simulation.
+Log into the stack manager on Wednesday afternoon and ensure that your products are ready to be activated on Thursday morning. We will send you a reminder on Wednesday to advise you of the time when the application will be available.
+Start and end with a flat position
+Make markets in your respective products
+Maintain tight spreads in the products you manage
+
+NON-UBS PERSONNEL WILL NOT BE ABLE TO SEE OR TRANSACT ON PRODUCTS DURING THE SIMULATION.
+
+Internal Originators will be playing the roles of customers and will be hitting your stacks throughout the simulation.  You will also be able to trade book to book via the website with your website User ID and password which will also be emailed separately.
+
+Market ""News"" events may be emailed to you at certain points throughout the simulation (e.g. ""storm in the gulf"").
+
+Immediately after the simulation, the website will be inactivated, so that the operations group can test the mid/back-office systems, while the IT groups clean-up the transaction data from the simulation. 
+
+The system will be made available again for live, internal trading (book to book) between traders on Friday, February 8, 2002. FRIDAY'S TRADES ARE FOR REAL.
+
+If you can't log into any application on the day or are having trouble with your systems, please contact the UBSWenergy.com Help Desk immediately at 713.584.4444
+
+Regards,
+UBSWenergy.com
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","bob.shults@enron.com","bob.shults@enron.com","SMTP","traders.dl-netco@enron.com;traders.dl-netco@enron.com","traders.dl-netco@enron.com;traders.dl-netco@enron.com","SMTP;SMTP","david.forster@enron.com;rahil.jafry@enron.com;corp;michael.guadarrama@enron.com;jennifer.denny@enron.com;louise.kitchen@enron.com","david.forster@enron.com;rahil.jafry@enron.com;.carter@enron.com;michael.guadarrama@enron.com;jennifer.denny@enron.com;louise.kitchen@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","david.forster@enron.com;rahil.jafry@enron.com;corp;michael.guadarrama@enron.com;jennifer.denny@enron.com;louise.kitchen@enron.com","david.forster@enron.com;rahil.jafry@enron.com;.carter@enron.com;michael.guadarrama@enron.com;jennifer.denny@enron.com;louise.kitchen@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"Power Pool of Alberta","This email is acknowledgement from the Power Pool of Alberta of the change
+in direct sales registration for contracts that are currently registered
+with the Power Pool between your organization and Enron Canada Power
+Corporation for trading after December 29 HE 1 2001.  On January 4 the Power
+Pool received your acknowledgement of Enron's change in the source asset for
+the direct sales registrations for contracts 259, 260, 1950 to 1976 (total
+of 29 contracts) to modify the source from the Sundance 3 unit (SD3) to
+Enron's unmetered source asset (ECP-).  The modified registration terms will
+be effective December 29 HE 1 2001 and will apply until the expiry date of
+the contract for net settlement purposes.
+
+In addition, as has been verbally communicated to you, the Power Pool was
+required to modify two of Encore/EPCOR's direct sales contracts with Enron
+Canada Power Corporation that were registered with the Power Pool in 2001
+due to the sale of the Sundance 3 unit effective December 29 HE 1 2001.  The
+details of these changes are provided below.
+
+***********************************
+Original Contract Number: 148
+Terminated: December 28 HE 24
+Source:  Enron Sundance 3 (Enron's metered asset)
+Sink: EA1U
+
+New Contract Number: 2050
+Begin Date: December 29 HE 1
+Expiry Date: December 31 HE 24
+Source:  Enron ECP- (Enron's unmetered asset)
+Sink: EA1U
+***********************************
+Original Contract Number: 245
+Terminated: December 28 HE 24
+Source:  Enron Sundance 3 (Enron's metered asset)
+Sink: ENC+
+
+New Contract Number: 2051
+Begin Date: December 29 HE 1
+Expiry Date: December 31 HE 24
+Source:  Enron ECP- (Enron's unmetered asset)
+Sink: ENC+
+***********************************
+
+If you have any questions relating to this matter, please give me a call.
+
+Carol Moline
+Financial Controller
+Power Pool of Alberta
+(403) 233-4686
+carol.moline@powerpool.ab.ca
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carol.moline@powerpool.ab.ca","carol.moline@powerpool.ab.ca","SMTP","derekl@encoreenergy.com","derekl@encoreenergy.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,"Normal"
+"Power Pool","John,
+
+Attached is a spreadsheet that outlines the transactions with the Power Pool
+today, specifically the $6.95 M that will be withheld as a security deposit
+for Enron Canada Power Corp.  If you have any questions or concerns, please
+give me a call.
+
+ <<Enron Security Jan 29 2002.xls>>
+
+Carol Moline
+Financial Controller
+Power Pool of Alberta
+(403) 233-4686
+carol.moline@powerpool.ab.ca
+
+
+ - Enron Security Jan 29 2002.xls 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carol.moline@powerpool.ab.ca","carol.moline@powerpool.ab.ca","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"Simulation Curves","Make sure that all curves are downloaded by the end of simulation, 11:00 CST, tomorrow.  Ideally, the 2/7/02 curves should be marked in the morning prior to simulation.  We have been instructed to kick the calculation off as close to 11:00 CST as possible.  This is to ensure that ALL downstream systems are able to run through the simulation.
+
+Please forward to all applicable traders.
+
+Thanks,
+Stacey
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","w..white@enron.com","w..white@enron.com","SMTP","john.zufferli@enron.com;tim.belden@enron.com;m..presto@enron.com;dan.davis@enron.com","john.zufferli@enron.com;tim.belden@enron.com;m..presto@enron.com;dan.davis@enron.com","SMTP;SMTP;SMTP;SMTP","john.postlethwaite@enron.com;casey.evans@enron.com;kathy.reeves@enron.com;wayne.vinson@enron.com","john.postlethwaite@enron.com;casey.evans@enron.com;kathy.reeves@enron.com;wayne.vinson@enron.com","SMTP;SMTP;SMTP;SMTP","john.postlethwaite@enron.com;casey.evans@enron.com;kathy.reeves@enron.com;wayne.vinson@enron.com","john.postlethwaite@enron.com;casey.evans@enron.com;kathy.reeves@enron.com;wayne.vinson@enron.com","SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"FW: *** Gold/TSE GL/$US/CPI/TSE MM/CRB Bloomberg charts ***","
+
+-----Original Message-----
+From: Jouhl, Paul [mailto:Paul.Jouhl@tdsecurities.com]
+Sent: Tuesday, February 05, 2002 7:54 AM
+Subject: FW: *** Gold/TSE GL/$US/CPI/TSE MM/CRB Bloomberg charts ***
+
+
+
+
+> The purpose of this email is to address some of the questions you may
+> have regarding the gold sector:
+>
+> *	""Gold stocks are way ahead of the gold price - what's going on?""
+>
+> *	""The US dollar remains strong - how can gold rally?""
+>
+> *	""How can gold stocks rally when inflation remains so tame?""
+>
+> The following charts (found in the attached Word document - sourced
+> from Bloomberg) illustrate the relationship of gold stocks and bullion
+> to several other important variables: $US, CRB, CPI, and TSE Metals
+> and Minerals Index.
+>
+> We hope that you will agree with our conclusions that based on the
+> response of these variables at the end of the last recession:
+>
+> 1) It is reasonable to see bullion lag the gold stocks in this
+> economic environment (end of Fed easing).
+>
+> 2) Gold/gold stocks CAN rally in the face of a strong US dollar.
+>
+> 3) Gold/gold stocks rise on the threat of inflation - not necessarily
+> the appearance of inflation itself.
+>
+> Chad Williams
+> TD Newcrest
+> 416-308-2360
+>
+>  <<Bloomberg_gold_charts.doc>>
+
+ - Bloomberg_gold_charts.doc 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","lebend@tdbank.ca","lebend@tdbank.ca","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"Termination Dates","Further to prior e-mails, I have now confirmed with Blakes that the following c/ps originally had the wrong termination dates set.  They have now been corrected to the appropriate dates, all of which were Feb 1, 2002 (John, these are the same ones I identified to you last week).
+
+AEC Marketing, physical, gas  - February 1, 2002
+Calpine Canada Natural Gas Partnership (Encal) physical, gas - February 1, 2002
+El Paso Merchant Energy, physical gas - February 1, 2002
+Williams Energy Marketing & Trade Co. - February 1, 2002
+
+Greg
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","greg.johnston@enron.com","greg.johnston@enron.com","SMTP","john.zufferli@enron.com;cheryl.dawes@enron.com;dianne.seib@enron.com;eric.le@enron.com","john.zufferli@enron.com;cheryl.dawes@enron.com;dianne.seib@enron.com;eric.le@enron.com","SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"FW: Action List (ECC)_v1.DOC","
+
+ -----Original Message-----
+From: 	""BRYAN DUGUID"" <bryan.duguid@blakes.com>@ENRON  
+Sent:	Tuesday, January 29, 2002 10:22 PM
+To:	Johnston, Greg
+Subject:	Action List (ECC)_v1.DOC
+
+Greg,
+
+
+Further to my email to you earlier today, we have tracked down the reasons for the discrepancies in the termination dates in your list versus the chart we have prepared.  In many instances, that contract was reviewed by BCG, and it was determined that the wrong termination date was set, given the provisions of the contract.  I understand that a memo with respect to this issue likely was forwarded to ECC by Chris Christopher and John Eamon on January 8, 2002 ( a copy of which is attached), which set out that based on our review of the contracts, the following parties and their proper termination dates are:
+
+AEC Marketing, physical, gas  - February 1, 2002
+Calpine Canada Natural Gas Partnership (Encal) physical, gas - February 1, 2002
+El Paso Merchant Energy, physical gas - February 1, 2002
+Williams Energy Marketing & Trade Co. - February 1, 2002
+
+Our review last night also revealed the following:
+Baytex physical, gas- ECC list says terminated January 6/02, but the January 4/02 letter from ECC set a termination date of January 8/02, which is reflected in the Chart
+
+Marathon Canada Limited physical, gas - ECC list says terminated December 18/01, however the chart suggests that this was revised by a letter from ECC, sent December 31, 01, changing the termination date to January 4/02.  Chris Christopher recalls the letter, but we do not have a copy of that letter.
+
+Calpine Canada Natural Gas Partnership (Orbit) physical, gas - we have reviewed the contract and determined that the chart is incorrect.  It has been changed from February 1/02 to December 18/01, as set out in the ECC list.
+
+I understand that you have reviewed the Cinergy contract and determined the reason for the discrepancy in that instance.
+
+We continue our review of a couple of entries, namely Canadian Natural Resources, Talisman Energy Inc, and Dynegy Canada.  The remainder of the list was either consistent with the Chart, or had no entry and was therefore updated with your information.
+
+Thank you for forwarding this to our attention.
+
+
+
+
+
+
+Bryan C. Duguid
+Partner
+Blake, Cassels & Graydon LLP
+3500, 855 Second Street SW
+Calgary, AB  T2P 4J8
+
+Tel: 403.260.9716
+Fax: 403.260.9700
+E-mail:  bryan.duguid@blakes.com
+
+This e-mail communication is confidential and legally privileged. If you are not the intended recipient, please notify me at the telephone number shown above or by return e-mail and delete this communication and any copy immediately. Thank you.
+
+
+ - ActionLi.DOC 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","greg.johnston@enron.com","greg.johnston@enron.com","SMTP","john.zufferli@enron.com;eric.le@enron.com;dianne.seib@enron.com","john.zufferli@enron.com;eric.le@enron.com;dianne.seib@enron.com","SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Repairs or Keyboard Trays - Wall 2 Wall - Rescheduled"," 
+
+Please note that Wall 2 Wall has been delayed and will be in tomorrow instead of today.  
+
+Sorry for any inconvenience. 
+
+Carla 
+
+With the recent shuffle of people moving to new desks, I'm sure there will be keyboard trays that need to be moved, as well as some repairs.  Wall 2 Wall will be in on Wednesday afternoon to look after this.  
+
+Please let me know by Wednesday morning if you need anything done. 
+
+Thanks, 
+
+Carla 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","announcements.enron@enron.com","announcements.enron@enron.com","SMTP","dl-ga-canada_calgary@enron.com","dl-ga-canada_calgary@enron.com","SMTP",,,,,,,,,"Normal"
+"Enron Security Calculation 2002.xls"," - Enron Security Calculation 2002.xls 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carol.moline@powerpool.ab.ca","carol.moline@powerpool.ab.ca","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"Online Trading Simulation","We are continuing work to ensure our new online trading system, UBSWenergy, is ready for launch on the week of Feb. 11, which is the week following the anticipated Enron/UBS Closing Date of Friday, Feb. 8.
+
+To assist in this process, we are planning an online trading simulation for Thursday, February 7 from  0900 to 1100 (CST). It is planned to include all  traders, originators, mid/back-office staff and IT teams who would normally be involved with electronic trading.
+
+Purpose of the simulation - The simulation will test our ""live"" trading environment (restricted to internal access only) and will:
+
+Test the integrity and functionality of the system and related processes (including credit, risk, legal, operations, etc.)
+Provide an opportunity for traders to verify their products and product setup
+Demonstrate how the trading system and processes work to UBS staff visiting next week
+
+Nature of the simulation - The simulation will include testing of all processes related to trading and mid/back-office functions:
+
+Credit, Legal, Risk, Operations, and other groups:
+Profile tests for ""external"" customers (role-played by Originators)
+Profile tests for internal users (traders, back-office, etc.)
+Data and Process checking as completed transactions flow through Mid/back-Office systems
+
+Traders and Originators:
+Traders will be managing their individual books and associated products. Although we may be restricted to certain financial products on launch day, both physical and financial will be available during the simulation. Each trader will be asked to manage their individual position and profitability goals for the simulation.
+Originators and others will be asked to play the roles of counterparties. Credit limits, etc. will be tested during the simulation.
+
+Information Technology:
+Will assist in preparing data on the system for the simulation.
+After the simulation is over, will work with the relevant groups to test the trade-data in various systems and risk books
+Will ensure all simulation data is removed from the system after the simulation is complete.
+
+
+Next steps 
+
+Traders and Originators will be contacted prior to simulation day to ensure they have appropriate access to the system.
+Originators will be assigned specific roles. You should expect to receive an email and/or handout on or before Wednesday, Feb. 6.
+UBSWenergy personnel will be meeting with back office personnel over the next several days to ensure everything is in place for the simulation.
+
+
+Summary
+
+This simulation is an important step towards re-launching our trading business. We appreciate the participation of everyone involved as we prepare for the public launch of UBS Warburg Energy and the UBSWenergy trading platform.
+
+If you have any questions, comments, suggestions, or ideas regarding this simulation, please feel free to contact Bob Shults (30397) or myself (31861). 
+
+
+Regards,
+Dave Forster
+713.853.1861
+E-Mail:	David.Forster@enron.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","david.forster@enron.com","david.forster@enron.com","SMTP","tom.alonso@enron.com;tim.belden@enron.com;f..calger@enron.com;jill.chatterton@enron.com;sean.crandall@enron.com;debra.davidson@enron.com;m..driscoll@enron.com;michael.etringer@enron.com;mark.fischer@enron.com;h..foster@enron.com;mollie.gustafson@enron.com;tim.heizenrader@enron.com;chris.lackey@enron.com;chris.mallory@enron.com;michael.mcdonald@enron.com;kourtney.nelson@enron.com;todd.perry@enron.com;jeff.richter@enron.com;diana.scholtes@enron.com;jeff.shields@enron.com;chris.stokley@enron.com;steve.swain@enron.com;mike.swerzbin@enron.com;jake.thomas@enron.com;stephen.thome@enron.com;maria.van@enron.com;theresa.villeggiante@enron.com;laura.wente@enron.com;andrea.woodland@enron.com;john.llodra@enron.com;george.wood@enron.com;chelsea.bardal@enron.com;jason.biever@enron.com;stephane.brodeur@enron.com;kortney.brown@enron.com;steven.burnham@enron.com;nella.cappelletto@enron.com;chad.clark@enron.com;mike.cowan@enron.com;sharon.crawford@enron.com;derek.davies@enron.com;cheryl.dawes@enron.com;kelly.donlevy-lee@enron.com;chris.dorland@enron.com;dan.dorland@enron.com;lon.draper@enron.com;dean.drozdiak@enron.com;carlee.gawiuk@enron.com;brian.gillis@enron.com;david.hanslip@enron.com;peggy.hedstrom@enron.com;robert.hemstock@enron.com;greg.johnston@enron.com;peter.keohane@enron.com;sean.lalani@enron.com;chris.lambie@enron.com;eric.le@enron.com;angela.liknes@enron.com;albert.luc@enron.com;mike.macphee@enron.com;angela.mcculloch@enron.com;rob.milnthorp@enron.com;mirna.moscoso@enron.com;grant.oh@enron.com;carla.o'neil@enron.com;grant.patterson@enron.com;liz.prior@enron.com;sandra.quon@enron.com;kathy.reeves@enron.com;cooper.richey@enron.com;dianne.ripley@enron.com;howard.sangwine@enron.com;laura.scott@enron.com;dianne.seib@enron.com;conal.tackney@enron.com;garrett.tripp@enron.com;chris.unger@enron.com;nikole.vander@enron.com;ryan.watt@enron.com;john.zufferli@enron.com;bill.abler@enron.com;sunil.abraham@enron.com;dipak.agarwalla@enron.com;robert.allwein@enron.com;cella.amerson@enron.com;bridgette.anderson@enron.com;clinton.anderson@enron.com;diane.anderson@enron.com;evelyn.aucoin@enron.com;a..aune@enron.com;derek.bailey@enron.com;adam.bayer@enron.com;lorraine.becker@enron.com;angeles.beltri@enron.com;robert.benson@enron.com;erica.bess@enron.com;kevin.bosse@enron.com;bob.bowen@enron.com;s..bradford@enron.com;kevin.brady@enron.com;sarah.brown@enron.com;bart.burk@enron.com;toni.bustamante@enron.com;anthony.campos@enron.com;a..campos@enron.com;mike.carson@enron.com;carl.carter@enron.com;sharen.cason@enron.com;amy.cavazos@enron.com;bonnie.chang@enron.com;claudia.clark@enron.com;kevin.cline@enron.com;wes.colwell@enron.com;wendy.conwell@enron.com;edith.cross@enron.com;mike.curry@enron.com;dana.davis@enron.com;sherry.dawson@enron.com;misti.day@enron.com;jennifer.denny@enron.com;l..denton@enron.com;daniel.diamond@enron.com;w..donovan@enron.com;anne.eastwood@enron.com;susan.elledge@enron.com;kelly.ellis@enron.com;tom.engel@enron.com;darren.espey@enron.com;israel.estrada@enron.com;e..estrada@enron.com;jason.fischer@enron.com;david.forster@enron.com;dale.furrow@enron.com;clarissa.garcia@enron.com;paul.garcia@enron.com;chris.gaskill@enron.com;fraisy.george@enron.com;mercy.gil@enron.com;doug.gilbert-smith@enron.com;gustavo.giron@enron.com;scott.goodell@enron.com;griff.gray@enron.com;tracy.greene@enron.com;shannon.groenewold@enron.com;karen.gruesen@enron.com;ricardo.guerra@enron.com;stacy.hardy@enron.com;trey.hardy@enron.com;d..hare@enron.com;kim.harris@enron.com;paula.harris@enron.com;reginald.hart@enron.com;gordon.heaney@enron.com;lorie.hernandez@enron.com;mog.heu@enron.com;georgeanne.hodges@enron.com;meredith.homco@enron.com;joe.hunter@enron.com;rika.imai@enron.com;kimberly.indelicato@enron.com;tracey.irvin@enron.com;rahil.jafry@enron.com;giselle.james@enron.com;adam.johnson@enron.com;robert.johnston@enron.com;lynna.kacal@enron.com;jason.kaniss@enron.com;c..kenne@enron.com;faith.killen@enron.com;jeff.king@enron.com;lisa.kinsey@enron.com;victor.lamadrid@enron.com;lisa.lees@enron.com;edie.leschber@enron.com;jozef.lieskovsky@enron.com;martin.lin@enron.com;barbara.lo@enron.com;connie.lo@enron.com;k..longoria@enron.com;melba.lozano@enron.com;souad.mahmassani@enron.com;teresa.mandola@enron.com;mauricio.marquez@enron.com;stephanie.mcginnis@enron.com;shannon.mcpearson@enron.com;jennifer.mcquade@enron.com;kevin.meredith@enron.com;evelyn.metoyer@enron.com;jim.meyn@enron.com;m..moore@enron.com;kay.moore@enron.com;matt.motsinger@enron.com;melissa.murphy@enron.com;roderick.nelson@enron.com;dale.neuner@enron.com;brenna.neves@enron.com;justin.o'malley@enron.com;chris.ordway@enron.com;leonardo.pacheco@enron.com;biliana.pehlivanova@enron.com;cora.pendergrass@enron.com;willis.philip@enron.com;vladi.pimenov@enron.com;stephanie.piwetz@enron.com;denver.plachy@enron.com;m..presto@enron.com;chris.price@enron.com;monica.reasoner@enron.com;lindsay.renaud@enron.com;reagan.rorschach@enron.com;jennifer.rosado@enron.com;edward.sacks@enron.com;eric.saibi@enron.com;paul.schiavone@enron.com;l..schrab@enron.com;amanda.schultz@enron.com;stephanie.sever@enron.com;kal.shah@enron.com;r..shepperd@enron.com;cris.sherman@enron.com;bob.shults@enron.com;keith.simper@enron.com;max.sonnonstine@enron.com;mechelle.stevens@enron.com;j..sturm@enron.com;robert.superty@enron.com;john.suttle@enron.com;tara.sweitzer@enron.com;nera.swisher@enron.com;s..theriot@enron.com;d..thomas@enron.com;shirley.tijerina@enron.com;patrick.tucker@enron.com;larry.valderrama@enron.com;david.vandor@enron.com;hope.vargas@enron.com;chris.walker@enron.com;ellen.wallumrod@enron.com;steve.wang@enron.com;todd.warwick@enron.com;mary.weatherstone@enron.com;greg.whiting@enron.com;lloyd.will@enron.com;credit;ryan.williams@enron.com;jason.wolfe@enron.com;stephen.wolfe@enron.com;virawan.yawapongsiri@enron.com;darren.adamik@enron.com;p..adams@enron.com;habib.ahsan@enron.com;kim.alexander@enron.com;diana.allen@enron.com;k..allen@enron.com;jason.althaus@enron.com;susan.amador@enron.com","tom.alonso@enron.com;tim.belden@enron.com;f..calger@enron.com;jill.chatterton@enron.com;sean.crandall@enron.com;debra.davidson@enron.com;m..driscoll@enron.com;michael.etringer@enron.com;mark.fischer@enron.com;h..foster@enron.com;mollie.gustafson@enron.com;tim.heizenrader@enron.com;chris.lackey@enron.com;chris.mallory@enron.com;michael.mcdonald@enron.com;kourtney.nelson@enron.com;todd.perry@enron.com;jeff.richter@enron.com;diana.scholtes@enron.com;jeff.shields@enron.com;chris.stokley@enron.com;steve.swain@enron.com;mike.swerzbin@enron.com;jake.thomas@enron.com;stephen.thome@enron.com;maria.van@enron.com;theresa.villeggiante@enron.com;laura.wente@enron.com;andrea.woodland@enron.com;john.llodra@enron.com;george.wood@enron.com;chelsea.bardal@enron.com;jason.biever@enron.com;stephane.brodeur@enron.com;kortney.brown@enron.com;steven.burnham@enron.com;nella.cappelletto@enron.com;chad.clark@enron.com;mike.cowan@enron.com;sharon.crawford@enron.com;derek.davies@enron.com;cheryl.dawes@enron.com;kelly.donlevy-lee@enron.com;chris.dorland@enron.com;dan.dorland@enron.com;lon.draper@enron.com;dean.drozdiak@enron.com;carlee.gawiuk@enron.com;brian.gillis@enron.com;david.hanslip@enron.com;peggy.hedstrom@enron.com;robert.hemstock@enron.com;greg.johnston@enron.com;peter.keohane@enron.com;sean.lalani@enron.com;chris.lambie@enron.com;eric.le@enron.com;angela.liknes@enron.com;albert.luc@enron.com;mike.macphee@enron.com;angela.mcculloch@enron.com;rob.milnthorp@enron.com;mirna.moscoso@enron.com;grant.oh@enron.com;carla.o'neil@enron.com;grant.patterson@enron.com;liz.prior@enron.com;sandra.quon@enron.com;kathy.reeves@enron.com;cooper.richey@enron.com;dianne.ripley@enron.com;howard.sangwine@enron.com;laura.scott@enron.com;dianne.seib@enron.com;conal.tackney@enron.com;garrett.tripp@enron.com;chris.unger@enron.com;nikole.vander@enron.com;ryan.watt@enron.com;john.zufferli@enron.com;bill.abler@enron.com;sunil.abraham@enron.com;dipak.agarwalla@enron.com;robert.allwein@enron.com;cella.amerson@enron.com;bridgette.anderson@enron.com;clinton.anderson@enron.com;diane.anderson@enron.com;evelyn.aucoin@enron.com;a..aune@enron.com;derek.bailey@enron.com;adam.bayer@enron.com;lorraine.becker@enron.com;angeles.beltri@enron.com;robert.benson@enron.com;erica.bess@enron.com;kevin.bosse@enron.com;bob.bowen@enron.com;s..bradford@enron.com;kevin.brady@enron.com;sarah.brown@enron.com;bart.burk@enron.com;toni.bustamante@enron.com;anthony.campos@enron.com;a..campos@enron.com;mike.carson@enron.com;carl.carter@enron.com;sharen.cason@enron.com;amy.cavazos@enron.com;bonnie.chang@enron.com;claudia.clark@enron.com;kevin.cline@enron.com;wes.colwell@enron.com;wendy.conwell@enron.com;edith.cross@enron.com;mike.curry@enron.com;dana.davis@enron.com;sherry.dawson@enron.com;misti.day@enron.com;jennifer.denny@enron.com;l..denton@enron.com;daniel.diamond@enron.com;w..donovan@enron.com;anne.eastwood@enron.com;susan.elledge@enron.com;kelly.ellis@enron.com;tom.engel@enron.com;darren.espey@enron.com;israel.estrada@enron.com;e..estrada@enron.com;jason.fischer@enron.com;david.forster@enron.com;dale.furrow@enron.com;clarissa.garcia@enron.com;paul.garcia@enron.com;chris.gaskill@enron.com;fraisy.george@enron.com;mercy.gil@enron.com;doug.gilbert-smith@enron.com;gustavo.giron@enron.com;scott.goodell@enron.com;griff.gray@enron.com;tracy.greene@enron.com;shannon.groenewold@enron.com;karen.gruesen@enron.com;ricardo.guerra@enron.com;stacy.hardy@enron.com;trey.hardy@enron.com;d..hare@enron.com;kim.harris@enron.com;paula.harris@enron.com;reginald.hart@enron.com;gordon.heaney@enron.com;lorie.hernandez@enron.com;mog.heu@enron.com;georgeanne.hodges@enron.com;meredith.homco@enron.com;joe.hunter@enron.com;rika.imai@enron.com;kimberly.indelicato@enron.com;tracey.irvin@enron.com;rahil.jafry@enron.com;giselle.james@enron.com;adam.johnson@enron.com;robert.johnston@enron.com;lynna.kacal@enron.com;jason.kaniss@enron.com;c..kenne@enron.com;faith.killen@enron.com;jeff.king@enron.com;lisa.kinsey@enron.com;victor.lamadrid@enron.com;lisa.lees@enron.com;edie.leschber@enron.com;jozef.lieskovsky@enron.com;martin.lin@enron.com;barbara.lo@enron.com;connie.lo@enron.com;k..longoria@enron.com;melba.lozano@enron.com;souad.mahmassani@enron.com;teresa.mandola@enron.com;mauricio.marquez@enron.com;stephanie.mcginnis@enron.com;shannon.mcpearson@enron.com;jennifer.mcquade@enron.com;kevin.meredith@enron.com;evelyn.metoyer@enron.com;jim.meyn@enron.com;m..moore@enron.com;kay.moore@enron.com;matt.motsinger@enron.com;melissa.murphy@enron.com;roderick.nelson@enron.com;dale.neuner@enron.com;brenna.neves@enron.com;justin.o'malley@enron.com;chris.ordway@enron.com;leonardo.pacheco@enron.com;biliana.pehlivanova@enron.com;cora.pendergrass@enron.com;willis.philip@enron.com;vladi.pimenov@enron.com;stephanie.piwetz@enron.com;denver.plachy@enron.com;m..presto@enron.com;chris.price@enron.com;monica.reasoner@enron.com;lindsay.renaud@enron.com;reagan.rorschach@enron.com;jennifer.rosado@enron.com;edward.sacks@enron.com;eric.saibi@enron.com;paul.schiavone@enron.com;l..schrab@enron.com;amanda.schultz@enron.com;stephanie.sever@enron.com;kal.shah@enron.com;r..shepperd@enron.com;cris.sherman@enron.com;bob.shults@enron.com;keith.simper@enron.com;max.sonnonstine@enron.com;mechelle.stevens@enron.com;j..sturm@enron.com;robert.superty@enron.com;john.suttle@enron.com;tara.sweitzer@enron.com;nera.swisher@enron.com;s..theriot@enron.com;d..thomas@enron.com;shirley.tijerina@enron.com;patrick.tucker@enron.com;larry.valderrama@enron.com;david.vandor@enron.com;hope.vargas@enron.com;chris.walker@enron.com;ellen.wallumrod@enron.com;steve.wang@enron.com;todd.warwick@enron.com;mary.weatherstone@enron.com;greg.whiting@enron.com;lloyd.will@enron.com;.williams@enron.com;ryan.williams@enron.com;jason.wolfe@enron.com;stephen.wolfe@enron.com;virawan.yawapongsiri@enron.com;darren.adamik@enron.com;p..adams@enron.com;habib.ahsan@enron.com;kim.alexander@enron.com;diana.allen@enron.com;k..allen@enron.com;jason.althaus@enron.com;susan.amador@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Latest Marketing List","Please find attached the latest, and what should be the final for the immediate period of time, copy of the marketing list. Please filter the PA column by your name to double-check against the list you are currently working off of. 
+There are some smaller subsids of larger companies previously assigned now listed. I pulled these subs in from the credit pre-approval list. I will be passing out draft contracts folders for these counterparties tomorrow to the people responsible for the respective parent companies.
+There are some companies on your lists that do not have draft packets. These companies have NOT been pre-approved by credit, but credit is working on them now. Continue to call these customers regarding password applications, but do not promise that the ISDA documents, etc. are immediately forthcoming until we receive those worksheets from credit.
+Please continue to pass on both the pa information and the draft packets as you receive the correct contact info. If you have any questions at all, please call me at 5-3614 or come by my desk at 06541 in the rotunda.
+
+Thank you,
+Jennifer McQuade
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.mcquade@enron.com","jennifer.mcquade@enron.com","SMTP","bill.abler@enron.com;caroline.abramo@enron.com;tim.belden@enron.com;robert.benson@enron.com;craig.breslau@enron.com;gary.bryan@enron.com;f..calger@enron.com;chad.clark@enron.com;mike.cowan@enron.com;sean.crandall@enron.com;mike.curry@enron.com;dana.davis@enron.com;w..donovan@enron.com;chris.dorland@enron.com;michael.etringer@enron.com;h..foster@enron.com;bryant.frihart@enron.com;dale.furrow@enron.com;n..gilbert@enron.com;jared.kaiser@enron.com;fred.lagrasta@enron.com;morris.larubbio@enron.com;john.llodra@enron.com;deirdre.mccaffrey@enron.com;michael.mcdonald@enron.com;l..mims@enron.com;h..otto@enron.com;m..presto@enron.com;brian.redmond@enron.com;reagan.rorschach@enron.com;jennifer.shipos@enron.com;douglas.smith@enron.com;craig.taylor@enron.com;jake.thomas@enron.com;barry.tycholiz@enron.com;larry.valderrama@enron.com;frank.vickers@enron.com;houston;greg.whalley@enron.com;george.wood@enron.com;john.zufferli@enron.com","bill.abler@enron.com;caroline.abramo@enron.com;tim.belden@enron.com;robert.benson@enron.com;craig.breslau@enron.com;gary.bryan@enron.com;f..calger@enron.com;chad.clark@enron.com;mike.cowan@enron.com;sean.crandall@enron.com;mike.curry@enron.com;dana.davis@enron.com;w..donovan@enron.com;chris.dorland@enron.com;michael.etringer@enron.com;h..foster@enron.com;bryant.frihart@enron.com;dale.furrow@enron.com;n..gilbert@enron.com;jared.kaiser@enron.com;fred.lagrasta@enron.com;morris.larubbio@enron.com;john.llodra@enron.com;deirdre.mccaffrey@enron.com;michael.mcdonald@enron.com;l..mims@enron.com;h..otto@enron.com;m..presto@enron.com;brian.redmond@enron.com;reagan.rorschach@enron.com;jennifer.shipos@enron.com;douglas.smith@enron.com;craig.taylor@enron.com;jake.thomas@enron.com;barry.tycholiz@enron.com;larry.valderrama@enron.com;frank.vickers@enron.com;.ward@enron.com;greg.whalley@enron.com;george.wood@enron.com;john.zufferli@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","daniel.diamond@enron.com;teresa.mandola@enron.com;corp;david.forster@enron.com","daniel.diamond@enron.com;teresa.mandola@enron.com;.carter@enron.com;david.forster@enron.com","SMTP;SMTP;SMTP;SMTP","daniel.diamond@enron.com;teresa.mandola@enron.com;corp;david.forster@enron.com","daniel.diamond@enron.com;teresa.mandola@enron.com;.carter@enron.com;david.forster@enron.com","SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"Tax Adjustment re Zufferli","Tricia, John has a stock option amount reported on his final pay stub that needs to be adjusted. The amount represents taxes on stock options and restricted stock exercised in 2001.  The stock option numbers on the memos sent by PaineWebber are correct, however, the restricted stock exercise should not be reported on the T4 (as per verification by Dave Peters at PriceWaterhouseCoopers on Jan 2/02).  Please make the appropriate adjustments so that the T4 is correct and advise me when corrected.  Thanks!
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dawn.doucet@enron.com","dawn.doucet@enron.com","SMTP","patricia.henry@enron.com","patricia.henry@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,"Normal"
+"Enron Security","John,
+
+Further to the voice message that I left you, I have recalculated the amount
+of security that would be required if all of the modified direct sales
+contracts are acknowledged by noon January 4.  The calculations are still a
+bit rough but I thought this spreadsheet would provide you with something to
+review.  I have used a $35 Pool Price in the calculations.  Note the
+additional tabs in the spreadsheet that detail the hourly generation that
+the Pool has received for SD3 and SD4 .
+
+In determining the actual security required, we will need to review the
+megawatts in the contracts registered in detail once we have the
+acknowledgements tomorrow.  For simplicity I have assumed that everything is
+base load and I know this is not correct.  Once we know exactly what
+contracts we are looking at, we can fine tune the calculation.
+
+
+ <<December SD3 and SD4.xls>>
+
+Carol Moline
+Financial Controller
+Power Pool of Alberta
+(403) 233-4686
+carol.moline@powerpool.ab.ca
+
+
+ - December SD3 and SD4.xls 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carol.moline@powerpool.ab.ca","carol.moline@powerpool.ab.ca","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP","ken.christensen@powerpool.ab.ca","ken.christensen@powerpool.ab.ca","SMTP","ken.christensen@powerpool.ab.ca","ken.christensen@powerpool.ab.ca","SMTP",,,"Normal"
+"Quick Tips for the UBSWE migration","
+As of start of business, Wednesday, February 6th, you will have been migrated to the UBSW Energy environment.
+Here are a couple of quick tips and reminders to get you going:
+
+? You will log in with your Enron NT ID, this will not change
+
+?	You will be asked to change your password, follow the standard Enron rules
+
+?	Your desktop will look the same
+
+?	Email will not be affected until Day 1, on which you will have your new UBSWE email address
+
+?	All compliant data and email should be copied to the UBSWE environment no later than Midnight (CST), Thursday, February 7, 2002 (see Data Migration Protocol email for compliancy direction)
+
+?	No data or emails are to be deleted from the system
+
+
+If you have any questions or concerns, please contact the Resolution Center at x 3-1411
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","infrastructure.ubsw@enron.com","infrastructure.ubsw@enron.com","SMTP","canada.dl-ubsw@enron.com;houston.dl-ubsw@enron.com;portland.dl-ubsw@enron.com","canada.dl-ubsw@enron.com;houston.dl-ubsw@enron.com;portland.dl-ubsw@enron.com","SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Security Deposit","John,
+
+The Power Pool received the required security deposit from Enron Canada
+Power Corporation of $2.8 million yesterday.
+
+
+
+Carol Moline
+Financial Controller
+Power Pool of Alberta
+(403) 233-4686
+carol.moline@powerpool.ab.ca
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carol.moline@powerpool.ab.ca","carol.moline@powerpool.ab.ca","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"Power Pool","This email is acknowledgement from the Power Pool of Alberta of the change
+in direct sales/forward contract registration for contracts that are
+currently registered with the Power Pool between Chevron Canada Resources
+and Enron Canada Power Corporation for trading after December 29 HE 1 2001.
+On January 4 the Power Pool received your acknowledgement of Enron's change
+in the source asset for the direct sales/forward contract registrations for
+contract # 1947 to modify the source from the Sundance 3 unit (SD3) to
+Enron's unmetered source asset (ECP-).  The modified registration terms will
+be effective December 29 HE 1 2001 and will apply until the expiry date of
+the contract registration for net settlement purposes.
+
+As for the sink asset related to direct sales/forward contract # 1947, Enron
+has acknowledged and accepted your change to the sink asset from CH1A to
+CH1U.  This change will be effective January 1, 2002 HE 1 and our systems
+will be changed today.
+
+If you have any questions relating to this matter, please give me a call.
+
+Carol Moline
+Financial Controller
+Power Pool of Alberta
+(403) 233-4686
+carol.moline@powerpool.ab.ca
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carol.moline@powerpool.ab.ca","carol.moline@powerpool.ab.ca","SMTP","slfr@chevrontexaco.com","slfr@chevrontexaco.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,"Normal"
+"FW: Termianted Contracts","Bryan, can you get me an answer on the discrepancies between dates identified in John's response to me below?
+
+Thanks
+Greg
+
+ -----Original Message-----
+From: 	Zufferli, John  
+Sent:	Monday, January 28, 2002 1:57 PM
+To:	Johnston, Greg
+Subject:	RE: Termianted Contracts
+
+
+according to the packet that was distributed in the meeting today with BC, it appears that Calpine, El Paso, Williams, AEC Marketing, AEC Storage are all FEB 1, this doesn't jive with what you just sent, wassup?
+
+
+ -----Original Message-----
+From: 	Johnston, Greg  
+Sent:	Monday, January 28, 2002 1:50 PM
+To:	Kitagawa, Kyle; Le Dain, Eric; Zufferli, John
+Cc:	'robert.anderson@blakes.com'; 'bryan.duguid@blakes.com'
+Subject:	Termianted Contracts
+Importance:	High
+
+Further to our meeting today, please find attached the list of contracts ECC is taking the view are properly terminated and the dates of such termination (in ECC's opinion).  This list was last updated on January 9, 2002 before I went away, so Bryan, if there are any other counterparties that should be added to the list, can you please let Kyle, Eric, John and myself know as soon as possible?
+
+Thanks
+Greg
+
+ << File: terminated agreements.Jan9.doc >> 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","greg.johnston@enron.com","greg.johnston@enron.com","SMTP","bryan.duguid@blakes.com","bryan.duguid@blakes.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,"Normal"
+"UBS Trade Products","My apologies if this has been done, but I'm in process of assembling list of products that UBS will be trading.  If this list has been compiled, please direct it to me.  
+
+I'm interested in getting the greatest granularity possible breaking it out by VaR portfolio name, trader, trading book, commodity, instrument, location, tenor, relative liquidity for each instrument expressed in contract/day (i.e. could impact holding period for VAR) and best risk mitigator.  (Regarding best risk mitigator, I'm not looking for liquidating position comments, but rather best hedge given curve location.)  This will help in directing correlation efforts for VAR.  See attached spreadsheet for suggested format.
+
+Thanks,
+Frank
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","frank.hayden@enron.com","frank.hayden@enron.com","SMTP","tim.belden@enron.com;m..presto@enron.com;john.zufferli@enron.com;john.lavorato@enron.com","tim.belden@enron.com;m..presto@enron.com;john.zufferli@enron.com;john.lavorato@enron.com","SMTP;SMTP;SMTP;SMTP","c..gossett@enron.com;w..white@enron.com;john.postlethwaite@enron.com;kathy.reeves@enron.com","c..gossett@enron.com;w..white@enron.com;john.postlethwaite@enron.com;kathy.reeves@enron.com","SMTP;SMTP;SMTP;SMTP","c..gossett@enron.com;w..white@enron.com;john.postlethwaite@enron.com;kathy.reeves@enron.com","c..gossett@enron.com;w..white@enron.com;john.postlethwaite@enron.com;kathy.reeves@enron.com","SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"Power Pool of Alberta","
+
+ <<Enron Direct Sales Contracts Effective Jan 1 2002.xls>>  <<Enron Letter
+re direct sales contracts.doc>>
+
+ - Enron Direct Sales Contracts Effective Jan 1 2002.xls 
+ - Enron Letter re direct sales contracts.doc 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carol.moline@powerpool.ab.ca","carol.moline@powerpool.ab.ca","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Market Data Applications","I am on a conference call every morning at 10:00 am.  Let me bring this up tomorrow and see what they want to do.
+
+Danielle
+
+ -----Original Message-----
+From: 	Zufferli, John  
+Sent:	Monday, January 28, 2002 4:43 PM
+To:	Marcinkowski, Danielle
+Subject:	RE: Market Data Applications
+
+
+who at UBS should we talk to?
+ -----Original Message-----
+From: 	Marcinkowski, Danielle  
+Sent:	Monday, January 28, 2002 2:52 PM
+To:	Zufferli, John; DL-IT Calgary
+Subject:	RE: Market Data Applications
+
+The contracts might have been from Calgary, I just don't know if anyone from Calgary is talking with the contracts group from UBS?
+Does anyone know?
+
+Danielle
+ -----Original Message-----
+From: 	Zufferli, John  
+Sent:	Monday, January 28, 2002 3:40 PM
+To:	Marcinkowski, Danielle
+Subject:	RE: Market Data Applications
+
+1 user of accumap
+
+ I'll look into the other issues, I just thought that you may know who may be handling it, we may just do it directly from Calgary
+
+ -----Original Message-----
+From: 	Marcinkowski, Danielle  
+Sent:	Monday, January 28, 2002 2:16 PM
+To:	Zufferli, John
+Subject:	FW: Market Data Applications
+
+John:
+
+I have not found anyone who was trying to renew these contracts.  I am meeting with IHS on Thursday so I will make sure we add Accumap.  How many user of Accumap will you need?  I will forward the cost to you prior to sending the contracts to UBS.  
+
+Do you know who managed the contracts with NOVA, Power Pool of Alberta, OASIS or ESBI so that I can gather contact information and begin the contract management of these applications.
+
+Thanks,
+
+Danielle  
+
+ -----Original Message-----
+From: 	Gaskill, Chris  
+Sent:	Monday, January 28, 2002 11:57 AM
+To:	Marcinkowski, Danielle
+Subject:	RE: Market Data Applications
+
+I have no knowledge of anyone looking into the resources listed.
+
+Chris
+
+ -----Original Message-----
+From: 	Marcinkowski, Danielle  
+Sent:	Monday, January 28, 2002 11:25 AM
+To:	Gaskill, Chris; Will, Lloyd
+Subject:	FW: Market Data Applications
+
+Chris / Lloyd:
+
+To answer John's question do you know if anyone is looking into NOVA, Power Pool of Alberta, OASIS, or ESBI ? 
+
+Thanks,
+
+Danielle
+
+
+ -----Original Message-----
+From: 	Zufferli, John  
+Sent:	Monday, January 28, 2002 10:21 AM
+To:	Marcinkowski, Danielle
+Subject:	RE: Market Data Applications
+
+Danielle, in general we need everything that Houston gets in addition to the info that is listed as Calgary on your spreadsheet.  One information source in not listed on your sheet.
+
+IHS Accumap		Priority 2	Contact: Carmen (403) 770-4503 phone, (403) 874-4218 cell
+
+Can you tell me if anyone in Houston is working on setting up accounts with NOVA, Power Pool of Alberta, OASIS, ESBI?  These are gas and power related entities that we have to have accounts with the schedule physical gas and electricity.
+
+ -----Original Message-----
+From: 	Marcinkowski, Danielle  
+Sent:	Friday, January 25, 2002 2:59 PM
+To:	Zufferli, John
+Subject:	Market Data Applications
+
+John:
+
+Here are the contracts we are currently creating with UBS.  Please verify that we have not missed any applications/publications or subscriptions.  
+
+Highlight in Red the systems you will need and mark the priority from 1-5,  1 being critical.
+
+
+Thank you,
+
+Danielle 
+
+ << File: md.xls >>   
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","danielle.marcinkowski@enron.com","danielle.marcinkowski@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"Expense Reports","
+In anticipation of the imminent closing of the UBSW Energy transaction, please have all outstanding employee expenses submitted to accounting no later than Thursday at 6:00 pm.  Enron will process and pay all pre-closing expenses.   
+
+Note to approvers - please approve these expense reports quickly.   
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carla.o'neil@enron.com","carla.o'neil@enron.com","SMTP","jason.biever@enron.com;chad.clark@enron.com;mike.cowan@enron.com;derek.davies@enron.com;chris.dorland@enron.com;lon.draper@enron.com;dean.drozdiak@enron.com;gerry.hrap@enron.com;nicole.laporte@enron.com;chris.lambie@enron.com;eric.le@enron.com;mike.macphee@enron.com;rob.milnthorp@enron.com;grant.oh@enron.com;fabian.taylor@enron.com;garrett.tripp@enron.com;ryan.watt@enron.com;john.zufferli@enron.com;cooper.richey@enron.com;chelsea.bardal@enron.com;nella.cappelletto@enron.com;sharon.crawford@enron.com;cheryl.dawes@enron.com;kelly.donlevy-lee@enron.com;dan.dorland@enron.com;brian.gillis@enron.com;david.hanslip@enron.com;peggy.hedstrom@enron.com;robert.hemstock@enron.com;greg.johnston@enron.com;peter.keohane@enron.com;angela.liknes@enron.com;albert.luc@enron.com;brad.martin@enron.com;angela.mcculloch@enron.com;mirna.moscoso@enron.com;carla.o'neil@enron.com;grant.patterson@enron.com;liz.prior@enron.com;sandra.quon@enron.com;kathy.reeves@enron.com;dianne.ripley@enron.com;clayton.rondeau@enron.com;laura.scott@enron.com;dianne.seib@enron.com;conal.tackney@enron.com;nikole.vander@enron.com","jason.biever@enron.com;chad.clark@enron.com;mike.cowan@enron.com;derek.davies@enron.com;chris.dorland@enron.com;lon.draper@enron.com;dean.drozdiak@enron.com;gerry.hrap@enron.com;nicole.laporte@enron.com;chris.lambie@enron.com;eric.le@enron.com;mike.macphee@enron.com;rob.milnthorp@enron.com;grant.oh@enron.com;fabian.taylor@enron.com;garrett.tripp@enron.com;ryan.watt@enron.com;john.zufferli@enron.com;cooper.richey@enron.com;chelsea.bardal@enron.com;nella.cappelletto@enron.com;sharon.crawford@enron.com;cheryl.dawes@enron.com;kelly.donlevy-lee@enron.com;dan.dorland@enron.com;brian.gillis@enron.com;david.hanslip@enron.com;peggy.hedstrom@enron.com;robert.hemstock@enron.com;greg.johnston@enron.com;peter.keohane@enron.com;angela.liknes@enron.com;albert.luc@enron.com;brad.martin@enron.com;angela.mcculloch@enron.com;mirna.moscoso@enron.com;carla.o'neil@enron.com;grant.patterson@enron.com;liz.prior@enron.com;sandra.quon@enron.com;kathy.reeves@enron.com;dianne.ripley@enron.com;clayton.rondeau@enron.com;laura.scott@enron.com;dianne.seib@enron.com;conal.tackney@enron.com;nikole.vander@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Updated List","I have updated the list to reflect all changes received. If you notice any more errors or if any counterparties have been reassigned, please let me know so that I can continue to make changes.
+Also, please see Louise's additions at the bottom of the list (from Adams Resources Marketing downward) and let me know if you have good relationships with any of these counterparties and could please take responsibility for them. Otherwise, our marketing team will be contacting these customers.
+Finally, please note that even though there may be names for a specific counterparty in both the gas and the power columns, the person ultimately responsible for contacting that customer regarding the password application and registration forms is the person in the PA column on the far right.
+Please remember when you are speaking to your customers to get all contact info possibly including contact name, phone and fax, e-mail, and address and send all this to Mary Griff Gray so that she can send them the PA and registration forms. 
+
+Please call me at 5-3614 if you have any questions or come by my desk at 06541.
+
+
+Jennifer McQuade
+
+ 
+
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.mcquade@enron.com","jennifer.mcquade@enron.com","SMTP","caroline.abramo@enron.com;tim.belden@enron.com;robert.benson@enron.com;craig.breslau@enron.com;gary.bryan@enron.com;f..calger@enron.com;paul.choi@enron.com;chad.clark@enron.com;mike.cowan@enron.com;mike.curry@enron.com;dana.davis@enron.com;w..donovan@enron.com;chris.dorland@enron.com;h..foster@enron.com;bryant.frihart@enron.com;dale.furrow@enron.com;n..gilbert@enron.com;jared.kaiser@enron.com;fred.lagrasta@enron.com;morris.larubbio@enron.com;john.llodra@enron.com;deirdre.mccaffrey@enron.com;michael.mcdonald@enron.com;l..mims@enron.com;h..otto@enron.com;m..presto@enron.com;reagan.rorschach@enron.com;stewart.rosman@enron.com;douglas.smith@enron.com;craig.taylor@enron.com;jake.thomas@enron.com;barry.tycholiz@enron.com;larry.valderrama@enron.com;frank.vickers@enron.com;houston;greg.whalley@enron.com;george.wood@enron.com;john.zufferli@enron.com","caroline.abramo@enron.com;tim.belden@enron.com;robert.benson@enron.com;craig.breslau@enron.com;gary.bryan@enron.com;f..calger@enron.com;paul.choi@enron.com;chad.clark@enron.com;mike.cowan@enron.com;mike.curry@enron.com;dana.davis@enron.com;w..donovan@enron.com;chris.dorland@enron.com;h..foster@enron.com;bryant.frihart@enron.com;dale.furrow@enron.com;n..gilbert@enron.com;jared.kaiser@enron.com;fred.lagrasta@enron.com;morris.larubbio@enron.com;john.llodra@enron.com;deirdre.mccaffrey@enron.com;michael.mcdonald@enron.com;l..mims@enron.com;h..otto@enron.com;m..presto@enron.com;reagan.rorschach@enron.com;stewart.rosman@enron.com;douglas.smith@enron.com;craig.taylor@enron.com;jake.thomas@enron.com;barry.tycholiz@enron.com;larry.valderrama@enron.com;frank.vickers@enron.com;.ward@enron.com;greg.whalley@enron.com;george.wood@enron.com;john.zufferli@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","david.forster@enron.com;teresa.mandola@enron.com;daniel.diamond@enron.com","david.forster@enron.com;teresa.mandola@enron.com;daniel.diamond@enron.com","SMTP;SMTP;SMTP","david.forster@enron.com;teresa.mandola@enron.com;daniel.diamond@enron.com","david.forster@enron.com;teresa.mandola@enron.com;daniel.diamond@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"Trader Presentations - 2/7 @ 2:30 p.m. (CST) in Conf RM 06980","     
+There will be two presentations tomorrow from UBS commencing at 2:30 p.m. (CST).  These will be held in ECS 06980 and the conference dial-in numbers are listed below.  
+
+				2:30 p.m.	Bill Glass & Bill Bradford - Credit
+				3:00 p.m.	Alex Fusco - New Business Guidelines
+
+Dial-in #		800.486.2726
+Host code	353763 (Louise)
+Participant	547763
+
+Many Thanks,
+
+Liz Taylor
+Assistant to Greg Whalley
+713.853.1935 office
+713.853.1838 fax
+713.854.3056 mobile
+
+
+ 
+
+
+
+
+                    
+
+
+      
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","liz.taylor@enron.com","liz.taylor@enron.com","SMTP","chris.lackey@enron.com;michael.mcdonald@enron.com;laura.wente@enron.com;tim.belden@enron.com;jeff.richter@enron.com;bryant.frihart@enron.com;deirdre.mccaffrey@enron.com;h..lewis@enron.com;vladi.pimenov@enron.com;s..shively@enron.com;geoff.storey@enron.com;trading;r..brackett@enron.com;s..bradford@enron.com;kortney.brown@enron.com;wendy.conwell@enron.com;stephanie.mcginnis@enron.com;roderick.nelson@enron.com;monica.reasoner@enron.com;edward.sacks@enron.com;max.sonnonstine@enron.com;john.suttle@enron.com;credit;caroline.abramo@enron.com;craig.breslau@enron.com;n..gilbert@enron.com;fred.lagrasta@enron.com;h..otto@enron.com;sheetal.patel@enron.com;jennifer.shipos@enron.com;jared.kaiser@enron.com;craig.taylor@enron.com;frank.vickers@enron.com;chuck.ames@enron.com;f..brawner@enron.com;jonathan.mckay@enron.com;scott.neal@enron.com;andrea.ring@enron.com;judy.townsend@enron.com;robert.stalford@enron.com;steve.wang@enron.com;m..presto@enron.com;gerry.hrap@enron.com;grant.oh@enron.com;fabian.taylor@enron.com;garrett.tripp@enron.com;edith.cross@enron.com;mike.curry@enron.com;leonardo.pacheco@enron.com;doug.gilbert-smith@enron.com;jeff.king@enron.com;paul.schiavone@enron.com;dipak.agarwalla@enron.com;adam.bayer@enron.com;bart.burk@enron.com;jd.buss@enron.com;mog.heu@enron.com;kevin.cline@enron.com;chris.gaskill@enron.com;gustavo.giron@enron.com;tim.heizenrader@enron.com;rika.imai@enron.com;robert.johnston@enron.com;jozef.lieskovsky@enron.com;martin.lin@enron.com;souad.mahmassani@enron.com;mauricio.marquez@enron.com;kourtney.nelson@enron.com;justin.o'malley@enron.com;biliana.pehlivanova@enron.com;willis.philip@enron.com;gulay.soykok@enron.com;chris.stokley@enron.com;ellen.su@enron.com;steve.swain@enron.com;patrick.tucker@enron.com;maria.van@enron.com;kristin.walsh@enron.com;lloyd.will@enron.com;ryan.williams@enron.com;jason.wolfe@enron.com;virawan.yawapongsiri@enron.com;brian.redmond@enron.com;david.cash@enron.com;e..haedicke@enron.com;legal;t..hodge@enron.com;marcus.nettelton@enron.com;elizabeth.sager@enron.com;legal;christian.yoder@enron.com;dale.furrow@enron.com;larry.valderrama@enron.com;russell.ballato@enron.com;jason.kaniss@enron.com;j..sturm@enron.com;f..calger@enron.com;john.llodra@enron.com;jim.meyn@enron.com;george.wood@enron.com;robert.benson@enron.com;dana.davis@enron.com;bryce.schneider@enron.com;d..thomas@enron.com;jeff.shields@enron.com;andrea.woodland@enron.com;sean.crandall@enron.com;diana.scholtes@enron.com;mike.swerzbin@enron.com;john.griffith@enron.com;john.lavorato@enron.com;mike.maggi@enron.com;larry.may@enron.com;andy.zipper@enron.com;john.anderson@enron.com;don.baughman@enron.com;craig.dean@enron.com;joe.errigo@enron.com;john.kinser@enron.com;carrie.larkworthy@enron.com;peter.makkai@enron.com;albert.meyers@enron.com;michael.mier@enron.com;jeffrey.miller@enron.com;seung-taek.oh@enron.com;juan.padron@enron.com;holden.salisbury@enron.com;michael.seely@enron.com;ryan.slinger@enron.com;geir.solberg@enron.com;brian.terp@enron.com;bill.abler@enron.com;w..donovan@enron.com;reagan.rorschach@enron.com;mike.carson@enron.com;eric.saibi@enron.com;michael.etringer@enron.com;jake.thomas@enron.com;stephen.thome@enron.com;jim.brysch@enron.com;gary.bryan@enron.com;morris.larubbio@enron.com;eric.bass@enron.com;a..martin@enron.com;charles.weldon@enron.com;david.ryan@enron.com;stephanie.miller@enron.com;l..mims@enron.com;barry.tycholiz@enron.com;houston;k..allen@enron.com;don.black@enron.com;frank.ermis@enron.com;mike.grigsby@enron.com;keith.holst@enron.com;matthew.lenhart@enron.com;jay.reitmeyer@enron.com;mathew.smith@enron.com;p..south@enron.com;m..tholt@enron.com;h..foster@enron.com;jason.biever@enron.com;derek.davies@enron.com;dean.drozdiak@enron.com;nicole.laporte@enron.com;eric.le@enron.com;mike.macphee@enron.com;rob.milnthorp@enron.com;howard.sangwine@enron.com;chad.clark@enron.com;mike.cowan@enron.com;chris.dorland@enron.com;lon.draper@enron.com;chris.lambie@enron.com;cooper.richey@enron.com;ryan.watt@enron.com;john.zufferli@enron.com;mary.cook@enron.com;angela.davis@enron.com;genia.fitzgerald@enron.com;leslie.hansen@enron.com;marie.heard@enron.com;tana.jones@enron.com;c..koehler@enron.com;pinto.leite@enron.com;david.portz@enron.com;carol.st.@enron.com","chris.lackey@enron.com;michael.mcdonald@enron.com;laura.wente@enron.com;tim.belden@enron.com;jeff.richter@enron.com;bryant.frihart@enron.com;deirdre.mccaffrey@enron.com;h..lewis@enron.com;vladi.pimenov@enron.com;s..shively@enron.com;geoff.storey@enron.com;.williams@enron.com;r..brackett@enron.com;s..bradford@enron.com;kortney.brown@enron.com;wendy.conwell@enron.com;stephanie.mcginnis@enron.com;roderick.nelson@enron.com;monica.reasoner@enron.com;edward.sacks@enron.com;max.sonnonstine@enron.com;john.suttle@enron.com;.williams@enron.com;caroline.abramo@enron.com;craig.breslau@enron.com;n..gilbert@enron.com;fred.lagrasta@enron.com;h..otto@enron.com;sheetal.patel@enron.com;jennifer.shipos@enron.com;jared.kaiser@enron.com;craig.taylor@enron.com;frank.vickers@enron.com;chuck.ames@enron.com;f..brawner@enron.com;jonathan.mckay@enron.com;scott.neal@enron.com;andrea.ring@enron.com;judy.townsend@enron.com;robert.stalford@enron.com;steve.wang@enron.com;m..presto@enron.com;gerry.hrap@enron.com;grant.oh@enron.com;fabian.taylor@enron.com;garrett.tripp@enron.com;edith.cross@enron.com;mike.curry@enron.com;leonardo.pacheco@enron.com;doug.gilbert-smith@enron.com;jeff.king@enron.com;paul.schiavone@enron.com;dipak.agarwalla@enron.com;adam.bayer@enron.com;bart.burk@enron.com;jd.buss@enron.com;mog.heu@enron.com;kevin.cline@enron.com;chris.gaskill@enron.com;gustavo.giron@enron.com;tim.heizenrader@enron.com;rika.imai@enron.com;robert.johnston@enron.com;jozef.lieskovsky@enron.com;martin.lin@enron.com;souad.mahmassani@enron.com;mauricio.marquez@enron.com;kourtney.nelson@enron.com;justin.o'malley@enron.com;biliana.pehlivanova@enron.com;willis.philip@enron.com;gulay.soykok@enron.com;chris.stokley@enron.com;ellen.su@enron.com;steve.swain@enron.com;patrick.tucker@enron.com;maria.van@enron.com;kristin.walsh@enron.com;lloyd.will@enron.com;ryan.williams@enron.com;jason.wolfe@enron.com;virawan.yawapongsiri@enron.com;brian.redmond@enron.com;david.cash@enron.com;e..haedicke@enron.com;.hall@enron.com;t..hodge@enron.com;marcus.nettelton@enron.com;elizabeth.sager@enron.com;.taylor@enron.com;christian.yoder@enron.com;dale.furrow@enron.com;larry.valderrama@enron.com;russell.ballato@enron.com;jason.kaniss@enron.com;j..sturm@enron.com;f..calger@enron.com;john.llodra@enron.com;jim.meyn@enron.com;george.wood@enron.com;robert.benson@enron.com;dana.davis@enron.com;bryce.schneider@enron.com;d..thomas@enron.com;jeff.shields@enron.com;andrea.woodland@enron.com;sean.crandall@enron.com;diana.scholtes@enron.com;mike.swerzbin@enron.com;john.griffith@enron.com;john.lavorato@enron.com;mike.maggi@enron.com;larry.may@enron.com;andy.zipper@enron.com;john.anderson@enron.com;don.baughman@enron.com;craig.dean@enron.com;joe.errigo@enron.com;john.kinser@enron.com;carrie.larkworthy@enron.com;peter.makkai@enron.com;albert.meyers@enron.com;michael.mier@enron.com;jeffrey.miller@enron.com;seung-taek.oh@enron.com;juan.padron@enron.com;holden.salisbury@enron.com;michael.seely@enron.com;ryan.slinger@enron.com;geir.solberg@enron.com;brian.terp@enron.com;bill.abler@enron.com;w..donovan@enron.com;reagan.rorschach@enron.com;mike.carson@enron.com;eric.saibi@enron.com;michael.etringer@enron.com;jake.thomas@enron.com;stephen.thome@enron.com;jim.brysch@enron.com;gary.bryan@enron.com;morris.larubbio@enron.com;eric.bass@enron.com;a..martin@enron.com;charles.weldon@enron.com;david.ryan@enron.com;stephanie.miller@enron.com;l..mims@enron.com;barry.tycholiz@enron.com;.ward@enron.com;k..allen@enron.com;don.black@enron.com;frank.ermis@enron.com;mike.grigsby@enron.com;keith.holst@enron.com;matthew.lenhart@enron.com;jay.reitmeyer@enron.com;mathew.smith@enron.com;p..south@enron.com;m..tholt@enron.com;h..foster@enron.com;jason.biever@enron.com;derek.davies@enron.com;dean.drozdiak@enron.com;nicole.laporte@enron.com;eric.le@enron.com;mike.macphee@enron.com;rob.milnthorp@enron.com;howard.sangwine@enron.com;chad.clark@enron.com;mike.cowan@enron.com;chris.dorland@enron.com;lon.draper@enron.com;chris.lambie@enron.com;cooper.richey@enron.com;ryan.watt@enron.com;john.zufferli@enron.com;mary.cook@enron.com;angela.davis@enron.com;genia.fitzgerald@enron.com;leslie.hansen@enron.com;marie.heard@enron.com;tana.jones@enron.com;c..koehler@enron.com;pinto.leite@enron.com;david.portz@enron.com;carol.st.@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","louise.kitchen@enron.com;greg.whalley@enron.com;tammie.schoppe@enron.com","louise.kitchen@enron.com;greg.whalley@enron.com;tammie.schoppe@enron.com","SMTP;SMTP;SMTP","louise.kitchen@enron.com;greg.whalley@enron.com;tammie.schoppe@enron.com","louise.kitchen@enron.com;greg.whalley@enron.com;tammie.schoppe@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"FW: Ontario overview","Please disregard the Hydro slide (p.12 or 13) in the Presentation.  I have added a hydro tab in the quick info spreadsheet.
+
+
+ -----Original Message-----
+From: 	Tripp, Garrett  
+Sent:	Monday, January 28, 2002 1:25 PM
+To:	Zufferli, John; Milnthorp, Rob
+Subject:	Ontario overview
+
+To continue getting familiar with Ontario, please review the document OEFC_demandSupp_UBS.ppt on your I:/common/OEFC directory.  It is a presentation we gave to OEFC in the fall.
+
+Here is a spreadsheet with additional information.
+
+ 
+Some intertie information may vary from source to source.  This is due to the IMO's regular small adjustments to the capacity numbers.
+
+GT
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","garrett.tripp@enron.com","garrett.tripp@enron.com","SMTP","john.zufferli@enron.com;rob.milnthorp@enron.com","john.zufferli@enron.com;rob.milnthorp@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"Commercial Re-start Sub-Committee Mtgs. (Tues & Thurs)","The new meeting Louise Kitchen refers to in her email below will commence this Thursday, Feb. 7 @ 10:30 a.m.(CST) for 15 minutes in Conf RM 06716.  This starts a new weekly meeting for 15 minutes every Thursday @ 10:30 a.m.(CST).  The dial-in number for this new meeting is listed below, along w/the dial-in number for Tuesday's weekly meeting.  Please call me if you have any questions.
+
+Commercial Re-Start Sub-Committee Mtgs.
+Thursday's 10:30 a.m. - 15 minute meeting
+Dial-in#			888.380.9636
+Host Code:		926946 (Louise)
+Participant code:	237334
+
+Tuesday's 10:00 a.m. weekly meeting
+Dial-in#			877.807.5706
+Host Code:		259857 (Louise)
+Participant code:	913663
+
+Liz Taylor
+Assistant to Greg Whalley
+713.853.1935 office
+713.853.1838 fax
+713.854.3056 mobile
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Tuesday, February 05, 2002 5:09 PM
+To:	Milnthorp, Rob; Calger, Christopher F.; Furrow, Dale; Curry, Mike; Redmond, Brian; Vickers, Frank; Tycholiz, Barry; Kitchen, Louise; Forster, David; Lagrasta, Fred; Llodra, John; Bradford, William S.; Taylor, Mark E (Legal); Cook, Mary; Hodge, Jeffrey T.; Sager, Elizabeth; Hansen, Leslie; Thomas, Jake; Foster, Chris H.; Mcdonald, Michael; Davies, Derek; Le Dain, Eric
+Cc:	Belden, Tim; Swerzbin, Mike; Presto, Kevin M.; Davis, Mark Dana; Sturm, Fletcher J.; Zufferli, John; Allen, Phillip K.; Shively, Hunter S.; Lavorato, John; Grigsby, Mike; Martin, Thomas A.; Whalley, Greg; Gilbert-smith, Doug; Carson, Mike
+Subject:	Commercial Re-start Sub-Committee
+
+Following this morning's meeting, we have agreed to have a fifteen minute conference call on a Thursday morning to give a quick update of issues.  Chris Calger will ensure a list of progress is circulated prior to the two calls.
+
+For those of you cc:d on this.  Please feel free to join any of the calls to catch up on progress we are making with getting contracts in place.
+
+Liz Taylor will redistribute the conference call numbers for Tuesday and Thursday.
+
+Thanks
+
+Louise
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","liz.taylor@enron.com","liz.taylor@enron.com","SMTP","rob.milnthorp@enron.com;f..calger@enron.com;dale.furrow@enron.com;mike.curry@enron.com;brian.redmond@enron.com;frank.vickers@enron.com;barry.tycholiz@enron.com;louise.kitchen@enron.com;david.forster@enron.com;fred.lagrasta@enron.com;john.llodra@enron.com;s..bradford@enron.com;legal;mary.cook@enron.com;t..hodge@enron.com;elizabeth.sager@enron.com;leslie.hansen@enron.com;jake.thomas@enron.com;h..foster@enron.com;michael.mcdonald@enron.com;derek.davies@enron.com;eric.le@enron.com","rob.milnthorp@enron.com;f..calger@enron.com;dale.furrow@enron.com;mike.curry@enron.com;brian.redmond@enron.com;frank.vickers@enron.com;barry.tycholiz@enron.com;louise.kitchen@enron.com;david.forster@enron.com;fred.lagrasta@enron.com;john.llodra@enron.com;s..bradford@enron.com;.taylor@enron.com;mary.cook@enron.com;t..hodge@enron.com;elizabeth.sager@enron.com;leslie.hansen@enron.com;jake.thomas@enron.com;h..foster@enron.com;michael.mcdonald@enron.com;derek.davies@enron.com;eric.le@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","greg.whalley@enron.com;tim.belden@enron.com;mike.swerzbin@enron.com;m..presto@enron.com;dana.davis@enron.com;j..sturm@enron.com;john.zufferli@enron.com;k..allen@enron.com;s..shively@enron.com;john.lavorato@enron.com;mike.grigsby@enron.com;a..martin@enron.com;doug.gilbert-smith@enron.com;mike.carson@enron.com","greg.whalley@enron.com;tim.belden@enron.com;mike.swerzbin@enron.com;m..presto@enron.com;dana.davis@enron.com;j..sturm@enron.com;john.zufferli@enron.com;k..allen@enron.com;s..shively@enron.com;john.lavorato@enron.com;mike.grigsby@enron.com;a..martin@enron.com;doug.gilbert-smith@enron.com;mike.carson@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","greg.whalley@enron.com;tim.belden@enron.com;mike.swerzbin@enron.com;m..presto@enron.com;dana.davis@enron.com;j..sturm@enron.com;john.zufferli@enron.com;k..allen@enron.com;s..shively@enron.com;john.lavorato@enron.com;mike.grigsby@enron.com;a..martin@enron.com;doug.gilbert-smith@enron.com;mike.carson@enron.com","greg.whalley@enron.com;tim.belden@enron.com;mike.swerzbin@enron.com;m..presto@enron.com;dana.davis@enron.com;j..sturm@enron.com;john.zufferli@enron.com;k..allen@enron.com;s..shively@enron.com;john.lavorato@enron.com;mike.grigsby@enron.com;a..martin@enron.com;doug.gilbert-smith@enron.com;mike.carson@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"FW: UBS Warburg Energy - First Priority Trading Agreements","John, fyi - any issues?
+
+ -----Original Message-----
+From: 	Calger, Christopher F.  
+Sent:	Tuesday, February 05, 2002 6:34 PM
+To:	Milnthorp, Rob; Furrow, Dale; Curry, Mike; Redmond, Brian; Vickers, Frank; Tycholiz, Barry; Kitchen, Louise; Forster, David; Lagrasta, Fred; Llodra, John; Bradford, William S.; Taylor, Mark E (Legal); Cook, Mary; Hodge, Jeffrey T.; Sager, Elizabeth; Hansen, Leslie; Thomas, Jake; Foster, Chris H.; Mcdonald, Michael; Davies, Derek; Le Dain, Eric; Bailey, Debra; Will, Lloyd
+Subject:	FW: UBS Warburg Energy - First Priority Trading Agreements
+
+
+The first group of trading contracts will go out to 77 companies for a total of 168 counterparties (most companies have multiple entities).  This group obviously does not include everyone, but we have most of our major relationships (and it is the official list that has been submitted to UBS for credit approval.)  
+
+The general marketing plan is as follows:
+- Contact all customers this week to tell them about UBS Warburg Energy
+- Get contract/PA packages in front of First Priority counterparties this week
+- Arrange meetings or follow-up calls as appropriate
+- Dave Forster and the ubswenergy.com team will be sending out online PA packages to all parties later this week (so it is important to have contacted all customers)
+- Once the initial wave of contracts is out and review/negotiations are uderway, we will submit a Second Priority list for credit approval
+
+The attached file has all of the First Priority counterparties, along with names for gas, power, online, credit and legal.   Apologies for the imperfect information - it came from several different sources.  In addition, we have columns for describing the type of agreement and its status (not pursuing, incomplete, done).  Please complete and/or edit the attached and forward to either Debra Bailey or Lloyd Will.  If you think you should take the lead on a particular counterparty, call up the other person and work it out!  Progress on this effort will be reviewed during our twice-weekly calls.
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","rob.milnthorp@enron.com","rob.milnthorp@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Business information needed for TP, ISO and NERC agreements","John,
+
+Sorry, I missed you on the original distribution list.  I work for Lloyd Will on the East Power Desk and have been coordinating the UBS start up steps related to NERC, ISO's and TP's.  
+
+Debra
+ -----Original Message-----
+From: 	Bailey, Debra  
+Sent:	Monday, February 04, 2002 9:57 AM
+To:	Steffes, James D.; Reeves, Leslie
+Cc:	Will, Lloyd; Forster, David; Jafry, Rahil; Bentley, Corry; Tripp, Garrett; Belden, Tim; Richter, Jeff; Presto, Kevin M.
+Subject:	Business information needed for TP, ISO and NERC agreements 
+
+Leslie, Jim:
+
+We will need the following information to complete the transmission provider applications, ISO agreements, and NERC memberships.  
+
+- Billing Contact including address, number, email etc.  
+- Customer Contact including address, number, email etc.  (We recommend Corry Bentley for the East, however need to confirm address)
+- Routing numbers, billing fax numbers
+- UBS AG DUNS number
+- Confirm what company name to be utilized for the Transmission Provider, ISO and NERC Regional Reliability Council agreements/memberships.
+
+Leslie, can you assist in helping us finalize the above information.  We would like to begin mailing in the TP, ISO & NERC agreements next week on the 12th. 
+
+In regards to NERC ETAG and NERC business entity, we would like to register as UBS.  If we register as UBSWE it may get confused with the East and West scheduling desks.  Therefore, we would like to use the following initials for the NERC scheduling desk codes: UBSE (east desk), UBSW (west desk), UBSC (canada).   I will coordinate this with the West and Canada desks this week, in addition to other remaining steps such as registration with Tradewave for JTSIN OASIS etc.  
+
+Debra
+
+
+
+
+ -----Original Message-----
+From: 	Forster, David  
+Sent:	Friday, February 01, 2002 8:46 PM
+To:	Bailey, Debra; Will, Lloyd
+Subject:	FW: UBS Names Summary
+
+
+
+ -----Original Message-----
+From: 	Forster, David  
+Sent:	Wednesday, January 30, 2002 9:09 AM
+To:	Guadarrama, Michael; DL-EOL eCommerce Support; Becker, Lorraine; Mandola, Teresa; Mcquade, Jennifer; Carter, Carl; Diamond, Daniel; Jafry, Rahil; Shults, Bob
+Cc:	Webb, Jay
+Subject:	UBS Names Summary
+
+Following is the summary of names (at least, as things stand as of this minute!)
+
+
+UBS Names Summary
+
+1) The contracting entity for US Gas and Power Master Agreements, GTC's, ETA's and PA's will be ""UBS AG""
+
+2) The entity for US Gas and Power deals (as appears on Product Descriptions) will be ""UBS AG, London Branch""
+
+3) The company name for most promotional purposes (e.g. marketing brochures) will be ""UBS Warburg Energy"", though the full legal version of this name is ""UBS Warburg Energy, LLC""
+
+4) Where the keys logo is used, format shall be ""<keys> UBS Warburg"". References to other names, such as ""UBS Warburg Energy"" shall be in a separate part of the screen/page.
+
+5) The website address will be www.ubswenergy.com
+
+
+Questions still outstanding (hopefully will be resolved early next week)
+
+1) The name of the contracting entity for Canadian GTC, Master, ETA, PA.
+
+2) The name of the entity for Canadian Gas and Power Deals.
+
+
+Conversion Map for Website Contents
+
+Based on the above Names Summary, the following map should apply. If you see any specific instances in which applying this map would result in a questionable result, please see me and I will try to clarify the appropriate treatment.
+
+""Enron Corp"" -> ""UBS AG""
+""Enron North America"" -> ""UBS AG"" on Masters, GTC's, ETA, PA ONLY
+""Enron North America"" -> ""UBS AG, London Branch"" on Product Descriptions
+""EnronOnline"" -> ""UBSWenergy""
+""www.enrononline.com"" -> ""www.ubswenergy.com""
+""Enron"" -> ""UBS""
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","debra.bailey@enron.com","debra.bailey@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP","lloyd.will@enron.com","lloyd.will@enron.com","SMTP","lloyd.will@enron.com","lloyd.will@enron.com","SMTP",,,"Normal"
+"Open Access Technology International","John, we just received an invoice from the above company for an electronic tagging service agreement that Bill Greenizan had executed last year.  It is to renew the ETS agreement for an additional one year commencing March 10, 2002 and is in an amount of US$3,000.  I am unsure what the purpose is of the agreement and whether ECC or UBSW need to continue it.  Can you let me know what we should do with the invoice and agreement?
+
+Thanks
+Greg
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","greg.johnston@enron.com","greg.johnston@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"Unmetered Asset Direct Sales for December"," - ECP- direct sale detail1.xls 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carol.moline@powerpool.ab.ca","carol.moline@powerpool.ab.ca","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"Terminated Counterparty Contracts","I attach an updated list (to Feb 5) of the terminated contracts to date.  For informational purposes, I have added a column that sets out the settlement dates for contracts we have settled, so there may be some additional counterparties added to my previous list where there was no ECC agreed termination date but we have settled and terminated (no one needs to do anything for these c/ps).  Again, the first table sets forth the physical contracts that have been terminated and the second sets out the financial contracts, and all data reflects ECC's (not the counterparties') perception of the world.  I have vetted my list against Blakes' master list and believe this is accurate in all respects.  As I indicated in my previous e-mails to you there were a few date discrepancies and I have previously provided you with the corrected dates for El Paso, Marathon, AEC Marketing, Calpine (Encal), Williams Energy and Baytex (all physical), all which are now correctly reflected in the attachment.  A few others that were not previously on the list include Coast Energy (physical) which auto terminated on Dec 2 and PrimeWest Energy (physical) which auto terminated on Dec 2.  
+
+Thanks
+Greg
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","greg.johnston@enron.com","greg.johnston@enron.com","SMTP","cheryl.dawes@enron.com;eric.le@enron.com;dianne.seib@enron.com;john.zufferli@enron.com","cheryl.dawes@enron.com;eric.le@enron.com;dianne.seib@enron.com;john.zufferli@enron.com","SMTP;SMTP;SMTP;SMTP","robert.anderson@blakes.com;rayla.boyd@blakes.com","robert.anderson@blakes.com;rayla.boyd@blakes.com","SMTP;SMTP","robert.anderson@blakes.com;rayla.boyd@blakes.com","robert.anderson@blakes.com;rayla.boyd@blakes.com","SMTP;SMTP",,,"Normal"
+"Ontario Presentation","This is a presentation I put together for Derek, but it was some general info that may be of interest to you.
+
+Let me know if and when you guys would like to sit down and go over Ontario in a bit me detail at some point over the next week. You can also get a good fundies overview from the IMO forecasts at:
+
+http://www.iemo.com/imoweb/monthsYears/monthsAhead.asp
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dan.dorland@enron.com","dan.dorland@enron.com","SMTP","john.zufferli@enron.com;cooper.richey@enron.com","john.zufferli@enron.com;cooper.richey@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"Canadian legal entity","
+The name for the Canadian entity which will enter into both Master Agreements and individual commodity transactions is: ""UBS Warburg Energy (Canada) Ltd."", as confirmed by Lou Eber: UBS Chief Legal Counsel.
+
+I am working on chasing down the parental guarantee issue.
+
+Dave
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","david.forster@enron.com","david.forster@enron.com","SMTP","legal;peter.keohane@enron.com;peggy.hedstrom@enron.com",".taylor@enron.com;peter.keohane@enron.com;peggy.hedstrom@enron.com","SMTP;SMTP;SMTP","louise.kitchen@enron.com;rob.milnthorp@enron.com;sally.beck@enron.com;john.zufferli@enron.com","louise.kitchen@enron.com;rob.milnthorp@enron.com;sally.beck@enron.com;john.zufferli@enron.com","SMTP;SMTP;SMTP;SMTP","louise.kitchen@enron.com;rob.milnthorp@enron.com;sally.beck@enron.com;john.zufferli@enron.com","louise.kitchen@enron.com;rob.milnthorp@enron.com;sally.beck@enron.com;john.zufferli@enron.com","SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"Power Pool","This email is acknowledgement from the Power Pool of Alberta of the change
+in direct sales/forward contract registration for contracts that are
+currently registered with the Power Pool between Lethbridge Ironworks and
+Enron Canada Power Corporation for trading after December 29 HE 1 2001.  On
+January 7 the Power Pool received your acknowledgement of Enron's change in
+the source asset for the direct sales/forward contract registrations for
+contract # 934 to modify the source from the Sundance 3 unit (SD3) to
+Enron's unmetered source asset (ECP-).  The modified registration terms will
+be effective December 29 HE 1 2001 and will apply until the expiry date of
+the contract registration for net settlement purposes.
+
+In addition, as has been verbally communicated to you, the Power Pool was
+required to modify a direct sales/forward contract with Enron Canada Power
+Corporation that was registered with the Power Pool in 2001 due to the sale
+of the Sundance 3 unit effective December 29 HE 1 2001.  The details of
+these changes are provided below.
+
+***********************************
+Original Contract Number: 933
+Terminated: December 28 HE 24
+Source:  Enron Sundance 3 (Enron's metered asset)
+Sink: LI1L
+
+New Contract Number: 2053
+Begin Date: December 29 HE 1
+Expiry Date: December 31 HE 24
+Source:  Enron ECP- (Enron's unmetered asset)
+Sink: LI1L
+
+If you have any questions relating to this matter, please give me a call.
+
+Carol Moline
+Financial Controller
+Power Pool of Alberta
+(403) 233-4686
+carol.moline@powerpool.ab.ca
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carol.moline@powerpool.ab.ca","carol.moline@powerpool.ab.ca","SMTP","john.davies@lethbridgeironworks.com","john.davies@lethbridgeironworks.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,"Normal"
+"Trader Meeting - 2/7 @ 7:45 a.m. (CST) - ECS 06752","
+Greg Whalley has requested a Trader's Meeting tomorrow morning @ 7:45 a.m. (CST).  The meeting will be held in his office, ECS 06752.  The dial-in number for Portland and Calgary is listed below.
+
+Dial-in #		888.285.4585
+Host Code:	869944 (Greg)
+Participant code:	107058
+
+
+Many Thanks,
+
+Liz Taylor
+x31935
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","liz.taylor@enron.com","liz.taylor@enron.com","SMTP","john.lavorato@enron.com;a..martin@enron.com;k..allen@enron.com;mike.grigsby@enron.com;s..shively@enron.com;m..presto@enron.com;tim.belden@enron.com;mike.swerzbin@enron.com;john.zufferli@enron.com;dana.davis@enron.com","john.lavorato@enron.com;a..martin@enron.com;k..allen@enron.com;mike.grigsby@enron.com;s..shively@enron.com;m..presto@enron.com;tim.belden@enron.com;mike.swerzbin@enron.com;john.zufferli@enron.com;dana.davis@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","louise.kitchen@enron.com;kimberly.hillis@enron.com;laura.vuittonet@enron.com;ina.rangel@enron.com;d..hogan@enron.com;jae.black@enron.com","louise.kitchen@enron.com;kimberly.hillis@enron.com;laura.vuittonet@enron.com;ina.rangel@enron.com;d..hogan@enron.com;jae.black@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","louise.kitchen@enron.com;kimberly.hillis@enron.com;laura.vuittonet@enron.com;ina.rangel@enron.com;d..hogan@enron.com;jae.black@enron.com","louise.kitchen@enron.com;kimberly.hillis@enron.com;laura.vuittonet@enron.com;ina.rangel@enron.com;d..hogan@enron.com;jae.black@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"Power Pool","John,
+
+Further to our conversation last week, this is written notification that the
+Power Pool was required to modify PetroCanada's direct sales/forward
+contracts with Enron Canada Power due to the sale of the Sundance 3 unit
+effective December 29 HE 1 2001.  The details of these changes are provided
+below.
+
+***********************************
+Original Contract Number: 138
+Terminated: December 28 HE 24
+Source:  Enron Sundance 3 (Enron's metered asset)
+Sink: PO1U
+
+New Contract Number: 2048
+Begin Date: December 29 HE 1
+Expiry Date: December 31 HE 24
+Source:  Enron ECP- (Enron's unmetered asset)
+Sink: PO1U
+***********************************
+Original Contract Number: 1287
+Terminated: December 28 HE 24
+Source:  Enron Sundance 3 (Enron's metered asset)
+Sink: PO1U
+
+New Contract Number: 2052
+Begin Date: December 29 HE 1
+Expiry Date: December 31 HE 24
+Source:  Enron ECP- (Enron's unmetered asset)
+Sink: PO1U
+***********************************
+
+If you have any questions relating to this matter, please give me a call.
+
+Carol Moline
+Financial Controller
+Power Pool of Alberta
+(403) 233-4686
+carol.moline@powerpool.ab.ca
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carol.moline@powerpool.ab.ca","carol.moline@powerpool.ab.ca","SMTP","jdmiller@petro-canada.ca","jdmiller@petro-canada.ca","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,"Normal"
+"Termianted Contracts","Further to our meeting today, please find attached the list of contracts ECC is taking the view are properly terminated and the dates of such termination (in ECC's opinion).  This list was last updated on January 9, 2002 before I went away, so Bryan, if there are any other counterparties that should be added to the list, can you please let Kyle, Eric, John and myself know as soon as possible?
+
+Thanks
+Greg
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","greg.johnston@enron.com","greg.johnston@enron.com","SMTP","kyle.kitagawa@enron.com;eric.le@enron.com;john.zufferli@enron.com","kyle.kitagawa@enron.com;eric.le@enron.com;john.zufferli@enron.com","SMTP;SMTP;SMTP","robert.anderson@blakes.com;bryan.duguid@blakes.com","robert.anderson@blakes.com;bryan.duguid@blakes.com","SMTP;SMTP","robert.anderson@blakes.com;bryan.duguid@blakes.com","robert.anderson@blakes.com;bryan.duguid@blakes.com","SMTP;SMTP",,,"Normal"
+"UBS","Hi John,
+
+     As per our conversation last week, I just wanted to double check on a potential raise before the deal closes on Friday. I know that more than a few non-promotional raises have been offered and accepted for the transfer to UBS, and I'd like to make absolutely sure that I'm not eligible for one. As Cowan says, potentially the bonus pool may be much bigger next year, which is great, but it's not for sure. And given the promises Enron has dolled out over the years, it doesn't mean that much right now, especially considering it's in UBS's best interest for us not to make a killing in the first year in order to buy out the company at a lower price.
+
+Thanks,
+Ryan
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ryan.watt@enron.com","ryan.watt@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: UBSWenergy Launch Meeting- CORRECTION","Please disregard the list on the first e-mail and use this one instead. Also, please note that for dial-in purposes, the phone number in the conference room is 713-584-1091
+
+ 
+ -----Original Message-----
+From: 	Mcquade, Jennifer  
+Sent:	Friday, February 01, 2002 3:48 PM
+To:	Abramo, Caroline; Belden, Tim; Benson, Robert; Calger, Christopher F.; Choi, Paul; Clark, Chad; Cowan, Mike; Curry, Mike; Davis, Mark Dana; Dorland, Chris; Furrow, Dale; Gilbert, George N.; Lagrasta, Fred; Llodra, John; Mcdonald, Michael; Otto, Charles H.; Presto, Kevin M.; Rorschach, Reagan; Rosman, Stewart; SMITH, Douglas; Thomas, Paul; Tycholiz, Barry; Valderrama, Larry; Vickers, Frank; Whalley, Greg; Zufferli, John
+Cc:	Forster, David; Diamond, Daniel; Mandola, Teresa
+Subject:	UBSWenergy Launch Meeting
+
+Please plan on attending a meeting Monday, February 4 at 10:30 AM in ECS 05075in to pick up your launch packets and discuss the procedure and timeline for contacting customers. Those of you outside of Houston should receive an overnight package Monday. The meeting will be very brief. If you have further questions or are unable to dial-in, you can contact me directly at 5-3614 or Teresa Mandola at 3-9807.
+
+Also, please find attached the marketing contact list. You can filter by your name in the PA column to view the counterparties which you are responsible for contacting regarding the Password Application.
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.mcquade@enron.com","jennifer.mcquade@enron.com","SMTP","caroline.abramo@enron.com;tim.belden@enron.com;robert.benson@enron.com;f..calger@enron.com;paul.choi@enron.com;chad.clark@enron.com;mike.cowan@enron.com;mike.curry@enron.com;dana.davis@enron.com;chris.dorland@enron.com;dale.furrow@enron.com;n..gilbert@enron.com;fred.lagrasta@enron.com;john.llodra@enron.com;michael.mcdonald@enron.com;h..otto@enron.com;m..presto@enron.com;reagan.rorschach@enron.com;stewart.rosman@enron.com;douglas.smith@enron.com;paul.thomas@enron.com;barry.tycholiz@enron.com;larry.valderrama@enron.com;frank.vickers@enron.com;greg.whalley@enron.com;john.zufferli@enron.com","caroline.abramo@enron.com;tim.belden@enron.com;robert.benson@enron.com;f..calger@enron.com;paul.choi@enron.com;chad.clark@enron.com;mike.cowan@enron.com;mike.curry@enron.com;dana.davis@enron.com;chris.dorland@enron.com;dale.furrow@enron.com;n..gilbert@enron.com;fred.lagrasta@enron.com;john.llodra@enron.com;michael.mcdonald@enron.com;h..otto@enron.com;m..presto@enron.com;reagan.rorschach@enron.com;stewart.rosman@enron.com;douglas.smith@enron.com;paul.thomas@enron.com;barry.tycholiz@enron.com;larry.valderrama@enron.com;frank.vickers@enron.com;greg.whalley@enron.com;john.zufferli@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"RE: Physical in Canada","In order to commence physical trading on February 11th, we are dependent upon the following:
+
+	(1)	Determination of the Canadian entity name for contracting purposes
+	(2)	Obtaining financial information for this entity to submit to the pipelines for their credit review
+	(3)	3 - 5 business days for the pipeline to process our request
+
+The bottom line is that unless items 1 & 2 can be resolved early next week (preferably by Monday), we will not be able to trade physical gas in Canada on day 1.  We have the pipeline requests essentially completed, but the critical pieces identified above are missing.  Also, I have been informed that under the Hart-Scott-Rodino Act, we are currently not allowed to contact the pipelines.  I do not have an estimate of when this restriction will be lifted, but this would also impact our ability to obtain the transportation service required to handle physical transactions.
+
+Please let me know if you have additional questions.
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Friday, February 01, 2002 6:52 AM
+To:	Hedstrom, Peggy
+Cc:	Forster, David; Milnthorp, Rob
+Subject:	Physical in Canada
+
+We are assuming we will be physical on Monday Feb 11 in Canada.
+Let me know if there is an issue.
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","peggy.hedstrom@enron.com","peggy.hedstrom@enron.com","SMTP","louise.kitchen@enron.com","louise.kitchen@enron.com","SMTP","david.forster@enron.com;rob.milnthorp@enron.com;john.zufferli@enron.com;peter.keohane@enron.com;sally.beck@enron.com","david.forster@enron.com;rob.milnthorp@enron.com;john.zufferli@enron.com;peter.keohane@enron.com;sally.beck@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP","david.forster@enron.com;rob.milnthorp@enron.com;john.zufferli@enron.com;peter.keohane@enron.com;sally.beck@enron.com","david.forster@enron.com;rob.milnthorp@enron.com;john.zufferli@enron.com;peter.keohane@enron.com;sally.beck@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"1996 Porsche 993 C4S","
+
+Hi John,
+
+
+The attached are the pictures of the 1996 Carrera 4S.
+
+
+If you need more pics,please call us again.
+
+Edward Chan
+
+_________________________________________________________________
+Send and receive Hotmail on your mobile device: http://mobile.msn.com
+
+ - DSCN0108.JPG 
+ - DSCN0109.JPG 
+ - DSCN0110.JPG 
+ - DSCN0111.JPG 
+ - DSCN0112.JPG 
+ - DSCN0114.JPG 
+ - DSCN0115.JPG 
+ - DSCN0116.JPG 
+ - DSCN0117.JPG 
+ - DSCN0118.JPG 
+ - DSCN0119.JPG 
+ - DSCN0121.JPG 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","edwardc38@hotmail.com","edwardc38@hotmail.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"Re: Market Risk Meeting Today - John Zufferli","     Hi.
+
+     The Market Risk Meeting has been scheduled for today at 5:15
+     p.m. Houston Time.
+
+     The dial in information is as follows:
+
+     Dial In Number:  203-719-0070
+
+     Freephone within the U.S.:  877-315-5218
+
+     Pin Number:  808787
+
+     Mercy, please reserve a conference room for those participants in
+     Houston.
+
+     Thanks.
+
+     jm
+
+
+Visit our website at http://www.ubswarburg.com
+
+This message contains confidential information and is intended only
+for the individual named.  If you are not the named addressee you
+should not disseminate, distribute or copy this e-mail.  Please
+notify the sender immediately by e-mail if you have received this
+e-mail by mistake and delete this e-mail from your system.
+
+E-mail transmission cannot be guaranteed to be secure or error-free
+as information could be intercepted, corrupted, lost, destroyed,
+arrive late or incomplete, or contain viruses.  The sender therefore
+does not accept liability for any errors or omissions in the contents
+of this message which arise as a result of e-mail transmission.  If
+verification is required please request a hard-copy version.  This
+message is provided for informational purposes and should not be
+construed as a solicitation or offer to buy or sell any securities or
+related financial instruments.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","janet.mulero@ubsw.com","janet.mulero@ubsw.com","SMTP","john.zufferli@enron.com;vladimir.gorny@enron.com;frank.hayden@enron.com","john.zufferli@enron.com;vladimir.gorny@enron.com;frank.hayden@enron.com","SMTP;SMTP;SMTP","janet.mulero@ubsw.com","janet.mulero@ubsw.com","SMTP","janet.mulero@ubsw.com","janet.mulero@ubsw.com","SMTP",,,"Normal"
+"Power Pool","This email is acknowledgement from the Power Pool of Alberta of the change
+in direct sales/forward contract registration for contracts that are
+currently registered with the Power Pool between Suncor Energy and Enron
+Canada Power Corporation for trading after December 29 HE 1 2001.  On
+January 4 the Power Pool received your acknowledgement of Enron's change in
+the source asset for the direct sales/forward contract registrations for
+contract # 1421 to modify the source from the Sundance 3 unit (SD3) to
+Enron's unmetered source asset (ECP-).  The modified registration terms will
+be effective December 29 HE 1 2001 and will apply until the expiry date of
+the contract registration for net settlement purposes.
+
+If you have any questions relating to this matter, please give me a call.
+
+Carol Moline
+Financial Controller
+Power Pool of Alberta
+(403) 233-4686
+carol.moline@powerpool.ab.ca
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carol.moline@powerpool.ab.ca","carol.moline@powerpool.ab.ca","SMTP","rclark@suncor.com","rclark@suncor.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,"Normal"
+"Re: Market Risk Meeting Today - John Zufferli","     Hi.
+
+     The Market Risk Meeting has been scheduled for today at 12:30
+     p.m. Houston Time.
+
+     The dial in information is as follows:
+
+     Dial In Number:  203-719-0070
+
+     Freephone within the U.S.:  877-315-5218
+
+     Pin Number:  910410
+
+     Mercy, please reserve a conference room for those participants in
+     Houston.
+
+     Thanks.
+
+     jm
+
+
+Visit our website at http://www.ubswarburg.com
+
+This message contains confidential information and is intended only
+for the individual named.  If you are not the named addressee you
+should not disseminate, distribute or copy this e-mail.  Please
+notify the sender immediately by e-mail if you have received this
+e-mail by mistake and delete this e-mail from your system.
+
+E-mail transmission cannot be guaranteed to be secure or error-free
+as information could be intercepted, corrupted, lost, destroyed,
+arrive late or incomplete, or contain viruses.  The sender therefore
+does not accept liability for any errors or omissions in the contents
+of this message which arise as a result of e-mail transmission.  If
+verification is required please request a hard-copy version.  This
+message is provided for informational purposes and should not be
+construed as a solicitation or offer to buy or sell any securities or
+related financial instruments.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","janet.mulero@ubsw.com","janet.mulero@ubsw.com","SMTP",,,,"john.zufferli@enron.com;vladimir.gorny@enron.com;frank.hayden@enron.com","john.zufferli@enron.com;vladimir.gorny@enron.com;frank.hayden@enron.com","SMTP;SMTP;SMTP","john.zufferli@enron.com;vladimir.gorny@enron.com;frank.hayden@enron.com","john.zufferli@enron.com;vladimir.gorny@enron.com;frank.hayden@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"FW: Proposed Pool Code Changes January 28, 2002","
+
+ -----Original Message-----
+From: 	joan.mcinnis@powerpool.ab.ca@ENRON  
+Sent:	Monday, January 28, 2002 2:50 PM
+To:	dusk@telusplanet.net; pmolloy@iq2power.com; pmolloy@iq2power.com; dlowther@enmax.com; dogterom@sustainableenergy.com; cofferei@agrium.com; donald.murdock@airliquide.com; awong@albchem.com; kenhornby@aec.ca; powerpool@albertanewsprint.com; smithro@alpac.ca; dandrews@watt-ex.com; cjager@altasteel.com; john_taylor@altagas.ca; rreum@altekpower.com; doug_brown@anadarko.com; jim.barrette@apachecorp.com; pbartsch@UtiliCorp.com; jconnery@arcfinancial.com; perryw@archean.com; candice_thiessen@transcanada.com; peter.wong@atcoelectric.com; Anders.Renborg@ATCOMidstream.com; wickhamc@novachem.com; john.ell@atcopower.com; john.ell@atcopower.com; jeff.campbell@huskyenergy.ca; doug.heath@balancingpool.ca; heather@carea.ab.ca; heather@carea.ab.ca; rnaden@baytex.ab.ca; pat@bellpole.ca; cahobson@bpa.gov; boucherb@telusplanet.net; dowhands@bp.com; Brian_Lynam@br-inc.ca; joeno@telusplanet.net; markmc@calpinecanada.com; jim.munro@cfol.ab.ca; guido@cgeco.com; john@canhydro.com; grantb@cnrl.com; d.angle@candelaenergy.com; Jon_Sigurdson@cargill.com; hugh@topguncoatings.ca; heatehr@carea.ab.ca; slfr@chevron.com; pedwards@mail.chr.ab.ca; olenz@city.lethbridge.ab.ca; deaste@city.medicine-hat.ab.ca; dnichiporik@collicutt.com; cpspower@cadvision.com; plucas@maximpowercorp.com; myra.m.krein@can.conoco.com; brian.s.houghton@can.conoco.com; gtisdale@coral-energy.com; countryl@telusplanet.net; gcannon@samson.com; john@canhydro.com; rvesak@prpddmi.com; richard_boettcher@degussa.com; keith.fardy@devoncanada.com; john.wallace@deml.com; pgschubert@dow.com; dvp@icrossroads.com; jdpollock@duke-energy.com; ewalter@timetronics.com; mike.robinson@dynegy.com; sjdemaio@efficientenergy.ab.ca; irelands@epenergy.com; eliasonseed@aol.com; kaare.svidal@cnpl.enbridge.com; maxani@enerplus.com; janice.eby@engageenergy.com; kwillis@enmax.com; dlowther@enmax.com; kwillis@enmax.com; Dupuy, Mark; Dupuy, Mark; Joslyn, Kate; Dalgleish, Randel; bhahn@epcor.ca; bhahn@epcor.ca; joeg@encoreenergy.com; jfitzowi@epcor.ca; jimo@encoreenergy.com; gwagner@epcor.ca; eholsen@telusplanet.net; rob.baker@eal.ab.ca; vance.wanchulak@apachecorp.com; heather@carea.ab.ca; geoandpam@shaw.ca; aboytinck@msn.com; lasmundson@gibsons.com; gqonions@gouwqualityonions.com; hkh2o@telusplanet.net; ghowell@compusmart.ab.ca; fred.ware@hbc.com; charles.s.sardo@huskyenergy.ca; gwalter@telusplanet.net; cnebrigich@idacorpenergy.com; kevinm@cybertech.ca; richard.gallant@esso.com; tdechert@iq2power.com; ahofer@telusplanet.net; irrican@telusplanet.net; jenifer@telusplanet.net; ken_merritt@keyspancanada.com; ayresg@kochind.com; darryl.havrelock@ibpinc.com; john.davies@lethbridgeironworks.com; ldjva@telusplanet.net; bill_welk@luscar.com; nicodeme@energiemaclaren.com; dmortimer@hydro.mb.ca; heather@carea.ab.ca; mulholcl@mapleleaf.ca; radamson@mariahpower.com; plucas@maximpowercorp.com; v.mantey@mercuryelectric.com; jjoys@millarwestern.com; john.maher@mirant.com; jkers@pmclp.com; moyerv@ncecalgary.com; dave_axford@nexeninc.com; heather@carea.ab.ca; jnish@northstonepower.com; terry_rendflesh@transcanada.com; rod_kyle@transcanada.com; fardyk@axl.ca; rnaden@baytex.ab.ca; jmarsh@olympia-energy.com; peterklok@telusplanet.net; Marie_Gallant@PanCanadianEnergy.com; kukulski@pembina.com; petem@pengrowth.com; kristian.tange@pennwest.com; jdmiller@petro-canada.ca; george.radan@gen.pge.com; jkers@pmclp.com; mike.macdougall@powerex.com; blainem@bigfoot.com; heather@carea.ab.ca; kevin_sloman@praxair.com; nadeay@chaw.ca; timg@primewestenergy.com; gkline@reliant.com; jyaremko@rioalto.com; heather@carea.ab.ca; dstewart@revy.ca; michaluk@cadvision.com; bfriesen@saskpower.com; jobrie3@sears.ca; paul.cliche@sjrb.ca; bruce.comeau@shell.ca; gfuhr@sherritt-intl.com; billvr@telusplanet.net; lothamerd@simmaxenergy.com; cgs128@telusplanet.net; jwoolmer@smednet.com; heather@carea.ab.ca; dsmiegielski@sterlingpulp.com; darrene@stormenergy.com; dmitchell@suncor.com; dredekop@suncor.com; sean_mclaren@sunpine.com; dhoitenga@austin.rr.com; konowalec.taras@syncrude.com; dwolanick@talisman-energy.com; gerryf@yyc.com; kaz.murayama@westin.com; jlatoszek@worthington.ca; keithd@tmpl.ca; cmcdowal@transalta.com; gail_kellas@transalta.com; maura_binley@transcanada.com; maura_binley@transcanada.com; pgschubert@dow.com; mstroh@utilicorp.com; katrina@valeopower.com; ventosus@canada.com; Sue_Tischner@Viking-roy.com; bourns@greenenergy.com; j.henry@VISTAmidstream.com; brian.kulig@weatherford.com; nicole_gravel@weldwood.com; blegr@westfrasertimber.ca; roch.doyer@weyerhaeuser.com; darrenm@wcpower.com; willabar@telusplanet.net; heather@carea.ab.ca
+Subject:	Proposed Pool Code Changes January 28, 2002
+
+Please see the attached documents.  Thank you.
+
+ <<020128 proposed Code changes.doc>>  <<POP 101 Interim Procedure.doc>>
+<<POP 301 Interim Procedure.doc>>  <<POP 302 Interim Procedure.doc>>  <<POP
+505 Draft2.doc>>  <<POP 801 Draft 2.doc>>  <<Technical Standard 003.1
+DRAFT2.doc>>
+
+Joan McInnis
+Power Pool of Alberta
+Administrative Assistant
+Bus: (403)233-6400
+Fax: (403)543-0388
+e-mail:joan.mcinnis@powerpool.ab.ca
+
+
+ - 020128 proposed Code changes.doc 
+ - POP 101 Interim Procedure.doc 
+ - POP 301 Interim Procedure.doc 
+ - POP 302 Interim Procedure.doc 
+ - POP 505 Draft2.doc 
+ - POP 801 Draft 2.doc 
+ - Technical Standard 003.1 DRAFT2.doc
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","mark.dupuy@enron.com","mark.dupuy@enron.com","SMTP","john.zufferli@enron.com;robert.hemstock@enron.com","john.zufferli@enron.com;robert.hemstock@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"IHS Accumap","John:
+
+Do you need Accumap day one?  Carmen said that it had not been renewed so do you have access to it now?  
+If you do need an account how many and for who?
+
+thanks,
+
+Danielle 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","danielle.marcinkowski@enron.com","danielle.marcinkowski@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP","dan.dietrich@enron.com","dan.dietrich@enron.com","SMTP","dan.dietrich@enron.com","dan.dietrich@enron.com","SMTP",,,"Normal"
+"Access to UBSWenergy Production Environment","IMPORTANT- THE IDS BELOW WILL BE YOUR PERMANENT ACCESS TO PRODUCTION
+
+Your PRODUCTION User ID and Password has been set up on UBSWenergy.  Please follow the steps below to access the new environment:
+
+From Internet Explorer connect to the UBSWenergy Production Cluster through the following link:
+http://remoteservices.netco.enron.com/ica/ubswenergy.ica  (use your UBSWenergy/Enron NT Log In & Password)
+
+From the second Start menu,  select appropriate application:
+
+STACK MANAGER
+User ID: JZUFFER
+Password: q#9M#npX	(Please Change)
+
+Below is a special internal use only link for the simulation purposes only to get to the trading area of the website.
+DO NOT PROVIDE THIS LINK TO ANYONE NOT PART OF THE SIMULATION. 
+(customers should be directed to go to the direct link www.ubsenergy.com).
+
+http://www.ubswenergy.com/site_index.html  (FOR SIMULATION ONLY)
+
+WEBSITE - Book (ALBERTA LONG TERM POWER)
+User ID: MUS93962
+Password: WELCOME!
+
+WEBSITE - Book (ALBERTA ORIGINATION)
+User ID: MUS93124
+Password: WELCOME!
+
+WEBSITE - Book (ALBERTA TRANSFER BOOK)
+User ID: MUS52346
+Password: WELCOME!
+
+PLEASE DO NOT TRANSACT BEFORE SIMULATION TOMORROW!
+
+Should you have any questions or issues, please contact me at x33465 or the Call Center at 713-584-4444
+
+
+Thank you,
+
+Stephanie Sever
+713-853-3465
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","stephanie.sever@enron.com","stephanie.sever@enron.com","SMTP","john.zufferli@enron.com","john.zufferli@enron.com","SMTP",,,,,,,,,"Normal"
+"Online Launch Plan Update","With the filing of the Hart-Scott-Rodino application last week, it looks like our updated launch timeline is as follows. Note that it is still possible that this timeline could shift:
+
+Week of Jan 28:
+
+We will distribute a packet to each of the Originators/Traders who have volounteered to call customers and assist in getting signed Password Applications. The packets will contain:
+
+Key Messages
+Frequently Asked Questions (FAQs)
+Top Counterparty Checklist 
+External Customer Cover Letter
+Password Application (PA)
+Registration Form
+Fax Cover Sheet for PA/Registration 
+Electronic Trading Agreement (ETA)
+Internal online Marketing Contact List
+
+Each person receiving a pack will contact the Master Users at the companies they have volounteered for and send them copies of the Password Application (PA) and Electronic Trading Agreement (ETA). During this week, we will be working hard to get as many of the PA's returned as possible. Once we have a signed PA, we can send the customer their new User ID, which will allow them to start trading on the day we launch the new site.
+
+A Splash page will be available at www.UBSWenergy.com or via an automatic redirect from www.enrononline.com. This page will tell customers about the pending launch of www.UBSWenergy.com and provide links to the PA and Registration screens and also to the User Admin screens, which will allow customer Master Users to start setting up their Sub Users.
+
+The Splash page will look something like the following:
+
+ 
+
+
+Week of Feb. 4:
+
+We will send out a mass mailing to approx. 3,000 individuals at 450 companies inviting them to sign up for the site. Included in the package will be a simple brochure, copies of the PA and ETA, key messages and a list of Frequently Asked Questions.
+
+Week of Feb. 11:
+
+The site will launch, with at least financial products (timing for gas physical and power physical to be determined according to regulatory issues). 
+
+General Terms and Conditions (GTC's) will be available online and must be accepted online before a company can start to trade a particular commodity.
+		
+
+Trading/Origination Coordination
+
+The Top 50 customers will have at least an initial contact within the first two days of starting the marketing effort and that all customers who previously traded either gas or power will receive a mailing within the first 10 days. An online marketer has been assigned as coordinator for each company and will assist each Trader/Originator in following up with Master Users as necessary to make sure PA's are signed and returned.
+
+
+UBSWenergy Marketing Contacts:
+
+For Marketing-specific questions, please use the following contacts. For other questions, please contact Bob Shults (30397) or Dave Forster (31861).		
+
+Teresa Mandola (39807) - Power
+Jennifer McQuade (53614) - Power
+Dan Diamond (39673) - Gas
+
+
+<Embedded Picture (Metafile)>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","david.forster@enron.com","david.forster@enron.com","SMTP","traders.dl-netco@enron.com;originators.dl-netco@enron.com;traders.dl-netco@enron.com;originators.dl-netco@enron.com","traders.dl-netco@enron.com;originators.dl-netco@enron.com;traders.dl-netco@enron.com;originators.dl-netco@enron.com","SMTP;SMTP;SMTP;SMTP","support.dl-eol@enron.com;lorraine.becker@enron.com;teresa.mandola@enron.com;jennifer.mcquade@enron.com;carl.carter@enron.com;daniel.diamond@enron.com;rahil.jafry@enron.com;bob.shults@enron.com","support.dl-eol@enron.com;lorraine.becker@enron.com;teresa.mandola@enron.com;jennifer.mcquade@enron.com;carl.carter@enron.com;daniel.diamond@enron.com;rahil.jafry@enron.com;bob.shults@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","support.dl-eol@enron.com;lorraine.becker@enron.com;teresa.mandola@enron.com;jennifer.mcquade@enron.com;carl.carter@enron.com;daniel.diamond@enron.com;rahil.jafry@enron.com;bob.shults@enron.com","support.dl-eol@enron.com;lorraine.becker@enron.com;teresa.mandola@enron.com;jennifer.mcquade@enron.com;carl.carter@enron.com;daniel.diamond@enron.com;rahil.jafry@enron.com;bob.shults@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,"Normal"

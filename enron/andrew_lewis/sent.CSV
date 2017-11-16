@@ -1,0 +1,929 @@
+"Subject","Body","From: (Name)","From: (Address)","From: (Type)","To: (Name)","To: (Address)","To: (Type)","CC: (Name)","CC: (Address)","CC: (Type)","BCC: (Name)","BCC: (Address)","BCC: (Type)","Billing Information","Categories","Importance","Mileage","Sensitivity"
+"RE: First Come First Served","I got K-Pax to go!
+
+ -----Original Message-----
+From: 	Amy_Yueh@agfg.com@ENRON  
+Sent:	Monday, October 22, 2001 2:45 PM
+To:	Lewis, Andrew H.
+Subject:	First Come First Served
+
+interested?
+---------------------- Forwarded by Amy Yueh/VALIC on 10/22/2001 02:45 PM
+---------------------------
+
+
+""An La"" <an1229@hotmail.com> on 10/22/2001 02:43:00 PM
+
+To:   alicethuvan@hotmail.com, Amy_Yueh@valic.com, ayueh@hotmail.com,
+      catherinecao@cs.com, ckcao@aol.com, qla@houston.rr.com,
+      chubecca@hotmail.com, duylam@swbell.net, hxdinh@hotmail.com,
+      Huy.Dinh@enron.com, kabeinc@yahoo.com, megan.la@aspentech.com,
+      Nicole.La@enron.net, melindango@yahoo.com, nkhong@ikon.com,
+      tania_la@hotmail.com, car-khongt@pearland.isd.esc4.net,
+      yangkit@hotmail.com
+cc:
+
+Subject:  First Come First Served
+
+
+One ticket good for two people to see K-Pax, starring Kevin Spacey and Jeff
+Bridges.
+
+Edwards Marq E Cinema North of Katy Freeway at Silber Rd.
+
+Showing is tomorrow at 7:30 pm.
+
+You have to come get the tickets from me, a can't come to you.
+
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","amy_yueh@agfg.com","amy_yueh@agfg.com","SMTP",,,,,,,,,"Normal"
+"RE: Calculating transportation per MMBtu --- I think I got it","Just compare to the bid in chicago
+
+ -----Original Message-----
+From: 	ann.s.chen@accenture.com@ENRON  
+Sent:	Thursday, November 15, 2001 12:37 PM
+To:	Lewis, Andrew H.
+Subject:	RE: Calculating transportation per MMBtu --- I think I got it
+
+
+Andy --
+
+If that is the case, for the example we went through yesterday, the
+transport cost would be:
+
+(NYMEX offer + Amarillo offer)*(1/(1- fuel ratio)) + commodity charge
+(2.80 -0.05)*(1/(1-0.0319)) + 0.0167
+2.75*1.0329 + 0.0167 = $2.86
+
+How do you compare this transport cost to the spread between Amarillo and
+Chicago basis and index (12 cents) to decide whether to transport?
+
+Thanks!
+Ann
+
+
+
+
+            Andrew.H.Lewis@enron.c
+            om                            To:     Ann S. Chen/Internal/Accenture@Accenture
+                                          cc:
+            11/15/2001 12:26 PM           Subject:     RE: Calculating transportation per MMBtu --- I think I
+                                          got it
+
+
+
+
+
+
+See correction below
+    -----Original Message-----
+   From:   ann.s.chen@accenture.com@ENRON
+   Sent:   Thursday, November 15, 2001 12:15 PM
+   To:     Lewis, Andrew H.
+   Subject:  Calculating transportation per MMBtu --- I think I got it
+
+   Is the formula for calculating transport cost:
+
+   cost of gas at receipt*(1/(1- fuel ratio)) + commodity charge?
+
+
+   ----- Forwarded by Ann S. Chen/Internal/Accenture on 11/15/2001 12:12 PM
+   -----
+
+               Ann S. Chen
+                                            To:
+   Andrew.h.lewis@enron.com
+               11/15/2001 11:44 AM          cc:
+                                            Subject:     Calculating
+   transportation per MMBtu
+
+
+
+
+   Andy --
+
+   I have a couple of questions as I dive more into the details of figuring
+   out transportation costs. Still trying to figure out how you make your
+   decision whether to transport or not.  You compare the cent spread
+   between
+   the Amarillo(offer) and Chicago basis(bid)+Nicor Index(bid) versus the
+   transportation cost.  In the numbers you provided in your example, the
+   spread was 12 cents.  I'm still confused as to how you compute the
+   transportation cost to compare that spread with. The fuel ratio you
+   specified was 3.19% and the commodity was $0.0167.
+
+   Thanks,
+   Ann
+
+
+   ----- Forwarded by Ann S. Chen/Internal/Accenture on 11/15/2001 11:31 AM
+   -----
+
+               Ann S. Chen
+                                            To:
+   Andrew.H.Lewis@enron.com
+               11/14/2001 06:00 PM          cc:
+                                            Subject:     Transportation
+   Scenario Update
+
+
+
+
+   Hi Andy --
+
+   Thanks for helping us understand the tranportation and storage problem
+   today. We appreciate your patience. I know it's like teaching a baby how
+   to
+   walk!
+
+   Anyway, just wanted to get you the updated numbers for the
+   transportation
+   scenario, based on the changes you made at teh meeting today.  Can you
+   also
+   double check with Philip regarding the issue with hedging Basis with
+   regards to transportation?
+
+   Have a great weekend!
+
+   Thanks!
+   Ann
+
+   (See attached file: Transportation.doc)
+
+
+
+
+   This message is for the designated recipient only and may contain
+   privileged, proprietary, or otherwise private information.  If you have
+   received it in error, please notify the sender immediately and delete
+   the
+   original.  Any other use of the email by you is prohibited.
+    - Transportation.doc << File: Transportation.doc >>
+
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate
+and may contain confidential and privileged material for the sole use of
+the intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or
+reply to Enron Corp. at enron.messaging.administration@enron.com and delete
+all copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you.
+**********************************************************************
+
+
+
+
+This message is for the designated recipient only and may contain
+privileged, proprietary, or otherwise private information.  If you have
+received it in error, please notify the sender immediately and delete the
+original.  Any other use of the email by you is prohibited.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","ann.s.chen@accenture.com","ann.s.chen@accenture.com","SMTP",,,,,,,,,"Normal"
+"Western Frontier","
+---------------------- Forwarded by Andrew H Lewis/HOU/ECT on 03/26/2001 01:21 PM ---------------------------
+
+
+Hunter S Shively
+03/26/2001 10:44 AM
+To:	Andrew H Lewis/HOU/ECT@ECT
+cc:	 
+Subject:	Western Frontier
+
+
+---------------------- Forwarded by Hunter S Shively/HOU/ECT on 03/26/2001 10:44 AM ---------------------------
+
+
+Chris Meyer
+03/20/2001 12:54 PM
+To:	Bryant Frihart/ENRON@enronXgate, Lynn Pikofsky/Corp/Enron@ENRON, Laura Luce/Corp/Enron@Enron, Deirdre McCaffrey/HOU/ECT@ECT, Sylvia S Pollan/HOU/ECT@ECT, Hunter S Shively/HOU/ECT@ECT, Mark Whitt/NA/Enron@Enron, Julie A Gomez/HOU/ECT@ECT, Stephanie Miller/Corp/Enron@ENRON
+cc:	Michael J Legler/NA/Enron@Enron 
+Subject:	Western Frontier
+
+This is one of the presentations at the Williams Customer trip Bryant and I attended in KS.  It covers a proposed greenfield pipe known as Western Frontier (Cheyne Hub to WIlliam Central's Hugoton (KS) station).
+
+
+
+
+""Elliott, Mark"" <Mark.D.Elliott@Williams.com> on 03/20/2001 10:26:23 AM
+To:	""'chris.meyer@enron.com'"" <chris.meyer@enron.com>
+cc:	""Sanders, Dale T."" <Dale.T.Sanders@Williams.com>, ""King, Donny W (WGP SouthCentral)"" <Donny.W.King@Williams.com> 
+Subject:	Western Frontier Presentation and Breakfast
+
+
+
+
+
+ - 2001 WFP Presentation pdf version.pdf 
+
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","andrew.lewis@enron.com","andrew.lewis@enron.com","SMTP","robyn.zivic@enron.com","robyn.zivic@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Enron Center Garage","For the second time, please sign me up.
+
+ -----Original Message-----
+From: 	Hamilton, DeShonda   On Behalf Of Parking & Transportation,
+Sent:	Thursday, May 03, 2001 3:09 PM
+To:	Allen, Thresa; Arriaga, Veronica; Barber, Michael; Boyt, Eric; Drummond, Christine; Dutta, Tom; Elrod, Hal; Gillette, Lisa; Gimble, Mathew; Keiser, Kam; Kerrigan, Brian; Kuykendall, Kevin; Lewis, Andrew H.; Magee, Molly; Melodick, Kim; Meyer, Chris; Nemec, Gerald; Norden, John; Podurgiel, Laura; Rogers, Daniel; Sanders, Richard; Scheuer, Janelle; Scott, Susan; Shackleton, Sara; Tapscott, Ron; Aronowitz, Alan; Celedon, Adriana; Graves, Sheila; Stevens, Wilford; Ervin, Soo-Lian Eng; Hitchcock, Dorie; Aguayo, Janie; Kettler, Kyle; Mann, Kay; McSherry, Brad; Sullivan, Patti; Vargas, Hope
+Cc:	Allen, Louis; Woods, Steve; Lopez, Raquel
+Subject:	Enron Center Garage
+
+The Enron Center Garage has opened.
+
+Employees who work for business units that are scheduled to move to the new building and currently park in the Allen Center and Metropolitan garage are being offered a parking space in the new Enron Center garage.
+
+This is the only offer you will receive during the initial migration to the new garage. Spaces will be filled on a first come first served basis. The cost for the new garage will be the same as Allen Center garage which is currently $165.00 per month, less the company subsidy, leaving a monthly employee cost of $94.00.
+
+If you choose not to accept this offer at this time, you may add your name to the Enron Center garage waiting list at a later day and offers will be made as spaces become available. 
+
+The Saturn Sky Ring  that connects the garage and both buildings will not be opened until summer 2001. All initial parkers will have to use the street level entrance to Enron Center North until Saturn Sky Ring access is available. Garage stairways next to the elevator lobbies at each floor may be used as an exit in the event of elevator trouble. 
+
+If you are interested in accepting this offer, please reply via email to Parking and Transportation as soon as you reach a decision. Following your email, arrangements will be made for you to turn in your old parking card and receive a parking transponder along with a new information packet for the new garage.
+
+The Parking and Transportation desk may be reached via email at Parking and Transportation/Corp/Enron or 713-853-7060  with any questions. 
+
+(You may enter & exit on Clay St. and Bell St., also pedestrians, will have to use the garage stairwell located on the corner of Bell & Smith.)
+
+Please respond via e-mail if you are interested in acquiring one of these spaces.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","transportation.parking@enron.com","transportation.parking@enron.com","SMTP",,,,,,,,,"Normal"
+"remove me from your list","
+
+ -----Original Message-----
+From: 	ryan.carson@indigoinvestor.com (Ryan Carson - Irvine, CA)@ENRON [mailto:IMCEANOTES-ryan+2Ecarson+40indigoinvestor+2Ecom+20+28Ryan+20Carson+20-+20Irvine+2C+20CA+29+40ENRON@ENRON.com] 
+Sent:	Tuesday, October 02, 2001 4:01 PM
+To:	Ryan.Carson@IndigoInvestor.com
+Subject:	Last Week - "" One of Best up weeks in market since 1984 ""
+
+
+Did you know that the 3rd Quarter of 2001 was the worst performance in the Market since 1987???  That is, unless you had Indigo. 
+Last week was one of the best ""up weeks"" for the Market since 1984 !!!!!!!!! 
+Did you know when to BUY and catch the move?  Indigo users did. 
+You thought you were confused before!  What is an investor to do? 
+One Word- INDIGO 
+Indigo - The same easy to use trading system Individual Investors have used for years.  A few minutes each day and a few clicks of your mouse....that's all you have to do.  Indigo does the rest as the most powerful trading system available. 
+Indigo has been around longer.  Indigo's track record stands alone. 
+Most of us have read all the investment books that say the same thing- 
+They all agree that the time to buy is when others are panicking. That's right up there with that phrase to ""buy low and sell high"".  We all know that but for some reason, individual investors found it was just more comforting buying when stocks like YHOO and AMZN were going up 10-15 points each day.  The Market has changed and we must change with it.   
+Individual Investors have questioned almost daily if they are ready to make the decision to get back into the Market and start trading again.  Trading is the key.  You have to keep up with what the Market is doing and that can become a full time job.   
+Indigo is still available for you.  It still takes only minutes per day.  It still remains strong with a performance you can look at for FREE.  Give us a call and in a few minutes, that's all it will take, you will see why Indigo is the key to your getting back into the market and knowing when to BUY, SELL, and HOLD.   
+Give us 10 minutes, and we'll prove it to you. 
+Call 866-246-3446 or 949-727-0818 for your FREE demo today. 
+Compare Indigo's performance in Aug. and Sept. to yours.  You will be amazed! 
+Indigo is ready to remove the panic and emotion of the Market and let you worry about something else.  All you need to know, is Indigo.
+ 
+Trade and Invest Well, 
+ 
+Ryan T. Carson
+Executive Sales Consultant
+Indigo Investment Systems, Inc
+West Coast Office
+(949)-727-0818 or Toll Free (866)-246-3446 ext. 113
+mailto:ryan.carson@indigoinvestor.com
+http://www.indigoinvestor.com
+STOCK TRADING involves high risks and YOU can LOSE a significant amount of money.
+ANY PERFORMANCE RESULTS LISTED ABOVE AND IN ALL MARKETING MATERIALS REPRESENT SIMULATED COMPUTER RESULTS OVER PAST HISTORICAL DATA, AND NOT THE RESULTS OF AN ACTUAL ACCOUNT. HYPOTHETICAL OR SIMULATED PERFORMANCE RESULTS HAVE CERTAIN LIMITATIONS. UNLIKE AN ACTUAL PERFORMANCE RECORD, SIMULATED RESULTS DO NOT REPRESENT ACTUAL TRADING. ALSO, SINCE THE TRADES HAVE NOT ACTUALLY BEEN EXECUTED, THE RESULTS MAY HAVE UNDER-OR-OVER COMPENSATED FOR THE IMPACT, IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK OF LIQUIDITY. SIMULATED PROGRAMS IN GENERAL ARE ALSO SUBJECT TO THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT. NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFITS OR LOSSES SIMILAR TO THOSE SHOWN. TESTIMONIAL OR ACTUAL ACCOUNT RESULTS PRESENTED DO NOT NECESSARILY REFLECT THE RESULTS OF ALL USERS OF THE PROGRAM AND ALL USERS SHOULD NOT EXPECT TO EXPERIENCE SIMILAR RESULTS. PAST PERFORMANCE DOES NOT GUARANTEE FUTURE RESULTS. CURRENT PERFORMANCE MAY BE LOWER THAN PERFORMANCE STATED. PLEASE READ CUSTOMER DISCLOSURE DOCUMENT BEFORE PURCHASING.
+ 
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","ryan.carson@indigoinvestor.com;40enron@enron.com","ryan.carson@indigoinvestor.com;40enron@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"","
+Greg,
+
+One of my concerns regarding the merger is future compensation.  It is well known throughout the industry that Dynegy pays the lowest bonuses.  What incentive do we have to make money next year knowing bonuses in 2002 will be abysmal?  For that matter, what guarantees will be made in order to prevent a massive exodus next year for this reason?
+
+Thank you for your attention,
+
+Andy
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","greg.whalley@enron.com","greg.whalley@enron.com","SMTP",,,,,,,,,"Normal"
+"Riddle","I received your riddle from Amy Yueh and my answer is NOTHING!
+
+Let me know if I am right.
+
+Andy
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","andrew.lewis@enron.com","andrew.lewis@enron.com","SMTP","diana.hu@compaq.com","diana.hu@compaq.com","SMTP",,,,,,,,,"Normal"
+"remove me from the list","
+
+ -----Original Message-----
+From: 	sue4@peopleiknow.net@ENRON  
+Sent:	Monday, October 08, 2001 9:05 AM
+To:	Andrew
+Subject:	Your email
+
+
+[IMAGE]	
+
+
+			[IMAGE]		
+			 Hey Friend,  Enter today  for your chance to win a new Mercedes SLK 230, Lexus RX300, or  $30,000! By simply letting us know what you are interested in, you  will earn a chance to win. It's as simple as  that!   Just remember, you can't win if you don't enter.  Already entered previously?  Improve your odds by entering again!  Good Luck! Stephanie &  Mark Co-Founders, winfreestuff.com 2403 S 130th Circle Omaha, NE 68144   		
+[IMAGE]			[IMAGE]	[IMAGE]	
+
+
+ If you do not wish to receive any further  messages from People I Know, please click  here to unsubscribe.	
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","sue4@peopleiknow.net","sue4@peopleiknow.net","SMTP",,,,,,,,,"Normal"
+"2","
+ -----Original Message-----
+From: 	Diamond, Daniel  
+Sent:	Wednesday, January 30, 2002 2:58 PM
+To:	DL-NETCO Gas Traders; DL-NETCO Power Traders
+Cc:	Forster, David; Mandola, Teresa; Mcquade, Jennifer
+Subject:	**IMPORTANT** Stack Manager Users
+Importance:	High
+
+
+We are in the process of confirming that all traders are set up correctly and ready to trade when the system goes live. 
+
+We need to make sure that your Stack Managers are accessing the correct database. In order to do this, we need to know how you access Stack Manager:
+
+1) Through Terminal Server (the one that opens up a desktop within a desktop and it actually appears that you have two Start buttons). 
+or
+2) By opening the Stack Manager directly from your ""native"" desktop.
+
+Please reply to this message with either a corresponding ""1"" or a ""2"" in the subject field.
+
+If you're not sure which one you have, please contact myself x39673, Teresa Mandola x39807 or Jennifer McQuade x53614 and we'll come by your desk to help you.
+
+Thank you,
+
+Dan Diamond
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","daniel.diamond@enron.com","daniel.diamond@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Telephone Interviews: Trading Track","Adrianne,
+
+I spoke with Yvan Go and Carl Zavattieri.  I left messages for Sam Zhou, but I never heard back from him.
+
+I would recommend we bring in Carl for an onsite interview.
+
+If you have any questions, feel free to call me.
+
+-Andy
+3-6278
+
+ -----Original Message-----
+From: 	Engler, Adrianne  
+Sent:	Monday, October 15, 2001 9:01 AM
+To:	Neal, Scott; Presto, Kevin M.; Ermis, Frank; Forney, John M.; Shively, Hunter S.; Sturm, Fletcher J.; Gilbert-smith, Doug; Allen, Phillip K.; Arora, Harry; Arnold, John; Lewis, Andrew H.; Davis, Mark Dana
+Cc:	Lavorato, John; Buckley, Karen
+Subject:	RE: Telephone Interviews: Trading Track
+
+
+All - 
+
+Thank you for your participation in the phone screen process.  
+
+As all the screens should be completed by tomorrow evening, please let me know if you are having any difficulties I might assist you with. 
+
+Please e-mail Karen or me with feedback as to whether or not you think the candidates you screened should be brought in for an interview.  
+
+Thanks, 
+
+Adrianne
+x57302
+ -----Original Message-----
+From: 	Buckley, Karen  
+Sent:	Wednesday, October 10, 2001 2:53 PM
+To:	Neal, Scott; Presto, Kevin M.; Ermis, Frank; Forney, John M.; Shively, Hunter S.; Sturm, Fletcher J.; Gilbert-smith, Doug; Allen, Phillip K.; Arora, Harry; Arnold, John; Lewis, Andrew H.; Davis, Mark Dana
+Cc:	Lavorato, John; Engler, Adrianne
+Subject:	Telephone Interviews: Trading Track
+
+Guys,
+
+You have been selected to complete the telephone screening of external candidates for second and final round.  Each  candidate will be screened by two traders to ensure agreement on quality of candidates.   (these resumes have already been selected from c. 200 resumes by some of the ENA Traders).  
+
+As in the previous Trading Track recruiting event, you will be given a few days to complete this.  The candidates will be expecting your call, there is no set interview time therefore allowing you flexibility to call in the evening from home if necessary.   Resumes, telephone numbers etc will reach your desk tomorrow morning.   All phone screens to be completed by Tuesday pm: 16th October.
+
+Any questions please call myself or Adrianne Engler.
+
+Thanks,
+
+ Karen.
+x54667
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","adrianne.engler@enron.com","adrianne.engler@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Calculating transportation per MMBtu --- I think I got it","
+See correction below
+ -----Original Message-----
+From: 	ann.s.chen@accenture.com@ENRON  
+Sent:	Thursday, November 15, 2001 12:15 PM
+To:	Lewis, Andrew H.
+Subject:	Calculating transportation per MMBtu --- I think I got it
+
+Is the formula for calculating transport cost:
+
+cost of gas at receipt*(1/(1- fuel ratio)) + commodity charge?
+
+
+----- Forwarded by Ann S. Chen/Internal/Accenture on 11/15/2001 12:12 PM
+-----
+
+            Ann S. Chen
+                                         To:     Andrew.h.lewis@enron.com
+            11/15/2001 11:44 AM          cc:
+                                         Subject:     Calculating transportation per MMBtu
+
+
+
+
+Andy --
+
+I have a couple of questions as I dive more into the details of figuring
+out transportation costs. Still trying to figure out how you make your
+decision whether to transport or not.  You compare the cent spread between
+the Amarillo(offer) and Chicago basis(bid)+Nicor Index(bid) versus the
+transportation cost.  In the numbers you provided in your example, the
+spread was 12 cents.  I'm still confused as to how you compute the
+transportation cost to compare that spread with. The fuel ratio you
+specified was 3.19% and the commodity was $0.0167.
+
+Thanks,
+Ann
+
+
+----- Forwarded by Ann S. Chen/Internal/Accenture on 11/15/2001 11:31 AM
+-----
+
+            Ann S. Chen
+                                         To:     Andrew.H.Lewis@enron.com
+            11/14/2001 06:00 PM          cc:
+                                         Subject:     Transportation Scenario Update
+
+
+
+
+Hi Andy --
+
+Thanks for helping us understand the tranportation and storage problem
+today. We appreciate your patience. I know it's like teaching a baby how to
+walk!
+
+Anyway, just wanted to get you the updated numbers for the transportation
+scenario, based on the changes you made at teh meeting today.  Can you also
+double check with Philip regarding the issue with hedging Basis with
+regards to transportation?
+
+Have a great weekend!
+
+Thanks!
+Ann
+
+(See attached file: Transportation.doc)
+
+
+
+
+This message is for the designated recipient only and may contain
+privileged, proprietary, or otherwise private information.  If you have
+received it in error, please notify the sender immediately and delete the
+original.  Any other use of the email by you is prohibited.
+ - Transportation.doc << File: Transportation.doc >> 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","ann.s.chen@accenture.com","ann.s.chen@accenture.com","SMTP",,,,,,,,,"Normal"
+"","http://www.wpi.edu/~sae/
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","andrew.lewis@enron.com","andrew.lewis@enron.com","SMTP","ahl_34@yahoo.com","ahl_34@yahoo.com","SMTP",,,,,,,,,"Normal"
+"RE: Hello","Diem,
+
+Not much going on at work.  Brushing up on meteorology 101 and discussing Reminiscences of a Stock Operator.  I have been going to work for only a few hours a day.  Some days I don't go in at all.  Right now, we are waiting for the Judge to approve the sale to UBS.  I think we would get our offers from them sometime soon after.  I have been using the free time to do a little travelling.  We went on a cruise in December and this week I am going to Chicago the 17 - 21.  I plan to go to Boston in February to see my family.  Anyway, my work number is 713-853-6278.
+
+Talk to you soon.
+
+Andy
+
+
+P.S. Guess what these are:   .................
+
+ -----Original Message-----
+From: 	""Hallmark, Diem"" <Diem.Hallmark@Williams.com>@ENRON  
+Sent:	Monday, January 14, 2002 10:31 AM
+To:	Lewis, Andrew H.
+Subject:	Hello
+
+Hi Andy!  How are you doing?  Are you working are sitting around?  Give me
+your work number so I can call you.
+
+Talk to you later.
+
+Diem
+
+
+The contents of this e-mail are confidential to the sender and the
+addressee(s) and may contain legally privileged communications.   If you are
+not (or know that you have been erroneously) named above as an addressee,
+any distribution or copying of this e-mail or use of the information in it
+is strictly prohibited. If this e-mail has been received by you in error,
+please notify the sender and delete it and any copies of it.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","diem.hallmark@williams.com","diem.hallmark@williams.com","SMTP",,,,,,,,,"Normal"
+"Directions to Huy & Trang's","
+	Head East on Memorial Drive
+	After passing Memorial Park, take a left onto Westcott Street
+	Take a right onto Blossom Street (I think it is the fourth right)
+	Take a left onto Reinerman Street (It is approximately eight blocks from Wescott)
+	Their address is 709 Reinerman (Their are 3 townhomes on the corner of Reinerman and Floyd, they are the middle townhome)
+	
+	See you there,
+
+	Andrew H. Lewis
+	CEO
+	Enron Corp.
+	1400 Smith Street
+	Houston, TX  77002
+	(T) 713-853-6278
+	(F) 713-646-3390
+
+ -----Original Message-----
+From: 	""Guinara, Angelia"" <Angelia_Guinara@hchd.tmc.edu>@ENRON  
+Sent:	Tuesday, October 23, 2001 9:28 AM
+To:	Lewis, Andrew H.
+Subject:	 
+
+Hi Andy,
+
+I'm sorry I missed your call last night.  Yes, Mike and I will be there on
+Friday at around 7 or 7:30pm.  Please let me know if I need to bring along
+anything.  You know I can't cook, but I'll bring along candles, cake,
+dessert, or a bottle of wine if you want me to.  Just let me know.  Would
+you also give me direction to Trang's house, please?  Say going there from
+my apartment at San Felipe and Fountainview.  Thanks a lot and I'll talk to
+you more later.
+
+Angelia Guinara
+Asian American Diabetes Education Project
+2525 Holly Hall, Suite 187E,
+Houston, TX 77054
+(Tel) 713-566-6588
+(Fax) 713-566-6578
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","angelia_guinara@hchd.tmc.edu","angelia_guinara@hchd.tmc.edu","SMTP",,,,,,,,,"Normal"
+"remove alewis@ect.enron.com from your list","
+
+ -----Original Message-----
+From: 	""Antonio Tanpoco"" <atanpoco@telesto-inc.net>@ENRON  
+Sent:	Friday, October 26, 2001 9:16 AM
+To:	Alewis
+Subject:	Good Morning
+
+
+Please let us know if you received this email by mistake.  If you've told us, and you haven't been removed, please leave your email address that it was sent to because that may have been the problem.   Thank you.  admin@telesto-inc.net << File: mailto:admin@telesto-inc.net >> 
+     
+I just wanted to pass a note to you because I wanted to clear up the skepticism about my trading system.     
+     Psychology is 90% of the markets.  Just look at how the markets react all the time to news or consumer confidence.  Trading that psychology is key, and this is why my profits are so consistent. 
+     
+     Every month my gap trading system makes money in an up or down market.  What I am teaching uses psychology to its highest degree.  I teach you the most optimal time to take advantage of bargain-hunting and profit-taking, the most psychologically influenced aspects of the market.  This really keeps you out of losing gap trades because you need a way to filter them out.  You don't have to put your opinion in which trade to take.
+ 
+          I'm sure it is not what I am charging for my system that makes you skeptical.  After all, you already know you can get a refund.  It is probably the doubt that it can continue, so why waste your time, right?  I have given you profitable updates frequently, but you may still find it difficult to believe it will continue.   So, here is my thought... 
+    
+     Just take the step to ""watch"".  You really don't need the time commitment because I will show you everything.  You just have to read the 60 page manual, and I will take care of the rest.  I will spend the time to show you.  Log onto your computer in the mornings and look for my emails.  I'll give you the trades and so forth.  Watching these trades to see how they react is the proof to everything that I am telling you.  I have no problem spending as much time as you need to make this work for you too.
+ 
+     If you have questions feel free to ask me.    http://www.gatg.net
+ 
+Best Regards,
+ 
+Antonio
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","atanpoco@telesto-inc.net","atanpoco@telesto-inc.net","SMTP",,,,,,,,,"Normal"
+"Re: Happy Birthday","Vicky,
+
+Sounds like they've been working you to hard.  You certainly deserve a vacation.  I would like to hear about your adventures overseas.  My address is as follows:
+
+
+			Andy Lewis
+			3131 Timmons Ln
+			Apt. 1010	
+			Houston, TX  77027
+
+
+
+I got a letter from Diem with their new London address.  I figure I'll give them a month or so to move in  before I look into visiting.  Of course, getting time off in this job is easier said than done.  Anyway, enjoy your trip, and I look forward to hearing from you.
+
+-Andy
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","andrew.lewis@enron.com","andrew.lewis@enron.com","SMTP","vha0401@hotmail.com","vha0401@hotmail.com","SMTP",,,,,,,,,"Normal"
+"Assignment","Monica,
+
+I have attached a Word document with my content.  If you have any questions, feel free to contact me at 713-853-6278.
+
+-Andy
+
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","monica.l.brown@accenture.com","monica.l.brown@accenture.com","SMTP",,,,,,,,,"Normal"
+"","
+Mery,
+
+I have attached the transportation scenario with some prices added.  
+
+Unfortunately, I will not be available at 4:00 PM today.  Please call me tomorrow in order to reschedule.
+
+Andy
+
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","mery.l.brown@accenture.com","mery.l.brown@accenture.com","SMTP",,,,,,,,,"Normal"
+"FW: OREO PERSONALITY TEST","
+
+ -----Original Message-----
+From: 	""Amy Yueh"" <ayueh@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Amy+20Yueh+22+20+3Cayueh+40hotmail+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Friday, May 04, 2001 2:18 PM
+To:	jentou22@yahoo.com; an1229@hotmail.com; Lewis, Andrew H.; guinara@hotmail.com; chuckj@texas.net; cmh_22@hotmail.com; chinh.le@compaq.com; dylee92@hotmail.com; davidchen74@yahoo.com; dkcheng@aol.com; ewang@sapient.com; eychang@hotmail.com; erik_lowenstein@enron.net; gwlin@hotmail.com; gretchen_luebke@den.invesco.com; haolyao@yahoo.com; hxdinh@hotmail.com; ivyychung@hotmail.com; bartandjeanie@yahoo.com; Rudolph, Jennifer; jerryenchi@hotmail.com; jessetsao@q-run.com; JJonis@yahoo.com; wooc@epenergy.com; thx_135@hotmail.com; katy_lee@neimanmarcus.com; kelly_yueh@hotmail.com; kenny@shih-usa.com; lil_yu@hotmail.com; linda.yueh@economics.oxford.ac.uk; lizslee@aol.com; marcball@yahoo.com; mkuo@titanti.com; mchung1999@yahoo.com; mindy515@hotmail.com; mohammad.swadi@hugheschris.com; eeletep@yahoo.com; peter.wu2@compaq.com; rolandrod@aol.com; ron_he@dell.com; steve.wang2@compaq.com; stevenlee@myself.com; ttyang@law.harvard.edu; thunguyen2@hotmail.com; Dinh, Trang; yvonhung@aol.com
+Subject:	Fwd: OREO PERSONALITY TEST
+
+
+
+
+>From: THAO.NGO@att.net
+>To: ayueh@hotmail.com (AMY YUEH), JENNS75862@AOL.COM (JENNIFER SORENSEN),
+>KERRI_SHEWCOW@HOTMAIL.COM (KERRI SHEWCOW), DROWELL2608@CS.COM (DAVID
+>ROWELL), ngoname@nstci.com (NAM NGO), STRAUDY@AOL.COM (MILLICENT JACKSON),
+>CMH22@HOTMAIL.COM (CHENGMEI HO), MARCUS.W.HILL@CHASE.COM (MARCUS HILL),
+><brooke_1@ev1.net>   (MICHELLE HENDERSON), MTHAHN@EXCITE.COM (MARCELLA
+>HAHN), hilaryhaag@email.msn.com (HILARY HAAG), JBGOEDERT@WORLDNET.ATT.NET
+>(JASON GOEDERT), JONATHANDIZON@REPUBLICBEVERAGE.COM (JONATHAN DIZON),
+>ms_sam_cho@yahoo.com (SAM CHO), JENNY_BOOKER@HOTMAIL.COM (JENNY BOOKER),
+>DBASLEE@HOTMAIL.COM (DONNA BASLEE), MIKED@MAIL.THEAUDITGROUP.COM,
+>KENTL@MAIL.THEAUDITGROUP.COM
+>Subject: OREO PERSONALITY TEST
+>Date: Fri, 04 May 2001 14:02:12 +0000
+>
+>Oreo Personality Test
+>
+>
+>Psychologists have discovered that the manner in which people eat
+>Oreo cookies provides great insight into their personalities.  Choose
+>which method best describes your favorite method of eating Oreos:
+>
+>  1. The whole thing all at once.
+>  2. One bite at a time.
+>  3. Slow and methodical nibbles examining the results of each bite
+>afterwards.
+>  4. In little feverous nibbles.
+>  5. Dunked in some liquid (milk, coffee...).
+>  6. Twisted apart, the inside, then the cookie.
+>  7. Twisted apart, the inside, and toss the cookie.
+>  8. Just the cookie, not the inside.
+>  9. I just like to lick them, not eat them.
+>10. I don't have a favorite way because I don't like Oreo.
+>
+>
+>Your Personality:
+>
+>1. The whole thing. This means you consume life with abandon, you are
+>fun to be with, exciting, carefree with some hint of recklessness.
+>You are totally irresponsible.  No one should trust you with their
+>children.
+>
+>2. One bite at a time. You are lucky to be one of the 5.4 billion
+>other people who eat their Oreos this very same way.  Just like them,
+>you lack imagination, but that's okay, not to worry, you're normal.
+>
+>3. Slow and methodical. You follow the rules.  You're very tidy and
+>orderly.  You're very meticulous in every detail with every thing you
+>do to the point of being anal retentive and irritating to others.
+>Stay out of the fast lane if you're only going to go the speed limit.
+>
+>4. Feverous nibbles. Your boss likes you because you get your work
+>done quickly.  You always have a million things to do and never
+>enough time to do them.  Mental breakdowns and suicides run in your
+>family.  Valium and Ritalin would do you good.
+>
+>5. Dunked. Every one likes you because you are always up beat.  You
+>like to sugar coat unpleasant experiences and rationalize bad
+>situations into good ones.  You are in total denial about the
+>shambles you call a life.  You have a propensity towards narcotic
+>addiction.
+>
+>6. Twisted apart, the inside, and then the cookie. You have a highly
+>curious nature.  You take pleasure in breaking things apart to find
+>out how they work, though not always able to put them back together,
+>so you destroy all the evidence of your activities.  You deny your
+>involvement when things go wrong.  You are a compulsive liar and
+>exhibit deviant, if not criminal, behavior.
+>
+>7. Twisted apart, the inside, and then toss the cookie. You are good
+>at business and take risk that pay off.  You take what you want and
+>throw the rest away.  You are greedy, selfish, mean, and lack
+>feelings for others.  You should be ashamed of yourself.  But that's
+>ok, you don't care, you got yours.
+>
+>8. Just the cookie, not the inside. You enjoy pain.
+>
+>9. I just like to lick them, not eat them. Stay away from small furry
+>animals and seek professional medical help - immediately.
+>
+>10. I don't have a favorite way, I don't like Oreo cookies. You
+>probably come from a rich family, and like to wear nice things, and
+>go to up-scale restaurants.  You are particular and fussy about the
+>things you buy, own, and wear.  Things have to be just right.  You
+>like to be pampered.  You are a prim.
+>
+
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets?????â??","h..lewis@enron.com","h..lewis@enron.com","SMTP","s..pollan@enron.com","s..pollan@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: WSJ article on UBS acquisition"," 
+-----Original Message-----
+From: Gerry, Robert 
+Sent: Sunday, January 13, 2002 11:13 PM
+To: Lewis, Andrew H.; Griffith, John; Ballato, Russell; Sturm, Fletcher J.; Suarez, John
+Subject: WSJ article on UBS acquisition
+
+
+WSJ(1/14) UBS Emerges As Top Bidder For Enron Trading Unit 		
+
+01/14/2002
+Dow Jones News Services
+(Copyright ? 2002 Dow Jones & Company, Inc.)
+
+
+  By Mitchell Pacelle and Rebecca Smith 
+  Staff Reporters of The Wall Street Journal 
+
+UBS AG, the giant Swiss financial firm, emerged the apparent victor to acquire Enron Corp.'s North American energy-trading operation. Enron hopes the deal will breathe new life into its dormant trading business, once the generator of 90% of the Houston company's profit. 
+
+But obstacles to resurrecting the business remain formidable, as indicated by the fact there were only two serious bidders -- UBS and Citigroup Inc. Enron wouldn't see any serious money from the UBS deal for at least a year, indicating how difficult it will be for the energy company's creditors to recover what they are owed. Enron filed for Chapter 11 bankruptcy-court protection on Dec. 2, the largest such filing ever, shielding the company from creditors as it seeks to reorganize. 
+
+Under the terms of the deal, which is subject to bankruptcy-court approval, Enron would transfer to UBS Warburg, the investment banking arm of UBS, its wholesale energy-trading operation, including a staff of roughly 800 people and computer systems and hardware that comprised its once-mighty EnronOnline Internet-based trading platform. UBS wouldn't be acquiring any of Enron's huge book of trading positions which gradually would be unwound. It also wouldn't provide any cash upfront to Enron. 
+
+Instead, UBS would pay royalties to Enron amounting to one-third of the energy-trading enterprise's pretax profit for a 10-year period, according to Enron. UBS would have an option to eliminate the royalty payments through the payment to Enron of money in years three, four and five. UBS would pay Enron 5.75 times Enron's prior-year payment for each one-third share of royalty eliminated. As such, it could completely eliminate Enron's royalty payments by the end of the fifth year. 
+
+As incentive to buy out Enron, UBS's royalty payments otherwise would increase by 10% from years five through 10, up to a maximum of 44% share of pretax profit. 
+
+Enron Chief Financial Officer Jeffrey McMahon said yesterday that he felt it was a ""grand-slam great deal"" for creditors since new life is being breathed into a ""perishable commodity."" Enron's staff had been kept together largely on the basis of retention bonuses that expire at the end of February. The trading operation effectively suspended operations prior to Enron's Chapter 11 filing last month. 
+
+Enron had hoped to bring in a credit-worthy partner to take a 51% stake in a new trading joint venture, leaving the energy company with a 49% stake. But Mr. McMahon said no bidder was interested in that deal. There also were no bids for the trading operation from rival energy or energy-trading companies. One possible reason was that resuscitating Enron's vast trading business would require a top credit rating, lots of capital to back trading operations and an expert credit-risk department to keep track of what traders are doing and to constantly revalue the trading book. 
+
+Since the Enron debacle, other energy-trading firms have taken pains to show they are de-emphasizing commodity-like trading of electricity, which Enron pioneered, and are instead concentrating on selling their own output of energy products and entering into contracts to protect themselves against price volatility. 
+
+Mr. McMahon said he feels that ""by virtue of a AA-plus bank purchasing this business, it changes the landscape of the energy-merchant business forever"" by putting more clout in the hands of institutions with top credit ratings. UBS apparently hasn't committed to provide any set level of capital. There is no determination, yet, for how royalty payments would be divided among Enron's thousands of creditors. 
+
+The largest question, though, is whether the trading business can truly be revived. Although Enron's global wholesale division, which included as its biggest component the North American energy-trading operations, generated about $3 billion in pretax profit during the first nine months of 2001, it has been dormant now for more than a month. Martin Bienenstock, Enron's lead bankruptcy lawyer, characterized the deal as ""the sale of something that was dead that we are trying to bring back to life."" 
+
+Competitors say they think a certain amount of Enron's trades were conducted at very thin margins in order to build volume, and that such trading practice likely will disappear. ""You'll see the churn going away,"" says Michael McNally, chief financial officer of TXU Corp., now the biggest electricity trader in Texas. He thinks EnronOnline has ""significant value but there's only a limited number of people who would know how to use it."" Scaled to transact trades on hundreds of types of contracts, the platform is oversized for most uses. 
+
+UBS Warburg, which bought PaineWebber in 2000, has looked to expand its U.S. market share, and the Enron deal would provide entry into energy trading. John Costas, chief executive of UBS Warburg, said Friday the Enron unit would be ""a valuable extension of our world-wide trading activities."" 
+
+The winner of the auction, held under the bankruptcy court's supervision, was announced shortly after noon Friday in a packed Manhattan courtroom, less than an hour after the two bidders had submitted final offers. Enron's advisers and its creditors committee, which endorsed the UBS deal, had negotiated nonstop for more than 24 hours. In addition to Citigroup, which Mr. McMahon said competed ""neck and neck"" with UBS, BP PLC, the British oil company, had submitted a $25 million bid for the computer settlement support system of the Enron unit. 
+
+The proposed UBS transaction is subject to approval by Judge Arthur J. Gonzalez of the U.S. Bankruptcy Court of the Southern District of New York, who officially closed the auction to new bidders Friday. A hearing is set for Thursday at which creditors will have an opportunity to voice objections. 
+
+Separately Friday, Judge Gonzalez declined to transfer the bankruptcy case to Houston, denying motions from several creditors who had argued that Enron's headquarters city was a more suitable venue. 
+
+--- 
+
+Anita Greil contributed to this article. 
+
+--- 
+
+Journal Link: A four-month timeline listing pivotal events surrounding the fall of Enron is in the Online Journal at WSJ.com/JournalLinks. 
+
+(END) DOW JONES NEWS 01-14-02 
+
+12:00 AM
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","geoff.storey@enron.com","geoff.storey@enron.com","SMTP",,,,,,,,,"Normal"
+"","	
+	AyyyyyMayyyyy,
+
+	How was your trip?  I hope you were able to get lots of sleep.  Huy tried to get me to go drinking last night, but I was far too tired.  I didn't get done with interviews 	until after 7:00 PM.  Trang said you told her to take care of me while you were gone.  I thought that was very sweet, yet I can't help wondering if you think I can not 	take care of myself (that was a joke by the way). 
+
+	Kelly sent me Linda's numbers with plenty of attitude.  She mentioned something about you having an abundance of time while she has a scarcity of time.  But you 	can't tell her I told you.  
+
+	Looks like I gotta go.  I miss you, and look forward to hearing from you.
+
+	Love,
+
+	Andy
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","ayueh@hotmail.com","ayueh@hotmail.com","SMTP",,,,,,,,,"Normal"
+"Assignment","Monica,
+
+I have attached a Word document with the content I was assigned. 
+
+If you have any questions, feel free to contact me at 713-853-6278.
+
+-Andy
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","monica.l.bronwn@accenture.com","monica.l.bronwn@accenture.com","SMTP",,,,,,,,,"Normal"
+"","
+Monica,
+
+I have added some information to the forwards section.
+
+Andy
+
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","monica.l.brown@accenture.com","monica.l.brown@accenture.com","SMTP",,,,,,,,,"Normal"
+"Word Scramble","Name: Andrew Lewis	
+
+Operating Company: ENA
+
+Location: ECS.06338
+
+Phone Number: 853-6278
+
+
+1. Deregulation
+2. Risk Management
+3. Tropical Storm Allison
+4. Janet Dietrich
+5. Collars
+6. Stock Options
+7. Global Strategic Sourcing
+8. Enron House
+9. Transwestern Pipeline
+10. Emissions
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","h..lewis@enron.com","h..lewis@enron.com","SMTP","sarah.palmer@enron.com","sarah.palmer@enron.com","SMTP",,,,,,,,,"Normal"
+"","Testing
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","andrew.lewis@enron.com","andrew.lewis@enron.com","SMTP","ahl_34@yahoo.com","ahl_34@yahoo.com","SMTP",,,,,,,,,"Normal"
+"Re: Enron Center Garage","
+Please move me to the new garage.
+
+Andy
+3-6278
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","andrew.lewis@enron.com","andrew.lewis@enron.com","SMTP","parking.transportation@enron.com","parking.transportation@enron.com","SMTP",,,,,,,,,"Normal"

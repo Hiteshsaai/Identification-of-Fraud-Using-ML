@@ -1,0 +1,1946 @@
+"Subject","Body","From: (Name)","From: (Address)","From: (Type)","To: (Name)","To: (Address)","To: (Type)","CC: (Name)","CC: (Address)","CC: (Type)","BCC: (Name)","BCC: (Address)","BCC: (Type)","Billing Information","Categories","Importance","Mileage","Sensitivity"
+"reliant overage spreadsheet","
+Please review my intended calculation method -- I figured for every 5 minute scan that was over 1000 that they were flowing at that steady rate for 5 minutes.  
+
+I only applied the $10 penalty to the 5 minute volumes that were over the specified rate.
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","mike.bryant@enron.com","mike.bryant@enron.com","SMTP","rachel.cady@enron.com;jack.boatman@enron.com;shelley.corman@enron.com;robert.kilmer@enron.com","rachel.cady@enron.com;jack.boatman@enron.com;shelley.corman@enron.com;robert.kilmer@enron.com","SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"September 2001 FERC California Report - Preliminary Ready for Review","Here are the preliminary reports ready for your review.  I have done a thorough analysis on Items 2 and 3 and feel very confident with the data.  I will be finalizing my review of contract volume data in Item 1 no later than tomorrow and will advise if any changes are necessary.
+
+TK - Please update the daily rates for contract 27495 (Astra) and verify the rates in blue.  Additionally, please verify that the discounted IT rates for contract 20248 and 22136 are correct as billed (it doesn't appear that these discounts appeared in the daily transactional report postings).
+
+I need all updates/comments no later than COB Monday, 10/29/01.
+
+ 
+
+
+
+Thanks,
+Elizabeth
+
+
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","elizabeth.brown@enron.com","elizabeth.brown@enron.com","SMTP","shelley.corman@enron.com;lynn.blair@enron.com;rick.dietz@enron.com;terry.kowalke@enron.com;darrell.schoolcraft@enron.com;lindy.donoho@enron.com;tk.lohman@enron.com;steve.january@enron.com;bradley.holmes@enron.com;rita.bianchi@enron.com","shelley.corman@enron.com;lynn.blair@enron.com;rick.dietz@enron.com;terry.kowalke@enron.com;darrell.schoolcraft@enron.com;lindy.donoho@enron.com;tk.lohman@enron.com;steve.january@enron.com;bradley.holmes@enron.com;rita.bianchi@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"ETS Daily Market Summary Update","9/27/01
+
+ All ETS Daily Market Summary Users,
+
+If you are not aware, we have been working to convert the ETS pipelines Daily Market Summary (DMS) Report to a new Business Object format and are finalizing the testing phase of this project.  The DMS conversion will be in production beginning October 2, 2001. 
+
+If you received this e-mail, you currently have access to the ETS Daily Market Summary (DMS).  You may still access the current ETS DMS report and continue to use your current ID and password until 10/2/01.  Beginning on 10/2/01, your ID for the current ETS Daily Market Summary will no longer be valid and all ETS DMS users and administrators will be required to use your corporate ID and password to access the new ETS DMS report. (Your corporate ID and password is what you use to login to the Enron network) 
+
+The ETS DMS will continue to be in the same location after 10/2/01, on the ETS Intranet at <http://www.ets.enron.com/> under the dropdown ""Applications"" / ""Daily Market Summary"".  Any new users that need access to the DMS will be required too sign up for access through   <http://itcapps.corp.enron.com/srrs/entry/srrs.asp>.
+
+If you have any questions or comments on this conversion, please call me at 31527 or email toby.kuehl@enron.com <mailto:toby.kuehl@enron.com> 
+
+Attached is a brief tutorial on the new DMS report. 
+
+Thanks, 
+
+Toby Kuehl
+ETS Gas Logistics
+713-853-1527
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","toby.kuehl@enron.com","toby.kuehl@enron.com","SMTP","donald.angeletti@enron.com;alan.behrens@enron.com;legale.black@enron.com;lynn.blair@enron.com;jack.boatman@enron.com;michael.bodnar@enron.com;jerry.boston@enron.com;janet.bowers@enron.com;john.buchanan@enron.com;james.centilli@enron.com;shelley.corman@enron.com;mike.dervin@enron.com;jodi.dobrinski@enron.com;john.dushinske@enron.com;john.fiscus@enron.com;john.freeman@enron.com;steven.harris@enron.com;thomas.hebert@enron.com;bradley.holmes@enron.com;stanley.horton@enron.com;steven.january@enron.com;robert.kilmer@enron.com;terry.kowalke@enron.com;tk.lohman@enron.com;phil.lowry@enron.com;maggie.matheson@enron.com;w..mcgowan@enron.com;don.powell@enron.com;ken.powers@enron.com;dan.pribble@enron.com;byron.reid@enron.com;leon.schneider@enron.com;cindy.stark@enron.com;anita.swanson@enron.com;dan.swanson@enron.com;gina.taylor@enron.com;judith.weakly@enron.com","donald.angeletti@enron.com;alan.behrens@enron.com;legale.black@enron.com;lynn.blair@enron.com;jack.boatman@enron.com;michael.bodnar@enron.com;jerry.boston@enron.com;janet.bowers@enron.com;john.buchanan@enron.com;james.centilli@enron.com;shelley.corman@enron.com;mike.dervin@enron.com;jodi.dobrinski@enron.com;john.dushinske@enron.com;john.fiscus@enron.com;john.freeman@enron.com;steven.harris@enron.com;thomas.hebert@enron.com;bradley.holmes@enron.com;stanley.horton@enron.com;steven.january@enron.com;robert.kilmer@enron.com;terry.kowalke@enron.com;tk.lohman@enron.com;phil.lowry@enron.com;maggie.matheson@enron.com;w..mcgowan@enron.com;don.powell@enron.com;ken.powers@enron.com;dan.pribble@enron.com;byron.reid@enron.com;leon.schneider@enron.com;cindy.stark@enron.com;anita.swanson@enron.com;dan.swanson@enron.com;gina.taylor@enron.com;judith.weakly@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","dari.dornan@enron.com;frazier.king@enron.com;scott.coburn@enron.com","dari.dornan@enron.com;frazier.king@enron.com;scott.coburn@enron.com","SMTP;SMTP;SMTP","dari.dornan@enron.com;frazier.king@enron.com;scott.coburn@enron.com","dari.dornan@enron.com;frazier.king@enron.com;scott.coburn@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"Pelican Schedule","Here is a schedule everyone can print out that shows all our games on one page.
+ 
+If you haven't already done so, please bring $20 to the first game.  It will be for the treats after each game, a cake for the end of the year party, and the coaches gifts.  Thanks
+ 
+Cindy  
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","cjdick@pdq.net","cjdick@pdq.net","SMTP","maria.ana@enron.com;edling.andy@enron.com;e-mail;torras.isabel@enron.com;ford.jordana@enron.com;erb.kim@enron.com;s.kudla@enron.com;kudla.marc@enron.com;e-mail;wall.robert@enron.com;shelley.corman@enron.com;hanner.steve@enron.com","maria.ana@enron.com;edling.andy@enron.com;.gina@enron.com;torras.isabel@enron.com;ford.jordana@enron.com;erb.kim@enron.com;s.kudla@enron.com;kudla.marc@enron.com;.matt@enron.com;wall.robert@enron.com;shelley.corman@enron.com;hanner.steve@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"texas gas tries one more time -- modified cash pool filing","UNITED STATES OF AMERICA
+	FEDERAL ENERGY REGULATORY COMMISSION
+
+Texas Gas Transmission Corporation   				Docket No.
+RP01-278-002
+                                                      
+	NOTICE OF COMPLIANCE FILING
+
+	(October 22, 2001)
+
+Take notice that on October 17, 2001, Texas Gas Transmission Corporation
+(Texas Gas) tendered for filing as part of its FERC Gas Tariff, First
+Revised Volume No. 1, the  following tariff sheets to become effective
+October 1, 2001:
+
+                                Primary
+                                Third Revised Sheet No. 181
+                                Third Revised Sheet No. 182
+                                Third Revised Sheet No. 183
+                                Sheet No. 184 (reserved)
+                                Second Revised Sheet No. 185
+                                
+                                Alternate
+                                Alternate Third Revised Sheet No. 181
+                                Alternate Third Revised Sheet No. 182
+                                Alternate Third Revised Sheet No. 183
+                                
+Texas Gas states that this filing is being submitted in compliance with the
+Commission's Order issued on September 19, 2001 in the above-referenced
+docket.  As directed, the tariff sheets removed  the daily  high/low index
+price for cash-out.  In response, Texas Gas proposes to establish a
+cash-out price based on a weekly high/low index price determined from the
+weeks within the applicable month, plus the first week of the following
+month.  The primary and alternate sheets require in-kind make-up  of
+imbalances up to 2% and use the same index price  for  imbalances  above
+5%.
+However,  the primary sheets also propose to eliminate cash-out for all
+imbalances up to  5%  by also requiring a mandatory in-kind make-up level
+from 2% to 5% and by eliminating any use of the 100% price index for this
+tier of imbalance.
+
+Texas Gas states that copies of  the revised  tariff sheets are being mailed
+to Texas  Gas's  jurisdictional customers and interested state commissions.
+
+Any person desiring to protest said filing should file a protest with the
+Federal Energy Regulatory Commission, 888 First Street, N.E., Washington,
+D.C. 20426, in accordance with Section 385.211 of the Commission's Rules and
+Regulations.  All such protests must be filed in accordance with Section
+154.210 of the Commission's Regulations.  Protests will be considered by the
+Commission in determining the appropriate action to be taken, but will not
+serve to make protestants parties to the proceedings.  Copies of this filing
+are on file with the Commission and are available for public inspection.
+This filing may also be viewed on the web at http://www.ferc.gov using the
+""RIMS"" link, select ""Docket#"" and follow the instructions  (call
+202-208-2222 for assistance).  Comments, protests and interventions may be
+filed electronically via the Internet in lieu of paper.  See, 18 CFR
+385.2001(a)(1)(iii) and the instructions on the Commission's web site under
+the ""e-Filing"" link.  	
+
+
+
+
+	David P. Boergers
+	Secretary
+ 
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","claire.burum@gulfsouthpl.com","claire.burum@gulfsouthpl.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Business Cards","Shelley, this room change is Steve's old office.  Is this correct?
+
+Thank you, Ricki
+
+ -----Original Message-----
+From: 	Winters, Ricki  
+Sent:	Monday, March 25, 2002 2:50 PM
+To:	'kathryn@sirspeedy4029.com'
+Subject:	FW: Business Cards
+Importance:	High
+
+Kathryn, two changes already.
+
+Title Change:
+Sr. VP & Chief Commercial Officer
+
+Location Change:
+ECN3902
+
+Thank you, Ricki
+ -----Original Message-----
+From: 	Corman, Shelley  
+Sent:	Monday, March 25, 2002 2:36 PM
+To:	Winters, Ricki
+Subject:	RE: Business Cards
+
+Ricki
+
+Change of Plans --- Please change to 
+
+Shelley A. Corman
+Sr. VP & Chief Commercial Officer
+
+and get my new room location.  
+Thanks
+
+ -----Original Message-----
+From: 	Winters, Ricki  
+Sent:	Monday, March 25, 2002 2:33 PM
+To:	'kathryn@sirspeedy4029.com'
+Cc:	Corman, Shelley
+Subject:	Business Cards
+Importance:	High
+
+Kathryn, here is the information:
+
+Transwestern Pipeline Company
+
+Shelley A. Corman
+Managing Director & Chief Commercial Officer
+1400 Smith, ECN4262
+Houston, TX 77002
+(713) 853-7083
+(713) 646-2461 - fax
+(713) 857-2103 - cell
+shelley.corman@enron.com
+(we might not want to include e-mail address)
+
+Kathryn, I need this IN-HAND by April 2nd and a proof by Wednesday March 26th.
+
+Thank you, Ricki
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ricki.winters@enron.com","ricki.winters@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: TW shipper imbals as of 10/22/01","
+
+ -----Original Message-----
+From: 	Hanagriff, Richard  
+Sent:	Tuesday, October 23, 2001 11:46 AM
+To:	Lindberg, Lorraine; McEvoy, Christine; Mulligan, Amy; Ward, Linda; Kowalke, Terry; Minter, Tracy; Schoolcraft, Darrell; Dietz, Rick; Giambrone, Laura; Lohman, TK; Lokay, Michelle; Hernandez, Bert; Lohman, TK
+Subject:	TW shipper imbals as of 10/22/01
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","darrell.schoolcraft@enron.com","darrell.schoolcraft@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Current D&O Report","Attached is a report comprised of those entities on which you serve as a director, an officer, and/or an attorney in fact, with the effective date of each such election or appointment, based on our current records.
+
+This report is being provided as a courtesy for your information.  Please review it at your convenience and call Lori Pinder at x37291, should you have any questions on the domestic entities or Larry Pardue at x55376 with questions on the international entities.
+
+Thanks.
+
+Taria Reed
+Corporate Secretary Department
+Enron Corp.
+713-345-7628
+EB4802B
+
+ 
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","taria.reed@enron.com","taria.reed@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Re: GISB Rules Governing Capacity Release Recalls","See below -- the only response I got to a query as to whether anyone at the
+pipes is thinking about filing for rehearing or clarification.
+
+===================
+Nancy Bagot
+Manager, Govt. Affairs
+Northern Natural Gas Co.
+1500 K Street, NW
+Suite 400
+Washington, DC  20005
+202-216-1129 direct dial
+----- Forwarded by Nancy Bagot/NNG/Dynegy on 03/20/02 04:59 PM -----
+                                                                                                                                       
+                      ""Dave Reitz""                                                                                                     
+                      <ReitzD@NATFUEL.C        To:       <Nancy.Bagot@dynegy.com>, <TCrump@INGAA.org>                                  
+                      OM>                      cc:       <avcochrane@cmsenergy.com>, <ccalbert@cmsenergy.com>,                         
+                                                <wwgrygar@cmsenergy.com>, <anne_e._bomar@dom.com>, <machelle_f._grim@dom.com>,         
+                      03/15/02 04:39 PM         <damccallum@duke-energy.com>, <mkvasile@duke-energy.com>, <rkruse@duke-energy.com>,    
+                                                <setillman@duke-energy.com>, <jake.hiatt@elpaso.com>, <janice.alperin@elpaso.com>,     
+                                                <Michael.D.Moore@elpaso.com>, <mike.chase@elpaso.com>, <richard.smead@elpaso.com>,     
+                                                <claudia.schrull@enbridge-us.com>, <denise.hamsher@enbridge-us.com>,                   
+                                                <don.whittington@enbridge-us.com>, <dorothy.mccoppin@enron.com>,                       
+                                                <drew.fossum@enron.com>, <frazier.king@enron.com>, <mkmiller@enron.com>,               
+                                                <robert.kilmer@enron.com>, <amurphy@eqt.com>, <dfrutchey@eqt.com>,                     
+                                                <phochart@gdfenergy.com>, <claire.burum@gulfsouthpl.com>,                              
+                                                <mike.mcmahon@gulfsouthpl.com>, <jdreskin@INGAA.org>, <Pludwig@INGAA.org>,             
+                                                <bill_wible@iroquois.com>, <jeff_bruner@iroquois.com>, <rosemary_leitz@iroquois.com>,  
+                                                <sbfabian@jonesday.com>, <kaoru_a_uchida@micusa.com>, <yusuke_hidaka@micusa.com>,      
+                                                <rkw57@msn.com>, ""James Peterson"" <PetersonJ@NATFUEL.COM>, ""John Solomon""              
+                                                <SolomonJ@NATFUEL.COM>, <carl.fink@neg.pge.com>, <john.roscher@neg.pge.com>,           
+                                                <marsha.palazzi@neg.pge.com>, <bswhite@nisource.com>, <mtbrosnan@nisource.com>,        
+                                                <sjroyka@nisource.com>, <tdstone@nisource.com>, <steven.kline@pge-corp.com>,           
+                                                <lenardw@questar.com>, <markp@questar.com>, <czebot@reliantenergy.com>,                
+                                                <Larry_O_Thomas@reliantenergy.com>, <celine_belanger@transcanada.com>,                 
+                                                <jim_bartlett@transcanada.com>, <kristine_delkus@transcanada.com>,                     
+                                                <keith.tiggelaar@wbip.com>, <judy.neason@williams.com>,                                
+                                                <scott.c.turkington@williams.com>, <mary.a.derks@xcelenergy.com>                       
+                                               Subject:  Re: GISB Rules Governing Capacity Release Recalls                             
+                                                                                                                                       
+
+
+
+
+There were 2 places in the order that left me scratching my head:
+
+para. 32 - Pipelines will have to waive non-critical penalties for bumped
+shippers.  I thought Order 637 was supposed to rid pipeline tariffs of
+unnecessary penalties.  I don't know what ""non-critical"" means as applied
+to our post-637 tariff.
+
+para 61 - I can't tell if the new rule is applicable only to releases
+implemented after the effective date, or will it also apply to existing
+recallable releases that do not have a condition precluding intra-day
+recalls.
+
+Ordinarily, we could try to use our compliance filing to clarify such
+things but here FERC has dictated the tariff language we have to use.
+
+We haven't decided whether to seek clarification.  Our business folks are
+still looking at this.
+
+>>> <Nancy.Bagot@dynegy.com> 03/15/02 04:03PM >>>
+
+I'm wondering if anyone has discussed or thought about filing for rehearing
+or clarification on this rule (which would be due April 10, I believe).
+- Nancy Bagot
+Northern Natural
+
+===================
+Nancy Bagot
+Manager, Govt. Affairs
+Northern Natural Gas Co.
+1500 K Street, NW
+Suite 400
+Washington, DC  20005
+202-216-1129 direct dial
+
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","nancy.bagot@dynegy.com","nancy.bagot@dynegy.com","SMTP","theresa.hess@enron.com","theresa.hess@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,"Normal"
+"PG&E 2001 Capacity Release Transactions on Transwestern Pipeline","Attached is the file summarizing the value of all PG&E releases for 2001.  If you need additional information, please let me know.
+
+
+ 
+
+
+Thanks,
+Elizabeth Brown
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","elizabeth.brown@enron.com","elizabeth.brown@enron.com","SMTP","shelley.corman@enron.com;a..howard@enron.com","shelley.corman@enron.com;a..howard@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"Revised Prices and Imbalances worksheet","Shelley, Sheila, and Galen,
+
+Attached is the spreadsheet with the revised imbalance quantities in it.  I will send you all the individual monthly imbalance calculations soon this morning.  Jim
+
+
+			 
+
+
+			
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","james.studebaker@enron.com","james.studebaker@enron.com","SMTP","shelley.corman@enron.com;galen.coon@enron.com;sheila.nacey@enron.com","shelley.corman@enron.com;galen.coon@enron.com;sheila.nacey@enron.com","SMTP;SMTP;SMTP","bradley.holmes@enron.com","bradley.holmes@enron.com","SMTP","bradley.holmes@enron.com","bradley.holmes@enron.com","SMTP",,,"Normal"
+"Dell & Enron Order Confirmation","
+> DELL & ENRON ClickAtHome ORDER CONFIRMATION
+> 
+> Thank you for your Enron ClickAtHome order!  Please read and retain this
+> e-mail for your records.  It contains important information relating to
+> your order that should be used in any future communications with Dell.  
+> 
+> Your Dell customer number is: 16620998
+> 
+> Your order number is:  678332032
+> 
+> Your total ""Out of Pocket"" amount:  $ 0.00
+> The total ""Out of Pocket"" amount includes upgrade costs, shipping and
+> taxes.
+> 
+> 
+> Your Online Sales Point of Contact:
+> We are here to assist you with your order if needed. Our office hours are
+> Monday- Friday, 8am-7pm Central Standard Time.  You can reach our office
+> by calling 1-866-220-3355 or through e-mail at:
+> US_EPP_Clickathome@dell.com <mailto:US_EPP_Clickathome@dell.com> .
+> 
+> Estimated Ship Date:
+> We estimate that your order should be shipped on or before 10 31 01.
+> Although we do not anticipate a delay in your order, we cannot guarantee
+> the shipping date as we occasionally run into unexpected delays in
+> manufacturing.  Your order is being shipped to you under Dell's terms and
+> conditions of sale found at: www.dell.com <http://www.dell.com>.
+> 
+> Total Satisfaction Policy:
+> If you wish to cancel your order for any reason within 30 days, we'll
+> refund amounts paid by you, minus shipping costs, no questions asked.  You
+> are responsible for the cost of shipping your system back to us.  
+> EPP Customer Care contact options: 1-866-220-3355,  option 4 or use the
+> e-mail box  US Relationship EPP@dell.com .  
+> 
+> How to Check Order Status:
+> If you would like to check the status of your order, please call Dell's
+> automated order status inquiry system at:  1-800-433-9014, or visit Dell's
+> Order Status Page at: <http://wwwapp.us.dell.com/us/en/ordstat/index.asp>.
+> 
+> 
+> You can also register to have Dell e-mail you when your order is shipped,
+> by going to:
+> <http://wwwapp.us.dell.com/us/en/ordstat/watchreg.asp?ordnum>. 
+> 
+> How to reach a Technical Support Representative:
+> Once you have received your equipment, if you need to contact a Dell
+> technical support representative, please call 1-866-220-3355, option 3.
+> You will be asked to give your ""Service Tag Number"".  The ""Service Tag
+> Number"" is a five digit alphanumeric number written on the white bar code
+> label on the back of the system.  Please have this number ready before you
+> contact the technical support representative.
+> 
+> 
+> Thank you for participating in the Dell/ Enron ClickAtHome program.  It is
+> my pleasure to work with you.
+> 
+> Sincerely,
+> Lisa Carey
+> 
+> 
+> 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","fss_order@dell.com","fss_order@dell.com","SMTP","scorman@enron.com","scorman@enron.com","SMTP",,,,,,,,,"Normal"
+"Monthly Cash Out Reconciliations","Shelley,
+
+By tomorrow morning I am pretty sure I can have the period Aug 2000 through Jul 2001 Cash In/Out reconciled (roughly) with the PNR and the large PPAs accounted for for each month.  
+
+Attached is what I have summarized so far.  Please go to the last worksheet tab called ""SummaryCashInOutStats"".  I have also finished summarizing within each month the total Cash Out qty and the total Cash In qty and priced each at the appropriate cash in/out price.  Since the imbalance quantities are broken out, the actual cash settlement per customer will vary some from actual as the cash in/out mechanism nets the quantities by customer first before applying a cash in/out rate to that customer.  
+
+Thx, Jim
+
+			        
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","james.studebaker@enron.com","james.studebaker@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"TW 2010 Projected Capacity & Revenue","This is the speadsheet we have been working off of for the 2010 model that Kevin Howard is running.  Please let me know if you have questions or would like me to summarize this for you in a more useful format for your reference.
+
+Lindy
+
+ 
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","lindy.donoho@enron.com","lindy.donoho@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Re: FW: Greetings from Houston, TX","Dear Shelley, 
+
+What an exciting story!  I am sure that you are anxiously awaiting being reunited with Alina.  I know that the bureaucracy for an international adoption can be quite extensive.  We had some good friends who adopted a little girl from an orphanage here in Almaty and they worked really hard to be able to do so.  I hope that the procedure will come to a closure soon so that you can come to bring her home with you!   
+
+I was, indeed, able to travel back to Kazakhstan last month without any significant problems.  I was on the first BA flight Houston-London after the attacks, so the lines were huge, but there was no problem with the flights themselves or with security.  It just took more airport time.   
+
+In Kazakhstan, the situation is currently peaceful.  The government here seems concerned with protecting its borders and American interests.  We are in contact with the American embassy here, and have made contingency plans in case the situation deteriorates, but we feel fine about remaining here at this time.   
+
+Please let me know if you have any specific questions. 
+
+Sincerely, 
+
+Catherine 
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","kazburns@aol.com","kazburns@aol.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Fw: ""Interview"" w Common Vision","Shelley, will you have time or intrest in attending this informational meeting?
+
+Thank you, ricki
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)
+
+
+-----Original Message-----
+From: Saunders, James <James.Saunders@ENRON.com>
+To: Winters, Ricki <Ricki.Winters@ENRON.com>
+Sent: Fri Mar 22 17:41:18 2002
+Subject: ""Interview"" w Common Vision
+
+When: Wednesday, March 27, 2002 11:30 AM-1:00 PM (GMT-06:00) Central Time (US & Canada).
+Where: Conf Rm TBD
+
+*~*~*~*~*~*~*~*~*~*
+
+Lunch w be provided
+
+Alan Smith, CFO of Common Vision, a software company, and 2-3 others from his firm will be here to informally discuss
+what software/other tools we use to make business/operating decisions. They have developed decision making software in the
+electric power arena, and are contemplating expanding into gas.  
+
+Alan is a friend of mine (yes I do have one!), and this meeting is strictly informational...no business obligations intended by any parties.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ricki.winters@enron.com","ricki.winters@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Imbalance worksheets","Shelley, Sheila, and Galen,
+
+Attached is an excel workbook with worksheets for each individual month's imbalance calculations.  Please call or email if you have any questions.  Thx, Jim
+
+			 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","james.studebaker@enron.com","james.studebaker@enron.com","SMTP","shelley.corman@enron.com;sheila.nacey@enron.com;galen.coon@enron.com","shelley.corman@enron.com;sheila.nacey@enron.com;galen.coon@enron.com","SMTP;SMTP;SMTP","bradley.holmes@enron.com","bradley.holmes@enron.com","SMTP","bradley.holmes@enron.com","bradley.holmes@enron.com","SMTP",,,"Normal"
+"New Research From Forrester -- 10/29/2001","===========================================================================
+NEW RESEARCH AT WWW.FORRESTER.COM -- 10/29/2001
+===========================================================================
+
+Time To Make Technology Pay
+
+The soaring technology spending of the '90s is over and IT leaders face
+low returns on their investments. Where should you focus your resources
+today? How can you lower costs? Do legacy systems still have value?
+Forrester's Technology Leadership Forum will explore efficient Web service
+technologies and help you unlock your company's technology potential.
+Keynote speakers include:
+
+     Dennis H. Jones, Vice Chairman, President, and COO, Commerce One
+     Stuart A. Kauffman, M.D., Chief Scientific Officer and Chairman of
+     the Board, BiosGroup
+     John S. Leggate, Group Vice President, Digital Business, BP
+     Phillip Merrick, Founder, Chairman, and CEO, webMethods
+     Gregory J. Owens, Chairman and CEO, Manugistics Group
+     Greg Papadopoulos, Senior Vice President and CTO, Sun Microsystems
+     Roger Siboni, President and CEO, E.piphany
+     Tony E. Scott, CTO, General Motors
+
+Forrester's Technology Leadership Forum
+February 3-5, 2002
+The Phoenician
+Scottsdale, Arizona
+
+For more information, please call our Events Hotline at +1 888/343-6786 or
+visit us at http://www.forrester.com/Events/Overview/0,5158,441,00.html.
+
+===========================================================================
+
+NEW Strategy Research: 1 Report, 10 Briefs
+NEW Technographics(R) Research: 1 Report, 2 Data Snapshots
+NEW TechRankings(TM) Research: 2 Category Updates; 2 TechInsights
+
+===========================================================================
+
+STRATEGY RESEARCH
+
+Integration Spend Gets Real - Report
+Andrew Parker, October 2001
+Related to: eCommerce Europe Core Skill; European Internet Commerce;
+European Business Trade On-line; European New Media; European On-line
+Finance; European On-line Retail
+http://www.forrester.com/ER/Research/Report/0,1338,13196,00.html
+
+     Large European firms implement strategic back-office integration
+     projects with support from help firms. But they must reset
+     integration initiatives based on a framework that supports
+     intercompany process needs.
+
+Online Conversion Rates: One Size Does Not Fit All - Brief
+Evie Black Dykema, October 25, 2001
+Related to: Retail Market Focus; Internet Commerce; New Media; On-line
+Financial Services; On-line Retail; Branding & Advertising On-line;
+Future of Customer Service
+http://www.forrester.com/ER/Research/Brief/0,1317,13722,00.html
+
+PCM's Net Cutbacks: Wrong Course - Brief
+Hellen K. Omwando, October 25, 2001
+Related to: Media Europe Market Focus; European Internet Commerce;
+European New Media
+http://www.forrester.com/ER/Research/Brief/0,1317,13728,00.html
+
+Tax Moratorium Extension Just Delays The Inevitable - Brief
+Jeremy Sharrard, October 24, 2001
+Related to: Net Policy & Regulation Core Skill; Internet Commerce; Telecom
+eBusiness;  Internet Policy & Regulation
+http://www.forrester.com/ER/Research/Brief/0,1317,13719,00.html
+
+Tech Recovery In 2003: A Different Beast - Brief
+Bruce D. Temkin, October 24, 2001
+Related to: Internet Economy Core Skill; Corporate Technology; Internet
+Commerce; Applications, Development, & Data; Business Trade On-line;
+Healthcare On-line; IT Leadership; New Media; On-line Financial Services;
+On-line Retail; Telecom eBusiness; Site Design & Management; Technology
+Services & Outsourcing;
+http://www.forrester.com/ER/Research/Brief/0,1317,13717,00.html
+
+Move Over, HIPAA; The FTC Wants At Online Health - Brief
+Michael J. Barrett, October 23, 2001
+Related to: Healthcare Market Focus; Internet Commerce; Healthcare On-line
+http://www.forrester.com/ER/Research/Brief/0,1317,13718,00.html
+
+PeopleSoft 8: Solutions Need More Than Technology - Brief
+Charles Homs, October 23, 2001
+Related to: eCommerce Europe Core Skill; Corporate Technology; Computing,
+Networks, & Communications; European Corporate Technologies
+http://www.forrester.com/ER/Research/Brief/0,1317,13716,00.html
+
+European ISV Survival Guide - Brief
+Charles Homs, October 22, 2001
+Related to: eCommerce Europe Core Skill; European Internet Commerce;
+European Business Trade On-line; European New Media; European On-line
+Finance; European On-line Retail
+http://www.forrester.com/ER/Research/Brief/0,1317,13713,00.html
+
+Nur Handy gibt digitaler Signatur eine Chance - Brief
+Anna Glos, October 19, 2001
+Related to: Finanzdienstleistungen Deutschland Marktfokus
+http://www.forrester.com/ER/Research/Brief/0,1317,13688,00.html
+
+Online Retail Hangs Tough - Brief
+Carrie A. Johnson, October 19, 2001
+Related to: Retail Market Focus; Internet Commerce; On-line Retail
+http://www.forrester.com/ER/Research/Brief/0,1317,13714,00.html
+
+Interactivity Saves PREMIERE WORLD - Brief
+Christian Lipski, September 6, 2001
+Related to: B2C Germany Market Focus
+http://titania.forrester.com/ER/Research/Brief/0,1317,13709,00.html
+
+===========================================================================
+
+TECHNOGRAPHICS RESEARCH
+
+eCommerce Resiliency In A Downturn - Report
+Christopher M. Kelley, October 2001
+Related to: Retail & Media North America; Technographics North America;
+Technographics Retail & Media;
+http://www.forrester.com/ER/Research/Report/0,1338,12359,00.html
+
+     One-third of online consumers have serious economic concerns. While
+     eCommerce is sensitive to consumers' economic fears, online retail
+     will continue to grow in 2002 -- even if the US economy does
+     not improve.
+
+The Untapped Potential Of Online Travel - Data Snapshot
+Reineke Reitsma, October 22, 2001
+Related to: Benchmark Europe; Technographics Europe Benchmark;
+Technographics Northern Europe Benchmark; Technographics Southern Europe
+Benchmark; Technographics Europe Benchmark; Technographics Northern Europe
+Benchmark; Technographics Southern Europe Benchmark
+http://www.forrester.com/ER/Research/DataSnapshot/0,1317,13673,00.html
+
+TV And The Sexes: Men Want More Control - Data Snapshot
+Jed Kolko, October 18, 2001
+Related to: Devices & Access North America; Technographics North America;
+Technographics Consumer Technology
+http://www.forrester.com/ER/Research/DataSnapshot/0,1317,13675,00.html
+
+===========================================================================
+
+TECHRANKINGS RESEARCH
+
+WebSphere Customers: Need Development Help? - TechInsight
+Chris Dial, October 22, 2001
+Related to: Application Servers TechRankings
+http://www.forrester.com/ER/Research/TechInsight/0,4109,13715,00.html
+
+Unica's Marketing App Stakes Out The High End - TechInsight
+Eric Schmitt, October 18, 2001
+Related to: Marketing Automation Application TechRankings
+http://www.forrester.com/ER/Research/TechInsight/0,4109,13686,00.html
+
+===========================================================================
+
+REPRINTS
+
+Forrester clients can order additional hard copies of our Reports and
+Briefs; research is also available electronically to post on your Web
+site. Please contact your Account Manager for more information.
+
+If you would like to reach us, please click on the ""Contact Us"" link
+on our Web site's left-hand navigation bar. You will have the option
+to email your Forrester Account Manager or the Customer Center.
+You can also call us at +1 888/265-7145 (toll-free in the United States
+and Canada only) or at +1 617/613-5730, Monday-Friday, 8 a.m.-7 p.m.
+EST, or email us at tech-support@forrester.com.
+
+Please forward the following information to people whom you think would
+benefit from Forrester's research:
+
+To subscribe to Forrester's weekly research update, please go to:
+http://www.forrester.com/Listserv?list=WEEKLY_RESEARCH&action=sub
+
+
+Unsubscribing
+
+If you do not want to receive this email anymore, please go to:
+http://www.forrester.com/Listserv?list=WEEKLY_RESEARCH&action=unsub
+
+Technographics is a registered trademark of Forrester Research, Inc.
+TechRankings is a trademark of Forrester Research, Inc.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","forrester@forrester.com","forrester@forrester.com","SMTP","weekly_research@frstrelay001.forrester.com","weekly_research@frstrelay001.forrester.com","SMTP",,,,,,,,,"Normal"
+"Pipeline Meeting to Discuss Order RM96-1-019 (Partial Day Recalls)","A pipeline meeting has been scheduled for Wednesday, March 27, 2002 from
+9:00am-3:00pm at CMS Panhandle Eastern Pipe Line to discuss FERC Order
+RM96-1-019 that was issued on 3/11/2002.
+
+Date:          3/27/2002
+Time:          9:00 a.m. - 3:00 p.m.
+Location: CMS Panhandle Eastern Pipe Line
+          5444 Westheimer, Houston, 77056
+          Please check in with the 7th floor receptionist.
+
+Conference calling will be available.  Please send me an email letting me
+know if you will attend in person or via conference call.
+
+Also, attached is a document that I sent out internally after the NOPR was
+issued late last year.  It was intended as a status report on where we left
+off in GISB on the issue of partial day / intraday recalls.  I am attaching
+this document as it may be a helpful reminder of where we left off.  The
+document also contains links to the GISB EC 12/2000 recommendation form,
+the 12/8/2000 pipeline comments, the 12/14/2000 EC minutes, and AGA Reply
+to the 2/1/2001 GISB Report to FERC.  Please let me know if you have any
+questions about the document or links.
+
+I will be attending NAESB WGQ meetings at CIG next week.  I can be reach at
+713-598-2946.  I will also check my email frequently.  Thanks...k
+
+(See attached file: INGAA Status of NOPR RM96-1-019 and History of Recall
+Issue.doc)
+
+
+
+
+Kim Van Pelt
+GISB Coordinator
+CMS Panhandle Eastern Pipe Line
+(713)989-7354
+kvanpelt@cmsenergy.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","kvanpelt@cmsenergy.com","kvanpelt@cmsenergy.com","SMTP","charlie.bass@enron.com","charlie.bass@enron.com","SMTP",,,,,,,,,"Normal"
+"RRS - Proposed Accounting Timeline","During the March 7 meeting we reviewed the 'Proposed Accounting Timeline', which is part of the Project Update dated March 7, 2002.  The proposed timeline at the bottom of the page shows that 'Imbalance Trading Ends' on the 16th calendar day of the month.
+
+GISB Standard 2.3.41 states that imbalance trading should be allowed through at least the 17th business day of the month.  The language of the standard is as follows:
+
+""Standard 2.3.41 -- Transportation Service Providers should provide the ability to post and trade imbalances until at least the close of the seventeenth business day of the month.""
+
+This timing will need to be incorporated into the timeline.
+
+Thanks,
+Theresa
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","theresa.hess@enron.com","theresa.hess@enron.com","SMTP","gerry.medeles@enron.com;james.studebaker@enron.com;rick.dietz@enron.com;sheila.nacey@enron.com;bradley.holmes@enron.com;andy.brady@enron.com;lynn.blair@enron.com;richard.hanagriff@enron.com","gerry.medeles@enron.com;james.studebaker@enron.com;rick.dietz@enron.com;sheila.nacey@enron.com;bradley.holmes@enron.com;andy.brady@enron.com;lynn.blair@enron.com;richard.hanagriff@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","steve.hotte@enron.com;shelley.corman@enron.com;lisa.sawyer@enron.com;mark.gigliotti@enron.com","steve.hotte@enron.com;shelley.corman@enron.com;lisa.sawyer@enron.com;mark.gigliotti@enron.com","SMTP;SMTP;SMTP;SMTP","steve.hotte@enron.com;shelley.corman@enron.com;lisa.sawyer@enron.com;mark.gigliotti@enron.com","steve.hotte@enron.com;shelley.corman@enron.com;lisa.sawyer@enron.com;mark.gigliotti@enron.com","SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"Meeting Scheduled","The time is blocked for Michelle Lokay and Paul Y'Barbo, tomorrow from 2:00 until 3:00.  I still need to let them know the subject.
+
+I will also need to schedule one-on-one's with all Marketing Directors when you give me the go-ahead.  Have TK and Mike already had theirs?
+
+Thank you, Ricki
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ricki.winters@enron.com","ricki.winters@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"<<Concur Expense Document>> - Nacey/October","The following expense report is ready for approval:
+
+Employee Name: Sheila M. Nacey
+Status last changed by:  Automated Administrator
+Expense Report Name: Nacey/October
+Report Total: $676.01
+Amount Due Employee: $676.01
+
+
+To approve this expense report, click on the following link for Concur Expense.
+http://expensexms.enron.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","enron_update@concureworkplace.com","enron_update@concureworkplace.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Undeliverable: Hi","
+--------- Inline attachment follows ---------
+
+From:  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SCORMAN>
+To: 'crandall.hardy@enron.com'
+Date: Tuesday, March 26, 2002 12:03:51 GMT
+Subject: 
+
+
+Sorry for the unfriendly greeting in the lobby.  I just had my head in the clouds.  Have a great evening!
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","exchange.administrator@enron.com","exchange.administrator@enron.com","SMTP","crandall.hardy@enron.com","crandall.hardy@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Updated chart","We need to discuss.  
+
+ -----Original Message-----
+From: 	Studebaker, James   
+Sent:	Monday, October 08, 2001 11:45 AM
+To:	Lokey, Teb
+Subject:	Updated chart
+
+Teb, I was finally able to get the imbalance quantities data from TSS--my reports were contending with other jobs.  Anyway, attached is the latest rendition of the Gas Daily prices, the Natural Gas Week Cash Out price, and the monthly imbalance quantities.  Any questions please call.  
+
+Thx, Jim
+
+
+			 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","teb.lokey@enron.com","teb.lokey@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Moving","Pam Daily would like for you to give her a call about moving to Steve's old office.  She said she was getting the information second hand from Audry and found it quite hard to believe from her, so she would like to hear this from you.
+
+Her number is x36135
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ricki.winters@enron.com","ricki.winters@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: SoCal - November 1 Changes","            We met with SoCal today to discuss the changes SoCal is making for
+	November 1.  Here is a high level recap in relation to impacts on TW:
+
+	1.  SoCal will NOT set the capacity at needles lower than 750 unless
+	     they have operational problems. And they will maintain 750 for a gas 
+	     day (during all cycles).  (Good news for TW)
+
+	2.  SoCal may set a capacity higher than 750.  If they do, they will
+	     maintain that capacity for a gas day (during all cycles), unless there
+	     are specific operational problems. (Good news for TW)
+	   
+	4.  SoCal will have the option to call OFO's at the beginning of each cycle
+	     for the gas day, which could cause a confirmation reduction.  Today they
+	     only call an OFO before the gas day begins.   Starting Nov. 1, they can 
+	     call an OFO anytime before a GISB cycle, including Intraday 1 and 
+	     Intraday 2 which are cycles in the gas day. (This will be a major impact
+	     to SoCal's customers)
+
+	5.  SoCal says the ""windowing"" is gone.  But, they are still giving us a
+	     capacity and TW will continue to do the allocation if nominations
+	     exceed their capacity.
+
+	6.  SoCal can still reduce the scheduled volumes after an allocation.  This
+	     would be due to SoCal's market not burning their schedule.  At that
+	     time SoCal will confirm down to the market burn.
+
+	Overall, our process does not change. If you have any questions, please
+	let me know.  Thanks. Lynn
+
+	
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","lynn.blair@enron.com","lynn.blair@enron.com","SMTP","shelley.corman@enron.com;steven.january@enron.com;kimberly.watson@enron.com;tk.lohman@enron.com;laura.giambrone@enron.com;bert.hernandez@enron.com;christine.mcevoy@enron.com;beverly.miller@enron.com;l.miller@enron.com;tracy.minter@enron.com;amy.mulligan@enron.com;linda.ward@enron.com","shelley.corman@enron.com;steven.january@enron.com;kimberly.watson@enron.com;tk.lohman@enron.com;laura.giambrone@enron.com;bert.hernandez@enron.com;christine.mcevoy@enron.com;beverly.miller@enron.com;l.miller@enron.com;tracy.minter@enron.com;amy.mulligan@enron.com;linda.ward@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","darrell.schoolcraft@enron.com;lynn.blair@enron.com;terry.kowalke@enron.com;michael.bodnar@enron.com;john.buchanan@enron.com","darrell.schoolcraft@enron.com;lynn.blair@enron.com;terry.kowalke@enron.com;michael.bodnar@enron.com;john.buchanan@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP","darrell.schoolcraft@enron.com;lynn.blair@enron.com;terry.kowalke@enron.com;michael.bodnar@enron.com;john.buchanan@enron.com","darrell.schoolcraft@enron.com;lynn.blair@enron.com;terry.kowalke@enron.com;michael.bodnar@enron.com;john.buchanan@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"FW: Transport Proposal for TW on NNG","FYI, Kim.
+-----Original Message-----
+From: Jo.Williams@dynegy.com [mailto:Jo.Williams@dynegy.com]
+Sent: Friday, February 22, 2002 1:51 PM
+To: Watson, Kimberly
+Subject: Transport Proposal for TW on NNG
+
+
+
+-----Forwarded by Jo Williams/NNG/Dynegy on 02/22/2002 01:51PM -----
+
+To: steve.harris@enron.com, kim.watson@enron.com
+From: Jo Williams/NNG/Dynegy
+Date: 02/22/2002 01:46PM
+cc: Vernon Mercaldo/NNG/Dynegy, John Pritchard/NNG/Dynegy
+Subject: Transport Proposal for TW on NNG
+
+
+Please see attached proposal per our discussion regarding transportation on NNG.  Please call to discuss when you have a few minutes.  I intend to be in Houston next Wednesday, if you would like to discuss in person.  Let me know if you have a few minutes and I will try and meet up with you.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","kimberly.watson@enron.com","kimberly.watson@enron.com","SMTP","shelley.corman@enron.com;tk.lohman@enron.com","shelley.corman@enron.com;tk.lohman@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"Prices and Imbalance Qties Table Aug 2000 through July 2001","Shelley,
+
+Attached are the prices and the net monthly imbalance quantities for the period August 2000 though July 2001.  I also included the prices for August and September 2001 since they were available.  
+
+Please let us know if you need any more information.  Jim
+
+
+				 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","james.studebaker@enron.com","james.studebaker@enron.com","SMTP","shelley.corman@enron.com;sheila.nacey@enron.com;galen.coon@enron.com","shelley.corman@enron.com;sheila.nacey@enron.com;galen.coon@enron.com","SMTP;SMTP;SMTP","bradley.holmes@enron.com","bradley.holmes@enron.com","SMTP","bradley.holmes@enron.com","bradley.holmes@enron.com","SMTP",,,"Normal"
+"ClickAtHome Order Verification","The ClickAtHome Database shows that you have placed an order with Dell Computer with an order number of 678332032. Please read below for instructions:
+
+1.  If this is correct, enjoy your computer!  
+    You can check your order status by clicking here:
+      http://wwwapp.us.dell.com/us/en/ordstat/index.asp
+
+      ** For questions about your order/changes/problems, 
+         call 1-866-220-3355 **
+
+2.  If you did NOT place an order with Dell for the ClickAtHome program, 
+    please email enron@avenueb2e.com or call 713-895-9001 to report 
+    the incorrect order on your behalf.
+
+3.  DELL OFFERS A 30 DAY NO QUESTIONS ASKED RETURN POLICY. 
+    THE 30 DAYS BEGINS FROM THE DAY YOUR PC IS SHIPPED FROM DELL. 
+    YOU WILL NOT BE ABLE TO RETURN YOUR PC AFTER THE 30 DAY PERIOD HAS PASSED. 
+    IF FOR ANY REASON, YOU BELIEVE YOU MAY NEED TO RETURN YOUR PC 
+    (INCLUDE FOR REPAIR OR SERVICE ISSUES), YOU MUST CALL DELL AT 
+    1-866-220-3355 BEFORE THE END OF THE 30 DAY PERIOD AND RECEIVE 
+    A RETURN AUTHORIZATION NUMBER. YOU MUST HAVE THIS NUMBER 
+    BEFORE THE END OF THE 30 DAYS.
+
+Thank you!
+
+ClickAtHome Team!
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","enron@avenueb2e.com","enron@avenueb2e.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: PPA Processing","Great! Now get off your Blackberry and get back to having fun!
+
+-----Original Message-----
+From: Corman, Shelley 
+Sent: Thursday, March 14, 2002 8:59 AM
+To: Lokey, Teb
+Subject: RE: PPA Processing
+
+
+Pre April 1997 was specifically not covered by the 6 month rule. -- but 8 don't think that means that we are automatically required to process all old ppas.  I think we should plan to manually handle any pre 1997 ppas that we feel bound to accept.
+
+FYI I saw Ken Caminiti at Animal Kingdom yesterday!
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","teb.lokey@enron.com","teb.lokey@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: NNG Customer Accounts Meeting - RESCHEDULED","Should I free up this time on your calendar?
+
+Thanks, Ricki
+
+ -----Original Message-----
+From: 	Dietz, Rick  
+Sent:	Monday, March 25, 2002 2:53 PM
+To:	Carrillo, Alma; 'dana.jones@dynegy.com'; Anderson, Gary E.; Barnes, Caroline; Bayles, Timothy; Berger, Larry; Blair, Lynn; Brown, Sharon; Carethers, Ann; Chandler, Bob; Coon, Galen; Corman, Shelley; Davis, Kasey; Escamilla, Linda; Fancler, Dan; Floyd, Jodie; Garcia, Ava; Hanagriff, Richard; January, Steve; Johnson, Alice; 'Jones, Dana'; Lyman, Jane; 'McGowan, Mike W.'; Moseley, Debbie; Nacey, Sheila; Perales, Maria; Spraggins, Gary; Sutton, Lisa; Walton, Mark; Winters, Ricki; Woodson, Harry; Zadow, Raetta; Zahn, Gary
+Subject:	RE: NNG Customer Accounts Meeting - RESCHEDULED
+
+I moved this meeting date to avoid potential conflicts with people being out the office on Good Friday.  Dynegy will be represented in this meeting so please come prepared to explain any issues or variances.
+
+Rick
+
+ -----Original Message-----
+From: 	Carrillo, Alma  
+Sent:	Monday, March 25, 2002 2:35 PM
+To:	'dana.jones@dynegy.com'; Anderson, Gary E.; Barnes, Caroline; Bayles, Timothy; Berger, Larry; Blair, Lynn; Brown, Sharon; Carethers, Ann; Chandler, Bob; Coon, Galen; Corman, Shelley; Davis, Kasey; Dietz, Rick; Escamilla, Linda; Fancler, Dan; Floyd, Jodie; Garcia, Ava; Hanagriff, Richard; January, Steve; Johnson, Alice; Jones, Dana; Lyman, Jane; McGowan, Mike W.; Moseley, Debbie; Nacey, Sheila; Perales, Maria; Spraggins, Gary; Sutton, Lisa; Walton, Mark; Winters, Ricki; Woodson, Harry; Zadow, Raetta; Zahn, Gary
+Subject:	NNG Customer Accounts Meeting - RESCHEDULED
+
+The NNG Customer Accounts Meeting scheduled Friday, March 22 has been moved to:
+			Thursday, March 28th
+			3:30pm - 4:30pm
+			42C2
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ricki.winters@enron.com","ricki.winters@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"NOPR (RM96-1-019)","CMS Energy (Bill Grygar and Kim Van Pelt) are asking whether the pipelines want to meet to discuss the NOPR and its affect on pipelines.  And, whether the pipelines want to file comments.  They say they haven't heard anything from INGAA or whether INGAA has plans to discuss or comment.  They've suggested meeting the week of Oct 29.  This notice was sent only to the GISB EC reps.
+
+If INGAA is addressing, we won't want to duplicate their meetings.  Shelley -- have you heard from INGAA?  I've told CMS that we'll get back with them next week.
+
+Theresa
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","theresa.hess@enron.com","theresa.hess@enron.com","SMTP","shelley.corman@enron.com;bradley.holmes@enron.com","shelley.corman@enron.com;bradley.holmes@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"Deregulation","I thought that you might be interested in our new monthly newsletter, ENERGY COMPETITION STRATEGY REPORT. It contains detailed strategies on how to tackle the complex challenges of deregulation. Topics covered include customer education; retail marketing; telecom and other value creation strategies; investor relations; marketing programs that land big commercial accounts; CIS and related information technology
+challenges; new services and creative ways to package them; relationship-building with regulators, customers, and employees; and much more.
+
+To receive a 3-month, no-obligation free trial and a $100-off charter discount, just e-mail your mailing address, phone and fax number to nhi@nhionline.net or call 1-800-597-6300 and mention offer ""CSRE51."" 
+
+David Schwartz
+
+Publisher
+NHI Publications
+---------------------------------------------------------------------
+If you would prefer not to receive further messages from this sender:
+1. Click on the Reply button.
+2. Replace the Subject field with the word REMOVE.
+3. Click the Send button.
+You will receive one additional e-mail message confirming your removal.
+
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","r-4-724539-3371579-2-223-us2-907bed58@xmr3.com","r-4-724539-3371579-2-223-us2-907bed58@xmr3.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"AUMC","Hi, Shelley.  As SPRC chair, I wanted to visit with you sometime over the
+next couple of days about this janitorial situation.  Ernie supplied me with
+the prototype letter you prepared, as well as your comments about the
+independent contractor legalities, responsibilities, etc.  I could use your
+advice on this subject to ensure the correct decisions are being made.
+ 
+My numbers are:
+Home  281-589-0800
+Cell     713-828-3162
+ 
+Thanks, Shelley...look forward to visiting with you...wish we had brought
+you in on all this from the beginning.  Live and learn!!   
+ 
+Beez Homeyer
+
+
+Beez Homeyer, Realtor 
+Keller Williams Realty
+281-496-7400 x126
+www.BeezBuzz.com
+
+  _____  
+
+Get more from the Web. FREE MSN Explorer download : <http://explorer.msn.com>
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","beezhomeyer@hotmail.com","beezhomeyer@hotmail.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"[enerfaxdaily] Natural Gas Futures Rally on Options Expiration","If your do not see our email in 15 seconds, please go to http://www.enerfaxdaily.com to today's gas & power prices & news. 
+If your email does not support this web version, please subscribe to the free text version by writing subscribe@enerfax.com <mailto:subscribe@enerfax.com> Please visit our website to view today's gas and power prices and news by clicking <http://www.enerfax.com>
+ 
+Delete scorman@enron.com by forwarding to web@enerfax.com or send a blank email to leave-enerfaxdaily-800678X@relay.netatlantic.com 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","enerfaxdaily@enerfax.com","enerfaxdaily@enerfax.com","SMTP","scorman@enron.com","scorman@enron.com","SMTP",,,,,,,,,"Normal"
+"TransPecos","Just an fyi on this, last week I spent a considerable amount of time with Kim and her team going over strategy, both financial and commercial for the TransPecos deal.  Kim knows TW's financial condition and knows how we were planning on working around it.  Expect a big push from their side on this.  
+Kevin
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","a..howard@enron.com","a..howard@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Expense Reports Awaiting Your Approval","The following reports have been waiting for your approval for more than 4 days.  Please review.
+
+Owner: Sheila M Nacey
+Report Name: Nacey/October
+Days In Mgr. Queue: 4
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","enron_update@concureworkplace.com","enron_update@concureworkplace.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Thank s","I realize that you took a big risk in agreeing to stay make the reorganization a reality.  There are a lot of people depending on a very few  of us to make it happen.  I cannot tell you how pleased I am that you will remain a part of the team.  I owe you!  Thanks again.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","stanley.horton@enron.com","stanley.horton@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Revised Budget Without NNG","Shelley,
+Here is a revised plan that uses the whole year to distribute costs into the future per our last conversation.
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","donna.scott@enron.com","donna.scott@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Proforma Signatures","Shelley,
+
+As you know, you have been the primary reviewer and ""signer"" for our electronic subscriber forms for all three pipelines.  Now that you have moved on to TW Commercial, whom do you believe would be best to review and approve these agreements?
+
+Rick
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","rick.dietz@enron.com","rick.dietz@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Cash In\Out Aug 00 to Jul 01","Shelley-
+	Attached is a file with a page for each month showing cash in's and cash out's with totals for each and detail of each. 
+These are volumes after bookout.  I pulled this information from TSS Invoicing for each month and sorted it by volume amounts.  The majority\minority categories are based on the numbers of customers that were in either cash in or cash out, rather than on the volume.  If the majority\minority categories are based on volume, then three months change: Oct 00, Nov 00, and April 01.
+
+	Let me know if this is what you needed or if there are other reports I can pull.  I will also send this to Jim Studebaker, maybe he can incorporate it into his spreadsheet of prices.
+
+Galen
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","galen.coon@enron.com","galen.coon@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Winter Market Area Capacity","
+
+ -----Original Message-----
+From: 	Cohrs, Allen  
+Sent:	Friday, October 26, 2001 9:44 AM
+To:	Miller, Mary Kay
+Subject:	Winter Market Area Capacity
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","kay.miller@enron.com","kay.miller@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"<<Concur Expense Document>> - 10/26/01","The following expense report is ready for approval:
+
+Employee Name: Bradley M. Holmes
+Status last changed by:  Automated Administrator
+Expense Report Name: 10/26/01
+Report Total: $775.01
+Amount Due Employee: $775.01
+
+
+To approve this expense report, click on the following link for Concur Expense.
+http://expensexms.enron.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","enron_update@concureworkplace.com","enron_update@concureworkplace.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"TW On Call Schedule"," 
+Shelley, here is the current weekend on-call schedule for the TW marketers.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","michelle.lokay@enron.com","michelle.lokay@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"TW Revenue Summary - Final","Attached is the high-level summary of transportation revenues by shipper.  We will have the detail reports to you first thing in the morning.
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","elizabeth.brown@enron.com","elizabeth.brown@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP","rick.dietz@enron.com;richard.hanagriff@enron.com","rick.dietz@enron.com;richard.hanagriff@enron.com","SMTP;SMTP","rick.dietz@enron.com;richard.hanagriff@enron.com","rick.dietz@enron.com;richard.hanagriff@enron.com","SMTP;SMTP",,,"Normal"
+"Lexis-Nexis Training: Houston & Worldwide / Dow Jones Training","
+eSource Presents Lexis-Nexis Training
+
+Basic
+
+Lexis-Nexis Basic is geared to the novice or prospective user.  You will learn the basics of getting around Nexis.com. 
+ We will talk about news and company information available on Lexis-Nexis.
+
+Attend our Lexis-Nexis Basics Clinic: 
+				
+November 6	  1:00 - 2:00 PM 	EB572
+	  
+Due Diligence
+
+This session will focus on the specific
+company, public records, and other sources available on Lexis-Nexis that help
+you find all possible aspects of a company's business and strengths or
+liabilities. 
+
+
+Attend our Lexis-Nexis Due Diligence Clinic: 
+
+November 6	  2:30 - 4:00 PM 	EB572
+
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 5-7928.
+The cost is $100.00 per person.
+No-shows will be charged $200.00.
+
+* Please bring your Lexis-Nexis login ID and password. If you don't have one, a guest ID will be provided.
+
+
+  * * *
+
+
+eSource presents free Lexis-Nexis Online Training 
+
+Using Placeware, an interactive web learning tool, you can participate in this training session from anywhere in the world.
+
+Basics
+
+Lexis-Nexis Basic is geared to the novice or prospective user.  You will learn the basics of getting around Nexis.com and of the news and company information available on Lexis-Nexis.
+
+Attend our Lexis-Nexis Basics Online Clinic: 
+
+November 14	10:00 AM Central Standard Time
+
+
+Please RSVP to Stephanie E. Taylor at 713-345-7928 or stephanie.e.taylor@enron.com.
+We will email instructions for Placeware to you.
+
+* Note:  If the time scheduled is not convenient to your time zone, please let us know so we can schedule other sessions.
+
+
+ * * *
+
+eSource Presents Dow Jones Interactive Training
+
+Introduction to Dow Jones Interactive: Personalizing/Customizing DJI and Custom Clips
+
+You will learn how to tailor DJI to display information that is most helpful to you.  
+You will learn how to create your own Personal News page to view headlines from your chosen publications and your custom clip folders.  
+Custom clips can be set up to automatically send to you important news about any key topic or company information that affects your business decisions. 
+
+Attend one of our Dow Jones Interactive Basics Clinics: 
+				
+November 14	1:00 - 2:00 PM	EB560
+November 14	3:00 - 4:00 PM	EB560
+	  			
+Advanced
+
+Learn how to be more efficient on Dow Jones Interactive.  Put some power tools to work for you. 
+ Learn how to employ codes, use search history, and customize.  Hands on time is provided.
+
+Attend our Dow Jones Interactive Advanced Clinic: 
+
+November 14	2:00 - 3:00 PM	EB560
+		
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 5-7928.
+
+The cost is $100.00 per person.
+No-shows will be charged $200.00.
+
+*******
+
+Check the eSource training page at  http://esource.enron.com/training.htm for additional training sessions and vendor presentations.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","no.address@enron.com","no.address@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"Updated Tariff Sheets","I am getting ready to send out an all holders update.  Please let me know if you need paper copies of the updated sheets.  Due to the number of filings involved, I will not be able to send these out email.
+
+Zelda
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","tarrif.rates@enron.com","tarrif.rates@enron.com","SMTP","nancy.bastida@enron.com;jack.boatman@enron.com;dave.brown@enron.com;w..cantrell@enron.com;nancy.carpenter@enron.com;tim.cooper@enron.com;shelley.corman@enron.com;rick.dietz@enron.com;jimmy.dowden@enron.com;alma.green@enron.com;glen.hass@enron.com;robert.hayes@enron.com;staci.holtzman@enron.com;frazier.king@enron.com;john.long@enron.com;dorothy.mccoppin@enron.com;thomas.nestor@enron.com;k..patton@enron.com;james.studebaker@enron.com;karen.youngson@enron.com","nancy.bastida@enron.com;jack.boatman@enron.com;dave.brown@enron.com;w..cantrell@enron.com;nancy.carpenter@enron.com;tim.cooper@enron.com;shelley.corman@enron.com;rick.dietz@enron.com;jimmy.dowden@enron.com;alma.green@enron.com;glen.hass@enron.com;robert.hayes@enron.com;staci.holtzman@enron.com;frazier.king@enron.com;john.long@enron.com;dorothy.mccoppin@enron.com;thomas.nestor@enron.com;k..patton@enron.com;james.studebaker@enron.com;karen.youngson@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"FW: TW Data Request - Final","fyi
+
+ -----Original Message-----
+From: 	Brown, Elizabeth  
+Sent:	Thursday, October 25, 2001 10:04 AM
+To:	Corman, Shelley
+Cc:	Dietz, Rick; Hanagriff, Richard
+Subject:	TW Data Request - Final 
+Importance:	High
+
+Attached is the final version which includes the following reports for Transwestern:
+
+Revenues by customer
+Revenues by contract (including commodity volumes)
+Current firm contracts (with contract MDQ and expiration dates)
+
+
+ 
+
+If you have any questions or need additional information, please feel free to contact any of us.
+
+
+Thanks,
+Elizabeth
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","rick.dietz@enron.com","rick.dietz@enron.com","SMTP","a..howard@enron.com","a..howard@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,"Normal"
+"RE: Cash-Out Analysis","Shelley, I have been looking throught Galen's numbers for July 01 and I have found four cash out payments with quantities totaling 1,457,146 mmbtus.  These were payments to Dynegy and Texaco Natural Gas.  I am running the invoice log to see if it will tell me what kind of payments these were -- I suspect these are for ParkNRide and maybe OBA cash outs in the supply area. 
+
+Shown below (and also attached) is a spreadsheet to reconcile the July 01 numbers.   Galen, I think we will need for you to go back through the numbers you provided for each month and exclude any quantities that have to do with PNR and with supply area OBA cash in/out payments.   
+
+I will still need to reconcile the original market area imbalance numbers that I provided earlier with any PPAs and other adjustments that are included in the Balance Before Bookout imbalance quantities for each month.  My original list of market area imbalance quantities did not include any PPAs.  Thx, Jim   
+
+July 01 Imbalance Quantities vs Cash In/Out Summary Quantities										
+										
+Dkts										
+(210,403)	Net DPOA imbalance for July 01  (this is the number I originally provided)									
+85,349 	PPAs included in the Balance Before Bookout stmts for July 01 (mostly measurement adjmts)									
+(125,054)	Net Subtotal Market Area Delivery Imbalances for July 01 including PPAs (from BBB stmts)									
+										
+12,784 	Net Subtotal No Notice Imbalance for July 01 (from BBB stmts)									
+										
+44,262 	Net Subtotal Receipt Imbalances (Supply Area) for July 01 (from BBB stmts)									
+										
+7,535 	Net Subtotal Western Div Delivery Imbalances for July 01 (from BBB stmts)									
+										
+(60,473)	Net Total - Actual July 01 net imbalance for all imbalance types									
+										
+										
+1,457,146 	Possible PNR and OBA cash out quantities for July 01 pmts to Dynegy and Texaco									
+										
+1,396,673 	Net of above two quantities									
+										
+1,390,164 	Net from Galen's Cash In/Out summary for July 01									
+										
+6,509 	Unreconciled difference (I have not been able to figure out this difference)									
+
+
+
+ -----Original Message-----
+From: 	Corman, Shelley  
+Sent:	Tuesday, October 23, 2001 2:45 PM
+To:	Coon, Galen; Studebaker, James 
+Subject:	Cash-Out Analysis
+
+Galen/Jim,
+
+Thanks for the info.  I have been building spreadsheet cases all day.   FYI - majority/minority isn't driven by the number of shippers, its driven by the volume.  I made the appropriate changes on Galen's spreadsheet.
+
+
+A couple of further things that I need:
+- I need to reconcile the net volume on Galen's sheet by month with the net cash out volumes on Jim's sheet.  There are huge differences.  Can these really all be receipt imbalances?
+
+Galen for the months Aug 00-Jul 01 can you break out receipt imbalances from market imbalances.   We are only planning to put the majority/minority pricing on the market area imbalances.
+
+
+Let me know if you guys want to sit down and talk through this.  I need to get Teb my final analysis by the end of the week. 
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","james.studebaker@enron.com","james.studebaker@enron.com","SMTP","shelley.corman@enron.com;galen.coon@enron.com","shelley.corman@enron.com;galen.coon@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"FW: Revenue Contract List","
+
+ -----Original Message-----
+From: 	Plant, Steve  
+Sent:	Wednesday, October 24, 2001 7:07 PM
+To:	Dietz, Rick; Dasilva, Esther; Sawyer, Lisa
+Subject:	Revenue Contract List
+
+Attached is the report requested.
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","esther.dasilva@enron.com","esther.dasilva@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Critical Business Applications for Customer Communications and Transactions"," 
+
+Shelley:  
+
+Attached is the start of the communications plan.  There are many more issues to cover but the balance will be how much detail to provide executives.  
+
+Let me know where you want to go from here.  
+
+Brad
+
+I will be sending this to the group (Scott A., Jean M, Toby, John. B, Kim P) for further comments.   
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","bradley.holmes@enron.com","bradley.holmes@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"IT Weekly Tip - Use vCards to share your contact info with clients and businesses","Below is a training tip on creating electronic business cards and links to training documents on Windows 2000 and Outlook.   Each week a training tip is added to the documentation, and I will foward on as new topics are added.  
+
+I would be happy to do brown bag training sessions at lunch or as time permits on topics of interest.   If you have any questions or would like me to setup a session, please give me a call.   Thanks.  Jean x51615
+
+Business cards are a great way to share information about yourself and your company when you want to network with others such as clients, businesses, vendors, and so on.  But if you are communicating via email, what do you do? A handy solution is electronic business cards, called vCards (virtual business cards), which you can send and receive in e-mail using Outlook  Many other e-mail and personal information manager (PIM) applications can use vCards as well, not just Outlook. For more information on vCards, visit the Internet Mail Consortium at http://www.imc.org/pdi/vcardoverview.html
+Note: vCards are not needed when communicating with fellow employees, since we already have access to the Outlook address book and Peoplefinder. 
+Settings Up Your vCard
+
+1)  Verify Your Information
+	- Open the address book ( )
+	- Find and select your name
+	- Double-click your name or click Properties
+	- Is your information correct and complete?  If not, update it in eHRonline or contact your HR rep. 
+2)  Create an AutoSignature with your vCard
+	- Close any open messages
+	- Click Tools, Options, Mail Format, Signature Picker
+	- Click New and then type ""vCard"" for the name
+	- Click Next and then click New vCard from Contact
+	- Find and select your name, then click Add ->, OK 
+	- Under the vCard Options section, change it from <None> to your name
+	- Click OK, OK, Cancel  (make sure you click cancel or your vCard will be on every email you create)
+Good job!  Your vCard is setup and ready to go. 
+
+Sending an E-mail with your vCard
+	
+	- Create a new e-mail
+	- Click Insert, Signature, vCard to insert your vCard 
+	- Send your e-mail 
+
+Receiving a vCard via E-mail
+
+If someone outside the company sends you a vCard, how do you quickly add it to your Contacts folder?
+
+	- Double-click on the vCard icon in the e-mail (this will bring up the new contact properties)
+	- Add any additional information you wish
+	- Click Save and Close
+
+_________________________________________________________
+If you'd like to reference past IT Weekly Tips,      
+double-click the following attachment and select Open It 
+
+To see general Windows 2000 and Outlook tips,
+click on the following link and then select Open It
+\\gtoma-dv01\common\win2000_training\index.htm
+_________________________________________________________
+
+
+
+
+
+<Embedded Picture (Metafile)>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jean.mcfarland@enron.com","jean.mcfarland@enron.com","SMTP","jean.adams@enron.com;william.aldinger@enron.com;patrick.barry@enron.com;nancy.bastida@enron.com;robert.benningfield@enron.com;larry.berger@enron.com;ramona.betancourt@enron.com;legale.black@enron.com;jean.blair@enron.com;lynn.blair@enron.com;michael.bodnar@enron.com;karen.brostad@enron.com;elizabeth.brown@enron.com;sharon.brown@enron.com;randy.bryan@enron.com;john.buchanan@enron.com;craig.buehler@enron.com;nancy.callans@enron.com;james.carr@enron.com;alma.carrillo@enron.com;zuela.carter@enron.com;karen.clapper@enron.com;marion.collins@enron.com;jacob.conklin@enron.com;galen.coon@enron.com;tim.cooper@enron.com;shelley.corman@enron.com;james.cramer@enron.com;esther.dasilva@enron.com;larry.davis@enron.com;rick.dietz@enron.com;mary.draemer@enron.com;deborah.dunten@enron.com;dale.eldridge@enron.com;sherry.forbish@enron.com;ava.garcia@enron.com;laura.giambrone@enron.com;chris.greaney@enron.com;alma.green@enron.com;richard.hanagriff@enron.com;bert.hernandez@enron.com;scott.hibbard@enron.com;bradley.holmes@enron.com;jack.howard@enron.com;steve.january@enron.com;randy.janzen@enron.com;alice.johnson@enron.com;terry.kowalke@enron.com;toby.kuehl@enron.com;lynda.laferla@enron.com;dennis.lee@enron.com;joe.linhart@enron.com;maggie.matheson@enron.com;janet.mcdaniel@enron.com;christine.mcevoy@enron.com;jean.mcfarland@enron.com;gerry.medeles@enron.com;l.miller@enron.com;tracy.minter@enron.com;amy.mulligan@enron.com;sheila.nacey@enron.com;kim.perez@enron.com;renee.perry@enron.com;mary.phillips@enron.com;diana.porter@enron.com;cynthia.rivers@enron.com;darrell.schoolcraft@enron.com;donna.scott@enron.com;debra.scurlock@enron.com;gerald.skertich@enron.com;gary.spraggins@enron.com;patricia.steele@enron.com;james.studebaker@enron.com;kathy.sturr@enron.com;toby.summers@enron.com;linda.trevino@enron.com;josue.vasquez@enron.com;cara.vaughan@enron.com;shirley.walden@enron.com;linda.ward@enron.com;kathy.washington@enron.com;jerry.wilkens@enron.com;ricki.winters@enron.com;harry.woodson@enron.com;raetta.zadow@enron.com","jean.adams@enron.com;william.aldinger@enron.com;patrick.barry@enron.com;nancy.bastida@enron.com;robert.benningfield@enron.com;larry.berger@enron.com;ramona.betancourt@enron.com;legale.black@enron.com;jean.blair@enron.com;lynn.blair@enron.com;michael.bodnar@enron.com;karen.brostad@enron.com;elizabeth.brown@enron.com;sharon.brown@enron.com;randy.bryan@enron.com;john.buchanan@enron.com;craig.buehler@enron.com;nancy.callans@enron.com;james.carr@enron.com;alma.carrillo@enron.com;zuela.carter@enron.com;karen.clapper@enron.com;marion.collins@enron.com;jacob.conklin@enron.com;galen.coon@enron.com;tim.cooper@enron.com;shelley.corman@enron.com;james.cramer@enron.com;esther.dasilva@enron.com;larry.davis@enron.com;rick.dietz@enron.com;mary.draemer@enron.com;deborah.dunten@enron.com;dale.eldridge@enron.com;sherry.forbish@enron.com;ava.garcia@enron.com;laura.giambrone@enron.com;chris.greaney@enron.com;alma.green@enron.com;richard.hanagriff@enron.com;bert.hernandez@enron.com;scott.hibbard@enron.com;bradley.holmes@enron.com;jack.howard@enron.com;steve.january@enron.com;randy.janzen@enron.com;alice.johnson@enron.com;terry.kowalke@enron.com;toby.kuehl@enron.com;lynda.laferla@enron.com;dennis.lee@enron.com;joe.linhart@enron.com;maggie.matheson@enron.com;janet.mcdaniel@enron.com;christine.mcevoy@enron.com;jean.mcfarland@enron.com;gerry.medeles@enron.com;l.miller@enron.com;tracy.minter@enron.com;amy.mulligan@enron.com;sheila.nacey@enron.com;kim.perez@enron.com;renee.perry@enron.com;mary.phillips@enron.com;diana.porter@enron.com;cynthia.rivers@enron.com;darrell.schoolcraft@enron.com;donna.scott@enron.com;debra.scurlock@enron.com;gerald.skertich@enron.com;gary.spraggins@enron.com;patricia.steele@enron.com;james.studebaker@enron.com;kathy.sturr@enron.com;toby.summers@enron.com;linda.trevino@enron.com;josue.vasquez@enron.com;cara.vaughan@enron.com;shirley.walden@enron.com;linda.ward@enron.com;kathy.washington@enron.com;jerry.wilkens@enron.com;ricki.winters@enron.com;harry.woodson@enron.com;raetta.zadow@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Electronic Pay Stubs","Get ready.  Beginning in November, electronic pay stubs will be available to all employees who have their paychecks direct deposited into their bank account.  Electronic pay stubs are an easy, fast, and efficient way for you to get your payroll information.  They will also help Enron to realize a considerable savings in time and dollars spent over traditional printed pay stubs.
+
+If you prefer to receive a hardcopy of your pay stub, click on the link below to complete a request form.  This form must be submitted to Payroll by October 15, 2001.  Unless you submit a form your pay stub information will default to electronic viewing.  
+
+Please click on the link below.
+	
+Name:             SHELLEY CORMAN
+Personnel number: P00500553
+Phone:            7138537083	
+		
+If you have questions about electronic pay stubs, please contact Janice Priddy (Payroll) 713-853-7839 or Marie Newhouse (ClickAtHome) at 713-345-4185 or send an email to  Enron.Payroll@enron.com (Enron Payroll in Outlook).
+
+Stay tuned for more details in the coming weeks.
+
+http://etcsurvey.corp.enron.com/wi/p0810709/i.asp?r=19958&s=JJWVDHUB&l=9
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","payroll.enron@enron.com","payroll.enron@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Strategy Meeting - TW Commercial Team","
+Per discussions in Shelley's introductory meeting this morning, please mark your calendars to reflect a Strategy Meeting on Thursday of this week, March 28, 2:00 - 3:30 pm in ECN-39C1.
+
+Please let me know if there are any conflicts.
+
+Thanks in advance,
+
+adr
+
+Audrey D. Robertson
+Transwestern Pipeline Company 
+email address:  audrey.robertson@enron.com
+(713) 853-5849
+(713) 646-2551 Fax
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","audrey.robertson@enron.com","audrey.robertson@enron.com","SMTP","kevin.hyatt@enron.com;lindy.donoho@enron.com;tk.lohman@enron.com;michelle.lokay@enron.com;mark.mcconnell@enron.com;audrey.robertson@enron.com;shelley.corman@enron.com;paul.y'barbo@enron.com","kevin.hyatt@enron.com;lindy.donoho@enron.com;tk.lohman@enron.com;michelle.lokay@enron.com;mark.mcconnell@enron.com;audrey.robertson@enron.com;shelley.corman@enron.com;paul.y'barbo@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","ricki.winters@enron.com","ricki.winters@enron.com","SMTP","ricki.winters@enron.com","ricki.winters@enron.com","SMTP",,,"Normal"
+"OFO's For Reliant Energy","   Dannis,
+
+Per your instruction, I have issued an Operational Flow Order to Reliant Energy for gas day of Oct 19th.  Germaine Grey and Bob Rossi of Reliant Energy have been contacted via phone & fax.
+
+I have also prepared the OFO form, the cover letter that contains the OFO tariff language, as well as the fax cover sheet  for gas days of October 20th & 21st in the event there is a need to issue an order.
+
+If by chance these orders are not issued, please let me know Monday, October 22nd so that I can remove the orders from the TSS system.
+
+I will leave this OFO information on your desk in the event you have questions or changes.  Please pass along to Gas Control.
+
+Thanks,
+
+Marion
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","marion.collins@enron.com","marion.collins@enron.com","SMTP","dannis.bellard@enron.com;mike.bryant@enron.com","dannis.bellard@enron.com;mike.bryant@enron.com","SMTP;SMTP","shelley.corman@enron.com;sheila.nacey@enron.com","shelley.corman@enron.com;sheila.nacey@enron.com","SMTP;SMTP","shelley.corman@enron.com;sheila.nacey@enron.com","shelley.corman@enron.com;sheila.nacey@enron.com","SMTP;SMTP",,,"Normal"
+"Jerry Martin on eSpeak","
+Please join Jerry Martin on Wednesday, October 31, at 10:00 am Houston time for an eSpeak . 
+
+Jerry, Vice President of ETS Engineering and Construction, will host an open discussion on current ETS Engineering and Construction projects.
+
+If you are unable to join Jerry live, please submit your questions ahead of the event by logging on to http://ethink.enron.com/ and click eSpeak.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","no.address@enron.com","no.address@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"Re: Christmas names","We need 3 suggestions from everyone by Thanksgiving!!!  If you want
+something good, you'll send them to the right people.
+
+See ya,
+Stacy
+
+************************************
+
+Stacy Erb
+Apple Computer
+Director, Education Sales Division
+512-674-2890, office
+512-415-8133, mobile
+erb@apple.com
+
+************************************
+
+> From: Stacy Erb <erb@apple.com>
+> Date: Wed, 24 Oct 2001 20:30:06 -0500
+> To: <aerb@biehlco.com>, <amyserb@aol.com>, <scorman@enron.com>, Troy Erb
+> <troy@theelliotgroup.com>
+> Subject: Christmas names
+> 
+> Arliene and I drew names tonight and here are the results:
+> 
+> Dan             Troy
+> Arliene         Kim
+> Kim             Amy
+> Shelley         Dan
+> Troy            Shelley
+> Stacy           Ryan
+> Ryan            Stacy
+> Amy             Arliene
+> 
+> Happy shopping!
+> 
+> 
+> ************************************
+> 
+> Stacy Erb
+> Apple Computer
+> Director, Education Sales Division
+> 512-674-2890, office
+> 512-415-8133, mobile
+> erb@apple.com
+> 
+> ************************************
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","erb@apple.com","erb@apple.com","SMTP","erb@apple.com;aerb@biehlco.com;amyserb@aol.com;scorman@enron.com;troy@theelliotgroup.com","erb@apple.com;aerb@biehlco.com;amyserb@aol.com;scorman@enron.com;troy@theelliotgroup.com","SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"RE: Cash-Out Analysis","Galen, I think you can get the break out of receipt (supply area) imbalances vs market area imbalance from the monthly excel spreadsheets in the common directory (p:)FGTUSERS/FGTMktg/... under Lindley (the place you directed me to earlier today).  I took the spreadsheet for July 01 and sorted it by imbalance type (i.e. Market Area, No Notice, Receipt Point, etc) for my reconciliation.  I think this will get you the numbers Shelley is looking for (the market area imbalances - positive and negative).  Jim
+
+ -----Original Message-----
+From: 	Corman, Shelley  
+Sent:	Tuesday, October 23, 2001 2:45 PM
+To:	Coon, Galen; Studebaker, James 
+Subject:	Cash-Out Analysis
+
+Galen/Jim,
+
+Thanks for the info.  I have been building spreadsheet cases all day.   FYI - majority/minority isn't driven by the number of shippers, its driven by the volume.  I made the appropriate changes on Galen's spreadsheet.
+
+
+A couple of further things that I need:
+- I need to reconcile the net volume on Galen's sheet by month with the net cash out volumes on Jim's sheet.  There are huge differences.  Can these really all be receipt imbalances?
+
+Galen for the months Aug 00-Jul 01 can you break out receipt imbalances from market imbalances.   We are only planning to put the majority/minority pricing on the market area imbalances.
+
+
+Let me know if you guys want to sit down and talk through this.  I need to get Teb my final analysis by the end of the week. 
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","james.studebaker@enron.com","james.studebaker@enron.com","SMTP","shelley.corman@enron.com;galen.coon@enron.com","shelley.corman@enron.com;galen.coon@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"FW: PNR Balance on PNM Cr# 25672 - PO# 27190","	Shelley, wanted to pass this on to you.  Mike and I just talked about this and we are going
+	to work with Richard and Reyna to be sure this cannot happen in the future.  (One of those
+	surprises we were talking about earlier today).  Thanks. Lynn
+
+ -----Original Message-----
+From: 	Neville, Sue  
+Sent:	Friday, October 12, 2001 4:33 PM
+To:	Bodnar, Michael; Watson, Kimberly; Lohman, TK
+Cc:	Blair, Lynn; Hanagriff, Richard; McEvoy, Christine; Giambrone, Laura
+Subject:	RE: PNR Balance on PNM Cr# 25672 - PO# 27190 
+
+I would recommend that we just have them nominate it out when it is convenient for TW and not charge them any additional fees.  Is there a procedure in place that will prevent us from missing a balance like this again? 
+
+Sue
+
+ -----Original Message-----
+From: 	Bodnar, Michael  
+Sent:	Friday, October 12, 2001 4:06 PM
+To:	Watson, Kimberly; Neville, Sue; Lohman, TK
+Cc:	Blair, Lynn; Hanagriff, Richard; McEvoy, Christine; Giambrone, Laura
+Subject:	PNR Balance on PNM Cr# 25672 - PO# 27190 
+
+In analyzing shipper imbalance statements, Laura Giambrone discovered a PNR balance of 10,000 Dth on the above noted contract. The balance was parked on TW on April 26, 2000 and PNM paid a $0.03 per Dth/d fee in that month . TW has not billed PNR fees on the balance since May 1, 2000. PNM has not inquired about nor nominated the redelivery of the quantities held by TW.
+How should this matter be handled?   
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","lynn.blair@enron.com","lynn.blair@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Order RM96-1-019 (Partial Day Recalls) - BPS Schedule is Official & Pipeline Segment Meeting","Following is info on BPS, Pipeline Segment and EC meetings in April / May.
+
+FYI - On the Triage call this afternoon, Kim announced the following BPS
+schedule for dealing with the recall order:
+
+** Wed 4/3 conference call 8:30 - 12:30 central - agenda - only to identify
+the issues and not to work on any of the issues at this point
+** Wed/Thurs  4/10 - 4/11 face to face @ Con Ed in NYC
+** Wed 4/24 conference call 8:30 - 12:30 central
+** Tues/Wed 4/30-5/1  face to face in Houston - probably @ CMS 
+
+Kim indicated that on the 4/24 call we'd know better what additional
+meetings might be needed. I suggested that since the Technical and IR are
+meetings are in Houston Mon May 13 (Tech) and Tues/Wed May 14-15 (IR), that
+if there needs to be another face to face about that time, that we could
+possibly have it that Thursday and Friday (May 16-17) in Houston. Stay tuned
+on any dates after the May 1 meeting. 
+
+Kim is going to try to have the NAESB office post this schedule this
+afternoon.
+
+**  Kim also asked me to remind everyone about the Pipeline Segment meeting
+to prepare for the BPS meetings (see her e-mail of 3/15/02)
+Date:          3/27/2002
+Time:          9:00 a.m. - 3:00 p.m. central
+Location: CMS Panhandle Eastern Pipe Line
+          5444 Westheimer, Houston, 77056
+          Please check in with the 7th floor receptionist.
+
+Conference calling will be available.  If you have not done so already,
+please send Kim an email letting her know if you will attend in person or
+via conference call.
+
+**  Last but not least, April EC meeting - the NAESB web page shows it as
+being a 2-day meeting - Thursday 4/18 and Friday 4/19. I confirmed with Jim
+Buccigross this morning that it will only be a one day meeting on Thursday
+4/18 in DC.
+
+Have a great weekend and keep those travel departments busy. Just think
+about all the wonderful places you can go as your frequent flyer accounts
+build up this year!
+
+
+Dale Davis
+Williams Gas Pipeline
+office:	(713)215-2396
+cell:	(713)569-4914
+dale.m.davis@williams.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dale.m.davis@williams.com","dale.m.davis@williams.com","SMTP","griffith'.'bill@enron.com;fava'.'gene@enron.com;king'.'iris@enron.com;keeler'.'john@enron.com;burch'.'kathryn@enron.com;pelt'.'kim@enron.com;schubert'.'ken@enron.com;mccain'.'marcy@enron.com;gracey'.'mark@enron.com;wilke'.'mark@enron.com;love'.'paul@enron.com;young'.'randy@enron.com;theresa.hess@enron.com;gwilliam'.'tom@enron.com;grygar'.'bill@enron.com;charlie.bass@enron.com;shelley.corman@enron.com","griffith'.'bill@enron.com;fava'.'gene@enron.com;king'.'iris@enron.com;keeler'.'john@enron.com;burch'.'kathryn@enron.com;pelt'.'kim@enron.com;schubert'.'ken@enron.com;mccain'.'marcy@enron.com;gracey'.'mark@enron.com;wilke'.'mark@enron.com;love'.'paul@enron.com;young'.'randy@enron.com;theresa.hess@enron.com;gwilliam'.'tom@enron.com;grygar'.'bill@enron.com;charlie.bass@enron.com;shelley.corman@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","8772405711@pagenetmessage.net","8772405711@pagenetmessage.net","SMTP","8772405711@pagenetmessage.net","8772405711@pagenetmessage.net","SMTP",,,"Normal"
+"TW Data Request - Final","Attached is the final version which includes the following reports for Transwestern:
+
+Revenues by customer
+Revenues by contract (including commodity volumes)
+Current firm contracts (with contract MDQ and expiration dates)
+
+
+ 
+
+If you have any questions or need additional information, please feel free to contact any of us.
+
+
+Thanks,
+Elizabeth
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","elizabeth.brown@enron.com","elizabeth.brown@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP","rick.dietz@enron.com;richard.hanagriff@enron.com","rick.dietz@enron.com;richard.hanagriff@enron.com","SMTP;SMTP","rick.dietz@enron.com;richard.hanagriff@enron.com","rick.dietz@enron.com;richard.hanagriff@enron.com","SMTP;SMTP",,,"Normal"
+"FW: TW California reports w/minor changes","FYI - Please see below for the final version being sent to the FERC.  
+
+Shelley - Would you like me to forward to Rob Kilmer's group?
+
+
+Thanks,
+Elizabeth
+
+ -----Original Message-----
+From: 	Bianchi, Rita  
+Sent:	Friday, September 28, 2001 10:09 AM
+To:	Brown, Elizabeth
+Subject:	TW California reports w/minor changes
+
+Here is the file you sent me with the following changes:
+
+1.  Question 1: added a comment line after the column headings explaining that Interruptible contracts may be extended from month to month unless terminated on 30 days' notice by either party.  Mary Kay thought we needed some explanation why those contracts showed termination dates in the past.  I eliminated this line, along with the headers, on the CD version of the file.
+
+2.  Question 3:  I just changed the alignment on the text cells for the 3 comment records at the bottom from Centered to Left.
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","elizabeth.brown@enron.com","elizabeth.brown@enron.com","SMTP","shelley.corman@enron.com;lynn.blair@enron.com;rick.dietz@enron.com;terry.kowalke@enron.com;darrell.schoolcraft@enron.com;lindy.donoho@enron.com;tk.lohman@enron.com;steven.january@enron.com;bradley.holmes@enron.com","shelley.corman@enron.com;lynn.blair@enron.com;rick.dietz@enron.com;terry.kowalke@enron.com;darrell.schoolcraft@enron.com;lindy.donoho@enron.com;tk.lohman@enron.com;steven.january@enron.com;bradley.holmes@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"DALLAS TRIP TO MEET WITH RICHARDSON & AQUILA","Here it is.   Let me know if you have any questions or concerns.
+
+ 
+
+Cindy Stark
+Executive Assistant to Stan Horton
+Tel:   713/853-6197
+Fax:  713/345-7047
+Cindy.Stark@enron.com
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","cindy.stark@enron.com","cindy.stark@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP","ricki.winters@enron.com","ricki.winters@enron.com","SMTP","ricki.winters@enron.com","ricki.winters@enron.com","SMTP",,,"Normal"
+"FYI - Good News: Brief Updates","The Rate Case Refund project is going extremely well and we are actually ahead of schedule.  Rita Bianchi and Raetta have been working together to coordinate the refund process.  We have had no significant problems and have been able to overcome any obstacles that have come up.  Expect no problems in refunding this $2.4 million to our NNG customers.
+
+The TW contract management and capacity release systems are working fine with very few exceptions or problems.  Once again, we have been able to correct any issues in a very timely manner.  The implementation has proven to be quite smooth and successful.
+
+The meeting with TECO yesterday went well.  We presented our information, showed them our systems and answered their questions.  They left as happy customers...
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","rick.dietz@enron.com","rick.dietz@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Agreement Signatures","Steve and I have been asked whether we will be signing the documents that you previously signed or whether they should continue to go you.  If the officer status is not required for TPA's, Electronic Information Access, Transportation Contracts etc, we'd be happy to pick up the responsibility.   
+
+Let us know which direction you'd like to go and we will inform the group. 
+
+Brad 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","bradley.holmes@enron.com","bradley.holmes@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP","steve.january@enron.com","steve.january@enron.com","SMTP","steve.january@enron.com","steve.january@enron.com","SMTP",,,"Normal"
+"Update Files for Total Throughput and TW EOT Revenues","Here are the updated files with the total throughput for both TW and NNG as well as the TW  EOT Revenues.  
+
+Note that the Burlington contract #25025 under the SJ tab really should belong under the EOT tab.  However, since you already provided the SJ spreadsheets, I went ahead and deleted from the EOT spreadsheet that Jeanette forwarded to me).  Please let me know if you have any problems.
+
+ 
+	
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","elizabeth.brown@enron.com","elizabeth.brown@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP","rick.dietz@enron.com","rick.dietz@enron.com","SMTP","rick.dietz@enron.com","rick.dietz@enron.com","SMTP",,,"Normal"
+"RE: Partial Day Recall Filing","Thank you.  Hope you had a great time in Florida and a great week-end.  Joe
+-----Original Message-----
+From: Corman, Shelley 
+Sent: Monday, October 22, 2001 4:41 PM
+To: Hartsoe, Joe; Butler, Janet
+Subject: Partial Day Recall Filing
+
+
+ 
+ 
+ 
+UNITED STATES OF AMERICA
+BEFORE THE
+FEDERAL ENERGY REGULATORY COMMISSION
+ 
+ 
+ 
+
+Regulation of Short-Term Natural                       ?            Docket No. RM98-10-000
+
+Gas Transportation Services                   ?
+ 
+ 
+Regulation of Interstate Natural                       ?                Docket No. RM98-12-000
+Gas Transportation Services                   ?
+ 
+ 
+ 
+MOTION TO INTERVENE AND COMMENTS
+OF THE ENRON INTERSTATE PIPELINES
+ 
+ 
+            Pursuant to the March 21, 2001 Notice of Petition in the above-referenced proceedings and Rules 212, 212 and 214 of the Federal Energy Regulatory Commission's (""Commission"") regulations (18 C.F.R. ? 385.211, 385.212  and 385.214 ), the Enron Interstate Pipelines hereby move to intervene and respond to the March 16, 2001 Petition of the American Gas Association (""AGA Petition"").
+ 
+I.
+            All correspondence and communications with regard to this filing should be directed to:
+ 
+Shelley A. Corman
+Vice President, Government Affairs and Public Relations 
+Enron Transportation Services Company
+1400 Smith Street, P.O. Box 1188
+Houston, TX  77251-1188
+Phone:  713-853-7083
+Email:  shelley.corman@enron.com
+ 
+Nancy E. Bagot
+Enron Transportation Services Company
+Manager, Government Affairs
+Washington, DC  20006
+Phone:  202-466-9148
+Email:  nancy.bagot@enron.com
+ 
+II.
+MOTION TO INTERVENE
+The AGA Petition raises issues that are directly related to the operation of pipelines. 
+2.      Enron operates a number of interstate pipelines subject to the jurisdiction of the Commission under the Natural Gas Act.  In some cases these pipelines are wholly-owned subsidiaries, in other cases Enron is a part owner.  These interests are collectively referred to herein as the Enron Interstate Pipelines.
+The Enron Interstate Pipelines have currently pending Order No. 637 compliance filings and may be affected by the outcome of this proceeding, and thus have a direct and substantial interest in this proceeding that cannot be adequately represented or protected by any other party.  Thus, the Enron Interstate Pipelines' participation is in the public interest. 
+III.
+COMMENTS
+            The Enron Interstate Pipelines wholly support the Response of the Interstate Natural Gas Association of America filed this day and incorporate the comments made therein.
+            Like INGAA, the Enron Interstate Pipelines take issue with both themes of the AGA Petition.  First, the Enron Interstate Pipelines take issue with the procedural request to implement the new capacity release timeline separately from Order No. 637 proceedings or GISB compliance filings.  Second, the Enron Interstate Pipelines wish to once again voice concerns about the far-reaching impacts of the flowing day recall rights that the AGA petition advocates.   
+            Rather than repeat those concerns again here, we have attached a copy of comments that were submitted to the GISB Executive Committee during the discussion of whether GISB should remove the current prohibition on partial day recall rights.  
+            For the reasons set forth in both INGAA's response and the attached comments of the pipeline segment, the Enron Interstate Pipelines ask the Commission to deny the AGA Petition.
+
+
+ 
+ 
+ 
+December 8, 2000
+ 
+To:      Gas Industry Standards Board 
+From:            Pipeline Segment
+ 
+Re:            Business Practices Subcommittee Priority Action Items 1 and 2 and R00026 
+ 
+ 
+At the scheduled December 14, 2000 GISB Executive Committee meeting, the agenda includes a discussion and vote on Recommendations and Proposed Standards.  This agenda item contains certain BPS proposals related to implementation of Order No. 637 requirements and related standards such as R00026.   Among the proposals are new or revised standards for capacity releases and recalls which include support for intraday capacity releases and would remove current GISB restrictions against partial-day recalls. 
+ 
+Our fundamental concern with the proposed standards is that they do not fully address the far-reaching impact of flowing day recalls.  There are significant operational concerns with these standards.  We are concerned about whether the operational provisions are in place to ensure that the recalled party does not continue to flow, particularly during critical periods.  We are concerned about whether current GISB communication time frames are adequate for handling the ripple effect of flowing day recalls across the grid.   The proposed standards address only one narrow operational concern - whether gas has been scheduled on the particular contract to be recalled.  This does not begin to address the operational challenges of the recall or the potential impact to other transactions across the grid.  
+ 
+Given these operational concerns, we do not understand the rush to adopt flowing day recall standards.  While we understand that this work is in response to R00026, we do not believe that flowing day recalls are necessary to fulfill the scheduling equality requirements of Order No. 637.   Order No. 637 requires that replacement shippers have the same nomination opportunities as shippers acquiring original capacity.  There are no existing pipeline contracting or scheduling functions that are the equivalent of the recall of capacity by a releasing shipper. Very few pipelines have received authorization to sell hourly services and most pipeline tariffs prescribe a uniform hourly flow rate throughout the day.   Further, most pipelines have not yet received approval to implement balancing provisions to address daily price fluctuations or intraday variability. 
+ 
+In the spirit of compromise, we have worked on and concurred with revised standards that permit intraday releases.  However, under these revised standards, all capacity release options continue to be available only on Business Days to insure that the proper contractual relationships and notice provisions are supported.  Nonetheless, throughout the negotiations on this compromise approach, the pipelines have made it clear we cannot support the proposed flowing day recall standards.  
+ 
+Aside from our opposition to the flowing day recall standards, the pipelines have agreed to other recall standards that are more liberal than are supported by the existing standards.  In this area, we have agreed to support a revised standard which will permit capacity to be recalled for transactions in the Evening Nomination Cycle.  This allows a releasing shipper to recall capacity until the afternoon of the day prior to gas flow.  While this timeline supports a shorter notice for recalls, it still preserves the application of the full-day contract entitlement and gas flow rights for both the releasing and the replacement shippers.  Flowing day recalls, though, are a separate issue.  Flowing day recalls could significantly increase the incidence of scheduling problems, overruns, imbalances and increased occurrences of Operational Flow Orders.  Because of the potentially disruptive nature of flowing day recalls, pipelines cannot support the proposed flowing day recall standards. 
+ 
+Any move from daily increments of service to partial-day increments of service must be undertaken in the context of all services offered on each pipeline system, including firm services, interruptible services, and balancing and operational provisions. Because these developments involve changes to tariffs and customers service offerings, this is not an area that is currently ripe for GISB development.
+ 
+The attached Pipeline Segment position paper incorporates the concepts identified above into the BPS recommendation and is offered as an alternative to the BPS recommendation.
+ 
+ 
+
+
+ 
+April 16, 2001
+ 
+ 
+ 
+Mr. David Boergers, Secretary
+Federal Energy Regulatory Commission
+888 First Street, N.E.
+Office of the Secretary, Room 1A, East
+Washington, D. C. 20426
+ 
+Re:               Docket No. RM98-10-000
+               Docket No. RM98-12-000
+ 
+Dear Mr. Boergers:
+ 
+               Enclosed for filing with the Commission in the captioned docket are an original and fourteen (14) copies of ""Motion to Intervene and Comments of The Enron Interstate Pipelines"" in the captioned proceeding.  Also enclosed are three extra copies to be file-stamped and returned to the messenger.  These comments have also been submitted electronically through the Internet e-mail.
+ 
+Very truly yours,
+ 
+ 
+ 
+Shelley A. Corman, Vice President
+Enron Transportation Services Company
+ 
+For the Enron Interstate Pipelines
+ 
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","joe.hartsoe@enron.com","joe.hartsoe@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"Draft Notice for reinstating the Sched Qty report","Shelley, 
+
+Attached is a draft notice for the reinstatement of the old Shipper Scheduled Quantities report.  I will have Legale post the final notice after your changes and  approval. 
+
+ Thx, Jim
+
+
+				 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","james.studebaker@enron.com","james.studebaker@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP","gerry.medeles@enron.com;ramona.betancourt@enron.com;maggie.matheson@enron.com;sheila.nacey@enron.com;lynn.blair@enron.com;terry.kowalke@enron.com;john.buchanan@enron.com","gerry.medeles@enron.com;ramona.betancourt@enron.com;maggie.matheson@enron.com;sheila.nacey@enron.com;lynn.blair@enron.com;terry.kowalke@enron.com;john.buchanan@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","gerry.medeles@enron.com;ramona.betancourt@enron.com;maggie.matheson@enron.com;sheila.nacey@enron.com;lynn.blair@enron.com;terry.kowalke@enron.com;john.buchanan@enron.com","gerry.medeles@enron.com;ramona.betancourt@enron.com;maggie.matheson@enron.com;sheila.nacey@enron.com;lynn.blair@enron.com;terry.kowalke@enron.com;john.buchanan@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"FW: Physical Security of Gas Control and related computer and telecommunications rooms","Shelley, I am trying to arrange for an audit of the Gas Control area, from a facility security perspective. John Brindle, in his response below, indicates that you may be discussing something similar with his team. I'll try to catch you in the next day or two so we can sync up.
+
+Gary
+
+ -----Original Message-----
+From: 	Brindle, John  
+Sent:	Monday, October 29, 2001 12:28 PM
+To:	Kenagy, Gary
+Cc:	Killey, Sharon; Ringwelski, Mark; Norosky, Kyle
+Subject:	RE: Physical Security of Gas Control and related computer and telecommunications rooms
+
+Gary - I will ask my assistant to set up an appointment after I hear back from you.  I would indeed like to attend, but at the very least the individual handling our securty surveys, Mark Ringwelski, will be there.
+
+I should tell you that Mark's boss, Kyle Norosky, has been in contact with the VP who is responsible for Gas Control (her name escapes me at the moment).  You might want to talk to her to ensure we are not running parallel efforts.  I will wait to hear from you before scheduling the appointment.
+
+					John
+
+ -----Original Message-----
+From: 	Kenagy, Gary  
+Sent:	Monday, October 29, 2001 11:02 AM
+To:	Brindle, John
+Cc:	Rahn, Nick
+Subject:	FW: Physical Security of Gas Control and related computer and telecommunications rooms
+
+John, I've been told that you handle security for the Enron building now. I'd like to meet with you this week to give you a tour of the facility and discuss some of my concerns regarding the Enron Gas Control area on EB42. They are listed in my notes below. I am particularly interested in arranging for a security audit of the area by a security professional. In the past the facility security was included as a small part of the IT audits.
+
+Let me know when you would be available to meet.
+
+Thanks, Gary Kenagy 
+x33094
+
+ -----Original Message-----
+From: 	Woods, Steve  
+Sent:	Tuesday, October 23, 2001 4:06 PM
+To:	Kenagy, Gary; Broom, Marcia
+Cc:	Hagen, Bob; McFarland, Jean; Rahn, Nick; Abshire, Scott
+Subject:	RE: Physical Security of Gas Control and related computer and telecommunications rooms
+
+Gary,
+
+See my comments below.
+
+Thanks, Steve
+
+ -----Original Message-----
+From: 	Kenagy, Gary  
+Sent:	Monday, October 22, 2001 1:38 PM
+To:	Woods, Steve
+Cc:	Donovan, Bill; Hagen, Bob; McFarland, Jean; Rahn, Nick; Abshire, Scott
+Subject:	RE: Physical Security of Gas Control and related computer and telecommunications rooms
+
+Steve, 
+
+Back on September 17th I sent you the note below asking for guidance and assistance on some security issues. I haven't gotten any response from you. The facilities help desk did get the service elevator monitor in Gas Control fixed. I would still like to work with someone to address the bulleted issues I listed in the original note below. In addition to those, there are a couple more issues that have surfaced recently. 
+
+1) Given the planned restacking of the building and the significant increase in employees housed in EB, how does this impact the evacuation plan for the building when a complete evacuation is required?  [Woods, Steve]  Compared to our present population at Enron Center North (EB) the population will actually be less once all moves are completed.  [Woods, Steve]  The evacuation we completed on 9-11-01 after the N.Y. disaster went very quickly and without incident. 
+
+2) How are we supposed to be notified after-hours of weather related or any other events that security considers a threat to the building where they are recommending evacuation?  During a recent weather event we were inside Gas Control (I believe it was Thursday evening, 09/20) and we did not get any notification, but we have been told that security was on a number of floors telling employees to evacuate due to a tornado threatening downtown. [Woods, Steve]    Security console is supposed to notify Gas Control when weather approaches,  we have reviewed these procedures and they are in place.  I will ask security to follow up on this issue. 
+
+Let me know who to work with.
+
+Thanks, Gary
+
+ -----Original Message-----
+From: 	Abshire, Scott  
+Sent:	Monday, September 17, 2001 9:33 AM
+To:	Kenagy, Gary; Woods, Steve
+Cc:	Donovan, Bill; Hagen, Bob; McFarland, Jean; Rahn, Nick; Hotte, Steve
+Subject:	RE: Physical Security of Gas Control and related computer and telecommunications rooms
+
+FYI...   Jim Gearhart and Enron Net Works have removed all non-EDS contractor authorized access to all computer rooms, including Ardmore.  These contractors will remain without access until an Enron background investigation is performed or it is verified that an Enron background investigation has already been performed.
+
+-Scott.
+
+ -----Original Message-----
+From: 	Kenagy, Gary  
+Sent:	Monday, September 17, 2001 9:15 AM
+To:	Woods, Steve
+Cc:	Donovan, Bill; Abshire, Scott; Hagen, Bob; McFarland, Jean; Rahn, Nick
+Subject:	Physical Security of Gas Control and related computer and telecommunications rooms
+
+
+Steve, 
+
+Who do I initiate conversations with to review the physical building security issues listed below? Recent events would suggest that we need to
+be auditing these issues routinely. I assume you have worked with Wackenhut consultants or some other organization to perform these types of 
+reviews in the past. These issues are generally addressed as secondary issues in the IT audits, but I think it might be best to address physical security reviews using qualified security professionals, rather than IT auditors. Bob Hagen and Jean McFarland are working on some significant enhancements to our existing Business Continuity processes and this would fit right in. Please let us know who we can work with to begin the review of the issues
+below ASAP.
+
+By the way, I called the facilities help desk with two issues last week and haven't heard back from anyone. The EB42 service elevator lobby video 
+monitoring  from the Gas Control Center is not working, and the service elevator doors on EB40 do not lock properly. 
+
+Thanks in advance for your help, 
+
+Gary  x33094
+
+What are the current risks of unauthorized personnel or visitors attaining access to the Gas Control Center and/or related computer rooms and telecommunications rooms?
+What are the current physical security policies and procedures for these secure areas? How can these be strengthened or improved upon?
+Does the current Gas Control Emergency Reaction Plan adequately address potential threats due to breaches of security? 
+Who in the Enron organization is responsible for routine daily management of security and who is responsible for longer term planning?
+How are security issues communicated? Preventative measures? Early warning? 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","gary.kenagy@enron.com","gary.kenagy@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP",,,,,,,,,"Normal"
+"FPL","Shelley, Alma Green ordered some boxes from archives and in them I found the worksheet and confirmation of Phase III receipt points for FPL.  Would you like us to fax this to you?  Please let me know.  nb
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","nancy.bastida@enron.com","nancy.bastida@enron.com","SMTP","shelley.corman@enron.com","shelley.corman@enron.com","SMTP","rick.dietz@enron.com","rick.dietz@enron.com","SMTP","rick.dietz@enron.com","rick.dietz@enron.com","SMTP",,,"Normal"
+"TW Weekly Report for March 22, 2002","
+Attached is the TW weekly report for March 22, 2002.
+
+
+ 
+
+
+Jan Moore
+X53858
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jan.moore@enron.com","jan.moore@enron.com","SMTP","mansoor.abdmoulaie@enron.com;ramona.betancourt@enron.com;lynn.blair@enron.com;john.buchanan@enron.com;shelley.corman@enron.com;rick.dietz@enron.com;jeanette.doll@enron.com;lindy.donoho@enron.com;tracy.geaccone@enron.com;steven.harris@enron.com;bert.hernandez@enron.com;steve.january@enron.com;terry.kowalke@enron.com;lorraine.lindberg@enron.com;tk.lohman@enron.com;michelle.lokay@enron.com;mark.mcconnell@enron.com;christine.mcevoy@enron.com;beverly.miller@enron.com;tracy.minter@enron.com;jan.moore@enron.com;amy.mulligan@enron.com;sheila.nacey@enron.com;audrey.robertson@enron.com;darrell.schoolcraft@enron.com;linda.ward@enron.com;kimberly.watson@enron.com;paul.y'barbo@enron.com","mansoor.abdmoulaie@enron.com;ramona.betancourt@enron.com;lynn.blair@enron.com;john.buchanan@enron.com;shelley.corman@enron.com;rick.dietz@enron.com;jeanette.doll@enron.com;lindy.donoho@enron.com;tracy.geaccone@enron.com;steven.harris@enron.com;bert.hernandez@enron.com;steve.january@enron.com;terry.kowalke@enron.com;lorraine.lindberg@enron.com;tk.lohman@enron.com;michelle.lokay@enron.com;mark.mcconnell@enron.com;christine.mcevoy@enron.com;beverly.miller@enron.com;tracy.minter@enron.com;jan.moore@enron.com;amy.mulligan@enron.com;sheila.nacey@enron.com;audrey.robertson@enron.com;darrell.schoolcraft@enron.com;linda.ward@enron.com;kimberly.watson@enron.com;paul.y'barbo@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Contact info for Kevin Hyatt","should you need to get hold of me while I'm travelling:
+
+pager: 888-582-7421  (almost always works)
+cell: 281-615-7061
+home: 281-852-6590
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","kevin.hyatt@enron.com","kevin.hyatt@enron.com","SMTP","shelley.corman@enron.com;ricki.winters@enron.com;tk.lohman@enron.com","shelley.corman@enron.com;ricki.winters@enron.com;tk.lohman@enron.com","SMTP;SMTP;SMTP",,,,,,,,,"Normal"

@@ -1,0 +1,1119 @@
+"Subject","Body","From: (Name)","From: (Address)","From: (Type)","To: (Name)","To: (Address)","To: (Type)","CC: (Name)","CC: (Address)","CC: (Type)","BCC: (Name)","BCC: (Address)","BCC: (Type)","Billing Information","Categories","Importance","Mileage","Sensitivity"
+"Re: Next pdx.pm meeting","On Wed, Feb 06, 2002 at 03:40:52PM -0800, Randal L. Schwartz typed:
+> When you enter ""emacs index.html"", you can type ""backspace"" ""h"" to
+> get help on how to use it.  Or try pico... it's even easier.
+
+What is this blather?
+
+emacs? pico? What happened to using real tools like sed and awk?
+
+--
+    Michael Rasmussen  aka  mikeraz
+   Be appropriate && Follow your curiosity
+   ""They that give up essential liberty to obtain
+   temporary safety, deserve neither liberty nor safety.""
+				-- Benjamin Franklin
+     But keep in mind:
+Any member introducing a dog into the Society's premises shall be
+liable to a fine of one pound.  Any animal leading a blind person shall
+be deemed to be a cat.
+		-- Rule 46, Oxford Union Society, London
+TIMTOWTDI
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","mikeraz@patch.com","mikeraz@patch.com","SMTP","merlyn@stonehenge.com","merlyn@stonehenge.com","SMTP","cp@onsitetech.com;tex@off.org;pdx-pm-list@pm.org","cp@onsitetech.com;tex@off.org;pdx-pm-list@pm.org","SMTP;SMTP;SMTP","cp@onsitetech.com;tex@off.org;pdx-pm-list@pm.org","cp@onsitetech.com;tex@off.org;pdx-pm-list@pm.org","SMTP;SMTP;SMTP",,,"Normal"
+"Re: [R] Problems with search","Kenneth Cabrera <krcabrer@epm.net.co> writes:
+
+> Hello, R users:
+>
+> When I use help.start() function and the browser (Netscape) opens, and
+> I use the Search Engenie & Keywords, it doesn't work.
+> And some times show me this message:
+>
+> Search Results
+> No matches for ""resgression"" have been found!
+
+Try spelling it correctly?
+
+--
+   O__  ---- Peter Dalgaard             Blegdamsvej 3
+  c/ /'_ --- Dept. of Biostatistics     2200 Cph. N
+ (*) \(*) -- University of Copenhagen   Denmark      Ph: (+45) 35327918
+~~~~~~~~~~ - (p.dalgaard@biostat.ku.dk)             FAX: (+45) 35327907
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","p.dalgaard@biostat.ku.dk","p.dalgaard@biostat.ku.dk","SMTP","krcabrer@epm.net.co","krcabrer@epm.net.co","SMTP","r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP","r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP",,,"Normal"
+"[R] Problems with search","Hello, R users:
+
+When I use help.start() function and the browser (Netscape) opens, and
+I use the Search Engenie & Keywords, it doesn't work.
+And some times show me this message:
+
+Search Results
+No matches for ""resgression"" have been found!
+
+
+Thank you for your help
+
+Kenneth Cabrera
+
+$platform  ""i386-pc-mingw32""
+$arch        ""x86""
+$os           ""Win32""
+$system    ""x86, Win32""
+$status      """"
+$major      ""1""
+$minor      ""4.1""
+$year        ""2002""
+$month     ""01""
+$day         ""30""
+$language ""R""
+
+
+
+ - krcabrer.vcf 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","krcabrer@epm.net.co","krcabrer@epm.net.co","SMTP",,,,"r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP","r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP",,,"Normal"
+"Re: Next pdx.pm meeting","On Tue, Feb 05, 2002 at 11:00:06PM -0800, Randal L. Schwartz wrote:
+> >>>>> ""Curtis"" == Curtis Poe <cp@onsitetech.com> writes:
+>
+> Curtis> Sorry it's taken so long to get this message out.  The next
+> Curtis> pdx.pm meeting will be Wednesday, February 13th.  Same time
+> Curtis> and place as last time (see http://portland.pm.org/).
+>
+> Curtis> Austin Shutz will be giving a presentation on standard error
+> Curtis> handling and reporting.  Austin is the author of Expect.pm and
+> Curtis> IO::Stty.  He is also a network engineer for Global Crossing.
+>
+> Well, I'm sorry to not be there.  Just when the group is getting
+> started. :)  I would have liked to have seen this too, as the
+> author of the now deprecated chat2.pl. :(
+>
+
+	Well I'm not giving a talk on Expect, though I could if people
+wanted. :)
+
+	I would think it would be worthwhile to meet at produce row and
+then move, btw. Produce row is a pretty good spot socially, but I can't
+imagine trying to give a talk there.
+
+	Austin
+TIMTOWTDI
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","tex@off.org","tex@off.org","SMTP","merlyn@stonehenge.com","merlyn@stonehenge.com","SMTP","cp@onsitetech.com;pdx-pm-list@pm.org","cp@onsitetech.com;pdx-pm-list@pm.org","SMTP;SMTP","cp@onsitetech.com;pdx-pm-list@pm.org","cp@onsitetech.com;pdx-pm-list@pm.org","SMTP;SMTP",,,"Normal"
+"[R] 1.3.1/1.4.1 Windows binary incompatibilities?","
+  I should probably have been able to figure this out, but ...
+
+  I have a package with some C code in it that I've been cross-building on
+my Linux machine to run under Windows.  I had it working under 1.3.1, but
+it seems to have stopped with 1.4.1.  Building with a version of
+i386-mingw32msv-gcc recently downloaded from Brian Ripley's Rtools page
+(--version 2.95.2), under 1.4.1 on Linux, it works under 1.3.1 but fails
+under 1.4.1. (The new version of i386-gcc I just downloaded dates back to
+3 Sep 2000 according to the Page Info.  The previous version I was using
+(which dated to 27 Apr 2000) and the new version give the same --version
+information.)  The ""Version""  tab on the DLL does correctly indicate it
+was built for 1.4.1.
+
+  Am I missing something stupid?  The Rtools page says the most current
+version of mingw is based on gcc 2.95.3; does the cross-compiler need to
+be updated?  (I'm not eager to, but I could try to assemble the
+pieces and compile from source if I had to ...)
+
+  I did find some information on cross-compiling at the bottom of the
+MinGW FAQ list, I may pursue this if no-one has any brilliant ideas ...
+(how many people are actually doing Linux/Windows cross-compiling?)
+
+  thanks,
+    Ben Bolker
+
+
+
+
+
+--
+318 Carr Hall                                bolker@zoo.ufl.edu
+Zoology Department, University of Florida    http://www.zoo.ufl.edu/bolker
+Box 118525                                   (ph)  352-392-5697
+Gainesville, FL 32611-8525                   (fax) 352-392-3704
+
+
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ben@zoo.ufl.edu","ben@zoo.ufl.edu","SMTP","r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP",,,,,,,,,"Normal"
+"[R] R graphs in LaTeX documents?","I have tried to find a neat way to include graphs from R in LaTeX documents,
+but have not succeeded (I work with a WinEdt/MikTeX combination). The two
+roads I have stumbled along so far are the following:
+
+*Generate postscript files and convert them into EPS files by means of
+GhostScript or other not so straightforward tools.
+
+*Generate pictex files and include these.
+
+None of these solutions have worked so far. I haven't spent so much time
+trying to find out what goes wrong, but since there might both LaTeX gurus
+and R wizards among you, I simply thought it would be better to lean on that
+expertize first. Any suggestions about how to achieve what really should be
+a simple task?
+
+--robert
+****************
+Robert Lundqvist
+Dept of Quality Technology & Statistics
+Lulea University of Technology
+Sweden
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","robert.lundqvist@ies.luth.se","robert.lundqvist@ies.luth.se","SMTP","r-help@lists.r-project.org","r-help@lists.r-project.org","SMTP",,,,,,,,,"Normal"
+"Re: Next pdx.pm meeting","----- Original Message -----
+From: ""Austin Schutz"" <tex@off.org>
+To: ""Randal L. Schwartz"" <merlyn@stonehenge.com>
+Cc: ""Curtis Poe"" <cp@onsitetech.com>; <pdx-pm-list@pm.org>
+Sent: Wednesday, February 06, 2002 3:33 PM
+Subject: Re: Next pdx.pm meeting
+
+> Well I'm not giving a talk on Expect, though I could if people
+> wanted. :)
+>
+> I would think it would be worthwhile to meet at produce row and
+> then move, btw. Produce row is a pretty good spot socially, but I can't
+> imagine trying to give a talk there.
+>
+> Austin
+
+Oh, there appears to be a slight misunderstanding.  Produce Row is the
+social meeting and the technical meeting will be at ONSITE! offices, half a
+block away.  Same details as the last meeting (which are on
+http://portland.pm.org/, which I keep putting off updating)
+
+Cheers,
+--
+Curtis ""Ovid"" Poe, Senior Programmer, ONSITE! Technology
+Someone asked me how to count to 10 in Perl:
+push @A, $_ for reverse q.e...q.n.;for(@A){$_=unpack(q|c|,$_);@a=split//;
+shift @a;shift @a if $a[$[]eq$[;$_=join q||,@a};print $_,$/for reverse @A
+
+TIMTOWTDI
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","cp@onsitetech.com","cp@onsitetech.com","SMTP","tex@off.org;merlyn@stonehenge.com","tex@off.org;merlyn@stonehenge.com","SMTP;SMTP","pdx-pm-list@pm.org","pdx-pm-list@pm.org","SMTP","pdx-pm-list@pm.org","pdx-pm-list@pm.org","SMTP",,,"Normal"
+"Re: [R] R graphs in LaTeX documents?","You have to save your plots/figures in EPS format. EPS is basically the
+same as PS (postscript), but it is a one-page document with a
+""BoundingBox"".
+
+Example
+
+In [R]:
+
+Alternative 1: Generate the plot *first* and then the eps file
+  ...
+  plot(sin(1:10), pch=""+"")
+  dev.print(device=postscript, ""myFigure.eps"",
+            onefile=FALSE, horizontal=FALSE)
+  ...
+
+Alternative 2: Generate the eps file directly *without* opening a window.
+
+  ...
+  postscript(file=""myFigure.eps"", onefile=FALSE, horizontal=FALSE)
+  plot(sin(1:10), pch=""+"")
+  dev.off()
+  ...
+
+
+Note that the arguments 'onefile=FALSE, horizontal=FALSE' are important!
+In the help for 'postscript' it also says that you ""probably want to set
+... paper = ""special"", but I never used this option and it has worked fine
+for me without it (actually I don't know what it does).
+
+In LaTeX:
+
+  ...
+  Bla bla see Figure~\ref{figMyFigure}.
+
+  \begin{figure}[hbtp]
+    \begin{center}
+      % Scale the figure to have the height 80mm keeping
+      % the width/height ratio.
+      \resizebox{!}{80mm}{\includegraphics{myFigure.eps}}
+    \end{center}
+    \caption{The data used...}
+    \label{figMyFigure} % <-- NOTE: After \caption!
+  \end{figure}
+  ...
+
+This requires that you use ""\usepackage{graphics}"" or
+""\usepackage{graphicx}"" at the top your LaTeX document.
+
+[This answer is a correction of my own answer in the ""Re: [R] Latex
+Question"" thread from Dec 7, 2001:
+
+  http://www.r-project.org/nocvs/mail/r-help/2001/6836.html
+
+where I forgot the argument 'horizontal=FALSE'.]
+
+Good luck!
+
+Henrik Bengtsson
+
+Dept. of Mathematical Statistics @ Centre for Mathematical Sciences
+Lund Institute of Technology/Lund University, Sweden (+2h UTC)
+Office: P316, +46 46 222 9611 (phone), +46 46 222 4623 (fax)
+h b @ m a t h s . l t h . s e
+http://www.maths.lth.se/matstat/staff/hb/
+
+On Thu, 7 Feb 2002, Robert Lundqvist wrote:
+> I have tried to find a neat way to include graphs from R in LaTeX documents,
+> but have not succeeded (I work with a WinEdt/MikTeX combination). The two
+> roads I have stumbled along so far are the following:
+>
+> *Generate postscript files and convert them into EPS files by means of
+> GhostScript or other not so straightforward tools.
+>
+> *Generate pictex files and include these.
+>
+> None of these solutions have worked so far. I haven't spent so much time
+> trying to find out what goes wrong, but since there might both LaTeX gurus
+> and R wizards among you, I simply thought it would be better to lean on that
+> expertize first. Any suggestions about how to achieve what really should be
+> a simple task?
+>
+> --robert
+> ****************
+> Robert Lundqvist
+> Dept of Quality Technology & Statistics
+> Lulea University of Technology
+> Sweden
+> -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+> r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+> Send ""info"", ""help"", or ""[un]subscribe""
+> (in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+> _._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+>
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","hb@maths.lth.se","hb@maths.lth.se","SMTP","robert.lundqvist@ies.luth.se","robert.lundqvist@ies.luth.se","SMTP","r-help@lists.r-project.org","r-help@lists.r-project.org","SMTP","r-help@lists.r-project.org","r-help@lists.r-project.org","SMTP",,,"Normal"
+"Re: Next pdx.pm meeting","--- ""Randal L. Schwartz"" <merlyn@stonehenge.com> wrote:
+> >>>>> ""Curtis"" == Curtis Poe <cp@onsitetech.com> writes:
+>
+>
+> Curtis>   Same details as the last meeting (which are on
+> Curtis> http://portland.pm.org/, which I keep putting off updating)
+>
+> When you enter ""emacs index.html"", you can type ""backspace"" ""h"" to
+> get help on how to use it.  Or try pico... it's even easier.
+>
+> :-)
+
+I'm going to pretend you didn't insult me by saying pico and you can pretend that I don't use vi.
+Fair enough?
+
+[time passes]
+
+There, I updated the page.  Are you happy?  Did you enjoy nagging me?  Did adding to my life's
+pressures bring you intense enjoyment?  If I didn't know better, I'd think you were my ex-wife.
+
+:-)
+
+Where the heck does that stuff come from?  Anyone know where I put my medication?
+
+Cheers,
+Curtis ""Ovid"" Poe
+
+=====
+""Ovid"" on http://www.perlmonks.org/
+Someone asked me how to count to 10 in Perl:
+push@A,$_ for reverse q.e...q.n.;for(@A){$_=unpack(q|c|,$_);@a=split//;
+shift@a;shift@a if $a[$[]eq$[;$_=join q||,@a};print $_,$/for reverse @A
+
+__________________________________________________
+Do You Yahoo!?
+Send FREE Valentine eCards with Yahoo! Greetings!
+http://greetings.yahoo.com
+TIMTOWTDI
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","poec@yahoo.com","poec@yahoo.com","SMTP","merlyn@stonehenge.com","merlyn@stonehenge.com","SMTP","tex@off.org;pdx-pm-list@pm.org","tex@off.org;pdx-pm-list@pm.org","SMTP;SMTP","tex@off.org;pdx-pm-list@pm.org","tex@off.org;pdx-pm-list@pm.org","SMTP;SMTP",,,"Normal"
+"ActiveState announces Perl Dev Kit 4.0; support for .NET, HP-UX, and Win9x","
+ActiveState is pleased to announce the release of Perl Dev Kit 4.0, the
+essential toolkit for Perl programmers.
+
+Key new features in Perl Dev Kit 4.0 include:
+
+* PerlNET - Existing Perl scripts can now be turned into .NET components and
+used seamlessly in .NET Framework applications
+* PerlApp - Support for Windows 9x/Me and HP-UX
+* PerlCtrl - Support for Windows 9x/Me
+* Smaller footprint for executables - PerlApp and PerlCtrl binaries reduced by
+30-50%
+
+Included with Perl Dev Kit 4.0:
+
+* PerlApp - Turn your Perl programs into ready-to-run executables
+* PerlNET - Perl component builder for the Microsoft .NET Framework
+* Perl Debugger - Painless, simple debugging for Perl scripts
+* PerlCtrl - Build ActiveX controls with Perl
+* PerlCOM  - - Embed Perl interpreters into client applications
+* PerlMSI - Use Perl programs to create Microsoft MSI installation files
+* PerlSvc - Convert your Perl programs into Windows services
+* Visual Package Manager - Manage your Perl installation locally or remotely
+
+
+** Pricing and Licensing **
+
+The Perl Dev Kit 4.0 is available for only $195. For more information, free
+evaluation licenses, or to purchase, see:
+www.ActiveState.com/PDK
+
+Registered users of previous versions can upgrade to Perl Dev Kit 4.0 for only
+$79.95. To upgrade, see:
+http://www.ActiveState.com/Products/Download/Get.plex?id=PerlDevKit&upgrade=1
+
+Perl Dev Kit 4.0 is also included with membership to ASPN Perl, the complete
+solution suite for Perl programmers. ASPN Perl also features Visual Perl,  the
+Perl plug-in for Visual Studio .NET; Komodo, the cross-platform, multi-language
+IDE; plus access to Perl reference materials, interactive tools, and
+comprehensive programming resources. For more information on ASPN Perl, see:
+http://www.ActiveState.com/ASPN_Perl
+
+
+** Important installation information **
+
+Please note that you *must* uninstall any previous versions of Perl Dev Kit
+before installing Perl Dev Kit 4.0. If older versions are present the
+installation will not replace certain key files, despite appearing to complete
+successfully.
+
+
+** Patch available for PerlCtrl **
+
+Earlier versions of the Perl Dev Kit contained a bug in the PerlCtrl component
+that may result in deletion of the file system. This bug is not present in the
+Perl Dev Kit 4.0 release.
+
+Registered users of Perl Dev Kit 2.0 build 206 and up who do not wish to upgrade
+at this time may obtain a free patch here:
+http://downloads.ActiveState.com/Perl_Dev_Kit/patch/PerlCtrl.bin
+
+The patch is a single file ""perlctrl.bin"" that replaces the file of the same
+name in the \perl\bin directory.
+
+
+Enjoy!
+
+ActiveState
+Programming for the People
+
+* * * * *
+
+We'd like to hear what you think! Please send any comments and suggestions to:
+PDK-feedback@ActiveState.com.
+
+_______________________________________________
+ActiveState periodically notifies our customers of new products and special offers. If you do not wish to receive these notifications, you may unsubscribe at: http://listserv.ActiveState.com/mailman/listinfo/activelist
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","shantels@activestate.com","shantels@activestate.com","SMTP","activelist@listserv.activestate.com","activelist@listserv.activestate.com","SMTP",,,,,,,,,"Normal"
+"Re: [R] Problems with search","I've found a similar problem anf the problem was
+that the browser was not runing java scripts. Check
+your browser configuration. You might need to download
+a java plugin.
+
+Agus
+
+Dr. Agustin Lobo
+Instituto de Ciencias de la Tierra (CSIC)
+Lluis Sole Sabaris s/n
+08028 Barcelona SPAIN
+tel 34 93409 5410
+fax 34 93411 0012
+alobo@ija.csic.es
+
+
+On Wed, 6 Feb 2002, Kenneth Cabrera wrote:
+
+> Hello, R users:
+>
+> When I use help.start() function and the browser (Netscape) opens, and
+> I use the Search Engenie & Keywords, it doesn't work.
+> And some times show me this message:
+>
+> Search Results
+> No matches for ""resgression"" have been found!
+>
+>
+> Thank you for your help
+>
+> Kenneth Cabrera
+>
+> $platform  ""i386-pc-mingw32""
+> $arch        ""x86""
+> $os           ""Win32""
+> $system    ""x86, Win32""
+> $status      """"
+> $major      ""1""
+> $minor      ""4.1""
+> $year        ""2002""
+> $month     ""01""
+> $day         ""30""
+> $language ""R""
+>
+>
+>
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","alobo@ija.csic.es","alobo@ija.csic.es","SMTP","krcabrer@epm.net.co","krcabrer@epm.net.co","SMTP","r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP","r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP",,,"Normal"
+"Expense Reports","
+In anticipation of the imminent closing of the UBSW Energy transaction, please have all outstanding employee expenses submitted to accounting no later than Thursday at 6:00 pm.  Enron will process and pay all pre-closing expenses.   
+
+Note to approvers - please approve these expense reports quickly.   
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","carla.o'neil@enron.com","carla.o'neil@enron.com","SMTP","jason.biever@enron.com;chad.clark@enron.com;mike.cowan@enron.com;derek.davies@enron.com;chris.dorland@enron.com;lon.draper@enron.com;dean.drozdiak@enron.com;gerry.hrap@enron.com;nicole.laporte@enron.com;chris.lambie@enron.com;eric.le@enron.com;mike.macphee@enron.com;rob.milnthorp@enron.com;grant.oh@enron.com;fabian.taylor@enron.com;garrett.tripp@enron.com;ryan.watt@enron.com;john.zufferli@enron.com;cooper.richey@enron.com;chelsea.bardal@enron.com;nella.cappelletto@enron.com;sharon.crawford@enron.com;cheryl.dawes@enron.com;kelly.donlevy-lee@enron.com;dan.dorland@enron.com;brian.gillis@enron.com;david.hanslip@enron.com;peggy.hedstrom@enron.com;robert.hemstock@enron.com;greg.johnston@enron.com;peter.keohane@enron.com;angela.liknes@enron.com;albert.luc@enron.com;brad.martin@enron.com;angela.mcculloch@enron.com;mirna.moscoso@enron.com;carla.o'neil@enron.com;grant.patterson@enron.com;liz.prior@enron.com;sandra.quon@enron.com;kathy.reeves@enron.com;dianne.ripley@enron.com;clayton.rondeau@enron.com;laura.scott@enron.com;dianne.seib@enron.com;conal.tackney@enron.com;nikole.vander@enron.com","jason.biever@enron.com;chad.clark@enron.com;mike.cowan@enron.com;derek.davies@enron.com;chris.dorland@enron.com;lon.draper@enron.com;dean.drozdiak@enron.com;gerry.hrap@enron.com;nicole.laporte@enron.com;chris.lambie@enron.com;eric.le@enron.com;mike.macphee@enron.com;rob.milnthorp@enron.com;grant.oh@enron.com;fabian.taylor@enron.com;garrett.tripp@enron.com;ryan.watt@enron.com;john.zufferli@enron.com;cooper.richey@enron.com;chelsea.bardal@enron.com;nella.cappelletto@enron.com;sharon.crawford@enron.com;cheryl.dawes@enron.com;kelly.donlevy-lee@enron.com;dan.dorland@enron.com;brian.gillis@enron.com;david.hanslip@enron.com;peggy.hedstrom@enron.com;robert.hemstock@enron.com;greg.johnston@enron.com;peter.keohane@enron.com;angela.liknes@enron.com;albert.luc@enron.com;brad.martin@enron.com;angela.mcculloch@enron.com;mirna.moscoso@enron.com;carla.o'neil@enron.com;grant.patterson@enron.com;liz.prior@enron.com;sandra.quon@enron.com;kathy.reeves@enron.com;dianne.ripley@enron.com;clayton.rondeau@enron.com;laura.scott@enron.com;dianne.seib@enron.com;conal.tackney@enron.com;nikole.vander@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"RE: [R] R graphs in LaTeX documents?","Dear Robert,
+
+You can easily include R-generated pictures in Latex.
+One easy way is to use the postscript() command and including
+the picures in Latex using \usepackage{graphics} .
+
+It?s as easy as \includegraphics{mygraphicsfile.ps} and you can even do
+size customizing in Latex using some commands in this package. (Good
+documentation included.)
+
+Hope this helps,
+detlef
+
+
+On 07-Feb-2002 Robert Lundqvist wrote:
+> I have tried to find a neat way to include graphs from R in LaTeX documents,
+> but have not succeeded (I work with a WinEdt/MikTeX combination). The two
+> roads I have stumbled along so far are the following:
+>
+> *Generate postscript files and convert them into EPS files by means of
+> GhostScript or other not so straightforward tools.
+>
+> *Generate pictex files and include these.
+>
+> None of these solutions have worked so far. I haven't spent so much time
+> trying to find out what goes wrong, but since there might both LaTeX gurus
+> and R wizards among you, I simply thought it would be better to lean on that
+> expertize first. Any suggestions about how to achieve what really should be
+> a simple task?
+>
+> --robert
+> ****************
+> Robert Lundqvist
+> Dept of Quality Technology & Statistics
+> Lulea University of Technology
+> Sweden
+> -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+> -
+> r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+> Send ""info"", ""help"", or ""[un]subscribe""
+> (in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+> _._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._.
+> _
+
+Detlef Steuer --- http://fawn.unibw-hamburg.de/steuer.html
+
+***** Encrypted mail preferred *****
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","detlef.steuer@unibw-hamburg.de","detlef.steuer@unibw-hamburg.de","SMTP","robert.lundqvist@ies.luth.se","robert.lundqvist@ies.luth.se","SMTP","r-help@lists.r-project.org","r-help@lists.r-project.org","SMTP","r-help@lists.r-project.org","r-help@lists.r-project.org","SMTP",,,"Normal"
+"FW: CAISO NOTICE -   CERS January Settlement","> ISO Market Participants:
+>
+> The attached document contains the CERS January Settlement figures:
+>
+>  <<Closing 013102 mkt sum final CERS Jan.xls>>
+>
+>
+> Client Relations Communications.0921
+> CRCommunications@caiso.com
+>
+
+ - Closing 013102 mkt sum final CERS Jan.xls 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","crcommunications@caiso.com","crcommunications@caiso.com","SMTP","20participants@caiso.com","20participants@caiso.com","SMTP",,,,,,,,,"Normal"
+"RE: Next pdx.pm meeting","I personally prefer Microsoft Word.
+
+Err.. I mean...
+
+*runs from the pitchfork wielding mob*
+
+-----Original Message-----
+From: mikeraz@patch.com [mailto:mikeraz@patch.com]
+Sent: Wednesday, February 06, 2002 4:50 PM
+To: Randal L. Schwartz
+Cc: Curtis Poe; Austin Schutz; pdx-pm-list@pm.org
+Subject: Re: Next pdx.pm meeting
+
+
+On Wed, Feb 06, 2002 at 03:40:52PM -0800, Randal L. Schwartz typed:
+> When you enter ""emacs index.html"", you can type ""backspace"" ""h"" to
+> get help on how to use it.  Or try pico... it's even easier.
+
+What is this blather?
+
+emacs? pico? What happened to using real tools like sed and awk?
+
+--
+    Michael Rasmussen  aka  mikeraz
+   Be appropriate && Follow your curiosity
+   ""They that give up essential liberty to obtain
+   temporary safety, deserve neither liberty nor safety.""
+				-- Benjamin Franklin
+     But keep in mind:
+Any member introducing a dog into the Society's premises shall be
+liable to a fine of one pound.  Any animal leading a blind person shall
+be deemed to be a cat.
+		-- Rule 46, Oxford Union Society, London
+TIMTOWTDI
+TIMTOWTDI
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ian_shaughnessy@nai.com","ian_shaughnessy@nai.com","SMTP","pdx-pm-list@pm.org","pdx-pm-list@pm.org","SMTP",,,,,,,,,"Normal"
+"Repairs or Keyboard Trays - Wall 2 Wall - Rescheduled"," 
+
+Please note that Wall 2 Wall has been delayed and will be in tomorrow instead of today.  
+
+Sorry for any inconvenience. 
+
+Carla 
+
+With the recent shuffle of people moving to new desks, I'm sure there will be keyboard trays that need to be moved, as well as some repairs.  Wall 2 Wall will be in on Wednesday afternoon to look after this.  
+
+Please let me know by Wednesday morning if you need anything done. 
+
+Thanks, 
+
+Carla 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","announcements.enron@enron.com","announcements.enron@enron.com","SMTP","dl-ga-canada_calgary@enron.com","dl-ga-canada_calgary@enron.com","SMTP",,,,,,,,,"Normal"
+"Re: [R] R graphs in LaTeX documents?","On Thu, 7 Feb 2002, Robert Lundqvist wrote:
+
+> I have tried to find a neat way to include graphs from R in LaTeX documents,
+> but have not succeeded (I work with a WinEdt/MikTeX combination). The two
+> roads I have stumbled along so far are the following:
+>
+> *Generate postscript files and convert them into EPS files by means of
+> GhostScript or other not so straightforward tools.
+
+Generate .eps directly by using dev.copy2eps or from the menu on the
+graphics window or by following the instructions in ?postscript.
+No conversion should be needed.
+
+> *Generate pictex files and include these.
+
+That driver does work but is minimally-featured.  Not recommended.
+
+> None of these solutions have worked so far. I haven't spent so much time
+> trying to find out what goes wrong, but since there might both LaTeX gurus
+> and R wizards among you, I simply thought it would be better to lean on that
+> expertize first. Any suggestions about how to achieve what really should be
+> a simple task?
+
+It really is a simple task.  Use dev.copy2eps and then the graphicx
+package in latex.  You give us no clue as to your problems, so it is
+difficult to give any advice.
+
+--
+Brian D. Ripley,                  ripley@stats.ox.ac.uk
+Professor of Applied Statistics,  http://www.stats.ox.ac.uk/~ripley/
+University of Oxford,             Tel:  +44 1865 272861 (self)
+1 South Parks Road,                     +44 1865 272860 (secr)
+Oxford OX1 3TG, UK                Fax:  +44 1865 272595
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ripley@stats.ox.ac.uk","ripley@stats.ox.ac.uk","SMTP","robert.lundqvist@ies.luth.se","robert.lundqvist@ies.luth.se","SMTP","r-help@lists.r-project.org","r-help@lists.r-project.org","SMTP","r-help@lists.r-project.org","r-help@lists.r-project.org","SMTP",,,"Normal"
+"CAISO Notice - Operating Procedure Update -  E-508 Electrical Eme	rgency Plan","Market Participants:
+
+Please assure that this Notification is forwarded to your respective
+Operating Departments ---
+
+Notification of Operating Procedure Update
+
+*	The following new or revised ISO Operating Procedures have been
+implemented and are posted for reference on the ISO Website.
+
+ISO Operating Procedure posted:  E-508 Electrical Emergency Plan
+	(With attachments A & C, NOTE: Attachment B is NOT Posted for
+Security Reasons)
+Version: 3.0
+Effective Date: 2-6-02
+Procedure Purpose: Describes the process utilized by the Shift Manager to
+address an imbalance between available system resources and system Demand
+during periods when an Operating Reserve shortage is imminent or already
+exists, and includes all aspects of the notification process.
+Changes / Reasons: See attached
+ <<E-508 Procedure Change Description V3.0.doc>>
+
+*	Please find them at
+http://www1.caiso.com/thegrid/operations/opsdoc/index.html under the
+appropriate Operating Procedure section heading.
+
+Please e-mail any comments or questions to the 'Procedure Control Desk'
+mailbox [mailto:procctrldesk@caiso.com] and we will respond as soon as
+possible.
+
+Thank you!
+
+California ISO Procedure Control Desk
+
+
+
+
+Client Relations Communications.0921
+CRCommunications@caiso.com
+
+
+ - E-508 Procedure Change Description V3.0.doc 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","crcommunications@caiso.com","crcommunications@caiso.com","SMTP","20participants@caiso.com","20participants@caiso.com","SMTP",,,,,,,,,"Normal"
+"Re: [R] dev.off() prematurely stops xyplot()","
+
+
+
+
+Try
+
+print(xyplot(<whatever>))
+
+instead of just xyplot()
+
+xyplot (and all other such functions) produce a ""trellis"" object that
+is by default printed, but that of course doesn't happen inside source
+unless you explicitly print it.
+
+
+--- ""Waichler, Scott R"" <Scott.Waichler@pnl.gov> wrote:
+>
+> I have a script containing an xyplot() to print to a postscript
+> file, followed by dev.off().  When I source the script, the dev.off()
+> seems to cut off the xyplot() execution before it is finished.
+> The resulting postscript file has about the right size, but it
+> appears blank when I try to view it.  If I manually execute the
+> xyplot(), then wait for the return of the R prompt before executing
+> dev.off(), I have no problems.  Can someone help?
+>
+> Scott
+> Scott Waichler, Senior Research Scientist
+> Hydrology Group/Environmental Technology Division
+> Battelle Pacific Northwest National Laboratory
+> (email) scott.waichler@pnl.gov
+>
+>
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+> r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+> Send ""info"", ""help"", or ""[un]subscribe""
+> (in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+> _._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+__________________________________________________
+
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","deepayansarkar@yahoo.com","deepayansarkar@yahoo.com","SMTP","r-help@lists.r-project.org","r-help@lists.r-project.org","SMTP",,,,,,,,,"Normal"
+"OGI/CPD software courses (2-6-02)","OGI Center for Professional Development Short Courses and Seminars (2/6/02):
+
+1. Windows Technologies (Kernel Debugging, Group Policies)
+2.  Software Engineering (Use Cases, Requirements, Project Mgt., Peer Reviews)
+3. Unix / Linux (Shell Programming)
+4. Communication (Mastering Projects Workshop, Peer Mentoring)
+5. Special Events
+
+Please click on Web links for complete course descriptions.  Descriptions of
+all CPD courses can be found at <http://cpd.ogi.edu>.
+
+DISCOUNTS: 10% off fees listed below to AEA (Oregon) and SAO members and to
+companies sending 3 or more participants to a particular course.
+
+-----------------------
+1.  WINDOWS TECHNOLOGIES
+Kernel Debugging for Windows 2000/XP
+<http://cpd.ogi.edu/course.asp?n=02-SD-87>
+Mar. 18-22   Instructor: Tony Mason (OSR)  Fee: $2550
+
+Group Policies: Maintenance and Troubleshooting
+<http://cpd.ogi.edu/course.asp?n=02-SD-86>
+Mar. 22   Instructor: Bob Carver (3 Leaf)  Fee: $425
+
+2.  SOFTWARE ENGINEERING
+Developing Effective Software Usage Requirements: Writing Use Cases
+<http://cpd.ogi.edu/course.asp?n=02-SD-73>
+Feb 25-26   Instructor: John Scwhartz   Fee: $850
+
+In Search of Excellent Requirements
+<http://cpd.ogi.edu/course.asp?n=02-SD-80>
+Mar 4-5   Instructor: Karl Wiegers   Fee: $850
+
+Software Project Management Best Practices
+<http://cpd.ogi.edu/course.asp?n=02-PM-05>
+Mar 7     Instructor: Karl Wiegers   Fee: $425
+
+Peer Reviews in Software
+<http://cpd.ogi.edu/course.asp?n=02-SD-53>
+Mar 8    Instructor: Karl Wiegers   Fee: $425
+
+Rapid Development: Acclerated Time to Market
+<http://cpd.ogi.edu/course.asp?n=02-SD-55>
+Apr 4-5   Instructor: Steve McConnell   Fee: $995
+*****REGISTRATIONS FOR THIS CLASS MUST BE MADE BY FEB 28
+
+3.  UNIX / LINUX
+Unix Shell Programming
+<http://cpd.ogi.edu/course.asp?n=02-SD-78>
+Mar 6-8   Instructor: George Hacker   Fee: $1275
+
+4. COMMUNICATION
+Mastering Projects Workshop
+<http://cpd.ogi.edu/course.asp?n=02-PM-04>
+Feb 11-13  Instructor: David Schmatlz, Amy Schwab  Fee: $1250
+
+Peer Mentoring: An Effective Process for On-The-Job Training
+<http://cpd.ogi.edu/course.asp?n=02-CO-08>
+Feb 20     Instructor: Steve Trautman    Fee: $425
+
+5.  SPECIAL EVENTS
+Six Sigma Performance Improvement by Donald Lewis (Lewis & Lewis)
+<http://cpd.ogi.edu/course.asp?n=02-CPD-0207>
+Feb 7   4-5:30pm  Wilson Clark Center, Room 371
+
+The Balancing Act by Mark Hollinger (President & CEO Merix Corp.)
+<http://cpd.ogi.edu/course.asp?n=02-CPD-0212>
+Feb 12   6:30pm Pizza and networking, 7:00pm presentation
+
+Marketing and Sales Financial Assessments: How to Know What You Are Really
+Getting For Your Expenditures by Jerry Vieira
+<http://cpd.ogi.edu/course.asp?n=02-CPD-0219>
+Feb 19   6:15pm pizza and networking, 7:00pm presentation
+
+An Overview of Six Sigma for Decision Makers by Don Lewis
+<http://cpd.ogi.edu/course.asp?n=02-CPD-0220>
+Feb 20   4-5:30pm  Wilson Clark Center, Room 371
+----------------
+
+TO REGISTER: On-line at <http://cpd.ogi.edu> or call 503.748.1219.
+TO REMOVE YOUR NAME FROM THIS LIST, please click here:
+<mailto:debrasis@admin.ogi.edu?subject=REMOVE.FROM.OGI/CPD.SW.LIST>
+TO ADD YOUR NAME TO THIS LIST, please click here:
+<mailto:debrasis@admin.ogi.edu?subject=ADD.TO.OGI/CPD.SW.LIST>
+
+------------
+Center for Professional Development
+OGI School of Science and Engineering
+Oregon Health and Science University
+Debra Siscaretti, Asst. Director 503-748-7567
+20000 NW Walker Rd., Beaverton, OR 97006-8921
+Fax: 503-748-1686 Web:<http://cpd.ogi.edu/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","debrasis@admin.ogi.edu","debrasis@admin.ogi.edu","SMTP",,,,,,,,,,,,"Normal"
+"[R] newbie question: polr and glm.control","I'm running polr() and getting warning messages from glm.fit().  It seems
+reasonable to use glm.control() to turn on the trace and follow what
+glm.fit() does when called by polr(); or is it?
+
+glm.control(maxit=10, trace=TRUE)
+polr(act~., data=mm)
+
+The glm.control() sets the trace TRUE, but there's no change in the output
+from polr().
+
+Many thanks in advance for any help/pointers.
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","b.mao@cerep.com","b.mao@cerep.com","SMTP","r-help@lists.r-project.org","r-help@lists.r-project.org","SMTP",,,,,,,,,"Normal"
+"Re: [R] R graphs in LaTeX documents?","On Thu, 7 Feb 2002, Robert Lundqvist wrote:
+
+> I have tried to find a neat way to include graphs from R in LaTeX documents,
+> but have not succeeded (I work with a WinEdt/MikTeX combination).
+
+I use LyX (GUI front-end for LaTeX) under linux. For me I just save from R
+a postscript file, then in Lyx click ""Insert Figure"" and stick it in. So
+It's pretty automatic for me and have never had problems over 4 years of
+use.
+
+LyX (www.lyx.org) runs under windows.
+
+Bill
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","w.simpson@gcal.ac.uk","w.simpson@gcal.ac.uk","SMTP","robert.lundqvist@ies.luth.se","robert.lundqvist@ies.luth.se","SMTP","r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP","r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP",,,"Normal"
+"Re: [R] Accesing glm results","On Wed, 6 Feb 2002, iago mosqueira wrote:
+
+> Hi,
+>
+> I want to generate sdome vectors with results from glm(), for later
+> processing. How can I extract the t values and the associated p values? I
+> suppose something starting with summary(g)$...
+>
+The answer is
+ summary(g)$coef[,3:4]
+
+
+The way to find out things like this is to use names() or str() to look at
+the glm and summary.glm objects.
+   summ<-summary(g)
+   names(summ)
+# I see a coefficients item. I wonder what it looks like
+   summ$coefficients
+# That looks familiar, it's the table of coefficients, std erros,
+#p-values. I want the last two columns
+   summ$coefficients[,3:4]
+#Success
+
+Or alternatively, read print.summary.glm() to see where it gets them from.
+
+
+	-thomas
+
+Thomas Lumley			Asst. Professor, Biostatistics
+tlumley@u.washington.edu	University of Washington, Seattle
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","tlumley@u.washington.edu","tlumley@u.washington.edu","SMTP","i.mosqueira@ic.ac.uk","i.mosqueira@ic.ac.uk","SMTP","r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP","r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP",,,"Normal"
+"[R] Accesing glm results","Hi,
+
+I want to generate sdome vectors with results from glm(), for later
+processing. How can I extract the t values and the associated p values? I
+suppose something starting with summary(g)$...
+
+Thanks
+
+iago
+
+---
+Bellare semper illicitum est
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","i.mosqueira@ic.ac.uk","i.mosqueira@ic.ac.uk","SMTP","r-help@stat.math.ethz.ch","r-help@stat.math.ethz.ch","SMTP",,,,,,,,,"Normal"
+"Re: Next pdx.pm meeting",">>>>> ""Curtis"" == Curtis Poe <cp@onsitetech.com> writes:
+
+
+Curtis>   Same details as the last meeting (which are on
+Curtis> http://portland.pm.org/, which I keep putting off updating)
+
+When you enter ""emacs index.html"", you can type ""backspace"" ""h"" to
+get help on how to use it.  Or try pico... it's even easier.
+
+:-)
+
+--
+Randal L. Schwartz - Stonehenge Consulting Services, Inc. - +1 503 777 0095
+<merlyn@stonehenge.com> <URL:http://www.stonehenge.com/merlyn/>
+Perl/Unix/security consulting, Technical writing, Comedy, etc. etc.
+See PerlTraining.Stonehenge.com for onsite and open-enrollment Perl training!
+TIMTOWTDI
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","merlyn@stonehenge.com","merlyn@stonehenge.com","SMTP","cp@onsitetech.com","cp@onsitetech.com","SMTP","tex@off.org;pdx-pm-list@pm.org","tex@off.org;pdx-pm-list@pm.org","SMTP;SMTP","tex@off.org;pdx-pm-list@pm.org","tex@off.org;pdx-pm-list@pm.org","SMTP;SMTP",,,"Normal"
+"[R] Help with replicating an old SPSS GLM analysis","Greetings.
+
+I'm trying to replicate an analysis I did a few years ago, then in SPSS,
+using the SPSS GLM command:
+
+GLM
+  n_diffpt  WITH age_i inc_i join_i work_i educ_i  give_i cs_i
+  eff_i age_a inc_a join_a work_a educ_a give_a cs_a eff_a
+  /METHOD = SSTYPE(3)
+  /INTERCEPT = INCLUDE
+  /PRINT  = PARAMETER ETASQ RSSCP GEF
+  /CRITERIA = ALPHA(.05)
+  /DESIGN =
+        age_i*age_a inc_i*inc_a join_i*join_a work_i*work_a
+          educ_i*educ_a give_i*give_a cs_i*cs_a eff_i*eff_a
+        age_i inc_i join_i work_i educ_i give_i cs_i eff_i
+        age_a inc_a join_a work_a educ_a give_a cs_a eff_a .
+
+The results are consistent when run in SPSS; however, I tried the simple
+version of recoding it in R (after using read.spss to bring in the data),
+and got entirely different results. I'm assuming there are significant
+differences in what I'm doing, but I can't find enough documentation of
+the SPSS GLM procedure to figure out what. Can anyone offer insights?
+
+The code I tried under R was:
+
+glm.mean <- glm(N.DIFFPT ~ AGE.I + INC.I + JOIN.I + WORK.I + EDUC.I +
+GIVE.I +
+        CS.I + EFF.I + AGE.A + INC.A + JOIN.A + WORK.A + EDUC.A + GIVE.A +
+        CS.A + EFF.A + AGE.I*AGE.A + INC.I*INC.A + JOIN.I*JOIN.A +
+        WORK.I*WORK.A + EDUC.I*EDUC.A + GIVE.I*GIVE.A + CS.I*CS.A +
+	EFF.I*EFF.A,
+        data=acps.df)
+
+Thanks in advance.
+
+----------------------------------------------------------------------
+Andrew J Perrin - andrew_perrin@unc.edu - http://www.unc.edu/~aperrin
+ Assistant Professor of Sociology, U of North Carolina, Chapel Hill
+      269 Hamilton Hall, CB#3210, Chapel Hill, NC 27599-3210 USA
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","andrew_perrin@unc.edu","andrew_perrin@unc.edu","SMTP","r-help@r-project.org","r-help@r-project.org","SMTP",,,,,,,,,"Normal"
+"Your account is over quota!","
+Your LlamaCom web hosting account for ""cooper"" is currently over quota (out of disk space).  Please remove files or upgrade your service plan.
+
+------------------------------
+If you do not wish to receive future notices regarding your quota you can use the Web Control Panel to disable such warnings.  The
+Control Panel can be found at:
+http://www.YOURDOMAIN.COM/cp
+------------------------------
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","support@llamacom.com","support@llamacom.com","SMTP","cooper.richey@enron.com","cooper.richey@enron.com","SMTP",,,,,,,,,"Normal"
+"Re: [R] newbie question: polr and glm.control","On Wed, 6 Feb 2002, Boryeu Mao wrote:
+
+> I'm running polr() and getting warning messages from glm.fit().  It seems
+> reasonable to use glm.control() to turn on the trace and follow what
+> glm.fit() does when called by polr(); or is it?
+>
+> glm.control(maxit=10, trace=TRUE)
+> polr(act~., data=mm)
+>
+> The glm.control() sets the trace TRUE, but there's no change in the output
+> from polr().
+
+No, it doesn't: it returns an object to be passed to glm.
+
+glm.fit is only used in polr to find starting values, so specify `start'
+to polr.
+
+polr is in package MASS, BTW.
+
+--
+Brian D. Ripley,                  ripley@stats.ox.ac.uk
+Professor of Applied Statistics,  http://www.stats.ox.ac.uk/~ripley/
+University of Oxford,             Tel:  +44 1865 272861 (self)
+1 South Parks Road,                     +44 1865 272860 (secr)
+Oxford OX1 3TG, UK                Fax:  +44 1865 272595
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+Send ""info"", ""help"", or ""[un]subscribe""
+(in the ""body"", not the subject !)  To: r-help-request@stat.math.ethz.ch
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ripley@stats.ox.ac.uk","ripley@stats.ox.ac.uk","SMTP","b.mao@cerep.com","b.mao@cerep.com","SMTP","r-help@lists.r-project.org","r-help@lists.r-project.org","SMTP","r-help@lists.r-project.org","r-help@lists.r-project.org","SMTP",,,"Normal"

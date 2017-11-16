@@ -1,0 +1,2890 @@
+"Subject","Body","From: (Name)","From: (Address)","From: (Type)","To: (Name)","To: (Address)","To: (Type)","CC: (Name)","CC: (Address)","CC: (Type)","BCC: (Name)","BCC: (Address)","BCC: (Type)","Billing Information","Categories","Importance","Mileage","Sensitivity"
+"SUPPLEMENTAL Weekend Outage Report for 6-1-01 through 6-4-01","
+------------------------------------------------------------------------------------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+June 1, 2001 5:00pm through June 4, 2001 12:00am
+------------------------------------------------------------------------------------------------------
+
+
+ECS to ECN Network Interconnection, June 9th 2001
+
+This is a notification that the Enron Corp. I/T Networks team will be connecting the new building network infrastructure located in Enron Center South (ECS) to the existing Enron Center North (ECN) backbone network.  While this activity is not expected to produce a disruption to network services, this notice is designed to alert the organization to our activities.  No network hardware or systems are anticipated to be shutdown.  The actual physical interconnection of the networks will be performed in the EB 34th floor Data Center.
+
+Interconnection activities are scheduled to occur the evening of June 9th 2001 starting from 7:00 p.m.(CT) and completing around 11:00 p.m. (CT). Application testing activities will begin at 11:00 p.m. (CT) once all network testing has completed.
+
+If you have any further questions, please contact Pete Castrejana at 713-410-0642 for more information.
+		    
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:  SEE ORIGINAL REPORT
+		    		    		    		
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET:     SEE ORIGINAL REPORT
+
+MESSAGING:      SEE ORIGINAL REPORT
+ 
+Impact:  Exchange
+Time:  Fri 6/1/2001 at  7:00:00 PM thru Fri 6/1/2001 at  7:30:00 PM
+Outage:  Initiate Failover of Nahou-msmbx01v to unlock backup api
+Disruption:  
+Environments Impacted:  Users on with mailboxes on nahou-msmx01v
+Purpose: Ensure backups run successfully
+Backout: N/A
+Contact(s): 	Scott Albright  713-345-9381  
+		    
+
+Impact:  CORP
+Time:  Sat 6/2/2001 at  10:00:00 PM thru Sat 6/2/2001 at  10:15:00 PM
+Outage:  Exchange server message change
+Disruption:  Intermittent Disruption of Service
+Environments Impacted:  Corp Exchange users on nahou-msmbx05v
+Purpose: To enable the new mailbox over the limit message
+Backout: 
+Contact(s): 	Tim Hudson  713-853-9289  
+		    
+
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS: No Scheduled Outages.
+
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+								FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management			(713) 853-5536
+SAP/ISC                                                                               (713) 345-4727
+Unify On-Call 					(713) 284-3757  [Pager]
+Sitara On-Call					(713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS			(713) 639-9726  [Pager]
+OSS/UA4/TARP				(713) 285-3165  [Pager]
+CPR						(713) 284-4175  [Pager]
+EDI Support 					(713) 327-3893  [Pager]
+EES Help Desk					(713)853-9797 OR (888)853-9797
+TDS -Trader Decision Support On-Call                    (713) 327-6032 [Pager]
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"True Quote Online Tutorial","Click on the link below to access True Quote's new Online Tutorial
+
+http://www.truequote.com/tqtutorial.htm
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","scott.tanner@truequote.com","scott.tanner@truequote.com","SMTP","monique.sanchez@enron.com","monique.sanchez@enron.com","SMTP",,,,,,,,,"Normal"
+"Investinme Course Offering","
+Do you do expense reports and have not taken the training?
+
+Expense Management System (XMS) - Cost: $135
+         June 4th		8:30am-11:30am	EB564	
+June 19th	1:00pm-4:00pm		  EB564
+
+The Expense Management System (XMS) is a tool used to electronically submit your expense report for approval and payment through the Enron Intranet. It is user friendly, accurate and less labor intensive for you and the accounting staff.  This system will help you report your travel and entertainment expenses.
+
+You will learn how to:
+E	Create New Expense Reports
+E	Enter Cash Expense Receipts
+E	Adding Company Card Entries
+E	Enter Personal Car Mileage
+E	Foreign Currency Translation
+E	Reimbursement Method
+E	Designating your Approving Manager
+E	Designating your Administrative Assistant
+E	Submitting Your Expense Report
+E	Reviewing your Expense Report
+E	And Much More...
+
+Please login and enroll through the InvestInMe website, http://www.corptraining.com/index.cfm?company=enron.  If you have any questions, please call 713 853-1816.
+
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"Save 25% on new COM+ CD-Rom training from AppDev!","Have you thought about moving your Visual Basic applications towards a
+distributed environment? Two-tier client/server applications can only
+scale so far.  When they require more resources, will you be ready?
+
+Now is the perfect time to prepare yourself for the inevitable challenge
+of moving or creating applications for a multi-tier distributed
+environment.  The key to building distributed applications is COM.
+Microsoft has made COM and COM+ a cornerstone of Windows DNA and Windows
+.NET.
+
+Learn how to develop distributed applications with AppDev's latest
+course ""Creating Distributed Applications for COM+ Services."" For a
+limited time, you can get this comprehensive training course -- in your
+choice of convenient CD-ROM or video format -- for the special price of
+$371 -- that's 25% off the list price of $495!  (Please use Priority
+Code EB00032 when ordering.)
+
+Presented by industry expert, Martin Schaeferle, this course is for
+developers who want to learn how to integrate COM+ components within a
+distributed environment using Microsoft Visual Basic.
+
+Topics include:
+** Creating COM component in Visual Basic.
+** Learning about COM+ Services.
+** Mastering the Component Services Explorer.
+** Working with loosely-coupled events.
+** Creating n-tier distributed architectures.
+** Building transactional component with Microsoft SQL Server.
+** Implementing security on the middle tier.
+** Integrating Microsoft IIS server with COM+ components.
+
+Visit http://www.appdev.com/com to view the full course outline. Place
+your order by the June 30, 2001 course release date, and you will save
+25% on our COM+ CD-ROM or video training! Order today at
+<http://www.appdev.com/com>  or call 1-800-578-2062.  Be sure to use
+priority code EB00032  to receive your savings.
+
+HURRY - this special 25% off discount expires June 30, 2001!
+
+Sincerely,
+
+Jim Willeck
+AppDev Director of Product Development
+
+P.S. I hope you'll take advantage of this limited time offer, or pass
+this information on to someone in your company who can benefit from this
+valuable COM+ course.
+
+======================= RIGHT TO PRIVACY ==========================
+AppDev email is never sent unsolicited. You are receiving this email
+because you are a past customer of AppDev Training Company or have
+voluntarily provided your email address to us via our web site at
+http://www.appdev.com. Your right to privacy is important to us. If you
+have any questions regarding this message, please email
+privacy@appdev.com or visit http://www.appdev.com/privacy for a copy of
+our privacy statement.
+
+======================== UNSUBSCRIBE ==============================
+Some developers prefer not to hear about the latest course offerings and
+special promotions. If you feel this way, you can have your name removed
+from our email mailing list. Currently we have you listed as
+<*msanche2@ect.enron.com*>.   Simply reply to this message and type
+REMOVE in the subject line of your reply.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","productdev@mail2.appdev.com","productdev@mail2.appdev.com","SMTP","msanche2@ect.enron.com","msanche2@ect.enron.com","SMTP",,,,,,,,,"Normal"
+"Pearl Appt","5:30 PM
+Tuesday May 29th
+You schmell
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jmenconi@adv-eng-ser-inc.com","jmenconi@adv-eng-ser-inc.com","SMTP","msanche2@enron.com","msanche2@enron.com","SMTP",,,,,,,,,"Normal"
+"Reminder","
+
+Reminder
+The Enron Oral History Project Continues...
+
+""Using History to Help Enron Become the World's Leading Company""
+
+How can an understanding of strategic choices, regulatory change and corporate culture help Enron achieve its vision?
+
+Speaker:
+Joseph Pratt, Cullen Professor of History and Business, University of Houston
+and
+ Co-Director, Enron Oral History Project
+
+Thursday, June 7
+11:30 a.m. to 12:30 p.m.
+EB 5C2
+
+To Make a Reservation, Call 3-1941 and Select Option 1
+
+Lunch will not be provided, but you are welcome to bring your own.
+
+Please inform us ahead of time if you need special accommodations to participate in this meeting.  Call 3-9390.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"PLEASE SELECT YOUR REVIEWERS IN PEP - SYSTEM CLOSES ON 5/25/01","As of this afternoon, you have not yet selected any reviewers in the PEP system. 
+
+ Please go in and select reviewers as soon as possible!
+
+Terry Bosien
+Human Resource Manager
+Associate & Analyst Program
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","teresa.bosien@enron.com","teresa.bosien@enron.com","SMTP","eric.bass@enron.com;brian.blakely@enron.com;carlos.contreras@enron.com;l..gay@enron.com;di.mu@enron.com;benjamin.rogers@enron.com;monique.sanchez@enron.com;paul.schiavone@enron.com;claude.tellis@enron.com;victoria.versen@enron.com;brian.wood@enron.com","eric.bass@enron.com;brian.blakely@enron.com;carlos.contreras@enron.com;l..gay@enron.com;di.mu@enron.com;benjamin.rogers@enron.com;monique.sanchez@enron.com;paul.schiavone@enron.com;claude.tellis@enron.com;victoria.versen@enron.com;brian.wood@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Fw: I'm tweety","
+----- Original Message -----
+From: patbelle <patbelle@mail.ev1.net>
+To: <Daniel.GROUT@EU.RHODIA.COM>; <dpriese@worldnet.att.net>;
+<marnold2@houston.rr.com>; <ian@zellweger.freeserve.co.uk>;
+<tippy_4DA@hotmail.com>
+Sent: Thursday, May 24, 2001 4:25 PM
+Subject: FWD: I'm tweety
+
+
+>
+>
+> >
+> >
+> >> > >Ever wondered which cartoon character you are most
+> >> > > > > like?
+> >> > > > > Well, a team of researchers got together and analyzed
+>
+> the
+> >> > > personalities of
+> >> > > > > cartoon characters, and put the information gathered
+>
+> into this
+> >quiz.
+> >> > > > > Answer each
+> >> > > > >question with the answer that most describes you, then
+>
+> add up the
+> >> > > points
+> >> > > > >that correspond with your answer. Then send this to all
+>
+> your
+> >friends
+> >> > > > >including the person who sent it to you with your
+>
+> cartoon
+> >character
+> >> in
+> >> > > the
+> >> > > > >subject line.
+> >> > > > >
+> >> > > > >1) What describes your perfect date?
+> >> > > > >  a) Candlelight dinner for two
+> >> > > > >   b) Amusement Park
+> >> > > > >  c) Rollerblading in the park
+> >> > > > >  d) Rock Concert
+> >> > > > >   e) See a movie
+> >> > > > >
+> >> > > > >2) What is your favorite type of music?
+> >> > > > >   a) Rock and Roll
+> >> > > > >   b) Alternative
+> >> > > > >   c) Soft Rock
+> >> > > > >  d) Classical
+> >> > > > >   e) Popular
+> >> > > > >
+> >> > > > >3) What is your favorite type of movie?
+> >> > > > >   a) Comedy
+> >> > > > >   b) Horror
+> >> > > > >   c) Musical
+> >> > > > >   d) Romance
+> >> > > > >   e) Documentary
+> >> > > > >
+> >> > > > >4) Which of the following jobs would you chose if you
+>
+> were given
+> >only
+> >> > > these
+> >> > > > >choices?
+> >> > > > >   a) Waiter/Waitress
+> >> > > > >  b) Sports Player
+> >> > > > >   c) Teacher
+> >> > > > >   d) Policeman
+> >> > > > >   e) Bartender
+> >> > > > >
+> >> > > > >5) Which would you rather do if you had an hour to
+>
+> waste?
+> >> > > > >   a) work out
+> >> > > > >   b) Read
+> >> > > > >   c) Watch TV
+> >> > > > >   d) Listen to the radio
+> >> > > > >   e) Sleep
+> >> > > > >
+> >> > > > >6) Of the following colors, which do you like the best?
+> >> > > > >  a) yellow
+> >> > > > >   b) white
+> >> > > > >   c) sky blue
+> >> > > > >   d) teal
+> >> > > > >   e) red
+> >> > > > >
+> >> > > > >7) Which one of the following would you like to eat
+>
+> right now?
+> >> > > > >  a) ice cream
+> >> > > > >   b) pizza
+> >> > > > >   c) sushi
+> >> > > > >   d) pasta
+> >> > > > >   e) salad
+> >> > > > >
+> >> > > > >8) What is your favorite holiday?
+> >> > > > >   a) Halloween
+> >> > > > >  b) Christmas
+> >> > > > >   c) New Year's
+> >> > > > >   d) Valentine's Day
+> >> > > > >   e) Thanksgiving
+> >> > > > >
+> >> > > > >9) If you could go to any of the following places, which
+>
+> would it
+> >be?
+> >> > > > >   a) Paris
+> >> > > > >   b) Spain
+> >> > > > >   c) Las Vegas
+> >> > > > >   d) Hawaii
+> >> > > > >   e) Hollywood
+> >> > > > >
+> >> > > > >10) Of the following, who would you rather spend time
+>
+> with?
+> >> > > > >   a) Someone who is smart
+> >> > > > >   b) Someone with good looks
+> >> > > > >  c) Someone who is a party animal
+> >> > > > >  e) Someone who is very emotional
+> >> > > > >
+> >> > > > >Now total up your points and find your character below:
+> >> > > > > 1-a=4, 2-a=2, 3-a=2, 4-a=4, 5-a=5
+> >> > > > >   b=2     b=1    b=1     b=5     b=4
+> >> > > > >    c=5     c=4    c=3     c=3     c=2
+> >> > > > >   d=1     d=5    d=4     d=2     d=1
+> >> > > > >    e=3     e=3  e=5     e=1     e=3
+> >> > > > > 6-a=1, 7-a=3, 8-a=1, 9-a=4, 10-a=5
+> >> > > > >    b=5    b=2     b 3      b=5       b=2
+> >> > > > >    c=3    c=1     c=2     c=1       c=1
+> >> > > > >    d=2    d=4     d=4     d=3      d=2
+> >> > > > >    e=4    e=5    e=5     e=3      e=4
+> >> > > > >
+> >> > > > > (10-17 points): You are TAZ
+> >> > > > > You are wild and crazy and you know it. You know how to
+>
+> have fun,
+> >> but
+> >> > > you
+> >> > > > >may take it to extremes.  You know what you are doing
+>
+> though, and
+> >are
+> >> > > > much in
+> >> > > > > control of your own life. People don't always see
+>
+> things your
+> >way,
+> >> but
+> >> > > > >that doesn't mean that you should do away with your
+>
+> beliefs. Try
+> >to
+> >> > > > > remember that your wild spirit can lead to hurting
+>
+> yourself and
+> >> > > others.
+> >> > > > > (18-26 points) You are BUGS BUNNY
+> >> > > > > You are fun, friendly, and popular. You are a real
+>
+> crowd pleaser.
+> >> You
+> >> > > have
+> >> > > > > probably been out on the town your share of times, yet
+>
+> you come
+> >home
+> >> > > with
+> >> > > > > the values that your mother taught you. Marriage and
+>
+> children are
+> >> > > important
+> >> > > > > to you, but only after you have fun.  Don't let the
+>
+> people you
+> >> please
+> >> > > > >influence you to stray.
+> >> > > > > (27-34 points) You are TWEETY
+> >> > > > > You are cute, and everyone loves you. You are a best
+>
+> friend that
+> >no
+> >> > > one
+> >> > > > > takes the chance of losing. You never hurt feelings and
+>
+> seldom
+> >have
+> >> > > your
+> >> > > > > own feelings hurt. Life is a breeze. You are witty, and
+>
+> calm most
+> >of
+> >> > > the
+> >> > > > >time.
+> >> > > > > Just keep clear of backstabbers, and you are worry
+>
+> free.
+> >> > > > >(35-42 points) You are PEPPE LE PEW (without the smell)
+> >> > > > > You are a lover. Romance, flowers, and wine are all you
+>
+> need to
+> >> enjoy
+> >> > > > > yourself. You are serious about all commitments. A
+>
+> family person.
+> >> You
+> >> > > call
+> >> > > > > your Mom every Sunday, and never forget a Birthday.
+>
+> Don't let
+> >your
+> >> > > passion
+> >> > > > > for romance get confused with the real thing.
+> >> > > > >(43-50 points) You are SPEEDY GONZALES
+> >> > > > > You are smart, a real thinker. Every situation is
+>
+> approached with
+> >a
+> >> > > plan.
+> >> > > > > You are very healthy in mind and body. You teach strong
+>
+> family
+> >> values.
+> >> > > Keep
+> >> > > > > your feet planted in them, but don't overlook a bad
+>
+> situation
+> >when
+> >> it
+> >> > > does
+> >> > > > >happen.
+> >> > > > >
+> >> > > > > Now put your cartoon character in the subject line,
+>
+> then forward
+> >> this
+> >> > > to
+> >> > > > > your friends and back to the one who sent it to you.
+> >> > > > >
+> >> > > > >
+> >> > > > >
+> >> > > > >
+> >> > >
+> >> > >
+> >> >
+> >>
+> >>
+> >
+> >
+> >
+> >
+> >Many Thanks
+> >
+> >Kerry Tyler
+> >Payroll Department A2D
+> >North Harbour
+> >Payroll Helpline
+> >Internal Tel: 254445
+> >External Tel: 02392 564445
+> >
+> >Cutoff is always the 17th of the month. Where the 17th is a
+>
+> weekend then
+> >cutoff is 5pm the Friday before.
+> >
+> >
+> >
+> >
+> >
+> >
+>
+>
+>
+>
+> ________________________________________________________________
+> Sent via the EV1 webmail system at mail.ev1.net
+>
+>
+>
+>
+>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dpriese@worldnet.att.net","dpriese@worldnet.att.net","SMTP","tim.deanna@enron.com;priese.dennis@enron.com;tim.dori@enron.com;priese.fred@enron.com;hartwig.jack@enron.com;taylor.mickey@enron.com;monique.sanchez@enron.com","tim.deanna@enron.com;priese.dennis@enron.com;tim.dori@enron.com;priese.fred@enron.com;hartwig.jack@enron.com;taylor.mickey@enron.com;monique.sanchez@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Good Morning","I called you Wednesday night and got the message that your phone was
+disconnected.  When I got the same message on Thursday, I got worried.  I
+called John's phone and left a message.  Hope you get reconnected soon.
+David and I are thinking of going to Ft. Sam tomorrow morning.  Need to buy
+some things on post.  Will talk to you this evening.
+
+Love you much,
+Mom
+
+Kathryn Sanchez, EdD
+Assistant Superintendent
+Research and Accountability
+Houston Independent School District
+Phone (713) 892-6350
+Fax   (713) 963-9156
+ksanchez@houstonisd.org
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ksanchez@houstonisd.org","ksanchez@houstonisd.org","SMTP","monique.sanchez@enron.com","monique.sanchez@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: prebon/ene dinner","i hate stuffy...i guarantee fletch will want trulucks or papas or something
+like that..well figure it out ..im looking frwd. to meeting you..thanks for
+the timely response
+
+
+> ----------
+> From: 	Monique.Sanchez@enron.com[SMTP:Monique.Sanchez@enron.com]
+> Sent: 	Wednesday, May 23, 2001 12:55 PM
+> To: 	Donald Tencellent Jr.
+> Subject: 	RE: prebon/ene dinner
+>
+> I'm in, and as far as i'm concerned the more laid back of a place the
+> better....i've been to a lot of stuffy restaurants as of late...but
+> seriously i am flexible if we go stuffy.  just let me know when and where.
+>
+>     -----Original Message-----
+>    From:   ""Donald Tencellent Jr."" <DTencellent@prebon.com>@ENRON
+>
+> [mailto:IMCEANOTES-+22Donald+20Tencellent+20Jr+2E+22+20+3CDTencellent+40pr
+> ebon+2Ecom+3E+40ENRON@ENRON.com]
+>
+>
+>    Sent:   Wednesday, May 23, 2001 11:44 AM
+>    To:     'msanche2@enron.com'; 'ebass@enron.com'; Holst, Keith;
+>              'andrew.lewis@enron.com'; 'geoff.story@enron.com';
+>              'fletcher.sturm@enron.com'
+>    Cc:     Donald Tencellent Jr.
+>    Subject:  prebon/ene dinner
+>
+>    hi guys...i know that over the past few weeks i have been asking you
+>    guys if
+>    you could come out to a prebon/ene dinner on next thursday may 31st at
+> a
+>    site t.b.d......the day is about a week away now and i hope that we can
+>    all
+>    still hang out...i'm emailing you guys to see who is still in or if
+>    there
+>    are any "":flakes"" as the date grows closer...additionally...where would
+>    you
+>    guys like to go?....any place new in houston that we need to check out
+> ?
+>    just let me know so i can make the plans and if i left anybody out who
+>    wants
+>    to go ( sneal, griggs, martin, huntman, frank ) the more the better as
+>    far
+>    as i'm concerned...thanks
+>
+>    donny
+> 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dtencellent@prebon.com","dtencellent@prebon.com","SMTP","monique.sanchez@enron.com","monique.sanchez@enron.com","SMTP",,,,,,,,,"Normal"
+"EnronOnline Real-Time Quotes Service on Reuters","
+REUTERS TO PROVIDE ITS CUSTOMERS WITH ENRONONLINE REAL-TIME QUOTES
+
+Effective June 4, 2001, Reuters has launched a new EnronOnline Real-Time Quotes service benefiting commodity traders and industry analysts. Subscribers to this service will be able to view bids, offers and midpoints as well as high, low and closing midpoint and change from previous day indications for numerous commodity products available on EnronOnline.  Subscribers will be able to integrate EnronOnline Real-Time Quotes with Reuters' news, data and analytical tools to view real-time prices and charts as well as create option models, position reports and other analysis.  Initially, the  quotes will be available for power, natural gas, crude oil and refined products, metals, bandwidth, coal, seafreight, emission allowances and weather derivatives markets in North America and Europe.  
+
+For more information, visit www.reuters.com/enrononlinequotes or call Reuters at 1-800-226-3955.  Please forward this e-mail to others who may benefit from this service.
+
+Disclaimer
+All prices presented by Reuters through the EnronOnline Real-Time Quotes service shall not constitute or be deemed, for any purposes, to be an offer by EnronOnline or Enron to enter into any transaction on those or any other terms, and are not available through or deemed to be an offer within any trading products that may be offered by Reuters in association with the EnronOnline Real-Time Quotes service. Any use of the EnronOnline.com website is expressly subject to the terms and conditions contained within the EnronOnline.com website, including the registration process detailed therein. By presenting this information within the Reuters site, EnronOnline.com is not representing or indicating automatic qualification for access to or use of the EnronOnline.com website for commodity trading.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"Weekend Outage Report for 6-8-01 through 6-11-01","
+------------------------------------------------------------------------------------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+June 8, 2001 5:00pm through June 11, 2001 12:00am
+------------------------------------------------------------------------------------------------------
+
+
+ECS to ECN Network Interconnection, June 9th 2001         POSTPONED
+This is a notification that the Enron Corp. I/T Networks team will be connecting the new building network infrastructure located in Enron Center South (ECS) to the existing Enron Center North (ECN) backbone network.  While this activity is not expected to produce a disruption to network services, this notice is designed to alert the organization to our activities.  No network hardware or systems are anticipated to be shutdown.  The actual physical interconnection of the networks will be performed in the EB 34th floor Data Center.
+
+Interconnection activities are scheduled to occur the evening of June 9th 2001 starting from 7:00 p.m.(CT) and completing around 11:00 p.m. (CT). Application testing activities will begin at 11:00 p.m. (CT) once all network testing has completed.
+
+If you have any further questions, please contact Pete Castrejana at 713-410-0642 for more information.
+		    
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:  No Scheduled Outages.
+
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+MESSAGING: No Scheduled Outages.
+
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS: 
+Impact:  pdx-ad-03.ebs.enron.net [DS] Site: Portland
+Time:  Sat 6/9/2001 at  9:00:00 PM CT thru Sat 6/9/2001 at  9:15:00 PM CT
+	Sat 6/9/2001 at  7:00:00 PM PT thru Sat 6/9/2001 at  7:15:00 PM PT
+	Sun 6/10/2001 at  3:00:00 AM London thru Sun 6/10/2001 at  3:15:00 PM London
+Outage:  Increase EBS domain account password complexity
+Environments Impacted:  EBS (enron_comm) users
+Purpose: Increasing password complexity reduces the security risk for the CORP domain and corp security based applications.
+Backout: Deinstall the password filter.
+Contact(s): 	Marlin Gubser    713-853-4281
+		    
+Impact:  CORP
+Time:  Sat 6/9/2001 at  10:00:00 PM CT thru Sun 6/10/2001 at    1:00:00 AM CT
+	Sat 6/9/2001 at    8:00:00 PM PT  thru Sat 6/9/2001 at  11:00:00 PM PT
+	Sun 6/10/2001 at  4:00:00 AM London thru Sun 6/10/2001 at  7:00:00 AM London
+Outage:  Memory upgrade and storage relocation for server fracture.
+Environments Impacted:  RMS global company OFS
+Purpose: Add memory for performance improvement.  Permanently rack D1000 disk array.
+Backout: Restore to original configuration without memory.
+Contact(s): 	Malcolm Wells    713-345-3716
+ 
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: 
+Impact:  CORP
+Time:  Fri 6/8/2001 at  5:00:00 PM Calgary thru Sun 6/10/2001 at  12:00:00 PM Calgary
+	Fri 6/8/2001 at  6:00:00 PM CT thru Sun 6/10/2001 at    1:00:00 PM CT
+	Fri 6/8/2001 at  4:00:00 PM PT thru Sun 6/10/2001 at  11:00:00 AM PT
+	Sat 6/9/2001 at  12:00:00 AM London thru Sun 6/10/2001 at  7:00:00 PM London
+Outage:  Enron Canada-Calgary PBX Upgrade
+Environments Impacted:  Corp Calgary
+Purpose: To bring Enron Calgary up to Enron standards.  Allow 4 digit dialing between Enron Canada Corp. and Enron Direct Limited Partnership, and network the voicemail. Enron Calgary will be without phone service for the duration of the upgrade.
+Backout: As a complete new cabinet ""A"" will be installed we will have the old cabinet with processor on site that can be reinstalled in the event that problems arise. 
+Contact(s): 	Brad K Martin  (403) 974-6922  (403) 212-9280
+ 
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  
+Impact:  CORP
+Time:  Fri 6/8/2001 at    2:00:00 PM CT thru Mon 6/11/2001 at    2:00:00 AM CT
+	Fri 6/8/2001 at  12:00:00 PM PT thru Mon 6/11/2001 at  12:00:00 AM PT
+	Fri 6/8/2001 at 8:00:00 PM London thru Mon 6/11/2001 at  8:00:00 AM London
+Outage:  Unify Gas Migration from Sybase to SQL Server
+Environments Impacted:  Unify Users
+Purpose: Increase reliability and scalability of Unify system
+Backout: Reinstate Sybase version if insurmountable problems occur during the conversion weekend.
+Contact(s): 	Brian Ripley    713-345-4709
+		Matt Pena        713-345-4209
+		Ramesh Rao   713-349-4207 
+		Bob Ward        713-345-4409
+ 
+-------------------------------------------------------------------------------------------------------------------------------------
+								FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management			(713) 853-5536
+SAP/ISC                                                                               (713) 345-4727
+Unify On-Call 					(713) 284-3757  [Pager]
+Sitara On-Call					(713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS			(713) 639-9726  [Pager]
+OSS/UA4/TARP				(713) 285-3165  [Pager]
+CPR						(713) 284-4175  [Pager]
+EDI Support 					(713) 327-3893  [Pager]
+EES Help Desk					(713)853-9797 OR (888)853-9797
+TDS -Trader Decision Support On-Call                    (713) 327-6032 [Pager]
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"Fw: FW:","
+----- Original Message -----
+From: patbelle <patbelle@mail.ev1.net>
+To: <brebiere@hn.ozemail.com.au>; <dpriese@worldnet.att.net>;
+<marnold2@houston.rr.com>; <ian@zellweger.freeserve.co.uk>;
+<tippy_4DA@hotmail.com>; <FredericREBIERE@aol.com>
+Sent: Tuesday, May 22, 2001 6:09 AM
+Subject: FWD: FW:
+
+
+>
+>
+>
+>
+> :
+>
+>
+> A man is sitting in a plane which is about to takeoff when
+> another man with a dog occupies the empty seats alongside. The
+> dog is sat in the middle, and the first man is looking
+> quizzically at the dog when the second man explains that they
+> work for the airline.
+>
+> The airline rep said ""Don't mind Rover, he is a sniffer dog, the
+> best there is, I'll show you once we get airborne and I set him
+> to work.""
+>
+> The plane takes off and levels out when the handler says to the
+> first man, ""Watch this."" He tells the dog, ""Rover, search.""
+>
+> The dog jumps down, walks along the aisle and sits next to a
+> woman for a few seconds. It then returns to its seat and puts one
+> paw on the handler's arm.
+>
+> He says ""Good boy.""  He turns to the first man and says, ""That
+> woman is in possession of marijuana, so I'm making a note of
+> this, and the seat number, for the police who will apprehend her
+> on arrival.""
+>
+> ""Fantastic!"" replies the first man.
+>
+> Once again he sends the dog to search the aisles. The dog sniffs
+> about, sits down beside a man for a few seconds, returns to its
+> seat and places both paws on the handler's arm.
+>
+> The airline rep says, ""That man is carrying cocaine, so again,
+> I'm making a note of this, and the seat number.""
+>
+> ""I like it!"" says the first man.
+>
+> Once again he sends the dog to search the aisles. Rover goes up
+> and down the plane aisle and after a while sits down next to
+> someone, and then comes racing back and jumps up onto the seat
+> and craps all over the place.
+>
+> The first man is surprised and disgusted by this, and asks ""What
+> is going on?""
+>
+> The handler nervously replies ""He just found a bomb!
+>
+>
+>
+>
+>
+>
+> ________________________________________________________________
+> Sent via the EV1 webmail system at mail.ev1.net
+>
+>
+>
+>
+>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dpriese@worldnet.att.net","dpriese@worldnet.att.net","SMTP","tim.deanna@enron.com;tim.dori@enron.com;priese.fred@enron.com;hartwig.jack@enron.com;taylor.mickey@enron.com;monique.sanchez@enron.com","tim.deanna@enron.com;tim.dori@enron.com;priese.fred@enron.com;hartwig.jack@enron.com;taylor.mickey@enron.com;monique.sanchez@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"eThink About It: 5/30/01","
+
+Got a question about Enron or what our businesses are doing?  Ask Jeff Skilling!  Join him for an Office of the Chairman ""open mike"" session today (May 30) on eSpeak at 10 a.m. Houston time.
+Can't make the live event?  No worries.  Go to eSpeak (http://ethink.enron.com/eSpeak/exec/default.asp) now and submit your question.  Jeff will try to answer it during his event and you can read the transcript later.
+
+
+Cost cutting ideas are still coming into the Thinkbank (http://nahou-lnapp01.corp.enron.com/eThink/Thinkbank.nsf/HomePage?OpenPage).  We know you've got some great ideas tucked away in that brainy head of yours -- deposit them into the ThinkBank!
+
+
+There's some fiesty conversations going on in eMeet http://nahou-lnapp01.corp.enron.com/eThink/eMeet.nsf.  Start your own today!
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ethink@enron.com","ethink@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"Do you use Dow Jones Interactive?","Enron is in the process of re-negotiating our contract with Dow Jones Interactive and we need to know if you are currently
+accessing this data.  In the near future there will be a cost associated with this information and you are currently listed as
+having a license.  
+
+Please click on the below link and let us know if you need continued access to this service.
+
+http://nahou-webcl1.corp.enron.com/inquisite/DJI/DJI.html
+
+Thank You, 
+Market Data 
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","sonya.johnson@enron.com","sonya.johnson@enron.com","SMTP","caroline.abramo@enron.com;rudy.acevedo@enron.com;suzanne.adams@enron.com;fraser.allen@enron.com;derek.anderson@enron.com;john.arnold@enron.com;denis.bajolle@enron.com;jozsef.balogh@enron.com;don.baughman@enron.com;david.baumbach@enron.com;gregor.baumerich@enron.com;kimberlee.bennick@enron.com;corry.bentley@enron.com;jason.biever@enron.com;justin.boyd@enron.com;f..brawner@enron.com;greg.brazaitis@enron.com;rebecca.cantrell@enron.com;michelle.cash@enron.com;jon.chapman@enron.com;winston.cheng@enron.com;dustin.collins@enron.com;harry.collins@enron.com;kayne.coulter@enron.com;natasha.danilochkina@enron.com;derek.davies@enron.com;paul.dawson@enron.com;paul.dawson@enron.com;paul.devries@enron.com;trang.dinh@enron.com;john.disturnal@enron.com;jeff.donahue@enron.com;jeff.donahue@enron.com;mary.dove@enron.com;lon.draper@enron.com;ian.dundas@enron.com;jarek.dybowski@enron.com;david.eubanks@enron.com;farzad.farhangnia@enron.com;jose.figueira@enron.com;genia.fitzgerald@enron.com;shawna.flynn@enron.com;eric.gillaspie@enron.com;hector.godoy@enron.com;joe.gold@enron.com;john.gorman@enron.com;jin.guo@enron.com;gautam.gupta@enron.com;mary.hain@enron.com;jai.hawker@enron.com;mary.heinitz@enron.com;jenny.helton@enron.com;jeffrey.hodge@enron.com;jonathan.hoff@enron.com;erik.hokmark@enron.com;jim.homco@enron.com;mary.hopkins@enron.com;dan.hyvl@enron.com;neil.jackson@enron.com;dick.jenkins@enron.com;victoria.johnson@enron.com;jared.kaiser@enron.com;deb.korkmas@enron.com;dean.laurent@enron.com;doug.leach@enron.com;elsie.lew@enron.com;miles.lidsey@enron.com;homer.lin@enron.com;gretchen.lotz@enron.com;derek.lynn@enron.com;dan.lyons@enron.com;iona.maclean@enron.com;posey.martinez@enron.com;elizabeth.mccarthy@enron.com;kelly.mccoy@enron.com;ed.mcmichael@enron.com;fred.mitro@enron.com;eric.moon@enron.com;janet.moore@enron.com;janice.moore@enron.com;russell.murrell@enron.com;russell.murrell@enron.com;gerald.nemec@enron.com;florian.neubauer@enron.com;matthew.nicholas@enron.com;linda.noske@enron.com;jiri.novotny@enron.com;mary.ogden@enron.com;grant.oh@enron.com;john.oliver@enron.com;jitendra.patel@enron.com;jitendra.patel@enron.com;gregg.penman@enron.com;gregg.penman@enron.com;debra.perlingiere@enron.com;john.peyton@enron.com;david.redmond@enron.com;louis.redshaw@enron.com;cooper.richey@enron.com;michael.rosen@enron.com;michael.rosen@enron.com;monique.sanchez@enron.com;jivko.savov@enron.com;l..schrab@enron.com;sara.shackleton@enron.com;eric.shaw@enron.com;tom.shelton@enron.com;john.sherriff@enron.com;gareth.simpson@enron.com;michael.slade@enron.com;ian.sloman@enron.com;kenny.soignet@enron.com;fletcher.sturm@enron.com;john.suarez@enron.com;john.suarez@enron.com;fred.tan@enron.com;hala.tayyarah@enron.com;garrett.tripp@enron.com;steve.vavrik@enron.com;robert.walker@enron.com;stacey.white@enron.com;chris.wiebe@enron.com;r..wiesepape@enron.com;doug.wood@enron.com;kay.young@enron.com;john.zufferli@enron.com","caroline.abramo@enron.com;rudy.acevedo@enron.com;suzanne.adams@enron.com;fraser.allen@enron.com;derek.anderson@enron.com;john.arnold@enron.com;denis.bajolle@enron.com;jozsef.balogh@enron.com;don.baughman@enron.com;david.baumbach@enron.com;gregor.baumerich@enron.com;kimberlee.bennick@enron.com;corry.bentley@enron.com;jason.biever@enron.com;justin.boyd@enron.com;f..brawner@enron.com;greg.brazaitis@enron.com;rebecca.cantrell@enron.com;michelle.cash@enron.com;jon.chapman@enron.com;winston.cheng@enron.com;dustin.collins@enron.com;harry.collins@enron.com;kayne.coulter@enron.com;natasha.danilochkina@enron.com;derek.davies@enron.com;paul.dawson@enron.com;paul.dawson@enron.com;paul.devries@enron.com;trang.dinh@enron.com;john.disturnal@enron.com;jeff.donahue@enron.com;jeff.donahue@enron.com;mary.dove@enron.com;lon.draper@enron.com;ian.dundas@enron.com;jarek.dybowski@enron.com;david.eubanks@enron.com;farzad.farhangnia@enron.com;jose.figueira@enron.com;genia.fitzgerald@enron.com;shawna.flynn@enron.com;eric.gillaspie@enron.com;hector.godoy@enron.com;joe.gold@enron.com;john.gorman@enron.com;jin.guo@enron.com;gautam.gupta@enron.com;mary.hain@enron.com;jai.hawker@enron.com;mary.heinitz@enron.com;jenny.helton@enron.com;jeffrey.hodge@enron.com;jonathan.hoff@enron.com;erik.hokmark@enron.com;jim.homco@enron.com;mary.hopkins@enron.com;dan.hyvl@enron.com;neil.jackson@enron.com;dick.jenkins@enron.com;victoria.johnson@enron.com;jared.kaiser@enron.com;deb.korkmas@enron.com;dean.laurent@enron.com;doug.leach@enron.com;elsie.lew@enron.com;miles.lidsey@enron.com;homer.lin@enron.com;gretchen.lotz@enron.com;derek.lynn@enron.com;dan.lyons@enron.com;iona.maclean@enron.com;posey.martinez@enron.com;elizabeth.mccarthy@enron.com;kelly.mccoy@enron.com;ed.mcmichael@enron.com;fred.mitro@enron.com;eric.moon@enron.com;janet.moore@enron.com;janice.moore@enron.com;russell.murrell@enron.com;russell.murrell@enron.com;gerald.nemec@enron.com;florian.neubauer@enron.com;matthew.nicholas@enron.com;linda.noske@enron.com;jiri.novotny@enron.com;mary.ogden@enron.com;grant.oh@enron.com;john.oliver@enron.com;jitendra.patel@enron.com;jitendra.patel@enron.com;gregg.penman@enron.com;gregg.penman@enron.com;debra.perlingiere@enron.com;john.peyton@enron.com;david.redmond@enron.com;louis.redshaw@enron.com;cooper.richey@enron.com;michael.rosen@enron.com;michael.rosen@enron.com;monique.sanchez@enron.com;jivko.savov@enron.com;l..schrab@enron.com;sara.shackleton@enron.com;eric.shaw@enron.com;tom.shelton@enron.com;john.sherriff@enron.com;gareth.simpson@enron.com;michael.slade@enron.com;ian.sloman@enron.com;kenny.soignet@enron.com;fletcher.sturm@enron.com;john.suarez@enron.com;john.suarez@enron.com;fred.tan@enron.com;hala.tayyarah@enron.com;garrett.tripp@enron.com;steve.vavrik@enron.com;robert.walker@enron.com;stacey.white@enron.com;chris.wiebe@enron.com;r..wiesepape@enron.com;doug.wood@enron.com;kay.young@enron.com;john.zufferli@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Random questions","
+Hey Momar.  Did you have a peaceful  week?  We had a blast.  I've got a couple of Q's for ya.  Does  cream of mushroom soup have actual mushroom pieces in it?  And where would  be a good place to buy a glass baking/casserole dish?
+ 
+Thanks,
+Robbie
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","rparry@bcm.tmc.edu","rparry@bcm.tmc.edu","SMTP","monique.sanchez@enron.com","monique.sanchez@enron.com","SMTP",,,,,,,,,"Normal"
+"eSource Presents Free Global Energy Markets Presentation","
+ 
+
+
+
+eSource presents Free Global Energy Markets Presentation:
+
+June. 5 	 9:00 -  9:30 AM	EB 5C2
+June. 5 	 10:00 -  10:30 AM 	EB 5C2
+
+Global Energy Markets 
+Global Energy Markets is an information service that gives you access to updated information and analysis whenever you need it.
+
+Global Energy Markets provides many different news feeds and data sources in one service.  In addition, Global Energy Markets provides useful online databases for finding articles, projects and companies.
+
+Each service is available by global region.  Services include the Americas, Asia-Pacific, Europe/CIS and the Middle East.  Each service includes four key modules.
+
+The first core module is the energy news.  The news comes from Reuters, Dow Jones, Energy24x, BBC, AP, AFP, and others.  This is an all-in-one regional news service.  The other three modules are useful databases for finding news articles, project information and companies.  The second module is the Global Energy Projects Database.  The third module is the Global Energy News Archive.  The fourth is the Energy Companies Directory.
+
+http://home.enron.com:84/messaging/globalenergymarkets.pdf
+  
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 5-7928
+No Shows will be charged $50.00
+Check the eSource training page at http://esource.enron.com/training.doc for additional training sessions and vendor presentations.     
+
+http://esource.enron.com
+
+
+<Embedded Picture (Metafile)>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"RE: RACE RESULTS - Heights 5K","An estimate works fine for the ERC.  As far as I know the site that usually posts results, www.runnertriathletenews.com only posted the top 3 spots in each age group.
+
+ -----Original Message-----
+From: 	Sanchez, Monique  
+Sent:	Tuesday, June 05, 2001 9:17 AM
+To:	Richardson, Cindy
+Subject:	RE: RACE RESULTS - Heights 5K
+
+I have no idea what my finish time was.  It was somewhere in the 32:00 range....is there a website that I can look this up at? Thanks.
+
+ -----Original Message-----
+From: 	Richardson, Cindy  
+Sent:	Tuesday, June 05, 2001 9:14 AM
+To:	'EnronRunners@enron.com'
+Subject:	RACE RESULTS - Heights 5K
+
+I hope everyone had a great time at the Heights 5K Fun Run this weekend.  For those that participated in the run, please send me your finishing time.
+
+The following runners have not provided me a time:
+
+Catalina Ayala-Nelson
+Akasha Bibb
+Joe Castillo
+Andrew Edison
+Susan Edison
+Joe Kachinski
+Charles Nelson
+Jeanette Nickell
+Monique Sanchez
+Susan Scott
+Karen Snow
+
+If you were unable to participate, please reimburse the ERC as soon as possible.
+
+Checks payable to:	Enron Running Club
+Amount:		$18.00
+Send to:		Cindy Richardson, EB4845.
+
+Thanks!
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","cindy.richardson@enron.com","cindy.richardson@enron.com","SMTP","monique.sanchez@enron.com","monique.sanchez@enron.com","SMTP",,,,,,,,,"Normal"
+"True Quote Announces EnronOnline Integration","Please click on the link below for an important announcement from True Quote
+
+
+www.truequote.com/tqenron.htm
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","scott.tanner@truequote.com","scott.tanner@truequote.com","SMTP","monique.sanchez@enron.com","monique.sanchez@enron.com","SMTP",,,,,,,,,"Normal"
+"PG&E BANKRUPTCY CASE-- IMPORTANT","
+As you may be aware, Enron Corp. is a member of the Official Unsecured Creditors' Committee appointed in the Pacific Gas and Electric Company bankruptcy case. Michael Tribolet with the Risk Assessment and Control Group is Enron's designated representative on the committee and he is being assisted by Lisa Mellencamp in the Enron North America Corp. legal group. Please be advised that they will be restricted from disclosing certain of the information that they receive.
+
+Attached are Ethical Wall Procedures regarding confidential information that Enron may receive as a member of the committee. It is important that you read the procedures promptly, print the Employee Certification attached and sign and return the Employee Certification to the Compliance Department as directed.
+
+
+ 
+
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"Weekend Outage Report for 6-1-01 through 6-4-01","
+------------------------------------------------------------------------------------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+June 1, 2001 5:00pm through June 4, 2001 12:00am
+------------------------------------------------------------------------------------------------------
+
+
+ECS to ECN Network Interconnection, June 9th 2001
+
+This is a notification that the Enron Corp. I/T Networks team will be connecting the new building network infrastructure located in Enron Center South (ECS) to the existing Enron Center North (ECN) backbone network.  While this activity is not expected to produce a disruption to network services, this notice is designed to alert the organization to our activities.  No network hardware or systems are anticipated to be shutdown.  The actual physical interconnection of the networks will be performed in the EB 34th floor Data Center.
+
+Interconnection activities are scheduled to occur the evening of June 9th 2001 starting from 7:00 p.m.(CT) and completing around 11:00 p.m. (CT). Application testing activities will begin at 11:00 p.m. (CT) once all network testing has completed.
+
+If you have any further questions, please contact Pete Castrejana at 713-410-0642 for more information.
+		    
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:  
+Impact:  ENS
+Time:  Fri 6/1/2001 at  11:00:00 PM CT thru Fri 6/1/2001 at  11:45:00 PM CT
+	Fri 6/1/2001 at    9:00:00 PM PT thru Fri 6/1/2001 at     9:45:00 PM PT
+	Sat 6/2/2001 at  5:00:00 AM London thru Sat 6/2/2001 at  5:45:00 AM London
+Outage:  Enable routing on new router ecn-34-cor-ccr1
+Environments Impacted:  ENS
+Purpose: This router will be used to connect to the new building
+Backout: remove routing on the router.
+Contact(s): 	Scott Shishido    713-853-9780
+
+Impact:  AEP
+Time:  Fri 6/1/2001 at  8:00:00 PM CT thru Fri 6/1/2001 at  8:30:00 PM CT
+	Fri 6/1/2001 at  6:00:00 PM PT thru Fri 6/1/2001 at  6:30:00 PM PT
+	Sat 6/2/2001 at  2:00:00 AM London thru Sat 6/2/2001 at  2:30:00 AM London
+Outage:  Shutting off the internal link to 1201 Louisiana
+Environments Impacted:  AEP
+Purpose: Company occupying that space has been sold.
+Backout: None
+Contact(s): 	Garhett Clark         713-345-9953
+                        Robert Humlicek   713-853-6366   713-406-8293
+		    		    		    		
+Impact:  ENS/GCO
+Time:  Fri 6/1/2001    thru Wed 7/4/2001   
+Outage:  HPL migration to AEP
+Environments Impacted:  GCO
+Purpose: Sites sold
+Backout: None
+Contact(s): 	Garhett Clark         713-345-9953
+		Robert Humlicek   713-853-6366   713-406-8293
+
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: 
+Impact:  Internet
+Time:  Fri 6/1/2001 at  10:30:00 PM CT thru Fri 6/1/2001 at  10:45:00 PM CT
+	Fri 6/1/2001 at    8:30:00 PM PT thru Fri 6/1/2001 at     8:45:00 PM PT
+	Sat 6/2/2001 at  4:30:00 AM London thru Sat 6/2/2001 at  4:45:00 AM London
+Outage:  Reboot Enron.com edge routers
+Environments Impacted:  Internet
+Purpose: Regular reboot to prevent such problems as memory corruption. Intermettent disruption to last about five minutes.
+Backout: 
+Contact(s): 	John Shupak          713-853-7943
+		Bryan Aubuchon    713-345-8446 
+ 
+MESSAGING: 
+Impact:  Corp Notes
+Time:  Fri 6/1/2001 at  9:00:00 PM CT thru Sat 6/2/2001 at  1:00:00 AM CT
+	Fri 6/1/2001 at  7:00:00 PM PT thru Fri 6/1/2001 at 11:00:00 PM PT
+	Sat 6/2/2001 at  3:00:00 AM London thru Sat 6/2/2001 at  7:00:00 AM London
+Outage:  cNotes Server Reboots
+Environments Impacted:  All users on any of the mailservers listed below
+Purpose: Scheduled @ 2 week interval
+Backout: Make sure server comes up.
+Contact(s): 	Trey Rhodes  (713) 345-7792  
+		    		    		    		
+Impact:  EI
+Time:  Fri 6/1/2001 at  9:00:00 PM CT thru Sat 6/2/2001 at  1:00:00 AM CT
+	Fri 6/1/2001 at  7:00:00 PM PT thru Fri 6/1/2001 at 11:00:00 PM PT
+	Sat 6/2/2001 at  3:00:00 AM London thru Sat 6/2/2001 at  7:00:00 AM London
+Outage:  EI Notes Server Maintenance
+Environments Impacted:  EI Local/Domestic/Foreign Sites
+Purpose: Scheduled @ 2 week interval
+Backout: N/A
+Contact(s): 	David Ricafrente    713-646-7741
+ 
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS: No Scheduled Outages.
+
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+								FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management			(713) 853-5536
+SAP/ISC                                                                               (713) 345-4727
+Unify On-Call 					(713) 284-3757  [Pager]
+Sitara On-Call					(713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS			(713) 639-9726  [Pager]
+OSS/UA4/TARP				(713) 285-3165  [Pager]
+CPR						(713) 284-4175  [Pager]
+EDI Support 					(713) 327-3893  [Pager]
+EES Help Desk					(713)853-9797 OR (888)853-9797
+TDS -Trader Decision Support On-Call                    (713) 327-6032 [Pager]
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"The Enron Oral History Project Continues","
+
+The Enron Oral History Project Continues...
+
+""Using History to Help Enron Become the World's Leading Company""
+
+How can an understanding of strategic choices, regulatory change and corporate culture help Enron achieve its vision?
+
+Speaker:
+Joseph Pratt, Cullen Professor of History and Business, University of Houston
+and
+ Co-Director, Enron Oral History Project
+
+Thursday, June 7
+11:30 a.m. to 12:30 p.m.
+EB 5C2
+
+To Make a Reservation, Call 3-1941 and Select Option 1
+
+Lunch will not be provided, but you are welcome to bring your own.
+
+Please inform us ahead of time if you need special accommodations to participate in this meeting.  Call 3-9390.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"EnTouch Newsletter","
+BUSINESS HIGHLIGHTS
+
+eSource
+eSource, Enron's research group, has experienced an overwhelmingly positive response to the research training which it has hosted.  Participation and interest by Enron employees has exceeded expectations and many classes were quickly filled.  As a result, repeat classes have been offered and new sessions have been added to the program.  In addition to the Lexis-Nexis and Dow Jones classes, eSource has now begun hosting sessions on Piranha (financials and pricing information), Investext (analyst reports and market analysis), Global Access (financials and corporate activity), and Securities Data Corp. (M&A, debt).   eSource has also arranged long distance sessions using interactive web tools for Enron employees around the world.  Watch for e-mails announcing new training sessions, either in Houston or in a virtual desktop mode.
+
+Since our launch in December, the eSearch website has received over 230,000 hits.  The site today offers Enron employees access to 34 electronic databases.  These databases offer the latest financial and business on-line research capabilities in a cost-effective manner.  In this era of information explosion, databases are constantly being reviewed to ensure that Enron's research needs are being met.  If you know of a professionally relevant database that might be added to eSearch, let us know.  Meanwhile, to further fulfill Enron's research needs, eSource is arranging for desktop access to good-old-fashioned libraries too.  Books from public and local university libraries can be located, borrowed and delivered to employees' desks.  This should be particularly helpful for those with more specialized or technical research needs. 
+
+We are also proud to report that at a recent local research conference, Enron's eSource was featured as an industry trailblazer for having invented itself into a combined virtual library and intranet-based research center capable of delivering a broad range of research products and services via the user's desktop.  Attendees from Reliant, Shell, Halliburton and ExxonMobil and others were duly impressed.  
+
+As for the future, watch for Version 2.0 of the eSearch website, http://esource.enron.com, scheduled to launch soon.  It will feature greater functionality and additional content.  Look for new features like ""Industry Overviews"" and links to information providers like Frost & Sullivan, Country Watch, and World Energy Markets.
+
+
+IN THE NEWS
+
+Chicago And Its Suburbs Pick Enron, ComEd For Power Deals
+06/06/2001  Dow Jones Energy Service (Copyright (c) 2001, Dow Jones & Company, Inc.)
+CHICAGO -(Dow Jones)-The City of Chicago and 47 suburban communities have decided to divide new deals for 400 megawatts of power between Enron Corp. (ENE) and local utility Commonwealth Edison Co., Chicago officials said Wednesday. 
+In the largest power purchase agreement in Illinois since the state choose to deregulate the industry in 1997, the local government groups will get 60% of their power from Enron and 40% from Exelon Corp.'s (EXC) ComEd. The municipalities use the power for public buildings and public transportation.
+Chicago announced Monday that the group has picked ComEd to meet the renewable target by providing 80 megawatts of power created with landfill gas, wind and other sources. ComEd will also provide the coalition with another 80 megawatts of power generated with fossil fuel and nuclear plants, and Enron will provide the other 240 megawatts. The new contracts are expected to go into effect this year. 
+""We used our purchasing power as local governments to get the best price we could and at the same time to promote competition in Illinois. Enron gave us the most competitive price,""  Chicago Mayor Richard M. Daley said at a press conference. 
+
+
+WELCOME
+New Hires
+EGM  - Jennifer Morris, Mike Reen, Daniel Fuller, Jason Paterniti
+ENA  - Craig Hawkins, Carol Langston, Mark Morrow, Harlan Murphy, Bruce Petitt, Emily Schwarzbach, Alice Wright, Allyson Zykorie
+
+Transfers (to or within)
+ENA - Thomas Kalb, Debra Brannen, Juan Camarillo, Richard Orellana
+EGM - Joana Bekerman, Eric Tipp, Kellie Metcalf, Ricardo Charvel, Jason Andrade
+EIM - Jaime Araoz, Gabriel Chavez, Enrique Cadena, Rosalinda Castillo, Kimberly Chick, Ana Morena, William Brown, Grisela Escamilla, Paul Burkhart, Jodi Coulter, Douglas McDowell, Catherine Pernot
+
+
+NUGGETS & NOTES
+
+Enron is hosting the Chicago Energy Risk Management Seminar at The Drake Hotel in Chicago on June 14, 2001.  Topics include: Power Outlook, Natural Gas Outlook, Hedging Strategies, Weather Risk Management and Pulp and Paper Risk Management. The RSVP deadline is June 8th so please contact Laura Pena as soon as possible at x 3-5376.  This is a great event for ""new"" as well as established customers.  There will be a cocktail reception immediately after the presentations.  Enron will also be hosting seminars in Atlanta, Houston, Denver and San Francisco.  Dates to be announced soon.
+
+Congratulations to Kathy and Craig Taylor, manager in East Origination. They are the proud parents of a baby girl, Katherine Montgomery, born on May 25. 
+
+Travel tip of the week:
+When booking through TAP or ClickTrip, use preferred domestic airline carriers to recognize special Enron discounts.
+	American		28%		American West		15%
+	Continental		17%		Delta			10-28%
+	Northwest		20%		TWA			19-25%
+	United			20%		US Airways		30%
+
+Please note: discounts are confidential and should not be disclosed to anyone other than Enron employees.
+
+
+EnronOnline Statistics
+Below are the latest figures for EnronOnline as of June 5, 2001.
+
+*	Total Life to Date Transactions > 1,045,000
+*	Life to Date Notional Value of Transactions > $630 billion
+
+
+experience Enron
+Announcing enhancements to experience Enron:
+?	To begin your customer's Enron experience, we will send out customized invitations with a Guest Check-In Card that contains detailed instructions about check in.
+?	experience ENRON has partnered with the Plaza Reception Desk Staff to create a less stressful check in process for your customers.  Once they present their card, the Plaza Reception Desk Staff will welcome them and present them with a prepared experience ENRON name badge.  
+?	experience ENRON has also created a new look for your meetings.  Our new table tents, welcome folders, name badges, agendas and presentation templates all have the same look to maintain a consistent feel throughout the visit.
+?	All of this is to ensure that your guest has a unique and customized experience that will exceed their expectations and help you reach your business goals faster.
+For more information on experience ENRON, visit our website at experience.Enron.com.
+
+
+LEGAL STUFF
+The information contained in this newsletter is confidential and proprietary to Enron Corp. and its subsidiaries.  It is intended for internal use only and should not be disclosed.
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"RE: eSource Presents Free Global Energy Markets Presentation","	To whom it may concern: I need the Microsoft outlook web access icon downloaded to my computer 
+
+	thanks michael.yowman@enron.com
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","michael.yowman@enron.com","michael.yowman@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"","Dear Friends and Colleagues,
+
+
+It's been a great run at Enron and Houston, but after three wonderful years, it's time to say goodbye.  As most of you know, I'm headed off to Harvard Business School this fall.  I have truly enjoyed getting to know each of you, and I'll miss you next year.  I want to wish you the best of luck and future success.  I'm leaving Houston next Friday, but I would like one last chance to say goodbye.  
+
+Please join me this Thursday, May 31 at Teala's (3210 West Dallas) from 6-10pm for a Farewell Happy Hour.  I hope to see you there!
+
+
+Brian
+
+
+_____________________
+Brian T. Hoskins
+Enron Broadband Services
+713-853-0380 (office)
+713-412-3667 (mobile)
+713-646-5745 (fax)
+Brian_Hoskins@enron.net
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","brian.hoskins@enron.com","brian.hoskins@enron.com","SMTP","bthoskins@hotmail.com","bthoskins@hotmail.com","SMTP",,,,,,,,,"Normal"
+"Fw: Fw: FW: Dr. Seuss (Don't delete","
+----- Original Message -----
+From: patbelle <patbelle@mail.ev1.net>
+To: <dpriese@worldnet.att.net>; <marnold2@houston.rr.com>;
+<Gilles.RICHARD5@wanadoo.fr>; <ian@zellweger.freeserve.co.uk>;
+<lanceneidig@mail.glazierfoods.com>; <tippy_4DA@hotmail.com>;
+<FredericREBIERE@aol.com>; <brebiere@hn.ozemail.com.au>;
+<DMRickards@MarathonOil.com>
+Sent: Thursday, May 24, 2001 5:13 PM
+Subject: FWD: Fw: FW: Dr. Seuss (Don't delete
+
+
+> -
+> >
+> >
+> >
+> >
+> >  FW: Dr. Seuss (Don't delete)
+> >  Just do this!
+> >  My best friend just did this, this morning, wished for her
+>
+> promotion and
+> >just got a call and she got it.
+> >  The last time I sent this exact e-mail out, I got a new job and
+>
+> now I'm
+> >superstitious.
+> >
+> >  Start thinking something you really really want, because this
+>
+> is
+> >astounding... the person that sent
+> >  this to me said their wish came true 10 mins after they read
+>
+> the mail so
+> >I thought what the heck.
+> >
+> >
+> >        ******
+> >        ******
+> >        ******
+> >        ******
+> >     **********
+> >         (,)(,)
+> >           u
+> >        *.....*
+> >
+> >
+> >  You have just been visited by Dr.Suess's Cat in the
+> >   Hat. He will grant you one wish.
+> >   Make your wish when the count down is over.
+> >
+> >
+> >  10..
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >  9..
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >  8..
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >  7..
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >  6..
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >  5..
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >  4..
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >  3..
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >  2..
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >  1..
+> >
+> >
+> >
+> >
+> >
+> >
+> >  MAKE A WISH
+> >
+> >   Send this to 10 people within the hour you read this.
+> >   If you do, your wish will come true.
+> >
+> >  If you don't, it will become the opposite.
+> >
+> >
+> >
+> >
+> >_________________________________________________________________
+>
+> _______
+> >This message has been checked for all known viruses, by Star
+>
+> Internet,
+> >delivered through the MessageLabs Virus Control Centre.
+> >For further information visit:
+> >http://www.star.net.uk/stats.asp
+> >
+> >
+> >
+> >
+> >
+>
+>
+>
+> ________________________________________________________________
+> Sent via the EV1 webmail system at mail.ev1.net
+>
+>
+>
+>
+>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dpriese@worldnet.att.net","dpriese@worldnet.att.net","SMTP","tim.deanna@enron.com;cornella.deb@enron.com;tim.dori@enron.com;priese.fred@enron.com;hartwig.jack@enron.com;taylor.mickey@enron.com","tim.deanna@enron.com;cornella.deb@enron.com;tim.dori@enron.com;priese.fred@enron.com;hartwig.jack@enron.com;taylor.mickey@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"FW: DWR Report Released today","
+
+ -----Original Message-----
+From: 	Comnes, Alan  
+Sent:	Thursday, June 07, 2001 9:54 AM
+To:	Belden, Tim; Badeer, Robert; Swerzbin, Mike; Motley, Matt; Foster, Chris H.; Wolfe, Greg; Heizenrader, Timothy; Perrino, Dave; Mara, Susan; Dasovich, Jeff
+Subject:	DWR Report Released today
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","matt.motley@enron.com","matt.motley@enron.com","SMTP","mike.grigsby@enron.com;k..allen@enron.com;keith.holst@enron.com;monique.sanchez@enron.com","mike.grigsby@enron.com;k..allen@enron.com;keith.holst@enron.com;monique.sanchez@enron.com","SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Investinme Course Offering","
+Presentations That Work
+June 11 & 12  8:00 am - 5:00 pm
+in EB560    Cost:  $900
+Limited seats available
+
+This intensive 16-hours workshop includes nine presentations and provides practice and feedback from peers, instructors, and videotape.  The training focuses on instruction and practice in organization, delivery skills, visual design and use, and question-and-answer models.  Participants will receive personalized, confidential feedback from the instructor and will develop a self-improvement action plan.  Customized exercises give participants first-hand experience in one-on-one, small group, impromptu, and sit-down settings.
+
+As a result of this course, you will be able to:
+
+?	Reduce preparation time
+?	Increase rapport and persuasions
+?	Organize your ideas for impact
+?	Select appropriate details
+?	Plan the presentation
+?	Design and use visuals effectively
+?	Use a dynamic delivery style
+?	Handle questions and answers appropriately
+
+Please login and enroll through the InvestInMe website, http://www.corptraining.com/index.cfm?company=enron.  If you have any questions, please call 713 853-0357.
+
+
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"ERC Monthly Meeting, 6/7/01","ERC Monthly Meeting
+June 7, 2001
+EB49C1
+
+
+We will be meeting to discuss the upcoming USCAA Regional Track & Field Meet.
+
+
+Lunch will be provided.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","cindy.richardson@enron.com","cindy.richardson@enron.com","SMTP","tracksters@enron.com","tracksters@enron.com","SMTP",,,,,,,,,"Normal"
+"Managers Training","Attention supervisors and managers!  
+ 
+Would you like to improve your ability to lead and manage your team?  The EWS Development Center would like to invite you to The Managers Level Impact and Influence Program.
+ 
+Date:                             June 14th and 15th
+Time:                             8:00 a.m. to 5:00 p.m. (both days)
+Place                             Travis Room 1 at the Double Tree Hotel Down Town
+Cost:                            $1,500
+Target Audience:          Sr. Specialist and Managers in a supervisory role
+CPE credits available
+ 
+ 
+Innovative Leadership is the cornerstone of Enron's ability to motivate and retain the industry's top talent.  The Organizational Development and Learning group would like to invite all Enron managers to participate in a new leadership overview course.
+ 
+This workshop will offer the tools you'll need to lead and manage others more effectively.  In this course you'll gain knowledge and insight on leadership capabilities and receive resources you can readily apply at work.  This two-day program, involving a maximum of 16 participants, has been specifically built to give Enron managers the information they need to succeed in our work environment.   It is an interactive workshop including individual and group exercises designed to drive home insights and build skills that are relevant to your job.   
+ 
+Topic areas include: 
+?        What is Leadership?
+?        Leadership Credibility
+?        Thinking Strategically
+?        Managing Change
+?        Directing Others
+?        Leading Teams
+?        Influencing Others   
+ 
+Participants will be asked to complete a short self-assessment before coming to the program.  Additionally, each participant will leave with a detailed action plan and other resources to help manage their group and prepare for the next level of leadership.
+ 
+To register for this class, log on to InvestInMe at http://www.corptraining.com/index.cfm?company=enron.
+If you have any questions, please call 713 853-1816.
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"Enron In Action 06.04.01","
+
+
+United Way Scholars Press Conference, Today at 10:30 AM!!!!
+Come see your United Way dollars at work building the workforce of the future!
+
+Please join Jeff Skilling at a press conference today at 10:30 a.m. in Antioch Park to announce The United Way Scholars Program!  Your contribution is helping to provide 50 local high school students with college scholarships and funding for middle and high school technology programs designed to reach thousands of students each year!
+
+USCAA Track & Field Championships, June 9, 2001
+The Enron Running Club is seeking runners, sprinters, discus & shot put throwers, high jumpers and long jumpers to compete in the annual USCAA Track & Field Championships on Saturday, June 9th at Rice University.  Participate in co-ed track relays & field events for all ages and abilities; showcase your energy and talents in a challenging, competitive, and fun environment; participate in an Enron tradition since 1994; experience teambuilding and camaraderie like never before!  For more information or to sign up, contact Cindy Richardson at x3-4770 or sprint to:  http://home.enron.com:84/erc/index.html
+
+Dad's Day 5K
+Join the Enron Running Club at the Dad's Day 5K and 1 Mile Family Walk benefiting The Prostate Cancer Research and Awareness scheduled for Saturday, June 2nd.  If you're interested in running or volunteering your time, please contact Cindy Richardson at 713-853-4770 or Kelly Lombardi at 713-345-5841.  For more information, run to: http://home.enron.com:84/erc/index.html. 
+
+
+
+The Caladium plants that are in the huge plant pots throughout the Plaza are going to be replaced and will be available for purchasing TODAY for $4.00 in the Plaza by the up escalator from 11 a.m. to 12 p.m.. 
+
+Wild@Work Brown Bag: Digging Up the Past:  Archaeology at Armand Bayou
+Join Armand Bayou Nature Center Executive Director, Ephriam Dickson, as he explores the prehistoric sites of the Clear Lake area. Discover how archeologists reconstruct past cultures from the artifacts left behind and learn how the first residents of Houston made their living.  [No shovels required.]
+
+When:  Friday, June 8th, 11:30 AM to 12:30 PM
+Where:  EB 5C2
+
+Free Opera in the Park featuring Houston Grand Opera's Carmen, June 8-10!
+Houston Grand Opera's sensational Multimedia Modular Stage production returns for three FREE performances at Houston's Miller Outdoor Theatre on June 8-10 at 8:30 p.m. Bizet's fiery gypsy Carmen, everybody's favorite femme fatale, ignites the summer in a powerhouse production that had audiences and critics cheering when it was first unveiled in 1998.
+
+Houston Grand Opera's revolutionary Multimedia Modular Stage (MMS), with its giant ""live"" video screens, hydraulic platforms, and hundreds of rotating, colored lights takes the incredible energy onstage and transports it to the farthest reaches of the outdoor venue with a visceral impact equal to that of a rock concert!
+
+Tickets for the reserved seating will be issued between the hours of 11:30am and 1:00pm through the Miller Theatre box office on the day of the performance.  Any remaining tickets will be issued one hour before the performance.
+
+For additional information, visit HGO's web site at www.houstongrandopera.org. Also see volunteer opportunities below.
+
+JOIN THE VOICES OF ENRON TO EXPAND YOUR COMMUNICATION SKILLS!
+MAKE NEW FRIENDS!  EXPAND YOUR HORIZONS! ENHANCE YOUR COMMUNICATION SKILLS!  LOSE THE FEAR OF PUBLIC SPEAKING!  HAVE A GREAT TIME!
+Day: Thursdays
+Time: 11:30 a.m. - 12:30 p.m.
+Location: Enron Building
+For more information about The Voices of Enron, contact Melinda Pharms, Vice President, of Education via e-mail at <mpharms@ect.enron.com> or by phone at 713/853-3866 - Internal Extension 33866 or Kathy Willard, Vice President, Membership at kwillar@enron.com <mailto:kwillar@enron.com>, phone No. 713/646-7341 - Internal Extension 67341
+
+Dance for All Ball
+No Dance Partner Required! 
+
+Saturday, June 9
+First United Methodist Church
+1320 Main St. at Clay
+
+7-9pm:     Dance Lessons by DanceArts   		 		http://www.danceartsballroom.com
+9pm-12:   Dancing! with Live Swing Band. . .Chuck's Trio!
+
+Cover Charge: Minimum $5 Donation
+(All Proceeds go towards Building Materials for Red Bird Project which aids the economically disadvantaged & elderly)
+
+FREE CHILDCARE AVAILABLE - Fun kid activities!
+
+For More Info: call 5-6528
+
+
+
+
+Kevin Hannon, Boys & Girls Club board member, invites you to join Enron employee John Cote at a Boys & Girls Club summer camp. John and Kevin are looking for commitments from some dedicated ENRON men & women. SPREAD THE WORD - SPOUSES, FRIENDS & OFFICE COLLEAGUES WELCOME - LAST YEAR'S CAMP WAS A HUGE SUCCESS! Details below:
+
+WHAT: 	2nd Annual Houston Boys and Girls Club Summer Camp Weekend with Enron's incredible volunteers!
+
+WHEN:  	Boys Camp
+		Friday afternoon (3:00 - 6:00pm), June 22 through Sunday afternoon, June 24 
+		--OR--
+		Friday afternoon (3:00 - 6:00pm), July 20 through Sunday afternoon, July 22 
+		
+		Girls Camp
+		Friday afternoon (3:00 - 6:00pm), July 6 through Sunday afternoon, July 8
+		--OR--
+		Friday afternoon (3:00 - 6:00pm), July 13 through Sunday afternoon, July 15
+
+WHERE:	Willis, TX (75 minutes from downtown Houston -- just north of Conroe)
+
+WHO: 	6-8 counselors per camp to chaperone 75 kids (ages 7-16)
+
+HOW: 	Share all sports activities, including canoeing, hiking, fishing, organizing a talent 			show/bonfire/ghost stories, obstacle course, water balloon fights, softball, 				basketball, archery, football, etc.  (Cooking and clean-up covered by the Houston Boys & 		Girls Club staff.)
+
+CONTACT:	John A. Cote at ext. 33830
+
+
+
+Volunteers Needed for Bring Your Child to Work Day!
+
+Bring Your Child to Work Day is Friday, June 29
+
+Please email Jennifer Milligan if you are interested in volunteering and indicate your preference in the below activities:
+
+Registration Table
+Houston Police Dept / Stranger Danger / Fingerprinting
+Outdoor Activities (SPCA pets, Balloon King, kids crafts, etc.)
+Business Etiquette class
+Business Art (kids' resumes, etc)
+Lunch ticket sales/coordination (in Antioch Park)
+
+
+WANTED! VOLUNTEERS FOR OPERA IN THE PARK 
+
+Carmen, June 8-10, 2001 @ 8:30pm nightly  
+Hermann Park's Miller Outdoor Theatre
+
+
+Following is a list of volunteer duties to be assigned daily.
+ 
+- Distribution of Stagebill programs with inserts of subscription forms and surveys one hour before the show begins.
+- Distribution of giveaways items such as fans and plastic cups prior to the performance.
+- Collection of surveys during intermission.
+
+If interested please contact LaShabriel Keys at 713.546.0283 or lkeys@houstongrandopera.org.  Check-in for volunteers will be at 6:30pm nightly at the Volunteer Information Tent near the Miller Outdoor Theatre stage.
+
+(Volunteers will receive tickets in the reserved seating section for the Carmen performance, free food, a t-shirt and a voucher for any matinee during the upcoming Opera season.)
+
+The Enron Running Club and the Houston Corporate Athletic Association are seeking volunteers to assist at the annual USCAA Track & Field Championships on Saturday, June 9th at Rice University.  There are many volunteer opportunities requiring little or no experience including timers, scoring, lane judges, cheering on athletes and more!  We are looking for employees, families and friends that can contribute a few hours or who are willing to spend the day benefiting a great cause.  If you are interested or would like more information, please contact Kelly Lombardi at x3-8491.
+
+
+
+
+Have News to Share?
+To post news or events in Enron In Action, please e-mail your information to EIA@enron.com 
+no later than 12:00 noon the Thursday prior to the next Monday's mailing.
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"05.30.01  RealTime Roundup","Fast Company's Fast Take newsletter
+May 30, 2001
+
+""You can't control your brand. It's like a kid. You can
+raise it, but in the end, it will do what it wishes.
+Brands need strong and loving parents.""
+-- Scott Bedbury, founder and CEO, Brandstream
+http://trax.fastcompany.com/ft?firstquote052901
+
+CONTENTS:
+* New on Fastcompany.com: RealTime Roundup
+* June Issue: What's on Your Agenda?
+* Company Spotlight: A - Z Fast Companies
+
+************************************************
+
+ADVERTISEMENT
+
+Plot and win the journey of a lifetime from Nautica's
+LATITUDE LONGITUDE Fragrance. Sail into paradise.
+Discover exotic Morocco. Kayak with killer whales.
+Where will your journey take you? Discover and win
+your perfect adventure now at:
+http://trax.fastcompany.com/ft?nautica052901
+
+************************************************
+
+NEW ON FASTCOMPANY.COM: RealTime Roundup
+
+Steal These Ideas! | by Anni Layne and Linda Tischler
+Fast Company's just-completed RealTime Philadelphia
+generated a remarkable collection of ideas, tools, and
+advice. Here are 25 of the event's smartest insights.
+Read them, debate them, and pass them along.
+http://trax.fastcompany.com/ft?philly25052901
+
+Great Expectations, Failed Promises |
+by Anni Layne and Linda Tischler
+Why do so many customers feel betrayed today? Our
+RealTime panel of experts considers this question and
+offers advice for keeping the Net's promise to your
+customers.
+http://trax.fastcompany.com/ft?phillypanel052901
+
+Declarations of Resilience |
+by Anni Layne and Linda Tischler
+Tough times call for real leadership. Here, models and
+mentors from RealTime Philadelphia share strategies for
+navigating this downturn and for pulling ahead of the
+fleet when victory matters most.
+http://trax.fastcompany.com/ft?resilience052901
+
+Did you miss RealTime Philadelphia? Don't worry! You
+can hear sessions from Kevin Roberts, Michael Saylor,
+John Ellis, and others. Learn new ideas and useful
+techniques about competition and strategy, growth and
+innovation, customer service and e-commerce. See the
+entire collection and buy online at:
+http://trax.fastcompany.com/ft?store052901
+
+For all-new Web-exclusive content, go to:
+http://trax.fastcompany.com/ft?home052901
+
+************************************************
+
+JUNE ISSUE: What's on Your Agenda?
+
+Confusing times demand both clear thinking and
+focused execution. We asked 10 senior executives
+and thinkers to explain the most crucial item on
+their strategic agenda.
+http://trax.fastcompany.com/ft?one052901
+
+************************************************
+
+COMPANY SPOTLIGHT: A - Z Fast Companies
+
+Each week, fastcompany.com highlights one of the
+designated fast companies from our A - Z database.
+Read articles and insider comments, and search jobs
+at one of more than 2,000 companies on the list. This
+week, the spotlight shines on Ford Motor Co.
+
+As Ford braces for yet another lashing by the media,
+customers, and Firestone tires, we ask, ""How many
+puncture wounds can one company survive?""
+
+An Employee Says: ""We affectionately refer to Ford
+Motor Co. as 'an aircraft carrier on valium.'""
+
+Essential Reading: Grassroots Leadership
+http://trax.fastcompany.com/ft?fordread052901
+
+Job Opening: Product-Development Professionals
+http://trax.fastcompany.com/ft?fordjob052901
+
+For a complete Fast Company profile of Ford, visit:
+http://trax.fastcompany.com/ft?fordall052901
+
+************************************************
+
+PARTNERSHIP
+
+PC EXPO, the event that gives you forward-thinking
+information on IT and business trends, is now part of a
+content-rich, dynamic event called Technology Exchange
+Week (TECHXNY).
+
+TECHXNY is still your once-a-year, must-attend event
+for the latest trends -- with more to offer than ever
+before! Dates are June 25 - 28, 2001 (exhibits are open
+June 26 - 28, 2001). To register or to attend, use
+code DMPJ at:
+http://trax.fastcompany.com/ft?pcexpo052901
+
+
+
+************************************************
+
+VENT
+
+Tell us what you think of Fast Take. Email your
+feedback to Cecilia Rothenberger at:
+mailto:crothenberger@fastcompany.com?subject=vent_FastTake
+
+************************************************
+
+JOIN THE MOVEMENT
+
+Take advantage of Fast Company's special magazine offer
+for Web readers. Visit http://www.fastcompany.com/x/,
+fill out the form, and receive your first issue
+risk-free.
+
+************************************************
+
+FAST TAKE HELP
+
+You are currently subscribed to Fast Take as:
+monique.sanchez@enron.com
+
+To unsubscribe or change your email address:
+http://www.fastcompany.com/newsletter/index.htm?email=monique.sanchez@enron.com
+
+To receive help regarding Fast Take:
+mailto:webmaster@fastcompany.com?subject=FastTake
+
+Fast Company customer service:
+http://www.fastcompany.com/help/email.html
+
+
+Copyright ? 2001 Gruner + Jahr USA Publishing.
+All rights reserved. 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","fasttake@fastcompany.com","fasttake@fastcompany.com","SMTP","fasttake@fastcompany.com","fasttake@fastcompany.com","SMTP",,,,,,,,,"Normal"
+"cakes","
+Did you get a chance to try those recipes yet?How was Vegas?  We had a pretty good time.Let me know how your doing.    Den
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dpriese@worldnet.att.net","dpriese@worldnet.att.net","SMTP","monique.sanchez@enron.com","monique.sanchez@enron.com","SMTP",,,,,,,,,"Normal"
+"yes...i live","Monique,
+
+Sorry I haven't gotten back to you before now and I truly wish we could've
+gotten together over Memorial Day.  I was only in town a couple of days and
+then off to San Antonio so we just missed each other again.  Go a lot to
+catch up on and I am going to be tenacious in my attempts to get a hold of
+you...let me know when you have time to talk.  I am out this weekend but
+maybe tonight or next week, we can chat.  Let me know.
+
+Take care and stay safe.
+
+joe
+This message is for the designated recipient only and may contain
+privileged or confidential information.  If you have received it in error,
+please notify the sender immediately and delete the original.  Any other
+use of the email by you is prohibited.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","joseph.f.reid@accenture.com","joseph.f.reid@accenture.com","SMTP","monique.sanchez@enron.com","monique.sanchez@enron.com","SMTP",,,,,,,,,"Normal"
+"Fw: Fw: More Than Speeding","
+ 
+----- Original Message -----  
+From: Laura Bearden  
+To: undisclosed-recipients:;  
+Sent: Wednesday, May 16, 2001 9:01 PM
+Subject: Fw: Fw: More Than Speeding
+ 
+ 
+>MORE THAN SPEEDING?
+>
+>A police officer  pulls a guy over for speeding and has the  following
+>exchange:
+>
+>Officer: May I see your driver's  license?
+>
+>Driver: I don't have one. I had it suspended when I  got my 5th DUI.
+>
+>Officer: May I see the owner's card for this  vehicle?
+>
+>Driver: It's not my car. I stole  it.
+>
+>Officer: The car is stolen?
+>
+>Driver: That's  right. But come to think of it, I think I saw the owner's
+>card in the  glove box when I was putting my gun in there.
+>
+>Officer:  There's a gun in the glove box?
+>
+>Driver: Yes sir. That's where  I put it after I shot and killed the woman
+>who owns this car and  stuffed her in the trunk.
+>
+>Officer: There's a BODY in the  TRUNK?!?!?
+>
+>Driver: Yes, sir.
+>
+>Hearing this, the  officer immediately called his captain. The car was
+>quickly  surrounded by police, and the captain approached the driver
+>to handle  the tense situation:
+>
+>Captain: Sir, can I see your  license?
+>
+>Driver: Sure. Here it is.
+>
+>It was  valid.
+>
+>Captain: Who's car is this?
+>
+>Driver:  It's mine, officer. Here's the owner' card.
+>
+>The driver owned  the car.
+>
+>Captain: Could you slowly open your glove box so I  can see if there's
+>a gun in it?
+>
+>Driver: Yes, sir, but  there's no gun in it.
+>
+>Sure enough, there was nothing in the  glove box.
+>
+>Captain: Would you mind opening your trunk? I was  told you said
+>there's a body in it.
+>
+>Driver: No  problem.
+>
+>Trunk is opened; no body.
+>
+>Captain: I  don't understand it. The officer who stopped you said you
+>told him  you didn't have a license, stole the car, had a gun in the
+>glovebox,  and that there was a dead body in the trunk.
+>
+>Driver: Yeah,  I'll bet he told you I was speeding,  too.
+_________________________________________________________________
+Get  your FREE download of MSN Explorer at http://explorer.msn.com
+
+Get your FREE download of MSN Explorer at http://explorer.msn.com 
+
+Get your FREE download of MSN Explorer at http://explorer.msn.com 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dpriese@worldnet.att.net","dpriese@worldnet.att.net","SMTP","tim.deanna@enron.com;tim.dori@enron.com;priese.fred@enron.com;hartwig.jack@enron.com;monique.sanchez@enron.com;rebiere.patrick@enron.com","tim.deanna@enron.com;tim.dori@enron.com;priese.fred@enron.com;hartwig.jack@enron.com;monique.sanchez@enron.com;rebiere.patrick@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"ERC On The Run 5.28.01"," 
+ 
+
+<Embedded Microsoft Word Document>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","cindy.richardson@enron.com","cindy.richardson@enron.com","SMTP","runners@enron.com","runners@enron.com","SMTP",,,,,,,,,"Normal"
+"Re: Random questions","
+Indeed I am whipping up a meal for a li'l  lady.  I think I'll just go ahead and buy a pyrex, I should probly have  one, thanks though.  I'm not quite sure how it came to be this way, but I'm  doing it at my house instead of hers.  So I have a HUGE chore to prepare  the casa before tomorrow night.  I've already banished Nels to Tatia's  place.
+ 
+Ah yes, the brewery picture.  Boy did I  feel B-A-D bad that day!  I really had JUST woken up for that.  Ya,  maybe Friday, we can keep in touch.
+ 
+-RAP
+ 
+----- Original Message ----- 
+From:  Monique.Sanchez@enron.com  
+To: rparry@bcm.tmc.edu  
+Sent: Monday, June 04, 2001 11:48  AM
+Subject: RE: Random questions
+Yo!
+Yes, I believe your typical campells will have little  mushroom pieces in
+it.  And kmart would be a good place to buy a pyrex  dish (glass
+baking)....of course you could borrow any supplies from me any  time.  Are
+you cooking up some grub for a lil lady???
+I heard you  all had a great time.  Saw the pic of you that john said you
+""woke up""  for at the brewery.  Maybe we all can get together for a brew
+before  john and i are off for alaska on sunday.  we will be gone for a  week
+and a half.  Maybe friday after work.
+Let me know if you have  any other cooking q's.
+Mo
+    -----Original  Message-----
+   From:   ""Robert A. Parry, M.S., DABMP""  <rparry@bcm.tmc.edu>@ENRON 
+    Sent:   Monday, June 04, 2001 11:32 AM
+    To:     Sanchez, Monique
+   Subject:   Random questions
+   Hey Momar.  Did you have a  peaceful week?  We had a blast.  I've got a
+    couple of Q's for ya.  Does cream of mushroom soup have actual  mushroom
+   pieces in it?  And where would  be a good  place to buy a glass
+   baking/casserole  dish?
+   Thanks,
+    Robbie
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","rparry@bcm.tmc.edu","rparry@bcm.tmc.edu","SMTP","monique.sanchez@enron.com","monique.sanchez@enron.com","SMTP",,,,,,,,,"Normal"
+"Your May 31 Pay Advice","This message is to inform you that information contained on your printed pay advice for the pay period ending May 31, 2001, may be misleading.
+
+Regardless of whether you have single or multiple direct deposits, your net pay is correct, but your pay advice will indicate that all of your pay has been deposited collectively to ""Other Bank"".  It does not list specific bank accounts.  However, if you view your pay advice in eHRonline, you will be able to confirm your scheduled direct deposits and verify the accounts to which the deposits were made.  
+
+You may access eHRonline and view your pay advice by taking the following steps:
+
+?	Click the following link to open eHRonline:  https://ehronline.enron.com 
+?	Read the disclaimer
+?	Click Accept
+?	Type your SAP Logon ID (e.g. your ""P"" ID) in the User Id field.
+?	Enter your SAP password in the Password field.
+?	Click the Logon button.
+?	Select Paycheck Inquiry from the drop-down list
+?	Click the radio button next to Results in Period to select the default for the May 31, 2001 pay advice
+?	Click the Continue button.
+?	Click the link for the 05/16/2001-05/31/2001 pay period to display your pay advice.
+?	Scroll to the bottom of the screen to view your direct deposit details.
+
+If you have additional questions about your pay advice or accessing eHRonline, please contact the ISC Customer Care Group at 713.345.4727 or isc.hotline@enron.com .
+
+Thank you.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"Aggie Night at Enron Field-June 15","HOWDY AGS!
+
+The Howdy Club, Houston A&M Club and Reveille Club are sponsoring
+
+AGGIE NIGHT AT ENRON FIELD
+
+It's the Astros vs. the Rangers on Friday, June 15, 2001, starting at 7:05 pm.
+
+Tickets in the Mezzanine are $12.  The attached flyer provides additional details.
+
+If you would like to order tickets with Enron , 
+please fill out the attached spreadsheet 
+and email it back to Heather Johnson(x53240).  
+Be sure to drop off your check at  EB1833C. 
+Information and checks are due
+by 2 pm Monday, June 4  to receive your tickets through the mail.
+ 
+Come join other Aggies@Enron
+at Irma's Southwest Grill
+1314 Texas at Austin
+before the game on June 15.
+
+
+  
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","a..johnson@enron.com","a..johnson@enron.com","SMTP","a..johnson@enron.com","a..johnson@enron.com","SMTP",,,,,,,,,"Normal"
+"eThink About It: 6/5/01","  The eThink Team
+
+
+Do you know what's included in Enron's Code of Ethics?  Do you know what policies affect corporate conduct?  Ask Sharon Butcher, Assistant General Counsel of Corporate Legal, all your questions about our corporate policies today (June 5) on eSpeak at 10 a.m. Houston time.
+Can't make the live event?  No worries.  Go to eSpeak (http://ethink.enron.com/eSpeak/exec/default.asp) now and submit your question.  Sharon will try to answer it during her event and you can read the transcript later.
+
+
+Stop what you're doing!  Go to the Thinkbank (http://nahou-lnapp01.corp.enron.com/eThink/Thinkbank.nsf/HomePage?OpenPage) now!  Notice anything different?
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ethink@enron.com","ethink@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"RE: yo","No need to perk up for me.  I should learn to live with you on days like
+this.
+
+Yes, I do need to pack/start laundry.  I'm flex for dinner.  Two
+suggestions:
+
+1. Eggs and bacon (me)/biscuits (you).  Dishes (me).  Walk with dogs (us).
+2. Meet at home, slip into our running gear, grab the dogs, and go to
+Memorial for a jog.  Stop on the way home and pick something up for dinner
+(veggies with tofu).
+
+-----Original Message-----
+From: Sanchez, Monique [mailto:Monique.Sanchez@enron.com]
+Sent: Tuesday, May 22, 2001 2:33 PM
+To: jmenconi@adv-eng-ser-inc.com
+Subject: yo
+
+hey there,
+wondering what you'd like to do tonight for dinner?
+i know you probably need to do stuff like pack for germ.
+i am supremely grouchy.  i will do my best to perk up for you when i get
+home.
+i forgot shoes so i will not be joining sue at hanks.
+my plan was to go home....start drinking...and do some desk
+work/sparebedroom work.
+just shoot me a line when you get a chance...........latersky.
+Mo.
+
+ - winmail.dat 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jmenconi@adv-eng-ser-inc.com","jmenconi@adv-eng-ser-inc.com","SMTP","monique.sanchez@enron.com","monique.sanchez@enron.com","SMTP",,,,,,,,,"Normal"
+"RACE RESULTS - Heights 5K","I hope everyone had a great time at the Heights 5K Fun Run this weekend.  For those that participated in the run, please send me your finishing time.
+
+The following runners have not provided me a time:
+
+Catalina Ayala-Nelson
+Akasha Bibb
+Joe Castillo
+Andrew Edison
+Susan Edison
+Joe Kachinski
+Charles Nelson
+Jeanette Nickell
+Monique Sanchez
+Susan Scott
+Karen Snow
+
+If you were unable to participate, please reimburse the ERC as soon as possible.
+
+Checks payable to:	Enron Running Club
+Amount:		$18.00
+Send to:		Cindy Richardson, EB4845.
+
+Thanks!
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","cindy.richardson@enron.com","cindy.richardson@enron.com","SMTP","enronrunners@enron.com","enronrunners@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Hi!","
+I am soooo sorry I am not able to watch them for you.  I feel bad because I
+said I could.
+I just didn't plan on all of this going on at the same time as your trip.
+Yall are going to have
+a blast!    The 10th is right around the corner.
+
+I got a loan through Countrywide.  It is a good deal because I am going
+with a no income/no asset loan.  Basically I don't disclose any of that
+information.  I have to pay a higher rate because of it but it is the
+easiest way for me to qualify.  Especially since the down payment is not
+coming from my own funds.  But the rate isn't that bad because Countrywide
+will pay a point for me since I have been here over a year.  It's just a
+matter of finding the house I want.
+I will let you know as soon as I get a signed contract.  Then you can come
+to my house warming party!!  = )
+
+The truck should be here anyday now.  I am very excited.  I feel like I
+have waited forever!!  You remember when I first started talking about it
+back in Dec of 2000.  That was a year and a half ago!!  Now I finally get
+it.  Yipppppeeee!!!
+
+The dogs are good.  I took Cookie and Tyson home for Mother's Day weekend.
+Lucy and Tyson played like crazy!!
+Mike fell in love with him.  He wants them both.  hee hee.  He is bringing
+Lucy up to Dallas soon and I get to keep her for SIX MONTHS!!  That is
+going to be insane.  (and alot of doodie too!!!)  But I know she will be
+happy.  They all got along fine in San Antonio.  Oh, and Tyson LOVES
+Cookie.  He licks her ears and eyes all the time.  And then she licks him
+back.  It is really cute.
+
+When do I get to see you???????????
+MIss you,
+
+Jul
+
+
+
+
+
+
+""John Menconi"" <jmenconi@adv-eng-ser-inc.com> on 06/05/2001 01:33:43 PM
+
+Please respond to <jmenconi@adv-eng-ser-inc.com>
+
+To:   <Julie_Menconi@countrywide.com>
+cc:   ""Monique Sanchez \(E-mail\)"" <msanche2@enron.com>
+
+Subject:  RE: Hi!
+
+
+I got back form Germany on Friday and have been trying to catch up with
+work
+before our trip to Alaska.  We leave this Sunday the 10th.  Monique's
+brother is going to watch the dogs while we're gone so don't worry about
+it.
+It sounds like you've got your hands full.
+
+It's great you're buying a house.  We just can't seem to figure out what we
+want to do.  Monique is so stressed out with work right now I'm not sure
+how
+much longer we'll be in Houston.
+
+Did you get a good loan?  Did you get your truck yet?
+
+-----Original Message-----
+From: Julie_Menconi@countrywide.com [mailto:Julie_Menconi@countrywide.com]
+Sent: Tuesday, June 05, 2001 11:52 AM
+To: jmenconi@adv-eng-ser-inc.com
+Subject: RE: Hi!
+
+
+Hi Worm,
+
+How's it going?  I haven't heard from you in awhile!!
+What are the dates you are going to Alaska?
+Did Mom tell you I am buying a house?
+Well, I am.   And it is stressing me out!!!!!
+I have two offers on the table right now.
+Both of the houses are cute.  I just can't decide which one
+I like better.  You need to come visit soon.  Hopefully,
+I will be moved in when you bring Jake and Pearl up.
+How is Mo?  How is work?  How are the dogs?
+Let me know.
+Love,
+Jul
+
+
+
+
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","julie_menconi@countrywide.com","julie_menconi@countrywide.com","SMTP","jmenconi@adv-eng-ser-inc.com","jmenconi@adv-eng-ser-inc.com","SMTP","msanche2@enron.com","msanche2@enron.com","SMTP","msanche2@enron.com","msanche2@enron.com","SMTP",,,"Normal"
+"CONFIRMATION - Heights 5K Fun Run","The following individuals are confirmed for this weekend's Heights 5K Fun Run.  If you wish to participate and you are an ERC member in good standing, you may do so by signing up on your own and seeking reimbursement from the ERC.
+
+Avery	Janell	
+Ayala-Nelson	Catalina	
+Bibb	Akasha	
+Cabrera	Reyna	
+Denetsosie	Troy	
+Edison	Andrew	
+Edison	Susan	
+Faria	Silvana de Castro	
+Foster	Danny	
+Foster	Rob	
+Furey	Denise	
+Golding	Chris	
+Gonzalez	Veronica	
+Harris	Kim	
+Hoskins	Brian	
+Kachinski	Joe	
+Kalmans	Lewis	
+Klicker	Karl	
+Kottong	Michael	
+Lawson	Brad	
+Messer	Bruno	
+Mundim	Milson	
+Nelson	Charles	
+Nickell	Jeanette	
+Quinn	Kristin	
+Richard	Jim	
+Richardson	Cindy	
+Roland	David	
+Sanchez	Monique	
+Saunders	Jim	
+Schroeder	Doug	
+Scott	Susan	
+Snow	Karen	
+Stadnick	Dave 	
+Stewart	Jennifer	
+Taylor	Brent	
+Toward	Theresa	
+Vargas	Laura	
+Watkins	Rebecca	
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","cindy.richardson@enron.com","cindy.richardson@enron.com","SMTP","heightsrunners@enron.com","heightsrunners@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Tuesday's P/L","Hot mail does not seem to work.  I received a rejection notice again.  Storage levels are exceeded.
+
+ -----Original Message-----
+From: 	Bike, Anne  
+Sent:	Tuesday, May 29, 2001 7:35 PM
+To:	'mikegrigsby@hotmail.com'; MonIque Sanchez (E-mail)
+Subject:	Tuesday's P/L
+
+For NX!, it was not too bad.  Have a great evening !  Let me know if you have any questions in the morning.
+
+Thanks
+
+Anne
+
+   
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","anne.bike@enron.com","anne.bike@enron.com","SMTP","mike.grigsby@enron.com;monique.sanchez@enron.com","mike.grigsby@enron.com;monique.sanchez@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"Fw: Imponderables","
+ 
+----- Original Message -----  
+From: Winiecki, Earl N  (Nick)  
+To: Alexander, Tonya  ; Boyd (Buster)  Alexander  ; Bundgaard, Lance  ; Dandridge,  Iran  ; Diane  Zabel  ; Fielder, Theresa  ; Gribsy, Ron  ; Hooper,  Virginia  ; Jackie  ; Jarka, Kathleen  ; Jeff Folloder  ; Klem,  Michael  ; Lankford Jr., John  ; Litwin, Shellie  ; Lovett,  Vicki  ; MacDougall,  Douglas  ; Pfeiffer,  Paulyette  ; phil winiecki  ; Proctor, Dennis   ; Reed, Helen  ; Sargent,  Karen  ; Steinback, Fred  ; Suzanne  ; Winiecki,  Tim  
+Sent: Thursday, May 17, 2001 9:56 AM
+Subject: Imponderables
+ Imponderables 
+1)      If you take an  Oriental person and spin them around several times, do they become  disOriented? 
+2)       If people from Poland are called Poles, why aren't people from Holland called  Holes? 
+3)      Why  do we say something is out of whack? What's a whack? 
+4)      Do infants enjoy infancy as much as  adults seem to enjoy adultery? 
+5)      If a pig loses it's voice, does it  become disgruntled? 
+6)      If love is blind, why is lingerie so  popular? 
+7)       When someone says to you, ""A penny for you thoughts!"", and you put your two  cents in, what happens to the other penny?
+8)      Why is the man who  invests all your money called a broker? 
+9)      Why do croutons come in airtight  packages? It's just stale bread to begin with. 
+10)     When cheese gets its picture taken, what does  it say? 
+11)     Why is a  person who plays a piano called a pianist, but a person who drives a race car  not called a racist? 
+12)     Why are a wise man and a wise guy  opposites? 
+13)     Why do  overlook and oversee mean opposite things? 
+14)     Why is the number 21 pronounced twenty one  and 11 is not onety one? 
+15)     ""I am."" is reportedly the shortest sentence  in the English language.  
+Could it be that ""I do."" is the longest  sentence? 
+
+16)     If lawyers are disbarred  and clergymen defrocked, doesn't it make sense that electricians can be  delighted, musicians denoted, cowboys deranged, models deposed, tree surgeons  debarked, and dry cleaners depressed?
+17)     If FedEx and UPS were to  merge, would they call it Fed UP? 
+18)     Do Lipton tea employees take coffee  breaks? 
+19)     What  color do they put on the driver's licenses of bald men? 
+20)     I was thinking about how people  seem to read the Bible a whole lot more as they get older, then it dawned on  me..........They're cramming for their final exam!
+21)     I thought about how  mothers feed their babies with tiny little forks and spoons, so I wondered what  Chinese mothers use? Toothpicks?
+22)     Why do they put pictures  of criminals up in the Post Office? What are we supposed to do, write to them?  Why don't they just put their pictures on the postage stamps so the mailmen  could look for them while they delivered the mail?
+23)     If it's true that we are  here to help others, then what exactly are the others here for? 
+24)     You never really learn to swear  until you learn how to drive. 
+25)     No one ever says, ""It's only a game!"", when  their team is winning. 
+26)     Do you ever wonder what the speed of  lightning would be if it didn't zigzag? 
+27)     Last night I played a blank tape at full  blast. The mime next door went nuts! 
+28)     If a cow laughed, would milk come out her  nose? 
+29)     Whatever  happened to Preparations A through G? 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dpriese@worldnet.att.net","dpriese@worldnet.att.net","SMTP","tim.deanna@enron.com;priese.fred@enron.com;tim.dori@enron.com;hartwig.jack@enron.com;monique.sanchez@enron.com","tim.deanna@enron.com;priese.fred@enron.com;tim.dori@enron.com;hartwig.jack@enron.com;monique.sanchez@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"eSource Presents Free Dow Jones Interactive Training","
+ 
+
+
+
+eSource presents free Dow Jones Interactive training
+
+Introduction to Dow Jones Interactive
+Learn about the content available through Dow Jones Interactive, and how to quickly put it to work for you. Including setting up your own custom clips and monitoring topics of interest to you.
+
+June. 8	  9:00 - 10:00 AM  EB560
+
+Advanced
+Learn how to be more efficient on Dow Jones Interactive.  Put some power tools to work for you.  Learn how to employ codes, use search history, and customize.  Hands on time is provided.
+
+			June. 8	  10:00 - 11:00 AM  EB560  			
+  June. 8	    11:00 - 12:00 AM  EB560 
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 5-7928
+
+?	No Shows will be charged $50.00
+
+Check the eSource training page at http://esource.enron.com/training.doc for additional training sessions and vendor presentations
+
+http://esource.enron.com
+
+
+
+
+
+<Embedded Picture (Metafile)>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"EnronOnline Quotes on TRUEQUOTE","
+Begining 6/4/01 most North American Gas and Power quotes will be displayed on and transactable from the TRUEQUOTE trading platform. Please call me if you have any questions or need more information. Thanks.
+
+
+Savita
+X31787
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","savita.puthigai@enron.com","savita.puthigai@enron.com","SMTP","traders.eol@enron.com","traders.eol@enron.com","SMTP",,,,,,,,,"Normal"
+"06.06.01  ""Six Ways to Slow Down Smart""","Fast Company's Fast Take newsletter
+June 06, 2001
+
+""Celebrate weakness. Play the fool in your group or
+your company by embracing inversion, absurdity, and
+perseverance. Inverted thinking may help you leapfrog
+the competition. And just think of the innovations that
+rose from failure: Post-it Notes, the telephone, Silly
+Putty, the lightbulb.""
+-- Annette Moser-Wellman, author of
+""The Five Faces of Genius""
+http://robin.fastcompany.com/cgi-bin/nph-t.pl?U=183&M=79151&MS=340
+
+
+CONTENTS:
+* July Issue: Sneak Preview
+* FC Learning: Brand Spanking New!
+* New on Fastcompany.com: On the Eve of Destruction?
+* Hot Stuff: Fast Company's Product Gallery
+
+************************************************
+
+JULY ISSUE: Sneak Preview
+
+You Can Quote Him | by Charles Fishman
+Never mind the cuff links: Charles Schwab is an
+egalitarian. The man who democratized stock trading
+talks about nirvana, sage investing, and his first
+bubble.
+
+How to Stay on the Move ... When the Rest of the World
+Is Slowing Down | by Scott Kirsner
+It's hard to remember a less-inviting time to have a
+great idea for a new company or to champion new ideas
+to change a big company. But leaders who think big
+aren't willing to downsize their ambitions -- they just
+have to work harder (and smarter). Here's advice on how
+to stay fast in slow times.
+
+Innovations to Go | by Fara Warner
+Sometimes it's the people who come late to a technology
+that push the envelope. Here's how firefighters and
+doctors learned to love their PDAs.
+
+John Chambers, After the Deluge | by George Anders
+How do you guide a legendary growth company through the
+worst slump in its history? That's the challenge facing
+Cisco's CEO. In an in-depth interview, Chambers
+explains how to slow down smart, why the Internet still
+matters, and what to do when your big customers stop
+buying.
+
+************************************************
+
+FC LEARNING: Brand Spanking New!
+
+Fast Company Learning is the smartest part of
+fastcompany.com -- where our greatest content becomes a
+curriculum -- and now it's all new! We've added new
+content and new features, and made it easier to use.
+Visit Fast Company Learning each month to read our
+featured BrainTrust topic, to peruse a new review from
+our bookshelf, and to download free PDFs.
+http://robin.fastcompany.com/cgi-bin/nph-t.pl?U=184&M=79151&MS=340
+
+
+* THIS MONTH'S BRAINTRUST TOPIC
+Six Ways to Slow Down Smart | by Christine Canabou
+How do people accustomed to life in the fast lane
+handle slower times -- and prepare for the next cycle
+of growth? Grab a cup of decaf and read through this
+advice on ramping up your downtime.
+http://robin.fastcompany.com/cgi-bin/nph-t.pl?U=185&M=79151&MS=340
+
+
+* BOOKSHELF
+New Rules: Why Values Beat Value | by Alan M. Webber
+What do your customers really want? In an interview,
+futurist Ryan Mathews, coauthor of the forthcoming book
+""The Myth of Excellence,"" offers some surprising
+answers. Forget the lowest price or the biggest
+discount. Show a little respect -- and tell the truth.
+http://robin.fastcompany.com/cgi-bin/nph-t.pl?U=193&M=79151&MS=340
+
+
+* DOWNLOAD CENTRAL
+This Month's Featured Theme: Sales and Marketing
+Read a collection of Fast Company's best articles on
+sales and marketing -- from big ideas on the future of
+branding to detailed case studies -- and download them
+free!
+http://robin.fastcompany.com/cgi-bin/nph-t.pl?U=187&M=79151&MS=340
+
+
+************************************************
+
+ADVERTISEMENT
+
+Promote your company with every email you send! dot
+com mail(tm) from Network Solutions(R) gives you a
+matching email and Web address, plus spam-blocking,
+10MB disk space and more. dot com mail is Web-based and
+works with your current email program. Sign up for dot
+com mail today!
+http://robin.fastcompany.com/cgi-bin/nph-t.pl?U=188&M=79151&MS=340
+
+
+************************************************
+
+New on Fastcompany.com: On the Eve of Destruction?
+
+On the Eve of Destruction? | by Keith H. Hammonds
+""Creative Destruction"" argues that corporate survivors
+must be flexible -- unconcerned by threats of
+cannibalization, channel conflict, or earnings
+dilution. In short, they must rethink the ""Built to
+Last"" credo.
+http://robin.fastcompany.com/cgi-bin/nph-t.pl?U=189&M=79151&MS=340
+
+
+The Reinvention(s) of Sophia Collier | by Ron Lieber
+Few executives boast a resume as diverse and successful
+as Sophia Collier's. Even fewer approach their work
+with Collier's thirst for self-understanding. A story
+in two parts.
+http://robin.fastcompany.com/cgi-bin/nph-t.pl?U=190&M=79151&MS=340
+
+
+For all-new Web-exclusive content, go to:
+http://robin.fastcompany.com/cgi-bin/nph-t.pl?U=191&M=79151&MS=340
+
+
+************************************************
+
+HOT STUFF: Fast Company's Product Gallery
+
+In conjunction with our Hot Stuff product gallery, Fast
+Company delivers monthly email blasts offering you
+essential products and services from the pages of our
+magazine. We work closely with our sponsors to provide
+you with useful information and exclusive offerings,
+but we never share your private information. Fast
+Company contacts you directly with the inside scoop on
+the next hot thing!
+http://robin.fastcompany.com/cgi-bin/nph-t.pl?U=192&M=79151&MS=340
+
+
+
+
+
+************************************************
+
+VENT
+
+Tell us what you think of Fast Take. Email your
+feedback to Cecilia Rothenberger at:
+mailto:crothenberger@fastcompany.com?subject=vent_FastTake
+
+************************************************
+FREE GIFT!
+
+Take a look at Fast Company magazine and get a free gift when you subscribe: a rugged nylon Fast Company bag large enough to carry books, magazines, laptops, and more.  Go to:
+http://robin.fastcompany.com/cgi-bin/nph-t.pl?U=182&M=79151&MS=340
+
+
+
+
+
+
+
+************************************************
+
+FAST TAKE HELP
+
+You are currently subscribed to Fast Take as:
+monique.sanchez@enron.com
+
+To unsubscribe or change your email address:
+http://www.fastcompany.com/newsletter/index.htm?email=monique.sanchez@enron.com
+
+To receive help regarding Fast Take:
+mailto:webmaster@fastcompany.com?subject=FastTake
+
+Fast Company customer service:
+http://www.fastcompany.com/help/email.html
+
+
+Copyright ? 2001 Gruner + Jahr USA Publishing.
+All rights reserved. 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","fasttake@fastcompany.com","fasttake@fastcompany.com","SMTP","fasttake@fastcompany.com","fasttake@fastcompany.com","SMTP",,,,,,,,,"Normal"
+"MAY 16-30, 2001 TIMESHEETS","Only submit your timesheet if you have exceptional time (i.e, sick, personal, vacation, etc.), or if your rotation information has changed.
+
+ Sorry, we are no longer tracking overtime since you are salary based. 
+
+
+To all A/A Pool members: 
+
+?	It is important to inform us if you have exceptional (i.e., vacation, sick, holiday) time.
+
+?	To those members who are submitting time to your assistant, please make sure the assistant forwards
+this information on to the A/A program. 
+
+?	With the Roll-Out of SAP, you have the ability to go on-line @ http://ehronline.enron.com/ and input your time. 
+
+
+I will continue to email for timesheets regardless if you go on-line. 
+
+This memo is to inform you to complete your timesheet.
+
+
+Quick Reminder: 
+
+ You may receive your present paychecks @ EB 1195  (if delivery is not set-up to your location/mail stop). 
+
+NEW LOCATION NOTICE TO RECEIVE PAYCHECKS AS OF JUNE 1, 2001 - EB3539C.
+
+
+Thank You for Your Cooperation
+
+
+
+ 
+
+
+Constance Charles
+Sr. HR Assistant
+Associate & Analyst Program
+Ext. 35614
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","constance.charles@enron.com","constance.charles@enron.com","SMTP","ali.ahmed@enron.com;syed.ahmed@enron.com;chris.ahn@enron.com;carlos.alatorre@enron.com;matthew.almy@enron.com;hector.alviar@enron.com;chuck.ames@enron.com;jonathan.anderson@enron.com;travis.andrews@enron.com;jaime.araoz@enron.com;maria.arefieva@enron.com;kevin.ashby@enron.com;garrett.ashmore@enron.com;jennifer.bagwell@enron.com;marilyn.baker@enron.com;james.bakondy@enron.com;tom.baldwin@enron.com;andres.balmaceda@enron.com;bora.bariman@enron.com;eric.bass@enron.com;scott.baukney@enron.com;mo.bawa@enron.com;moises.benchluch@enron.com;gerardo.benitez@enron.com;hicham.benjelloun@enron.com;shelia.benke@enron.com;peter.bennett@enron.com;philip.berry@enron.com;kyle.berryman@enron.com;kelli.little@enron.com;nate.blackburn@enron.com;brian.blakely@enron.com;timothy.blanchard@enron.com;sebastian.bouvier@enron.com;billy.braddock@enron.com;erika.breen@enron.com;ursula.brenner@enron.com;samantha.bryce@enron.com;harry.bucalo@enron.com;hang.bui@enron.com;bart.burk@enron.com;jeremy.buss@enron.com;juan.cabrales@enron.com;gray.calvert@enron.com;ilan.caplan@enron.com;catalina.cardenas@enron.com;tobin.carlson@enron.com;lex.carroll@enron.com;david.case@enron.com;monika.causholli@enron.com;brandon.cavazos@enron.com;gabriel.chavez@enron.com;will.chen@enron.com;christopher.chenoweth@enron.com;srinivasan.rajesh@enron.com;john.choi@enron.com;kenneth.chow@enron.com;shilpa.chunchu@enron.com;monika.causholli@enron.com;timothy.coffing@enron.com;brian.cohen@enron.com;jim.cole@enron.com;dustin.collins@enron.com;karla.compean@enron.com;lisa.connolly@enron.com;roberto.conterno@enron.com;carlos.contreras@enron.com;clarissa.cooper@enron.com;sebastian.corbacho@enron.com;justin.cornett@enron.com;beth.cowan@enron.com;jody.crook@enron.com;julie.davidson@enron.com;jeremy.dawson@enron.com;amanda.day@enron.com;justin.day@enron.com;ryan.deane@enron.com;regan.dolezal@enron.com;ivan.donaldson@enron.com;m..driscoll@enron.com;sarah.driscoll@enron.com;duc.duong@enron.com;philip.durst@enron.com;vikas.dwivedi@enron.com;teresa.dyar@enron.com;russell.dyk@enron.com;marcus.edmonds@enron.com;zeina.el-azzi@enron.com;erik.eller@enron.com;suzette.emmons@enron.com;sam.enochian@enron.com;fredrik.eriksson@enron.com;tricia.escueta@enron.com;israel.estrada@enron.com;daniel.falcone@enron.com;dan.feather@enron.com;eric.feitler@enron.com;julie.ferrara@enron.com;daniel.ferrell@enron.com;chris.figueroa@enron.com;loftus.fitzwater@enron.com;neithard.foley@enron.com;gallin.fortunov@enron.com;marsha.francis@enron.com;matthew.frank@enron.com;ben.freeman@enron.com;yevgeny.frolov@enron.com;david.frost@enron.com;robert.fuller@enron.com;edmund.gaither@enron.com;sachin.gandhi@enron.com;mark.gandy@enron.com;shalesh.ganjoo@enron.com;santiago.garcia@enron.com;millie.gautam@enron.com;l..gay@enron.com;elberg.gelin@enron.com;eduardo.gil@enron.com;lisa.gillette@enron.com;gabriel.gonzalez@enron.com;martin.gonzalez@enron.com;selena.gonzalez@enron.com;sarah.goodpastor@enron.com;john.gordon@enron.com;joe.gordon@enron.com;carlos.gorricho@enron.com;jeff.gray@enron.com;paul.gregory@enron.com;khristina.griffin@enron.com;scott.griffin@enron.com;michelle.gross@enron.com;jaime.gualy@enron.com;victor.guggenheim@enron.com;david.guillaume@enron.com;brad.guilmino@enron.com;jin.guo@enron.com;amie.ha@enron.com;kreg.hall@enron.com;roshena.ham@enron.com;mason.hamlin@enron.com;pearce.hammond@enron.com;tyrell.harrison@enron.com;damon.harvey@enron.com;micah.hatten@enron.com;david.haug@enron.com;sharon.hausinger@enron.com;jay.hawthorn@enron.com;brian.hendon@enron.com;cybele.henriquez@enron.com;alejandro.hernandez@enron.com;maria.hernandez@enron.com;karen.herrmann@enron.com;veronica.hill@enron.com;ryan.hinze@enron.com;steve.hirsh@enron.com;lenny.hochschild@enron.com;jonathan.hoff@enron.com;brian.hoskins@enron.com;savithri.hospeti@enron.com;john.howton@enron.com;george.huan@enron.com;ted.huang@enron.com;john.hudson@enron.com;christiaan.huizer@enron.com;bryan.hull@enron.com;david.hunker@enron.com;chris.hyde@enron.com;rachana.iyengar@enron.com;matthew.jachimiak@enron.com;alton.jackson@enron.com;steve.jacobellis@enron.com;avinash.jain@enron.com;priya.jaisinghani@enron.com;chris.jantz@enron.com;petual.jeanmard@enron.com;shereka.jefferson@enron.com;felipe.jens@enron.com;mary.john@enron.com;gillian.johnson@enron.com;a..johnson@enron.com;elizabeth.johnston@enron.com;brad.jones@enron.com;david.junus@enron.com;gary.justice@enron.com;daniel.kang@enron.com;key.kasravi@enron.com;shannon.kelley@enron.com;michael.kelly@enron.com;heath.kendall@enron.com;dayem.khandker@enron.com;samar.khleif@enron.com;ali.khoja@enron.com;john.kiani-aslani@enron.com;sean.kiehne@enron.com;grace.kim@enron.com;stephanie.kimble@enron.com;john.king@enron.com;melanie.king@enron.com;colleen.koenig@enron.com;brian.kolle@enron.com;michael.kolman@enron.com;sanjay.konur@enron.com;ahmet.kose@enron.com;ethel.koskas@enron.com;sladana-anna.kulic@enron.com;vikram.kulkarni@enron.com;simone.la@enron.com;farouk.lalji@enron.com;erwin.landivar@enron.com;chad.landry@enron.com;john.lang@enron.com;richard.lassander@enron.com;jebong.lee@enron.com;kyu-bong.lee@enron.com;enrique.lenci@enron.com;matthew.lenhart@enron.com;steven.leung@enron.com;barry.lewis@enron.com;javier.li@enron.com;fatimata.liamidi@enron.com;homer.lin@enron.com;ying.liu@enron.com;jeremy.lo@enron.com;chris.loehr@enron.com;david.loosley@enron.com;kate.lucas@enron.com;brandon.luna@enron.com;diana.luu@enron.com;ashish.mahajan@enron.com;chris.mallory@enron.com;darren.maloney@enron.com;aamir.maniar@enron.com;james.marks@enron.com;massimo.marolo@enron.com;greg.martin@enron.com;roberto.martinez@enron.com;posey.martinez@enron.com;aaron.martinsen@enron.com;david.marye@enron.com;zal.masani@enron.com;david.maskell@enron.com;reagan.mathews@enron.com;brad.mauritzen@enron.com;zachary.mccarroll@enron.com;jennifer.mcclain@enron.com;kelley.mcintyre@enron.com;jennifer.mcquade@enron.com;mark.meigs@enron.com;luis.mena@enron.com;lane.merchant@enron.com;bruno.messer@enron.com;shaleen.miller@enron.com;christine.milliner@enron.com;gabriel.monroy@enron.com;henry.montana@enron.com;mauricio.mora@enron.com","ali.ahmed@enron.com;syed.ahmed@enron.com;chris.ahn@enron.com;carlos.alatorre@enron.com;matthew.almy@enron.com;hector.alviar@enron.com;chuck.ames@enron.com;jonathan.anderson@enron.com;travis.andrews@enron.com;jaime.araoz@enron.com;maria.arefieva@enron.com;kevin.ashby@enron.com;garrett.ashmore@enron.com;jennifer.bagwell@enron.com;marilyn.baker@enron.com;james.bakondy@enron.com;tom.baldwin@enron.com;andres.balmaceda@enron.com;bora.bariman@enron.com;eric.bass@enron.com;scott.baukney@enron.com;mo.bawa@enron.com;moises.benchluch@enron.com;gerardo.benitez@enron.com;hicham.benjelloun@enron.com;shelia.benke@enron.com;peter.bennett@enron.com;philip.berry@enron.com;kyle.berryman@enron.com;kelli.little@enron.com;nate.blackburn@enron.com;brian.blakely@enron.com;timothy.blanchard@enron.com;sebastian.bouvier@enron.com;billy.braddock@enron.com;erika.breen@enron.com;ursula.brenner@enron.com;samantha.bryce@enron.com;harry.bucalo@enron.com;hang.bui@enron.com;bart.burk@enron.com;jeremy.buss@enron.com;juan.cabrales@enron.com;gray.calvert@enron.com;ilan.caplan@enron.com;catalina.cardenas@enron.com;tobin.carlson@enron.com;lex.carroll@enron.com;david.case@enron.com;monika.causholli@enron.com;brandon.cavazos@enron.com;gabriel.chavez@enron.com;will.chen@enron.com;christopher.chenoweth@enron.com;srinivasan.rajesh@enron.com;john.choi@enron.com;kenneth.chow@enron.com;shilpa.chunchu@enron.com;monika.causholli@enron.com;timothy.coffing@enron.com;brian.cohen@enron.com;jim.cole@enron.com;dustin.collins@enron.com;karla.compean@enron.com;lisa.connolly@enron.com;roberto.conterno@enron.com;carlos.contreras@enron.com;clarissa.cooper@enron.com;sebastian.corbacho@enron.com;justin.cornett@enron.com;beth.cowan@enron.com;jody.crook@enron.com;julie.davidson@enron.com;jeremy.dawson@enron.com;amanda.day@enron.com;justin.day@enron.com;ryan.deane@enron.com;regan.dolezal@enron.com;ivan.donaldson@enron.com;m..driscoll@enron.com;sarah.driscoll@enron.com;duc.duong@enron.com;philip.durst@enron.com;vikas.dwivedi@enron.com;teresa.dyar@enron.com;russell.dyk@enron.com;marcus.edmonds@enron.com;zeina.el-azzi@enron.com;erik.eller@enron.com;suzette.emmons@enron.com;sam.enochian@enron.com;fredrik.eriksson@enron.com;tricia.escueta@enron.com;israel.estrada@enron.com;daniel.falcone@enron.com;dan.feather@enron.com;eric.feitler@enron.com;julie.ferrara@enron.com;daniel.ferrell@enron.com;chris.figueroa@enron.com;loftus.fitzwater@enron.com;neithard.foley@enron.com;gallin.fortunov@enron.com;marsha.francis@enron.com;matthew.frank@enron.com;ben.freeman@enron.com;yevgeny.frolov@enron.com;david.frost@enron.com;robert.fuller@enron.com;edmund.gaither@enron.com;sachin.gandhi@enron.com;mark.gandy@enron.com;shalesh.ganjoo@enron.com;santiago.garcia@enron.com;millie.gautam@enron.com;l..gay@enron.com;elberg.gelin@enron.com;eduardo.gil@enron.com;lisa.gillette@enron.com;gabriel.gonzalez@enron.com;martin.gonzalez@enron.com;selena.gonzalez@enron.com;sarah.goodpastor@enron.com;john.gordon@enron.com;joe.gordon@enron.com;carlos.gorricho@enron.com;jeff.gray@enron.com;paul.gregory@enron.com;khristina.griffin@enron.com;scott.griffin@enron.com;michelle.gross@enron.com;jaime.gualy@enron.com;victor.guggenheim@enron.com;david.guillaume@enron.com;brad.guilmino@enron.com;jin.guo@enron.com;amie.ha@enron.com;kreg.hall@enron.com;roshena.ham@enron.com;mason.hamlin@enron.com;pearce.hammond@enron.com;tyrell.harrison@enron.com;damon.harvey@enron.com;micah.hatten@enron.com;david.haug@enron.com;sharon.hausinger@enron.com;jay.hawthorn@enron.com;brian.hendon@enron.com;cybele.henriquez@enron.com;alejandro.hernandez@enron.com;maria.hernandez@enron.com;karen.herrmann@enron.com;veronica.hill@enron.com;ryan.hinze@enron.com;steve.hirsh@enron.com;lenny.hochschild@enron.com;jonathan.hoff@enron.com;brian.hoskins@enron.com;savithri.hospeti@enron.com;john.howton@enron.com;george.huan@enron.com;ted.huang@enron.com;john.hudson@enron.com;christiaan.huizer@enron.com;bryan.hull@enron.com;david.hunker@enron.com;chris.hyde@enron.com;rachana.iyengar@enron.com;matthew.jachimiak@enron.com;alton.jackson@enron.com;steve.jacobellis@enron.com;avinash.jain@enron.com;priya.jaisinghani@enron.com;chris.jantz@enron.com;petual.jeanmard@enron.com;shereka.jefferson@enron.com;felipe.jens@enron.com;mary.john@enron.com;gillian.johnson@enron.com;a..johnson@enron.com;elizabeth.johnston@enron.com;brad.jones@enron.com;david.junus@enron.com;gary.justice@enron.com;daniel.kang@enron.com;key.kasravi@enron.com;shannon.kelley@enron.com;michael.kelly@enron.com;heath.kendall@enron.com;dayem.khandker@enron.com;samar.khleif@enron.com;ali.khoja@enron.com;john.kiani-aslani@enron.com;sean.kiehne@enron.com;grace.kim@enron.com;stephanie.kimble@enron.com;john.king@enron.com;melanie.king@enron.com;colleen.koenig@enron.com;brian.kolle@enron.com;michael.kolman@enron.com;sanjay.konur@enron.com;ahmet.kose@enron.com;ethel.koskas@enron.com;sladana-anna.kulic@enron.com;vikram.kulkarni@enron.com;simone.la@enron.com;farouk.lalji@enron.com;erwin.landivar@enron.com;chad.landry@enron.com;john.lang@enron.com;richard.lassander@enron.com;jebong.lee@enron.com;kyu-bong.lee@enron.com;enrique.lenci@enron.com;matthew.lenhart@enron.com;steven.leung@enron.com;barry.lewis@enron.com;javier.li@enron.com;fatimata.liamidi@enron.com;homer.lin@enron.com;ying.liu@enron.com;jeremy.lo@enron.com;chris.loehr@enron.com;david.loosley@enron.com;kate.lucas@enron.com;brandon.luna@enron.com;diana.luu@enron.com;ashish.mahajan@enron.com;chris.mallory@enron.com;darren.maloney@enron.com;aamir.maniar@enron.com;james.marks@enron.com;massimo.marolo@enron.com;greg.martin@enron.com;roberto.martinez@enron.com;posey.martinez@enron.com;aaron.martinsen@enron.com;david.marye@enron.com;zal.masani@enron.com;david.maskell@enron.com;reagan.mathews@enron.com;brad.mauritzen@enron.com;zachary.mccarroll@enron.com;jennifer.mcclain@enron.com;kelley.mcintyre@enron.com;jennifer.mcquade@enron.com;mark.meigs@enron.com;luis.mena@enron.com;lane.merchant@enron.com;bruno.messer@enron.com;shaleen.miller@enron.com;christine.milliner@enron.com;gabriel.monroy@enron.com;henry.montana@enron.com;mauricio.mora@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"No Excuses","We could really use you on the Team, but if you insist that you are unable to participate in this weekend's meet . . . entertain me with your best excuse!  : )
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","cindy.richardson@enron.com","cindy.richardson@enron.com","SMTP","runners@enron.com","runners@enron.com","SMTP",,,,,,,,,"Normal"
+"Undeliverable: Bears","
+--------- Inline attachment follows ---------
+
+From:  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSANCH2>
+To: jmenconi@adv-eng-ser-inc.com
+Date: Thursday, June 7, 2001 5:16:51 GMT
+Subject: 
+
+Bear Destroyed after Fatal Attack in Canada 
+Compiled by Outside Online 
+June 6, 2001 A black bear that attacked and killed a camper in Canada's Northwest Territories was shot yesterday by wildlife officials, according to press reports.
+
+Coroners determined that the bear shot yesterday was the same animal that mauled 18-year-old Kyle Harry on Saturday while he was camping with friends near Yellowknife. The bear had been shot by a RCMP officer at the scene of the attack on Saturday and a necropsy uncovered bullet fragments in the bear's chest that matched the type of bullet used by the officer, a wildlife official told the London Free Press.
+
+Harry and five other teens had camped overnight on Friday before four members of the group left early on Saturday morning, the London Free Press reports. Harry and a 14-year-old girl stayed behind and saw the bear come into their campground around noon. They pulled their food inside of their tent then later made a break for a ridge after the bear approached the tent. The girl was able to escape and get to the road where she was taken to the hospital by a passing car. Harry, caught by the bear as he ascended the ridge, was found dead by officials. A report yesterday by The Outdoor Network says the bear was feeding on Harry when officials arrived.
+
+On Sunday police and wildlife officials launched an intensive search for the animal, employing a helicopter and infrared scanner. Another bear shot on Monday was determined not be the one responsible for the attack.
+
+On July 2 of last year, 24-year-old Canadian biathlete Mary-Beth Miller was killed by a black bear while on a training run at the Myriam Bedard Biathlon Centre near Quebec City.
+
+                
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","exchange.administrator@enron.com","exchange.administrator@enron.com","SMTP","jmenconi@adv-eng-ser-inc.com","jmenconi@adv-eng-ser-inc.com","SMTP",,,,,,,,,"Normal"
+"PLEASE READ","To:								Department:  	ENA Legal 
+
+From:		Mark Taylor					Date:	May 11, 2001
+		Vice President and General Counsel
+
+Subject:	Enron North America Corp. NYMEX Hedge Exemption Applications
+													
+
+We are in the process of preparing applications for position limit exemptions for ENA's NYMEX energy commodities futures trading.  These applications require that ENA represent whether its officers, employees, owners, or agents have a power of attorney, control or have a financial interest in any related commodity future(s) account either individually or acting with another person pursuant to express or implied agreement.
+
+Please direct any responses to my paralegal, Tana Jones, via intercompany email or call her at (713) 853-3399 by the end of business on June 15, 2001 if you have any power of attorney, control or have a financial interest in any commodity futures account (other than an ENA or other trading affiliate account).
+
+IF YOU DO NOT HAVE A COMMODITY FUTURES ACCOUNT, YOU DO NOT NEED TO RESPOND TO THIS REQUEST.
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"RE: Hi!","I got back form Germany on Friday and have been trying to catch up with work
+before our trip to Alaska.  We leave this Sunday the 10th.  Monique's
+brother is going to watch the dogs while we're gone so don't worry about it.
+It sounds like you've got your hands full.
+
+It's great you're buying a house.  We just can't seem to figure out what we
+want to do.  Monique is so stressed out with work right now I'm not sure how
+much longer we'll be in Houston.
+
+Did you get a good loan?  Did you get your truck yet?
+
+-----Original Message-----
+From: Julie_Menconi@countrywide.com [mailto:Julie_Menconi@countrywide.com]
+Sent: Tuesday, June 05, 2001 11:52 AM
+To: jmenconi@adv-eng-ser-inc.com
+Subject: RE: Hi!
+
+
+Hi Worm,
+
+How's it going?  I haven't heard from you in awhile!!
+What are the dates you are going to Alaska?
+Did Mom tell you I am buying a house?
+Well, I am.   And it is stressing me out!!!!!
+I have two offers on the table right now.
+Both of the houses are cute.  I just can't decide which one
+I like better.  You need to come visit soon.  Hopefully,
+I will be moved in when you bring Jake and Pearl up.
+How is Mo?  How is work?  How are the dogs?
+Let me know.
+Love,
+Jul
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jmenconi@adv-eng-ser-inc.com","jmenconi@adv-eng-ser-inc.com","SMTP","julie_menconi@countrywide.com","julie_menconi@countrywide.com","SMTP","msanche2@enron.com","msanche2@enron.com","SMTP","msanche2@enron.com","msanche2@enron.com","SMTP",,,"Normal"
+"belated hello and sorry for not calling you back","Monique,
+
+I really wanted to spend some time talking with you this past weekend but
+with the bachelor party I was involved with, it was impossible to fit it
+in.  And the fact of the matter is I'm sorry on a number of levels.  The
+most obvious is that I simply enjoy spending time with you...always fun and
+you always have intelligent things to say.  At a different level, I think
+you have a very level head and are great at giving advice and I value you
+what you have to say about relationships, something I don't think I'm very
+good at yet.  And finally, and at the deepest level, I want to hear what is
+happening in your life and how you are doing?  I know there are things
+going on in your head about career, relationships, etc. and I'd love to
+hear about it and hopefully provide some sort of insight, help.
+
+You know I have always had a soft spot in my heart for you and in a strange
+way I cheer you for your successes and I am sad for you when you are
+troubled...I'll stop there because this just doesn't come across well
+through email.  Maybe we could grab a beer on Friday afternoon like last
+time at the Ale House (I'll be in town).  Let me know if you are available,
+respond by email when you can
+
+Hope all is well and I'll talk to you soon,
+
+joe
+
+
+Joseph F. Reid
+Accenture
+617-454-8636 W
+617-515-7679 C
+
+This message is for the designated recipient only and may contain
+privileged or confidential information.  If you have received it in error,
+please notify the sender immediately and delete the original.  Any other
+use of the email by you is prohibited.
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","joseph.f.reid@accenture.com","joseph.f.reid@accenture.com","SMTP","monique.sanchez@enron.com","monique.sanchez@enron.com","SMTP",,,,,,,,,"Normal"
+"EnTouch Newsletter","
+ 
+
+
+
+BUSINESS HIGHLIGHTS
+
+Enron Industrial Markets	
+The Transaction Development group (TD) is responsible for corporate development, transaction execution and portfolio management activities within EIM.  TD is responsible for asset and corporate acquisitions to support EIM's efforts in the Forest Products and Steel industries.  TD works with EIM's Forest Products and Steel Origination groups to structure and execute complex transactions for EIM's customers.  TD also manages EIM's equity investments, such as EIM's ownership position in Papier Masson, Ltee, a paper mill in Quebec, Canada.
+
+TD is comprised of approximately 20 professionals with a wide range of backgrounds including investment banking, commercial banking, management consulting, law, project development, accounting and engineering.  In addition, the majority of the analysts and associates within EIM work in TD since it provides a strong base of deal experience for junior members of our organization.  
+
+Enron Freight Markets
+Enron Freight Markets has continued to expand the transportation services offered to its customers and completed several flatbed truck moves outbound from Georgia this week.  There was a shortage of flatbed equipment supply in this market and EFM was able to obtain more than three times the normal margin on each move.
+
+       
+IN THE NEWS
+
+""Enron's bilateral internet trading platform, EnronOnline, was launched in November 1999 and is the largest e-commerce site on the planet based on the value of its transactions.  As EPRM went to press, it had average daily trading volume of $3.5 billion, accounting for nearly 50% of the company's revenues from wholesale marketing activities."" -- Energy Power Risk Management, May 2001
+
+
+WELCOME
+New Hires
+EIM   - Cheryl Lindeman
+ENA  - Chris Bystriansky, Paula Craft, Eugene Lee, Bhalachandra Mehendale, Sarah Wooddy
+
+Transfers (to or within)
+ENA - Grace Taylor, Steven Irvin, Dina Snow
+
+
+NUGGETS & NOTES
+
+Enron is hosting the Chicago Energy Risk Management Seminar at The Drake Hotel in Chicago on June 14, 2001.  Topics include: Power Outlook, Natural Gas Outlook, Hedging Strategies, Weather Risk Management and Pulp and Paper Risk Management. The RSVP deadline is June 8th so please contact Laura Pena as soon as possible at x 3-5376.  This is a great event for ""new"" as well as established customers.  There will be a cocktail reception immediately after the presentations.  Enron will also be hosting seminars in Atlanta, Houston, Denver and San Francisco.  Dates to be announced soon.
+
+Travel tip of the week:
+Flights reserved through Travel Agency in the Park provide you with $150,000 of flight insurance at no additional charge.
+
+EnronOnline Statistics
+Below are the latest figures for EnronOnline as of May 29, 2001.
+
+*	Total Life to Date Transactions >  1,015,000
+*	Life to Date Notional Value of Transactions > $610 billion
+
+
+NEWS FROM THE GLOBAL FLASH
+
+Enron arranges first gas pipeline import into Italy
+Enron has continued its pioneering activities in the Continental gas market by arranging the first gas import into Italy.  The Italian team worked with the Continental Gas desk to arrange this strategically important agreement with Blugas SpA., the wholesale gas company formed by the municipalities of Cremona, Lodi, Mantova and Pavia in north-eastern Italy.  Enron has sourced 100,000 cubic metres per day of natural gas from northern Europe to transport to Italy, transiting it through Germany and Switzerland, despite fierce resistance from Ruhrgas and TransitGas respectively.  
+
+Aside from isolated LNG imports by incumbent monopolies this is the first time that any company has managed to import natural gas by pipeline into Italy since the Italian gas sector was officially liberalised in August 2000. The gas, which started flowing at 06.00 on Thursday 17th May 2001, will be used to meet the needs of two thirds of Blugas' residential customers within the four municipalities. The current contract lasts for five months.
+
+Congratulations to Fabio Greco, Carsten Haack, Didier Magne, Michael Schuh, Marco Lantieri and Daniela Uguccioni.
+
+Enron in the Middle East 
+Enron has relinquished its stake in Dolphin Energy, the joint venture company formed to develop gas reserves in Qatar.
+Enron has agreed to transfer its 24.5 per cent stake in the project to the United Arab Emirates Offset Group (UOG), the majority shareholder. The agreement allows Enron to deploy capital elsewhere and gives UOG the opportunity to seek new partners before the project moves into its next phase.
+
+Development of the Emden/Oude gas hub moves ahead fast
+An important milestone in the evolution of the new gas trading hub on the Dutch-German
+border was reached last week. Last Friday some of the major European gas players held a meeting to officially establish the Emden/Oude gas hub. Although Enron had already initiated the development of the Emden/Oude hub by making a market through EnronOnline as early as December 2000, the goal of this meeting was to set up a working group similar to the Zeebrugge focus group who can  work on setting a legal framework for the Emden/Oude hub. 
+
+Enron was elected as the only new market entrant in this group, reflecting the high level of respect industry peers have for Enron as a major player in the Continental gas market -- even from incumbents!
+
+
+LEGAL STUFF
+The information contained in this newsletter is confidential and proprietary to Enron Corp. and its subsidiaries.  It is intended for internal use only and should not be disclosed.
+
+
+<Embedded Picture (Metafile)>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"
+"Good Morning","
+ <<aggie_deer_hunter.jpg>>
+
+Kathryn Sanchez, EdD
+Assistant Superintendent
+Research and Accountability
+Houston Independent School District
+Phone (713) 892-6350
+Fax   (713) 963-9156
+ksanchez@houstonisd.org
+
+
+
+
+ - aggie_deer_hunter.jpg 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ksanchez@houstonisd.org","ksanchez@houstonisd.org","SMTP","monique.sanchez@enron.com;s..sanchez@enron.com","monique.sanchez@enron.com;s..sanchez@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"prebon/ene dinner","hi guys...i know that over the past few weeks i have been asking you guys if
+you could come out to a prebon/ene dinner on next thursday may 31st at a
+site t.b.d......the day is about a week away now and i hope that we can all
+still hang out...i'm emailing you guys to see who is still in or if there
+are any "":flakes"" as the date grows closer...additionally...where would you
+guys like to go?....any place new in houston that we need to check out ?
+just let me know so i can make the plans and if i left anybody out who wants
+to go ( sneal, griggs, martin, huntman, frank ) the more the better as far
+as i'm concerned...thanks
+
+donny 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dtencellent@prebon.com","dtencellent@prebon.com","SMTP",,,,"dtencellent@prebon.com","dtencellent@prebon.com","SMTP","dtencellent@prebon.com","dtencellent@prebon.com","SMTP",,,"Normal"
+"Test email","I am from the Associate/Analyst department and I am sending out this test email.  If you are no longer an associate or analyst, or would not like to receive future information please let me know, so that I can remove you from the distribution list.  If there is someone you know that did not receive this email please have them to email me.
+
+thank you,
+
+jc
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jacqueline.coleman@enron.com","jacqueline.coleman@enron.com","SMTP","abhijeet.naik@enron.com;ahmet.kose@enron.com;e-mail;carlos.alatorre@enron.com;a.ashmore@enron.com;bilal.bajwa@enron.com;russell.ballato@enron.com;andres.balmaceda@enron.com;barry.lewis@enron.com;mo.bawa@enron.com;c.blakely@enron.com;e-mail;billy.braddock@enron.com;j..brancaccio@enron.com;neel.broker@enron.com;e-mail;juan.cabrales@enron.com;gray.calvert@enron.com;g.carroll@enron.com;s.chettiar@enron.com;y.choi@enron.com;e-mail;e-mail;catherine.clark@enron.com;y.compean@enron.com;a.connolly@enron.com;nathan.creech@enron.com;cybele.henriquez@enron.com;e-mail;david.loosley@enron.com;e-mail;e-mail;e-mail;marlene.devotto@enron.com;laquesha.dillingham@enron.com;douglas.seaworth@enron.com;dustin.collins@enron.com;teresa.dyar@enron.com;edmund.gaither@enron.com;e-mail;erwin.landivar@enron.com;e-mail;fatimata.liamidi@enron.com;felipe.jens@enron.com;m..fenner@enron.com;michael.finger@enron.com;loftus.fitzwater@enron.com;kyriakos.frantzeskakis@enron.com;yevgeny.frolov@enron.com;robert.fuller@enron.com;shalesh.ganjoo@enron.com;eduardo.gil@enron.com;steve.gim@enron.com;martin..gonzalez@enron.com;joe.gordon@enron.com;carlos.gorricho@enron.com;pearce.hammond@enron.com;tyrell.harrison@enron.com;brian.hendon@enron.com;fernando.herrera@enron.com;mog.heu@enron.com;vance.holtzman@enron.com;t.hoskins@enron.com;ilan.caplan@enron.com;p.jachimiak@enron.com;ajay.jagsi@enron.com;e-mail;jaime.gualy@enron.com;jim.cole@enron.com;e-mail;jennifer.bagwell@enron.com;john.gordon@enron.com;gillian.johnson@enron.com;e-mail;justin.cornett@enron.com;noha.kasrawi@enron.com;a..katz@enron.com;kelley.mcintyre@enron.com;russell.kelley@enron.com;john.kiani-aslani@enron.com;k..kuykendall@enron.com;kyu-bong.lee@enron.com;richard.lassander@enron.com;jebong.lee@enron.com;matthew.lenhart@enron.com;f.li@enron.com;majed.limam@enron.com;ying.liu@enron.com;kate.lucas@enron.com;d.luna@enron.com;maria.arefieva@enron.com;e-mail;massimo.marolo@enron.com;greg.martin@enron.com;roberto.martinez@enron.com;e-mail;zal.masani@enron.com;lino.mastrangelo@enron.com;mauricio.mora@enron.com;luis.mena@enron.com;aamir.maniar@enron.com;e-mail;moises.benchluch@enron.com;anthony.moon@enron.com;sarah.mulholland@enron.com;meera.natarajan@enron.com;alberto.olimon@enron.com;kenneth.oliva@enron.com;banu.ozcan@enron.com;juan.padron@enron.com;m.palczer@enron.com;russell.parks@enron.com;catherine.pernot@enron.com;vladi.pimenov@enron.com;j.pinckney@enron.com;denver.plachy@enron.com;a.plauche@enron.com;phil.polsky@enron.com;jim.pyke@enron.com;ibrahim.qureishi@enron.com;sanchayita.ray@enron.com;c.reyes@enron.com;margaret.rhee@enron.com;erin.rice@enron.com;russell.dyk@enron.com;roberto.conterno@enron.com;benjamin.rogers@enron.com;toby.rogers@enron.com;reagan.rorschach@enron.com;roshena.ham@enron.com;derrick.ross@enron.com;tj.rylander@enron.com;rajneesh.salhotra@enron.com;ian.salmon@enron.com;f.samudio@enron.com;e-mail;e-mail;naveed.ahmed@enron.com;paul.schiavone@enron.com;mark.schlueter@enron.com;eric.schneider@enron.com;scott.baukney@enron.com;c.scott@enron.com;e-mail;seung-taek.oh@enron.com;n.shah@enron.com;e.shim@enron.com;m.shulklapper@enron.com;j..silver@enron.com;inderpal.singh@enron.com;m.smith@enron.com;matt.smith@enron.com;stanton.ray@enron.com;stephanie.kimble@enron.com;steve.jacobellis@enron.com;valter.stoiani@enron.com;chris.stokley@enron.com;a..summerford@enron.com;li.sun@enron.com;jennifer.thome@enron.com;yuan.tian@enron.com;e-mail;suresh.vasan@enron.com;e.vasquez@enron.com;e.vicens@enron.com;vikas.dwivedi@enron.com;joseph.wagner@enron.com;vincent.wagner@enron.com;chuchu.wang@enron.com;jun.wang@enron.com;charles.weldon@enron.com;rob.wheeler@enron.com;c.will@enron.com;bryan.williams@enron.com;jason.wolfe@enron.com;j..wolfe@enron.com;tony.wolfe@enron.com;c.womble@enron.com;t..wood@enron.com;nelson.wu@enron.com;christy.wussow@enron.com;george.huan@enron.com;virawan.yawapongsiri@enron.com;vinay.adenwala@enron.com;olumide.akanni-owoo@enron.com;nadege.assale@enron.com;merrill.barlow@enron.com;akida.bellamy@enron.com;e..bernard@enron.com;anne.beylin@enron.com;george.breen@enron.com;m..carlson@enron.com;peter.chung@enron.com;michael.croffie@enron.com;ashley.deiter@enron.com;eric.dixon@enron.com;judd.eisenberg@enron.com;courtney.gibbs@enron.com;john.grace@enron.com;nadia.herb@enron.com;ryan.herron@enron.com;m..hobson@enron.com;daniel.hyslop@enron.com;jason.jenkins@enron.com;andrew.kandolha@enron.com;arvindh.kumar@enron.com;s..lee@enron.com;david.lekach@enron.com;christopher.lovisone@enron.com;jordan.marye@enron.com;philip.mayor@enron.com;courtney.mcmillian@enron.com;jason.morris@enron.com;andrew.moth@enron.com;holly.nelson@enron.com;jennifer.reimer@enron.com;vaibhav.rekhi@enron.com;vivek.shah@enron.com;aarati.sivasubramanian@enron.com;gregory.smolar@enron.com;wesley.thoman@enron.com;cathy.wang@enron.com;ebony.watts@enron.com;andre.white@enron.com;benjamin.woods@enron.com;michelle.yee@enron.com;simon.yeung@enron.com;aaron.martinsen@enron.com;e-mail;adam.siegel@enron.com;adnan.patel@enron.com;damon.harvey@enron.com;e-mail;alejandro.hernandez@enron.com;e-mail;amanda.schultz@enron.com;ami.thakkar@enron.com;amie.ha@enron.com;maria.hernandez@enron.com;jonathan.anderson@enron.com;angela.saenz@enron.com;anthony.sexton@enron.com;e-mail;ashley.worthing@enron.com;avinash.jain@enron.com;bart.burk@enron.com;benjamin.thomason@enron.com;e-mail;biliana.pehlivanova@enron.com;binh.pham@enron.com;e-mail;brandon.cavazos@enron.com;brian.steinbrueck@enron.com;e-mail;bryan.hull@enron.com;catalina.cardenas@enron.com","abhijeet.naik@enron.com;ahmet.kose@enron.com;.akasha@enron.com;carlos.alatorre@enron.com;a.ashmore@enron.com;bilal.bajwa@enron.com;russell.ballato@enron.com;andres.balmaceda@enron.com;barry.lewis@enron.com;mo.bawa@enron.com;c.blakely@enron.com;.bora@enron.com;billy.braddock@enron.com;j..brancaccio@enron.com;neel.broker@enron.com;.bruno@enron.com;juan.cabrales@enron.com;gray.calvert@enron.com;g.carroll@enron.com;s.chettiar@enron.com;y.choi@enron.com;.christopher@enron.com;.christopher@enron.com;catherine.clark@enron.com;y.compean@enron.com;a.connolly@enron.com;nathan.creech@enron.com;cybele.henriquez@enron.com;.david@enron.com;david.loosley@enron.com;.david@enron.com;.david@enron.com;.david@enron.com;marlene.devotto@enron.com;laquesha.dillingham@enron.com;douglas.seaworth@enron.com;dustin.collins@enron.com;teresa.dyar@enron.com;edmund.gaither@enron.com;.elizabeth@enron.com;erwin.landivar@enron.com;.eva@enron.com;fatimata.liamidi@enron.com;felipe.jens@enron.com;m..fenner@enron.com;michael.finger@enron.com;loftus.fitzwater@enron.com;kyriakos.frantzeskakis@enron.com;yevgeny.frolov@enron.com;robert.fuller@enron.com;shalesh.ganjoo@enron.com;eduardo.gil@enron.com;steve.gim@enron.com;martin..gonzalez@enron.com;joe.gordon@enron.com;carlos.gorricho@enron.com;pearce.hammond@enron.com;tyrell.harrison@enron.com;brian.hendon@enron.com;fernando.herrera@enron.com;mog.heu@enron.com;vance.holtzman@enron.com;t.hoskins@enron.com;ilan.caplan@enron.com;p.jachimiak@enron.com;ajay.jagsi@enron.com;.jaime@enron.com;jaime.gualy@enron.com;jim.cole@enron.com;.jeffrey@enron.com;jennifer.bagwell@enron.com;john.gordon@enron.com;gillian.johnson@enron.com;.juan@enron.com;justin.cornett@enron.com;noha.kasrawi@enron.com;a..katz@enron.com;kelley.mcintyre@enron.com;russell.kelley@enron.com;john.kiani-aslani@enron.com;k..kuykendall@enron.com;kyu-bong.lee@enron.com;richard.lassander@enron.com;jebong.lee@enron.com;matthew.lenhart@enron.com;f.li@enron.com;majed.limam@enron.com;ying.liu@enron.com;kate.lucas@enron.com;d.luna@enron.com;maria.arefieva@enron.com;.marilyn@enron.com;massimo.marolo@enron.com;greg.martin@enron.com;roberto.martinez@enron.com;.mary@enron.com;zal.masani@enron.com;lino.mastrangelo@enron.com;mauricio.mora@enron.com;luis.mena@enron.com;aamir.maniar@enron.com;.mohsin@enron.com;moises.benchluch@enron.com;anthony.moon@enron.com;sarah.mulholland@enron.com;meera.natarajan@enron.com;alberto.olimon@enron.com;kenneth.oliva@enron.com;banu.ozcan@enron.com;juan.padron@enron.com;m.palczer@enron.com;russell.parks@enron.com;catherine.pernot@enron.com;vladi.pimenov@enron.com;j.pinckney@enron.com;denver.plachy@enron.com;a.plauche@enron.com;phil.polsky@enron.com;jim.pyke@enron.com;ibrahim.qureishi@enron.com;sanchayita.ray@enron.com;c.reyes@enron.com;margaret.rhee@enron.com;erin.rice@enron.com;russell.dyk@enron.com;roberto.conterno@enron.com;benjamin.rogers@enron.com;toby.rogers@enron.com;reagan.rorschach@enron.com;roshena.ham@enron.com;derrick.ross@enron.com;tj.rylander@enron.com;rajneesh.salhotra@enron.com;ian.salmon@enron.com;f.samudio@enron.com;.santiago@enron.com;.sarah@enron.com;naveed.ahmed@enron.com;paul.schiavone@enron.com;mark.schlueter@enron.com;eric.schneider@enron.com;scott.baukney@enron.com;c.scott@enron.com;.sebastian@enron.com;seung-taek.oh@enron.com;n.shah@enron.com;e.shim@enron.com;m.shulklapper@enron.com;j..silver@enron.com;inderpal.singh@enron.com;m.smith@enron.com;matt.smith@enron.com;stanton.ray@enron.com;stephanie.kimble@enron.com;steve.jacobellis@enron.com;valter.stoiani@enron.com;chris.stokley@enron.com;a..summerford@enron.com;li.sun@enron.com;jennifer.thome@enron.com;yuan.tian@enron.com;.ursula@enron.com;suresh.vasan@enron.com;e.vasquez@enron.com;e.vicens@enron.com;vikas.dwivedi@enron.com;joseph.wagner@enron.com;vincent.wagner@enron.com;chuchu.wang@enron.com;jun.wang@enron.com;charles.weldon@enron.com;rob.wheeler@enron.com;c.will@enron.com;bryan.williams@enron.com;jason.wolfe@enron.com;j..wolfe@enron.com;tony.wolfe@enron.com;c.womble@enron.com;t..wood@enron.com;nelson.wu@enron.com;christy.wussow@enron.com;george.huan@enron.com;virawan.yawapongsiri@enron.com;vinay.adenwala@enron.com;olumide.akanni-owoo@enron.com;nadege.assale@enron.com;merrill.barlow@enron.com;akida.bellamy@enron.com;e..bernard@enron.com;anne.beylin@enron.com;george.breen@enron.com;m..carlson@enron.com;peter.chung@enron.com;michael.croffie@enron.com;ashley.deiter@enron.com;eric.dixon@enron.com;judd.eisenberg@enron.com;courtney.gibbs@enron.com;john.grace@enron.com;nadia.herb@enron.com;ryan.herron@enron.com;m..hobson@enron.com;daniel.hyslop@enron.com;jason.jenkins@enron.com;andrew.kandolha@enron.com;arvindh.kumar@enron.com;s..lee@enron.com;david.lekach@enron.com;christopher.lovisone@enron.com;jordan.marye@enron.com;philip.mayor@enron.com;courtney.mcmillian@enron.com;jason.morris@enron.com;andrew.moth@enron.com;holly.nelson@enron.com;jennifer.reimer@enron.com;vaibhav.rekhi@enron.com;vivek.shah@enron.com;aarati.sivasubramanian@enron.com;gregory.smolar@enron.com;wesley.thoman@enron.com;cathy.wang@enron.com;ebony.watts@enron.com;andre.white@enron.com;benjamin.woods@enron.com;michelle.yee@enron.com;simon.yeung@enron.com;aaron.martinsen@enron.com;.ace@enron.com;adam.siegel@enron.com;adnan.patel@enron.com;damon.harvey@enron.com;.albane@enron.com;alejandro.hernandez@enron.com;.allison@enron.com;amanda.schultz@enron.com;ami.thakkar@enron.com;amie.ha@enron.com;maria.hernandez@enron.com;jonathan.anderson@enron.com;angela.saenz@enron.com;anthony.sexton@enron.com;.ashish@enron.com;ashley.worthing@enron.com;avinash.jain@enron.com;bart.burk@enron.com;benjamin.thomason@enron.com;.benjamin@enron.com;biliana.pehlivanova@enron.com;binh.pham@enron.com;.brad@enron.com;brandon.cavazos@enron.com;brian.steinbrueck@enron.com;.brian@enron.com;bryan.hull@enron.com;catalina.cardenas@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP","donna.jones@enron.com;john.walt@enron.com","donna.jones@enron.com;john.walt@enron.com","SMTP;SMTP","donna.jones@enron.com;john.walt@enron.com","donna.jones@enron.com;john.walt@enron.com","SMTP;SMTP",,,"Normal"
+"CONFIRMATION - Track & Field Meet, 6/9/01","The following is a list of the athletes that have signed up to participate in this Saturday's track meet.  If your name is on this list and you are unable to participate, please let me know ASAP.  If your name is not on the list and you would like to participate, please let me know as we are still looking for many more runners.
+
+Thanks!
+
+ 
+
+<Embedded Microsoft Word Document>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","cindy.richardson@enron.com","cindy.richardson@enron.com","SMTP","tracksters@enron.com","tracksters@enron.com","SMTP",,,,,,,,,"Normal"
+"XMS Upgrade Transition Plan - All XMS Users Please Read!!","
+    		Concur Expense (XMS) Upgrade!
+
+On July 2, 2001, Enron's Corporate Expense Management Solution will undergo an upgrade to version 6.0.2.  
+The Integrated Solution Center (ISC) has developed a transition plan containing several important deadlines affecting 
+all XMS users.
+
+
+							Transition Schedule
+
+
+Important Date #1 - Monday, June 18th
+?	American Express transactions will no longer be loaded into the current XMS system starting June 18th.  Beginning June 18th, all AMEX transactions will be loaded into the new Concur Expense (XMS) system.
+? 	Beginning June 18th, the ISC will be solely responsible for adding new users to the current XMS system.  On July 2nd, new users created in SAP HR will be 	automatically loaded into the new Concur Expense (XMS) system.
+	
+
+Important Date #2 - Wednesday, June 27th
+?	This marks the deadline for entering new expense reports into the current XMS system.  All open expense reports in XMS must be submitted and approved 	by June 27th.  All users will be locked out of XMS after this date!!
+
+
+Important Date #3 - Monday, July 2nd
+?	The new version of Concur Expense (XMS ver. 6.0.2) goes LIVE!!!
+
+For a list of frequently asked questions (FAQ), please click on the following link:  http://isc.enron.com/site/xmsfaqs.htm
+
+If you have any other questions on any of the above items, please contact the ISC Call Center at 713-345-4727.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","40enron@enron.com","40enron@enron.com","SMTP",,,,,,,,,,,,"Normal"

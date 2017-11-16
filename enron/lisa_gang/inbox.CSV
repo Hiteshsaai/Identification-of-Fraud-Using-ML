@@ -1,0 +1,1794 @@
+"Subject","Body","From: (Name)","From: (Address)","From: (Type)","To: (Name)","To: (Address)","To: (Type)","CC: (Name)","CC: (Address)","CC: (Type)","BCC: (Name)","BCC: (Address)","BCC: (Type)","Billing Information","Categories","Importance","Mileage","Sensitivity"
+"May 2002 Transmission from WALC","Please reply to confirm totals
+
+John Paulsen G4220
+Western Area Power DSW
+Power Scheduling
+Paulsen@WAPA.GOV
+602-352-2557
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","paulsen@wapa.gov","paulsen@wapa.gov","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Book2.xls","
+
+ -----Original Message-----
+From: 	Elafandi, Mo  
+Sent:	Tuesday, June 11, 2002 8:46 AM
+To:	Thome, Jennifer
+Subject:	Book2.xls
+
+ 
+Avista payments post bankruptcy
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","mo.elafandi@enron.com","mo.elafandi@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"BPA Dec. 01, DMS #12593","Elsie:
+
+Sorry, in looking over this again with Lisa, we want to be sure that we understand the request correctly.  
+
+See attached for my understanding of what you are requesting and please confirm.
+
+I looked at this from the perspective of each entire deal.  For each, I took the total price and volume of the deal and subtracted/added the MWs you specified and then calculated the revised value of each deal.  
+
+Is this a correct understanding of the changes needed and their impact?
+
+Thanks, Jenny
+
+ 
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Thursday, May 30, 2002 8:05 AM
+To:	Thome, Jennifer
+Subject:	RE: to portland for bpa.xls
+
+Hey Jennifer,
+	Did you have any more questions related to this?
+Thanks,
+Elsie
+713-853-6757
+
+ -----Original Message-----
+From: 	Thome, Jennifer  
+Sent:	Wednesday, May 22, 2002 4:08 PM
+To:	Lew, Elsie
+Subject:	RE: to portland for bpa.xls
+
+Got it, thanks.
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Wednesday, May 22, 2002 2:02 PM
+To:	Thome, Jennifer
+Subject:	RE: to portland for bpa.xls
+
+Jennifer,,,,,I updated the dms....in the comment section this is for 2 deals...the difference between enpwer mw and revised mw will be 8150 mw (12600mw revised to 4450mw)...the spreadsheet is the detail for the changes needed and not totals for the deals.  
+
+Thanks,
+Elsie
+
+
+ -----Original Message-----
+From: 	Thome, Jennifer  
+Sent:	Wednesday, May 22, 2002 3:56 PM
+To:	Lew, Elsie
+Subject:	RE: to portland for bpa.xls
+
+Elsie:
+
+Thanks for the welcome!
+
+Already I have a quick question - in the attached spreadsheet, the disputed MW columns seem to add up to 12600 and 4450.  In reading the DMS, I would expect them to add up to 14600 and 5600 (or 12600 and 3600, if I only include the referrenced deal, #12593). Am I missing something?
+
+Jenny
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Wednesday, May 22, 2002 1:36 PM
+To:	Thome, Jennifer
+Subject:	FW: to portland for bpa.xls
+
+....and welcome aboard!
+
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Wednesday, May 22, 2002 3:34 PM
+To:	Thome, Jennifer; Thompson, Virginia
+Cc:	Grace, Rebecca M.
+Subject:	to portland for bpa.xls
+
+ << File: to portland for bpa.xls >> 
+Hello,,,,,this is the support of the chgs needed for dms request 12593.  If you have questions or need additional info, I'm at 713-853-6757.
+
+Thanks,
+Elsie
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","elsie.lew@enron.com","elsie.lew@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,"Normal"
+"TRANSSTATUS 30857 RECEIVED","Reservation status has changed to RECEIVED. See attachment.
+
+ASSIGNMENT_REF = 30857
+SELLER_CODE = AZPS
+SELLER_DUNS = 958982563
+CUSTOMER_CODE = EPMI  
+CUSTOMER_DUNS = 848921276
+AFFILIATE_FLAG = 0
+PATH_NAME = W/AZPS/AZPS-AZPS/FOURCORNE345 - PNPKAPS230//
+POINT_OF_RECEIPT = FOURCORNE345
+POINT_OF_DELIVERY = PNPKAPS230
+SOURCE = FOURCORNERS3
+SINK = PNPK
+CAPACITY = 25
+CAPACITY_REQUESTED = 25
+SERVICE_INCREMENT = HOURLY
+TS_CLASS = FIRM
+TS_TYPE = POINT_TO_POINT
+TS_PERIOD = OFF_PEAK
+TS_WINDOW = FIXED
+TS_SUBCLASS = WHEEL
+NERC_CURTAILMENT_PRIORITY = Nerc Priority 1
+OTHER_CURTAILMENT_PRIORITY = Default
+START_TIME = 06/18/2002
+STOP_TIME = 06/18/2002
+CEILING_PRICE = 3.13
+OFFER_PRICE = 3.13
+BID_PRICE = 3.13
+PRICE_UNITS = $/mW  
+PRECONFIRMED = YES
+ANC_SVC_LINK = N/A
+ANC_SVC_REQ = N/A
+POSTING_REF = 0
+SALE_REF = 
+REQUEST_REF = 
+DEAL_REF = 
+NEGOTIATED_PRICE_FLAG = 
+STATUS = CONFIRMED
+STATUS_NOTIFICATION = lisa.gang@enron.com
+STATUS_COMMENTS = 
+TIME_QUEUED = 06/17/2002
+RESPONSE_TIME_LIMIT = 
+TIME_OF_LAST_UPDATE = 06/17/2002
+PRIMARY_PROVIDER_COMMENTS = 
+SELLER_COMMENTS = 
+CUSTOMER_COMMENTS = for info call (503)464-5070
+SELLER_NAME = AZPS
+SELLER_PHONE = 602.250.1128
+SELLER_FAX = 602.250.1155
+SELLER_EMAIL = oasisadm@apsc.com
+CUSTOMER_NAME = Enron Power Marketing, Inc.
+CUSTOMER_PHONE = (713)853-3801
+CUSTOMER_FAX = (713)646-8272
+CUSTOMER_EMAIL = bill.rust@enron.com
+REASSIGNED_REF = 0
+REASSIGNED_CAPACITY = 0
+REASSIGNED_START_TIME = 
+REASSIGNED_STOP_TIME =
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","oasis502@apsc.com","oasis502@apsc.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"FW:"," 
+-----Original Message-----
+From: Turner, Maricar [mailto:MJTurner@caiso.com]
+Sent: Thursday, June 20, 2002 9:41 AM
+To: Schultz, Janelle; Anna Francis (E-mail); Cheryl Wolfersberge (E-mail); Debbie Chambers (E-mail); Dee Turner (E-mail); Thome, Jennifer; LaShawn Salery (E-mail); Michelle Copland (E-mail)
+Subject: FW: 
+
+
+ 
+-----Original Message-----
+From: Khatri, Meghna 
+Sent: Thursday, June 20, 2002 9:36 AM
+To: 'nileshk73@hotmail.com'
+Cc: Karuna Gupta (E-mail); Ketan Pardiwala (E-mail); Kusum Pardiwala (E-mail); Turner, Maricar; Nimita Chachra (E-mail); Suresh Pardiwala (E-mail)
+Subject: FW: 
+
+
+
+ 
+
+Maybe God wants us to meet a
+few wrong people before meeting
+the right one so that when we finally
+meet the right person, we will know
+how to be grateful for that gift.
+
+When the door of happiness closes,
+another opens, but often times we look
+so long at the closed door that we don't
+see the one which has been opened for us.
+
+  <http://www.funnygreetings.com/camel5/door_carpet_md_wht.gif>
+
+  <http://www2.flowgo.com/images/bt/trans.gif?page_id=10005>
+
+The best kind of friend is the kind you
+can sit on a porch and swing with,
+never say a word, and then walk away
+feeling like it was the best
+conversation you've ever had.
+
+It's true that we don't know what we've
+got until we lose it, but it's also true
+that we don't know what we've been
+missing until it arrives.
+
+Giving someone all your love is never an
+assurance that they'll love you back.
+Don't expect love in return; just wait
+for it to grow in their heart.
+But if it doesn't, be content it grew in yours.
+
+  <http://www.funnygreetings.com/camel5/heart.gif>            <http://www.funnygreetings.com/camel5/heart.gif>
+
+It takes only a minute to get a crush on someone,
+an hour to like someone, and a day to love someone,
+but it takes a lifetime to forget someone.
+
+Don't go for looks; they can deceive.
+Don't go for wealth; even that fades away.
+Go for someone who makes you smile because it
+takes only a smile to make a dark day seem bright.
+Find the one that makes your heart smile.
+
+There are moments in life when you miss someone
+so much that you just want to pick them from
+your dreams and hug them for real.
+
+  <http://www.funnygreetings.com/camel5/hug.gif>
+
+Dream what you want to dream; go where you
+want to go; be what you want to be,
+because you have only one life and one
+chance to do all the things you want to do.
+
+Always put yourself in others' shoes.
+If you feel that it hurts you,
+it probably hurts the other person too.
+
+The happiest of people don't necessarily
+have the best of everything;
+they just make the most of everything that
+comes along their way.
+
+The brightest future will always be based
+on a forgotten past, you can't go on well
+in life until you let go of your past
+failures and heartaches.
+
+When you were born, you were crying and
+everyone around you was smiling.
+Live your life so that when you die,
+you're the one who is smiling and
+everyone around you is crying.
+
+  <http://www.funnygreetings.com/camel5/woman_rocking_baby_md_wht.gif>
+
+(just a reminder!!!)
+
+
+
+  _____  
+
+
+  _____  
+
+Download exciting Logos <http://in.mobile.yahoo.com/106/>, Picture Messages <http://in.mobile.yahoo.com/108/> & Ringtones <http://in.mobile.yahoo.com/tune/christmas0.html> for your mobile phone new <http://in.yimg.com/i/in/new2.gif>
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","virginia.thompson@enron.com;lisa.gang@enron.com","virginia.thompson@enron.com;lisa.gang@enron.com","SMTP;SMTP",,,,,,,,,"Normal"
+"RE: Avista Energy Post Petition Pre-Pay","Virginia,
+I talked with Molly from Avista and she said that this payment was for Dec 01. 
+
+Mo,
+Unless you disagree, I have applied this payment to the month mentioned above. Let me know. Thanks.
+
+ -----Original Message-----
+From: 	Thompson, Virginia  
+Sent:	Wednesday, June 19, 2002 10:11 AM
+To:	Minnis, Sabrina
+Cc:	Elafandi, Mo; Thome, Jennifer; Gang, Lisa
+Subject:	RE: Avista Energy Post Petition Pre-Pay
+
+Hi Sabrina.  
+
+  Sorry it has taken me a while to get back to you on this.  Jenny Thome and Lisa Gang are working on Avista true-up from Jan '02 thru current. I believe that this pre-payment for $899,464.00 is for the week of Jan 1 thru Jan 7, 2002.  Mo - can you please confirm this?  The wire transfer request is pending 26, but  just says prepay without a trade date.  Payment was made 12/21/02.
+
+  Virginia
+ 
+
+ -----Original Message-----
+From: 	Minnis, Sabrina  
+Sent:	Wednesday, June 12, 2002 1:25 PM
+To:	Thompson, Virginia
+Subject:	Avista Energy Post Petition Pre-Pay
+
+Hi Virginia,
+
+On December 21, 2001, Jake Thomas sent a prepayment wire request of $899,464 to be paid to Avista. I'm doing a reconciliation for Avista and I need to know for what month this should be applied to. Can you please e-mail me back if you have this information? Your help is deeply appreciated. Thanks.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","sabrina.minnis@enron.com","sabrina.minnis@enron.com","SMTP","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP","mo.elafandi@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","mo.elafandi@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","SMTP;SMTP;SMTP","mo.elafandi@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","mo.elafandi@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"FW: Test of OATI Certificates","
+
+-----Original Message-----
+From: Sheppard, Kathryn 
+Sent: Monday, June 17, 2002 10:52 AM
+To: Cavanaugh, Darren
+Subject: FW: Test of OATI Certificates
+
+
+
+
+-----Original Message-----
+From: Bill Comish [mailto:bill@wecc.biz]
+Sent: Monday, June 17, 2002 10:42 AM
+To: EHV.Web.Site.Clients@webserv.wscc.com
+Subject: Test of OATI Certificates
+
+
+On Wednesday, June 19, at 1000 MDT (0900 PDT) we will test the EHV web 
+site server's ability to utilize OATI digital certificates.  This will require moving 
+to the backup server for about an hour.  While on the backup, access to the 
+site will not be available through Tradewave.  After the test, we will switch 
+back to Tradewave.
+
+We'd like as many people as possible to participate in this test.  To 
+participate, you must have an OATI digital certificate.  If you do not yet have 
+an OATI certificate and are ready to get one, please send a message to me 
+and I'll let OATI know.  It will take 2-3 days to obtain and install a certificate.
+
+Please let me know today if you plan to participate in the test.  Following the 
+test, I'll be requesting information from you as to how successful you were in 
+accessing the site.
+
+As I have announced before, after June 30, the access through Tradewave 
+will no longer be available.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","darren.cavanaugh@enron.com","darren.cavanaugh@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"BPA Cuts","We were cut 40 MW today by BPA for peak hours on 6/18 at COB on enpower deal number 305699. Lisa purchased replacement power from Avista at $30. Enpower 897712
+
+We presold power to Avista at $33.50 for the month and are now buying it back from them at $30 to book out.  Of course, BPA should not charge us for the 27.25 supply price under their contract.
+
+
+Mo Elafandi 
+Enron North America 
+121 SW Salmon, 3WTC0407
+Portland, OR 97204 
+503-464-5106 
+Fax 503-464-7376
+Cellular 503-860-8564
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","mo.elafandi@enron.com","mo.elafandi@enron.com","SMTP","edward.baughman@enron.com","edward.baughman@enron.com","SMTP","virginia.thompson@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","virginia.thompson@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","SMTP;SMTP;SMTP","virginia.thompson@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","virginia.thompson@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"Outstanding DMS requests - week ending June 21","Hello-
+
+For my own use, I put together the attached list of outstanding DMS requests and plan to do so at the end of each week.  
+
+It occurred to me that perhaps this spreadsheet would be a helpful tool for all of you to see as well.  
+
+If you have any additions/corrections (my apologies for any mistakes!), please let me know.  
+Also, please let me know if you would like me to forward to you an updated spreadsheet like this on a weekly basis.
+
+Note:  I only pulled ""Need Further Documentation"" requests from bankruptcy forward.
+
+Thanks!
+
+Jenny 
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","mark.confer@enron.com;gwendolyn.williams@enron.com;elsie.lew@enron.com;sabrina.minnis@enron.com","mark.confer@enron.com;gwendolyn.williams@enron.com;elsie.lew@enron.com;sabrina.minnis@enron.com","SMTP;SMTP;SMTP;SMTP","m..grace@enron.com;virginia.thompson@enron.com;lisa.gang@enron.com","m..grace@enron.com;virginia.thompson@enron.com;lisa.gang@enron.com","SMTP;SMTP;SMTP","m..grace@enron.com;virginia.thompson@enron.com;lisa.gang@enron.com","m..grace@enron.com;virginia.thompson@enron.com;lisa.gang@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"RE: May 2002 Transmission from WALC","Ok we will charge you for 50 mw's on that day Thanks
+
+John Paulsen G4220
+Western Area Power DSW
+Power Scheduling
+Paulsen@WAPA.GOV
+602-352-2557
+
+>>> ""Gang, Lisa"" <Lisa.Gang@ENRON.com> 06/06/02 09:37AM >>>
+Everything looks great except for May 28th.  We had 2 hours of 25MW of
+txm.  It is supported under Tag #530 for your info.
+
+Thanks 
+
+Lisa  
+
+-----Original Message-----
+From: John Paulsen [mailto:Paulsen@wapa.gov] 
+Sent: Wednesday, June 05, 2002 5:15 PM
+To: Gang, Lisa
+Subject: May 2002 Transmission from WALC
+
+
+Please reply to confirm totals
+
+John Paulsen G4220
+Western Area Power DSW
+Power Scheduling
+Paulsen@WAPA.GOV 
+602-352-2557
+
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant
+affiliate and may contain confidential and privileged material for the
+sole use of the intended recipient (s). Any review, use, distribution or
+disclosure by others is strictly prohibited. If you are not the intended
+recipient (or authorized to receive for the recipient), please contact
+the sender or reply to Enron Corp. at
+enron.messaging.administration@enron.com and delete all copies of the
+message. This e-mail (and any attachments hereto) are not intended to be
+an offer (or an acceptance) and do not create or evidence a binding and
+enforceable contract between Enron Corp. (or any of its affiliates) and
+the intended recipient or any other party, and may not be relied on by
+anyone as the basis of a contract by estoppel or otherwise. Thank you. 
+**********************************************************************
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","paulsen@wapa.gov","paulsen@wapa.gov","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Detail for Hafslund","
+Thanks - sounds like you are doing everything you can.  Let me know on Thursday if you have not heard anything and I can follow up with Mark again (I talk to him almost everyday anyways).   Same goes for the Nevada Power dispute.
+
+Jenny
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Monday, June 17, 2002 1:18 PM
+To:	Thome, Jennifer
+Subject:	FW: Detail for Hafslund
+
+for you info
+
+lisa
+
+ -----Original Message-----
+From: 	Confer, Mark  
+Sent:	Monday, June 17, 2002 1:16 PM
+To:	Gang, Lisa
+Subject:	RE: Detail for Hafslund
+
+I have e-mail Molly and as of yet no response
+
+Mark
+
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Monday, June 17, 2002 3:14 PM
+To:	Confer, Mark
+Subject:	RE: Detail for Hafslund
+
+Thanks!
+
+lisa 
+
+ -----Original Message-----
+From: 	Confer, Mark  
+Sent:	Monday, June 17, 2002 8:33 AM
+To:	Smith, Katina; Gang, Lisa
+Cc:	Grace, Rebecca M.; Minnis, Sabrina
+Subject:	RE: Detail for Hafslund
+
+Lisa I will need to call Hafslund today and request their December 01 detail.
+
+Thanks
+
+Mark
+
+713-345-7179
+
+ -----Original Message-----
+From: 	Smith, Katina  
+Sent:	Friday, June 14, 2002 10:48 AM
+To:	Gang, Lisa
+Cc:	Grace, Rebecca M.; Minnis, Sabrina; Confer, Mark
+Subject:	RE: Detail for Hafslund
+
+Lisa,
+
+Mark is the one that is taking care of that CP and he is not in today.Sabrina Minnis is original coordinator and I asked if she had copies of the information for Hafslund and she replied that she gave it information to Mark Confer.  I'll leave him a note letting him know what you need. The Hafslund issue that I was working with is dealing with the month of Jan 2001. Let me know if I could be of any more assistance to you.
+
+Ka'Tina-
+
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Friday, June 14, 2002 10:27 AM
+To:	Smith, Katina
+Subject:	RE: Detail for Hafslund
+
+Both for all of Dec and or any day that has discrepancy.
+Thanks!
+
+lisa
+
+ -----Original Message-----
+From: 	Smith, Katina  
+Sent:	Friday, June 14, 2002 6:35 AM
+To:	Gang, Lisa
+Cc:	Grace, Rebecca M.
+Subject:	Detail for Hafslund
+
+Lisa,
+
+	DO you need the detail the Enron has for Hafslund or the detail from Hasfslund or Dec 01?
+
+Ka'Tina
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"Hafslund - DMS 12596","Mark:
+
+We figured this out...
+
+In looking at CARP we found discrepancies for both purchases and sales on the 12th that explained the difference between the CP and Enpower.  When I autosheduled these existing deals, our numbers equal theirs.
+
+I marked this DMS as complete.
+
+Thanks for your help.
+
+Jenny
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","mark.confer@enron.com","mark.confer@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,"Normal"
+"Phone List","Lisa,
+
+Here's the phone list you requested.   Where I found multiple numbers, I bolded the first number.
+
+Let me know if you need changes.
+
+Kathy
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","kathryn.sheppard@enron.com","kathryn.sheppard@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: Hafslund Energy Trading","Lisa:
+
+Can you work on this?  I will give you a hard copy of the formal (DMS) request Houston made for this.
+
+Thanks!  Jenny
+
+ -----Original Message-----
+From: 	Confer, Mark  
+Sent:	Friday, May 24, 2002 11:20 AM
+To:	Thome, Jennifer; Thompson, Virginia; Gang, Lisa
+Subject:	Hafslund Energy Trading
+
+I am doing a reconciliation on Hafslund Energy Trading for the period of November 01 thru March 03, other than December 01 all months agree.  I placed an entry in to DMS # 12596 to cover December 01.  EPMI is showing a net payable to Hafslund of $93,420, the invoice from Hafslund shows EPMI owing $66,000 for the period.  Rebecca Grace stated that a reconciliation of the scheduling sheets for December 01 is being done and this difference may be a scheduling issue.  She also stated the reconciliation will be a long process and if I supplied the carp report showing deal detail that it may help.
+
+Thanks,
+
+Mark
+
+
+  
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: avista purchase bpa cuts.xls","
+
+ -----Original Message-----
+From: 	Elafandi, Mo  
+Sent:	Tuesday, June 11, 2002 9:17 AM
+To:	Thome, Jennifer
+Subject:	avista purchase bpa cuts.xls
+
+ 
+additional avista information.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Add new user","
+Lisa,
+
+Please complete the attached file as discussed over the phone.
+
+- Frank, OATI 
+
+-----Original Message-----
+From: Gang, Lisa
+To: OATI (E-mail)
+Cc: Thome, Jennifer; Thompson, Virginia
+Sent: 6/4/02 3:59 PM
+Subject: Add new user
+
+Please add a new user for read only access as follows:
+
+User Name:  Vol_Mgmt
+Password:  pdx2hou
+
+Please contact me at (503) 464-5070. My e-mail address is
+lisa.gang@enron.com for questions.  In addition, please delete the
+following individuals name as they are no longer working at Enron:
+
+Cara Semperger
+Mike Purcell
+Serena Bishop
+
+
+Thank You.  
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate
+and may contain confidential and privileged material for the sole use of
+the intended recipient (s). Any review, use, distribution or disclosure
+by others is strictly prohibited. If you are not the intended recipient
+(or authorized to receive for the recipient), please contact the sender
+or reply to Enron Corp. at enron.messaging.administration@enron.com and
+delete all copies of the message. This e-mail (and any attachments
+hereto) are not intended to be an offer (or an acceptance) and do not
+create or evidence a binding and enforceable contract between Enron
+Corp. (or any of its affiliates) and the intended recipient or any other
+party, and may not be relied on by anyone as the basis of a contract by
+estoppel or otherwise. Thank you. 
+**********************************************************************
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","frank.billington@oatiinc.com","frank.billington@oatiinc.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: BPA Dec. 01, DMS #12593","Lisa:
+
+In the message below, Settlements in Houston is confirming that we have the correct understanding of the dispute concerning BPA in Dec. 01 (see the e-mail and spreadsheet I copied to you on May 30).  Let me know if you have questions as you research it.  
+
+Also, do you need anything else from Settlements to enable you to work on the Hafslund request (see my email from May 29).
+
+Note - I am out of the office until Monday.
+
+Have a good weekend.  Jenny
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Monday, June 03, 2002 11:42 AM
+To:	Thome, Jennifer
+Cc:	Gang, Lisa
+Subject:	RE: BPA Dec. 01, DMS #12593
+
+Jennifer,
+Yes, I do believe you have the correct understanding.  The ttls you have tie to the dms impact. Let me know if you have any questions.
+
+Thanks,
+Elsie
+
+
+ -----Original Message-----
+From: 	Thome, Jennifer  
+Sent:	Thursday, May 30, 2002 6:15 PM
+To:	Lew, Elsie
+Cc:	Gang, Lisa
+Subject:	BPA Dec. 01, DMS #12593
+
+Elsie:
+
+Sorry, in looking over this again with Lisa, we want to be sure that we understand the request correctly.  
+
+See attached for my understanding of what you are requesting and please confirm.
+
+I looked at this from the perspective of each entire deal.  For each, I took the total price and volume of the deal and subtracted/added the MWs you specified and then calculated the revised value of each deal.  
+
+Is this a correct understanding of the changes needed and their impact?
+
+Thanks, Jenny
+
+ << File: 12593 - BPA.xls >> 
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Thursday, May 30, 2002 8:05 AM
+To:	Thome, Jennifer
+Subject:	RE: to portland for bpa.xls
+
+Hey Jennifer,
+	Did you have any more questions related to this?
+Thanks,
+Elsie
+713-853-6757
+
+ -----Original Message-----
+From: 	Thome, Jennifer  
+Sent:	Wednesday, May 22, 2002 4:08 PM
+To:	Lew, Elsie
+Subject:	RE: to portland for bpa.xls
+
+Got it, thanks.
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Wednesday, May 22, 2002 2:02 PM
+To:	Thome, Jennifer
+Subject:	RE: to portland for bpa.xls
+
+Jennifer,,,,,I updated the dms....in the comment section this is for 2 deals...the difference between enpwer mw and revised mw will be 8150 mw (12600mw revised to 4450mw)...the spreadsheet is the detail for the changes needed and not totals for the deals.  
+
+Thanks,
+Elsie
+
+
+ -----Original Message-----
+From: 	Thome, Jennifer  
+Sent:	Wednesday, May 22, 2002 3:56 PM
+To:	Lew, Elsie
+Subject:	RE: to portland for bpa.xls
+
+Elsie:
+
+Thanks for the welcome!
+
+Already I have a quick question - in the attached spreadsheet, the disputed MW columns seem to add up to 12600 and 4450.  In reading the DMS, I would expect them to add up to 14600 and 5600 (or 12600 and 3600, if I only include the referrenced deal, #12593). Am I missing something?
+
+Jenny
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Wednesday, May 22, 2002 1:36 PM
+To:	Thome, Jennifer
+Subject:	FW: to portland for bpa.xls
+
+....and welcome aboard!
+
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Wednesday, May 22, 2002 3:34 PM
+To:	Thome, Jennifer; Thompson, Virginia
+Cc:	Grace, Rebecca M.
+Subject:	to portland for bpa.xls
+
+ << File: to portland for bpa.xls >> 
+Hello,,,,,this is the support of the chgs needed for dms request 12593.  If you have questions or need additional info, I'm at 713-853-6757.
+
+Thanks,
+Elsie
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"Detail for Hafslund","Lisa,
+
+	DO you need the detail the Enron has for Hafslund or the detail from Hasfslund or Dec 01?
+
+Ka'Tina
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","katina.smith@enron.com","katina.smith@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP","m..grace@enron.com","m..grace@enron.com","SMTP","m..grace@enron.com","m..grace@enron.com","SMTP",,,"Normal"
+"RE: Detail for Hafslund","Lisa I will need to call Hafslund today and request their December 01 detail.
+
+Thanks
+
+Mark
+
+713-345-7179
+
+ -----Original Message-----
+From: 	Smith, Katina  
+Sent:	Friday, June 14, 2002 10:48 AM
+To:	Gang, Lisa
+Cc:	Grace, Rebecca M.; Minnis, Sabrina; Confer, Mark
+Subject:	RE: Detail for Hafslund
+
+Lisa,
+
+Mark is the one that is taking care of that CP and he is not in today.Sabrina Minnis is original coordinator and I asked if she had copies of the information for Hafslund and she replied that she gave it information to Mark Confer.  I'll leave him a note letting him know what you need. The Hafslund issue that I was working with is dealing with the month of Jan 2001. Let me know if I could be of any more assistance to you.
+
+Ka'Tina-
+
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Friday, June 14, 2002 10:27 AM
+To:	Smith, Katina
+Subject:	RE: Detail for Hafslund
+
+Both for all of Dec and or any day that has discrepancy.
+Thanks!
+
+lisa
+
+ -----Original Message-----
+From: 	Smith, Katina  
+Sent:	Friday, June 14, 2002 6:35 AM
+To:	Gang, Lisa
+Cc:	Grace, Rebecca M.
+Subject:	Detail for Hafslund
+
+Lisa,
+
+	DO you need the detail the Enron has for Hafslund or the detail from Hasfslund or Dec 01?
+
+Ka'Tina
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","mark.confer@enron.com","mark.confer@enron.com","SMTP","katina.smith@enron.com;lisa.gang@enron.com","katina.smith@enron.com;lisa.gang@enron.com","SMTP;SMTP","m..grace@enron.com;sabrina.minnis@enron.com","m..grace@enron.com;sabrina.minnis@enron.com","SMTP;SMTP","m..grace@enron.com;sabrina.minnis@enron.com","m..grace@enron.com;sabrina.minnis@enron.com","SMTP;SMTP",,,"Normal"
+"Please","While I'm gone,
+
+Call Chuck Goligoski to receive pricing each day for the PGE delivered losses.  509-688-6057
+Chuck will be flexible to whatever else you need as well
+Enter the price in the trading log each day
+
+A fax will be coming from Sempra Energy Trading for a transaction that I did for July.  Please get it off the fax machine on Thursday and ask Kenton to initial it after you verify 
+50MW Peak Mid C July $29.25/Mwh for $608,400
+Fax to Ed Baughman whose Office Phone is 713-853-6351 and fax is 713-646-3059
+
+Call Ed Baughman @ 713-853-6351 with any issues
+
+Call Paul Choi at AEP with any other immediate needs 503-552-6181
+
+Leave me a voice message if any problems pop up or try my cell number below.
+
+
+Mo Elafandi 
+Enron North America 
+121 SW Salmon, 3WTC0407
+Portland, OR 97204 
+503-464-5106 
+Fax 503-464-7376
+Cellular 503-860-8564
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","mo.elafandi@enron.com","mo.elafandi@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Detail for Hafslund","Lisa,
+
+Mark is the one that is taking care of that CP and he is not in today.Sabrina Minnis is original coordinator and I asked if she had copies of the information for Hafslund and she replied that she gave it information to Mark Confer.  I'll leave him a note letting him know what you need. The Hafslund issue that I was working with is dealing with the month of Jan 2001. Let me know if I could be of any more assistance to you.
+
+Ka'Tina-
+
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Friday, June 14, 2002 10:27 AM
+To:	Smith, Katina
+Subject:	RE: Detail for Hafslund
+
+Both for all of Dec and or any day that has discrepancy.
+Thanks!
+
+lisa
+
+ -----Original Message-----
+From: 	Smith, Katina  
+Sent:	Friday, June 14, 2002 6:35 AM
+To:	Gang, Lisa
+Cc:	Grace, Rebecca M.
+Subject:	Detail for Hafslund
+
+Lisa,
+
+	DO you need the detail the Enron has for Hafslund or the detail from Hasfslund or Dec 01?
+
+Ka'Tina
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","katina.smith@enron.com","katina.smith@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP","m..grace@enron.com;sabrina.minnis@enron.com;mark.confer@enron.com","m..grace@enron.com;sabrina.minnis@enron.com;mark.confer@enron.com","SMTP;SMTP;SMTP","m..grace@enron.com;sabrina.minnis@enron.com;mark.confer@enron.com","m..grace@enron.com;sabrina.minnis@enron.com;mark.confer@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"BPA - Dec. 2001","Lisa:
+
+Houston found another small dispute for Dec. 2001 with BPA.  
+
+Please see the attached.  
+
+In sum, based on BPA's figures, it looks like we doubled up by adding numbers from the 25th to numbers for the 26th (hence, doubling the 26th)
+According to them:
+
+12/26
+Deal 381345 = 600 MW total (not 1200) 
+Deal 380414.1 = 200 MW total (not 400)
+
+Please check the scheduling sheets and let me know if you agree.
+
+Thanks!  Jenny
+
+  
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Detail for Hafslund","I have e-mail Molly and as of yet no response
+
+Mark
+
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Monday, June 17, 2002 3:14 PM
+To:	Confer, Mark
+Subject:	RE: Detail for Hafslund
+
+Thanks!
+
+lisa 
+
+ -----Original Message-----
+From: 	Confer, Mark  
+Sent:	Monday, June 17, 2002 8:33 AM
+To:	Smith, Katina; Gang, Lisa
+Cc:	Grace, Rebecca M.; Minnis, Sabrina
+Subject:	RE: Detail for Hafslund
+
+Lisa I will need to call Hafslund today and request their December 01 detail.
+
+Thanks
+
+Mark
+
+713-345-7179
+
+ -----Original Message-----
+From: 	Smith, Katina  
+Sent:	Friday, June 14, 2002 10:48 AM
+To:	Gang, Lisa
+Cc:	Grace, Rebecca M.; Minnis, Sabrina; Confer, Mark
+Subject:	RE: Detail for Hafslund
+
+Lisa,
+
+Mark is the one that is taking care of that CP and he is not in today.Sabrina Minnis is original coordinator and I asked if she had copies of the information for Hafslund and she replied that she gave it information to Mark Confer.  I'll leave him a note letting him know what you need. The Hafslund issue that I was working with is dealing with the month of Jan 2001. Let me know if I could be of any more assistance to you.
+
+Ka'Tina-
+
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Friday, June 14, 2002 10:27 AM
+To:	Smith, Katina
+Subject:	RE: Detail for Hafslund
+
+Both for all of Dec and or any day that has discrepancy.
+Thanks!
+
+lisa
+
+ -----Original Message-----
+From: 	Smith, Katina  
+Sent:	Friday, June 14, 2002 6:35 AM
+To:	Gang, Lisa
+Cc:	Grace, Rebecca M.
+Subject:	Detail for Hafslund
+
+Lisa,
+
+	DO you need the detail the Enron has for Hafslund or the detail from Hasfslund or Dec 01?
+
+Ka'Tina
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","mark.confer@enron.com","mark.confer@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"BPA December","Lisa:
+
+Thanks for the info. yesterday. We are almost there with BPA in December.  Attached is the remaining dispute.  Could you provide TAGs to support our numbers?
+
+Ugh!  Hopefully this is it.
+
+Jenny
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"City of Riverside - Non Performance","Julie-
+
+  The following City of Riverside deals have been marked to the W. Non-Performance book as of June 7, 2002 and should not be scheduled:
+
+  580382 
+  897695
+  517664
+  591087
+ 
+  Let me know id you have any questions.
+
+  Virginia
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP","julie.sarnowski@enron.com","julie.sarnowski@enron.com","SMTP","mo.elafandi@enron.com;lisa.gang@enron.com;darren.cavanaugh@enron.com;p..o'neil@enron.com;jennifer.thome@enron.com","mo.elafandi@enron.com;lisa.gang@enron.com;darren.cavanaugh@enron.com;p..o'neil@enron.com;jennifer.thome@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP","mo.elafandi@enron.com;lisa.gang@enron.com;darren.cavanaugh@enron.com;p..o'neil@enron.com;jennifer.thome@enron.com","mo.elafandi@enron.com;lisa.gang@enron.com;darren.cavanaugh@enron.com;p..o'neil@enron.com;jennifer.thome@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP",,,"Normal"
+"Steve Cooper's Voice Mail 6/17/02","Good Morning All-
+
+Yesterday Steve Cooper sent out another voice mail.  Attached is the transcript.  Please let me know if you need anything.
+
+Thanks-
+KB
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","khymberly.booth@enron.com","khymberly.booth@enron.com","SMTP","jody.blackburn@enron.com;kelly.brodbeck@enron.com;darren.cavanaugh@enron.com;ryan.deane@enron.com;mo.elafandi@enron.com;caroline.emmert@enron.com;fredrik.eriksson@enron.com;kenton.erwin@enron.com;mark.fillinger@enron.com;jim.gilbert@enron.com;don.hammond@enron.com;april.hrach@enron.com;wayne.mays@enron.com;p..o'neil@enron.com;david.parquet@enron.com;dean.russell@enron.com;julie.sarnowski@enron.com;e-mail;kathryn.sheppard@enron.com;g..slaughter@enron.com;virginia.thompson@enron.com;samuel.wehn@enron.com;bill.williams@enron.com;lisa.gang@enron.com;paul.kane@enron.com;chip.cox@enron.com","jody.blackburn@enron.com;kelly.brodbeck@enron.com;darren.cavanaugh@enron.com;ryan.deane@enron.com;mo.elafandi@enron.com;caroline.emmert@enron.com;fredrik.eriksson@enron.com;kenton.erwin@enron.com;mark.fillinger@enron.com;jim.gilbert@enron.com;don.hammond@enron.com;april.hrach@enron.com;wayne.mays@enron.com;p..o'neil@enron.com;david.parquet@enron.com;dean.russell@enron.com;julie.sarnowski@enron.com;'.'gordon@enron.com;kathryn.sheppard@enron.com;g..slaughter@enron.com;virginia.thompson@enron.com;samuel.wehn@enron.com;bill.williams@enron.com;lisa.gang@enron.com;paul.kane@enron.com;chip.cox@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"Girlfriend's Day","National Girlfriends Day!
+
+ 
+What would most of us do without our sisters, confidants and shopping, lunching, and traveling girls? 
+Let's celebrate each other for each other's sake! 
+TO MY GIRLFRIENDS! 
+If you get this twice you know you have more than one girlfriend. Be Happy! 
+PLEASE PASS THIS ON TO ALL OF YOUR GIRLFRIENDS AND RETURN IT TO THE 
+FRIEND WHO SENT IT TO YOU! 
+It is good to be a woman: 
+1. We got off the Titanic first. 
+2. We can scare male bosses with the mysterious gynecological disorder excuses. 
+3. Taxis stop for us. 
+4. We don't look like a frog in a blender when dancing. 
+5. No fashion faux pas we make, could ever rival the Speedo. 
+6. We don't have to pass gas to amuse ourselves. 
+7. If we forget to shave, no one has to know. 
+8. We can congratulate our teammate without ever touching her rear end. 
+9. We never have to reach down every so often to make sure our privates are still there. 
+10. We have the ability to dress ourselves. 
+11. We can talk to the opposite sex without having to picture them naked. 
+12. If we marry someone 20 years younger, we are aware that we will look like an idiot. 
+13. We will never regret piercing our ears. 
+14. There are times when chocolate really can solve all your problems. 
+15. We can make comments about how silly men are in their presence because they aren't listening anyway. 
+Send this to all the bright women you know and make their day!!!!! 
+
+
+
+ 
+ 
+
+
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","dicutsforth@attbi.com","dicutsforth@attbi.com","SMTP","savage.joe@enron.com;fiorello.michelle@enron.com;harrelson.kristin@enron.com;bailey.pam@enron.com;ford.chloe@enron.com;wilson.susie@enron.com;lisa.gang@enron.com","savage.joe@enron.com;fiorello.michelle@enron.com;harrelson.kristin@enron.com;bailey.pam@enron.com;ford.chloe@enron.com;wilson.susie@enron.com;lisa.gang@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"RE: BPA Cuts","What matters is what the contract indicates. What is the Enpower deal confirmation number? I will have someone pull the contract to determine EPMI's rights as it relates to charging BPA LD's.
+
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Monday, June 17, 2002 11:56 AM
+To:	Baughman, Edward; Elafandi, Mo
+Cc:	Thompson, Virginia; Thome, Jennifer
+Subject:	RE: BPA Cuts
+
+Virgina, correct me if I'm wrong, I believe BPA has special rules when energy is curtailed.  Instead of us charging them with liquidated damages, BPA will not bill for the hours curtailed.  I track and record the cuts by modifying the deal in deal scheduling so that settlement is aware of the cuts.
+
+lisa  
+
+ -----Original Message-----
+From: 	Baughman, Edward  
+Sent:	Monday, June 17, 2002 9:09 AM
+To:	Elafandi, Mo
+Cc:	Thompson, Virginia; Thome, Jennifer; Gang, Lisa
+Subject:	RE: BPA Cuts
+
+I assume that on all cuts on COB deliveries that we are charging BPA liquidated damages. In this case $3.50/MWhr for 6/18. Please let me know if this is not the case. Also, how do we track and record COB non-delivery LD's for BPA's? 
+
+ -----Original Message-----
+From: 	Elafandi, Mo  
+Sent:	Monday, June 17, 2002 10:34 AM
+To:	Baughman, Edward
+Cc:	Thompson, Virginia; Thome, Jennifer; Gang, Lisa
+Subject:	BPA Cuts
+
+We were cut 40 MW today by BPA for peak hours on 6/18 at COB on enpower deal number 305699. Lisa purchased replacement power from Avista at $30. Enpower 897712
+
+We presold power to Avista at $33.50 for the month and are now buying it back from them at $30 to book out.  Of course, BPA should not charge us for the 27.25 supply price under their contract.
+
+
+Mo Elafandi 
+Enron North America 
+121 SW Salmon, 3WTC0407
+Portland, OR 97204 
+503-464-5106 
+Fax 503-464-7376
+Cellular 503-860-8564
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","edward.baughman@enron.com","edward.baughman@enron.com","SMTP","lisa.gang@enron.com;mo.elafandi@enron.com","lisa.gang@enron.com;mo.elafandi@enron.com","SMTP;SMTP","virginia.thompson@enron.com;jennifer.thome@enron.com","virginia.thompson@enron.com;jennifer.thome@enron.com","SMTP;SMTP","virginia.thompson@enron.com;jennifer.thome@enron.com","virginia.thompson@enron.com;jennifer.thome@enron.com","SMTP;SMTP",,,"Normal"
+"TRANSSTATUS 30970 RECEIVED","Reservation status has changed to RECEIVED. See attachment.
+
+ASSIGNMENT_REF = 30970
+SELLER_CODE = AZPS
+SELLER_DUNS = 958982563
+CUSTOMER_CODE = EPMI  
+CUSTOMER_DUNS = 848921276
+AFFILIATE_FLAG = 0
+PATH_NAME = W/AZPS/AZPS-AZPS/FOURCORNE345 - PNPKAPS230//
+POINT_OF_RECEIPT = FOURCORNE345
+POINT_OF_DELIVERY = PNPKAPS230
+SOURCE = FOURCORNERS3
+SINK = PNPK
+CAPACITY = 0
+CAPACITY_REQUESTED = 25
+SERVICE_INCREMENT = HOURLY
+TS_CLASS = FIRM
+TS_TYPE = POINT_TO_POINT
+TS_PERIOD = OFF_PEAK
+TS_WINDOW = FIXED
+TS_SUBCLASS = WHEEL
+NERC_CURTAILMENT_PRIORITY = Nerc Priority 1
+OTHER_CURTAILMENT_PRIORITY = Default
+START_TIME = 06/25/2002
+STOP_TIME = 06/25/2002
+CEILING_PRICE = 3.13
+OFFER_PRICE = 3.13
+BID_PRICE = 3.13
+PRICE_UNITS = $/mW  
+PRECONFIRMED = YES
+ANC_SVC_LINK = N/A
+ANC_SVC_REQ = N/A
+POSTING_REF = 0
+SALE_REF = 
+REQUEST_REF = 
+DEAL_REF = 
+NEGOTIATED_PRICE_FLAG = 
+STATUS = RECEIVED
+STATUS_NOTIFICATION = lisa.gang@enron.com
+STATUS_COMMENTS = 
+TIME_QUEUED = 06/24/2002
+RESPONSE_TIME_LIMIT = 
+TIME_OF_LAST_UPDATE = 06/24/2002
+PRIMARY_PROVIDER_COMMENTS = 
+SELLER_COMMENTS = 
+CUSTOMER_COMMENTS = For info call (503)464-5070
+SELLER_NAME = AZPS
+SELLER_PHONE = 602.250.1128
+SELLER_FAX = 602.250.1155
+SELLER_EMAIL = oasisadm@apsc.com
+CUSTOMER_NAME = Enron Power Marketing, Inc.
+CUSTOMER_PHONE = (713)853-3801
+CUSTOMER_FAX = (713)646-8272
+CUSTOMER_EMAIL = bill.rust@enron.com
+REASSIGNED_REF = 0
+REASSIGNED_CAPACITY = 0
+REASSIGNED_START_TIME = 
+REASSIGNED_STOP_TIME =
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","oasis502@apsc.com","oasis502@apsc.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"BPA 12/01 - sale dispute","Lisa:
+
+This is supporting documentation for a dispute from 12/01 with BPA.  I will give you a hard copy of the request from Houston.
+
+Thanks!
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"FW: purchase summary March - May.xls","
+
+ -----Original Message-----
+From: 	Elafandi, Mo  
+Sent:	Tuesday, June 11, 2002 11:00 AM
+To:	Thompson, Virginia; Thome, Jennifer
+Subject:	purchase summary March - May.xls
+
+ 
+In case you ever want to know what I've purchased on a monthly basis.
+
+Mo.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"Break","Lisa,
+
+     Breakfast sandwiches and coffee could be in order this morn.   Let me know if you are down and when you can go.    Also tell Jsarnow.
+
+late,
+Darren
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","darren.cavanaugh@enron.com","darren.cavanaugh@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: Break","Yea I talked to her, I will let you know what she said when we take a break.   Let me know when you are ready.
+Darren
+
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Monday, June 17, 2002 8:44 AM
+To:	Cavanaugh, Darren
+Subject:	RE: Break
+
+a little hung over....hey did you ask your sister??????????????????????????
+
+
+ -----Original Message-----
+From: 	Cavanaugh, Darren  
+Sent:	Monday, June 17, 2002 8:35 AM
+To:	Gang, Lisa
+Subject:	Break
+
+Lisa,
+
+     Breakfast sandwiches and coffee could be in order this morn.   Let me know if you are down and when you can go.    Also tell Jsarnow.
+
+late,
+Darren
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","darren.cavanaugh@enron.com","darren.cavanaugh@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"RE:","Lisa - hope you had a great week and have plans for this incredible weekend that is coming our way!!  Just wanted to drop you a line a say hi - Ciao - Serena
+
+-----Original Message-----
+From: Gang, Lisa [mailto:Lisa.Gang@enron.com]
+Sent: Wednesday, May 22, 2002 10:36 AM
+To: Serena Bishop
+Subject: RE: 
+
+
+dude, there is hardly nothing to do anymore.  not sure why they want to hire susie, i guess just in case i drop dead they want to have a backup...but i told them Darrin can be my backup....anyway...who knows...whatever...i think going back to school is good for everyone...its hard i know its going to be so hard for me...i'm going to be so broke....oh well...its only for 3 years....have to study my ass off...don't even know where to start...its been 15 years since college for me...what is a girl to do...How's Jess...what the hell is he doing now? lets get together soon...you might have to teach me how to study....
+ 
+lisa 
+
+-----Original Message-----
+From: Serena Bishop [mailto:Serena.Bishop@merant.com]
+Sent: Wednesday, May 22, 2002 8:24 AM
+To: Gang, Lisa
+Subject: RE: 
+
+
+Lisa - 
+Still fighting with the Mo-Jo huh??  How is everything going, are you able to leave with a smile on your face everyday?  Awesome that Susie is coming back, that should be fun for you guys, get the old team back together!!  Good luck with Law school, I think that is a fabulous idea, I think I might go back to school as well, but for what I am not yet certain.  I miss you too, we should get together in the relatively near future.  Say hi to Julie for me, Serena
+ 
+ 
+ -----Original Message-----
+From: Gang, Lisa [mailto:Lisa.Gang@enron.com]
+Sent: Monday, May 20, 2002 8:07 AM
+To: Serena Bishop
+Subject: RE: 
+
+
+
+I'm great except for you know who...god we fight every day...it is so funny...what's going on with you?  you don't want to come back here do you?  i wish you would have stayed...apparently, they hired another consultant, remember Susie..she is going to work part time...we are not busy here at all..we terminated NEVP and SPP so i'm usually done by 11:00...talk with Murray...hows everything else going?  i miss you...i'm thinking about going to law school...crazy, huh but i figure this is my only opportunity to go back to school..i hope all's well...hang in there...its tough times but things always happens for a reason...let me know whats up...
+ 
+[Gang, Lisa] 
+ 
+ -----Original Message-----
+From: Serena Bishop [mailto:Serena.Bishop@merant.com]
+Sent: Friday, May 17, 2002 10:24 AM
+To: Gang, Lisa
+Subject: 
+
+
+
+Lisa - How the heck are you??  Need a scheduler?? Serena 
+
+Serena Bishop 
+Financial Analyst 
+Merant 
+503.617.2815 
+
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and may contain confidential and privileged material for the sole use of the intended recipient (s). Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender or reply to Enron Corp. at enron.messaging.administration@enron.com and delete all copies of the message. This e-mail (and any attachments hereto) are not intended to be an offer (or an acceptance) and do not create or evidence a binding and enforceable contract between Enron Corp. (or any of its affiliates) and the intended recipient or any other party, and may not be relied on by anyone as the basis of a contract by estoppel or otherwise. Thank you. 
+**********************************************************************
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","serena.bishop@merant.com","serena.bishop@merant.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: State Tax","Lisa,
+
+I apologize for the delay!  This is a new one for us and they are taking their sweet time on getting the paper work back to us.  I have copied Pam LaRue on this email as you can see and she will respond to you on how that process is going.
+
+Rhonda
+
+-----Original Message-----
+From: Gang, Lisa [mailto:Lisa.Gang@ENRON.com] 
+Sent: Wednesday, June 19, 2002 1:00 PM
+To: Rhonda Malley
+Subject: State Tax
+
+Hi Rhonda,
+
+ I know you are not the one who is working on this but I forgot who was....Can you tell me who and forward this email to that person.  I'm a little concerned about my State Income Tax deduction.  I have not yet seen any withdraws from my check and I know State of Oregon will charge you penalties if you exceed a certain amount per quarter.  Please look into this as soon as you can.  Thank You.
+
+lisa
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and may contain confidential and privileged material for the sole use of the intended recipient (s). Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender or reply to Enron Corp. at enron.messaging.administration@enron.com and delete all copies of the message. This e-mail (and any attachments hereto) are not intended to be an offer (or an acceptance) and do not create or evidence a binding and enforceable contract between Enron Corp. (or any of its affiliates) and the intended recipient or any other party, and may not be relied on by anyone as the basis of a contract by estoppel or otherwise. Thank you. 
+**********************************************************************
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","rmalley@iconconsultants.com","rmalley@iconconsultants.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP","plarue@iconconsultants.com","plarue@iconconsultants.com","SMTP","plarue@iconconsultants.com","plarue@iconconsultants.com","SMTP",,,"Normal"
+"RE: MID C Question","Thanks Lisa.  Is the $2 a fixed rate for every month or does it vary.  Also, do we buy that daily, monthly, or longer term than that?  Are there ever any problems with availability of the transmission (history of curtailments)?  Finally, what do we do with the extra power on the days Air Products doesn't take it (I think I remember the deal being for every day but Tuesdays and Wed or something strange like that)?  I know that is a lot of questions... Thanks for your help.
+
+Steve
+
+ -----Original Message-----
+From: 	Sewell, Doug  
+Sent:	Monday, June 03, 2002 4:52 PM
+To:	Luong, Steven
+Subject:	FW: MID C Question
+
+here you go
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Monday, June 03, 2002 4:37 PM
+To:	Sewell, Doug
+Subject:	FW: MID C Question
+
+
+I purchase Snohomish Transmission to deliver power from MID C to Montana sys. The Transmission cost is $2.00 per mw. This cost is added in addition to the power price at MID C. The Air Products deal is at MID C.  We fill this position by purchasing at MID C.  I hope this helps. 
+
+
+Lisa     
+ -----Original Message-----
+From: 	Luong, Steven  
+Sent:	Monday, June 03, 2002 12:16 PM
+To:	Gang, Lisa
+Cc:	Irani, Eric
+Subject:	MID C Question
+
+Hi Lisa,
+
+I am working on a Hedging Activity Report that will be sent to E&Y on a weekly basis.  I think Mo is out of the office so I heard that you might be the right person to ask for help.  For the first week, I am using a spreadsheet that Mo sent where he bought some July power at MID C.  It looks like the MID C power along with our NW Del length makes us flat for July at MID C and Montana System Border as well.  My questions are:
+
+How does power flow between MID C and the other delivery points (like Montana)?
+Do we incur a transmission cost on top of what he bought the power for?
+We are actually a little long (960 MWh) b/c of the Air Products deal that is a little unique ... what happens to this length?
+
+If it's easier to explain over the phone, please give me a call at 713-853-4748.  Thanks for your help.
+
+Steve 
+     
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","steven.luong@enron.com","steven.luong@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP","doug.sewell@enron.com","doug.sewell@enron.com","SMTP","doug.sewell@enron.com","doug.sewell@enron.com","SMTP",,,"Normal"
+"RE: Hafslund Energy","Katina,
+
+Could you please get together with Lisa and get her what she needs.  I think it might relate to that ECAR/Allegheny stuff you were working on the other day.
+
+Rebecca
+
+
+
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Thursday, June 13, 2002 3:55 PM
+To:	Grace, Rebecca M.
+Subject:	Hafslund Energy
+
+I'm working on a settlement issue with subject counterparty for December.  The unique id is 12596.  Can you send me Hafslund's detailed data for Dec 1?  
+
+Lisa 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","m..grace@enron.com","m..grace@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP","katina.smith@enron.com","katina.smith@enron.com","SMTP","katina.smith@enron.com","katina.smith@enron.com","SMTP",,,"Normal"
+"FREE info....","Lisa;
+
+contact me with questions, this is just an idea of what is on Half.com and eBay.com.
+The entire link is not highlighted on either link.  You need to copy and paste ot all, or redo your search.
+
+enough is enough...
+
+Cheri
+
+
+
+http://search.ebay.com/search/search.dll?MfcISAPICommand=GetResult&ht=1&
+SortProperty=MetaEndSort&ebaytag1code=0&query=LSAT
+
+http://half.ebay.com/search/search.jsp?nthTime=1&product=books&keyword=LSAT&
+x=17
+
+Thank you;
+Cheri Thomas
+Transmission & Energy Services
+503.464-5078
+503.464-8178, fax
+503.803.1885, cell
+E-mail: ""Cheri_thomas@pgn.com""
+
+3WTC-0506
+121 SW Salmon Street
+Portland, Oregon  97204
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","cheri.thomas@enron.com","cheri.thomas@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: BPA Cuts","I assume that on all cuts on COB deliveries that we are charging BPA liquidated damages. In this case $3.50/MWhr for 6/18. Please let me know if this is not the case. Also, how do we track and record COB non-delivery LD's for BPA's? 
+
+ -----Original Message-----
+From: 	Elafandi, Mo  
+Sent:	Monday, June 17, 2002 10:34 AM
+To:	Baughman, Edward
+Cc:	Thompson, Virginia; Thome, Jennifer; Gang, Lisa
+Subject:	BPA Cuts
+
+We were cut 40 MW today by BPA for peak hours on 6/18 at COB on enpower deal number 305699. Lisa purchased replacement power from Avista at $30. Enpower 897712
+
+We presold power to Avista at $33.50 for the month and are now buying it back from them at $30 to book out.  Of course, BPA should not charge us for the 27.25 supply price under their contract.
+
+
+Mo Elafandi 
+Enron North America 
+121 SW Salmon, 3WTC0407
+Portland, OR 97204 
+503-464-5106 
+Fax 503-464-7376
+Cellular 503-860-8564
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","edward.baughman@enron.com","edward.baughman@enron.com","SMTP","mo.elafandi@enron.com","mo.elafandi@enron.com","SMTP","virginia.thompson@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","virginia.thompson@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","SMTP;SMTP;SMTP","virginia.thompson@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","virginia.thompson@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"OATI Digital Certificates - OASIS Update","OATI Security Officers and Digital Certificate Users,
+
+June 30th and the end of Tradewave is coming up fast.  OATI would like to
+remind OATI Digital Certificates users that the following OASIS Systems will
+accept OATI Digital Certificates for secure access:
+ 
+* MAIN OASIS 		* MAPP OASIS 
+* MISO OASIS		* NEPOOL OASIS 
+* New Brunswick Power OASIS 
+* Northwest OASIS	* Rocky Mountain OASIS 
+* SWPP OASIS 	* VACAR OASIS	
+
+If you would like to use your OATI Digital Certificates to access the AEP,
+ECAR, and EES OASIS Systems, please contact the appropriate OASIS
+Administrator at each site to discuss the acceptance of OATI Digital
+Certificates. The most effective way to persuade an OASIS Node Administrator
+is for the customers to contact them and express their support for OATI
+Digital Certificates. For a list of OASIS Nodes and contacts, please visit
+the following URL: <http://mapp.oasis.mapp.org/documents/nodeacc.html> 
+
+To register your OATI Digital Certificates with an OASIS Node, please have
+your OATI Security Officer contact the appropriate OASIS Nodes for more
+information about each nodes registration procedure and to provide all
+necessary information to the OASIS Administrator.  To view a node providers
+homepage and their posted registration instructions, please use the
+following URL to link to the appropriate region:
+http://oasis.maininc.org/OASIS/. 
+
+If you have any questions or would like more information, please feel free
+to contact me.
+
+Thank you,
+Ben Porath
+Open Access Technology, Intl.
+(763) 553-2725
+ben.porath@oatiinc.com
+
+CONFIDENTIAL INFORMATION:  This email and any attachment(s) contain
+confidential and/or proprietary information of Open Access Technology
+International, Inc.  Do not copy or distribute without the prior written
+consent of OATI.  If you are not a named recipient to the message, please
+notify the sender immediately and do not retain the message in any form,
+printed or electronic.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","ben.porath@oatiinc.com","ben.porath@oatiinc.com","SMTP","ben.porath@oatiinc.com","ben.porath@oatiinc.com","SMTP",,,,,,,,,"Normal"
+"WTC Parking","Portland Employees-
+
+At this time Enron Portland has 5 parking spots allocated based on floor space and number of employees.  As UBS employees leave we do not automatically have the ability to take over their spots.  However, in renegotiating our lease with PGE we will address the possibility of taking over more that the 5 allocated spots.  We will keep you updated as to the progress of this.  For now, Khymberly Booth is checking into the availability of 1 or more of our spots and will offer any available spots to Portland employees based on Portland office seniority.  We will contact you individually if a spot becomes available.  If you have any questions please contact Kathy Sheppard or Khymberly Booth.
+
+Thanks-
+Khymberly Booth
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","kathryn.sheppard@enron.com","kathryn.sheppard@enron.com","SMTP","jody.blackburn@enron.com;darren.cavanaugh@enron.com;mo.elafandi@enron.com;caroline.emmert@enron.com;fredrik.eriksson@enron.com;kenton.erwin@enron.com;lisa.gang@enron.com;jim.gilbert@enron.com;don.hammond@enron.com;paul.kane@enron.com;wayne.mays@enron.com;p..o'neil@enron.com;julie.sarnowski@enron.com;kathryn.sheppard@enron.com;g..slaughter@enron.com;jennifer.thome@enron.com;virginia.thompson@enron.com;mike.tully@enron.com;bill.williams@enron.com","jody.blackburn@enron.com;darren.cavanaugh@enron.com;mo.elafandi@enron.com;caroline.emmert@enron.com;fredrik.eriksson@enron.com;kenton.erwin@enron.com;lisa.gang@enron.com;jim.gilbert@enron.com;don.hammond@enron.com;paul.kane@enron.com;wayne.mays@enron.com;p..o'neil@enron.com;julie.sarnowski@enron.com;kathryn.sheppard@enron.com;g..slaughter@enron.com;jennifer.thome@enron.com;virginia.thompson@enron.com;mike.tully@enron.com;bill.williams@enron.com","SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP;SMTP",,,,,,,,,"Normal"
+"FW: Avista Energy DMS 12619, 12578, 12590","Lisa:
+
+I believe that I gave you a hard copy of this spreadsheet and email on Friday.  Thanks!
+
+ -----Original Message-----
+From: 	Minnis, Sabrina  
+Sent:	Wednesday, June 12, 2002 12:52 PM
+To:	Thome, Jennifer
+Subject:	Avista Energy DMS 12619, 12578, 12590
+
+Hi Jennifer,
+
+Attached is a spreadsheet that I received from Avista Energy verifying the wires that were paid to them. Please disregard the amounts that are highlighted in green because those items were paid by EES. Also, at the time that she sent me this spreadsheet, the items that are highlighted in yellow had not been settled yet. I was able to tie back to every wire except for the one that is in red bold. Hopefully this file will help you true-up these DMS's but please if you have any questions, please give me a call 713-345-1545. Thanks.
+
+ 
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP","sabrina.minnis@enron.com","sabrina.minnis@enron.com","SMTP","sabrina.minnis@enron.com","sabrina.minnis@enron.com","SMTP",,,"Normal"
+"RE: BPA Dec. 01, DMS #12593","Jennifer,
+Yes, I do believe you have the correct understanding.  The ttls you have tie to the dms impact. Let me know if you have any questions.
+
+Thanks,
+Elsie
+
+
+ -----Original Message-----
+From: 	Thome, Jennifer  
+Sent:	Thursday, May 30, 2002 6:15 PM
+To:	Lew, Elsie
+Cc:	Gang, Lisa
+Subject:	BPA Dec. 01, DMS #12593
+
+Elsie:
+
+Sorry, in looking over this again with Lisa, we want to be sure that we understand the request correctly.  
+
+See attached for my understanding of what you are requesting and please confirm.
+
+I looked at this from the perspective of each entire deal.  For each, I took the total price and volume of the deal and subtracted/added the MWs you specified and then calculated the revised value of each deal.  
+
+Is this a correct understanding of the changes needed and their impact?
+
+Thanks, Jenny
+
+ << File: 12593 - BPA.xls >> 
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Thursday, May 30, 2002 8:05 AM
+To:	Thome, Jennifer
+Subject:	RE: to portland for bpa.xls
+
+Hey Jennifer,
+	Did you have any more questions related to this?
+Thanks,
+Elsie
+713-853-6757
+
+ -----Original Message-----
+From: 	Thome, Jennifer  
+Sent:	Wednesday, May 22, 2002 4:08 PM
+To:	Lew, Elsie
+Subject:	RE: to portland for bpa.xls
+
+Got it, thanks.
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Wednesday, May 22, 2002 2:02 PM
+To:	Thome, Jennifer
+Subject:	RE: to portland for bpa.xls
+
+Jennifer,,,,,I updated the dms....in the comment section this is for 2 deals...the difference between enpwer mw and revised mw will be 8150 mw (12600mw revised to 4450mw)...the spreadsheet is the detail for the changes needed and not totals for the deals.  
+
+Thanks,
+Elsie
+
+
+ -----Original Message-----
+From: 	Thome, Jennifer  
+Sent:	Wednesday, May 22, 2002 3:56 PM
+To:	Lew, Elsie
+Subject:	RE: to portland for bpa.xls
+
+Elsie:
+
+Thanks for the welcome!
+
+Already I have a quick question - in the attached spreadsheet, the disputed MW columns seem to add up to 12600 and 4450.  In reading the DMS, I would expect them to add up to 14600 and 5600 (or 12600 and 3600, if I only include the referrenced deal, #12593). Am I missing something?
+
+Jenny
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Wednesday, May 22, 2002 1:36 PM
+To:	Thome, Jennifer
+Subject:	FW: to portland for bpa.xls
+
+....and welcome aboard!
+
+
+ -----Original Message-----
+From: 	Lew, Elsie  
+Sent:	Wednesday, May 22, 2002 3:34 PM
+To:	Thome, Jennifer; Thompson, Virginia
+Cc:	Grace, Rebecca M.
+Subject:	to portland for bpa.xls
+
+ << File: to portland for bpa.xls >> 
+Hello,,,,,this is the support of the chgs needed for dms request 12593.  If you have questions or need additional info, I'm at 713-853-6757.
+
+Thanks,
+Elsie
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","elsie.lew@enron.com","elsie.lew@enron.com","SMTP","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,"Normal"
+"RE: Avista Energy Post Petition Pre-Pay","Hi Sabrina.  
+
+  Sorry it has taken me a while to get back to you on this.  Jenny Thome and Lisa Gang are working on Avista true-up from Jan '02 thru current. I believe that this pre-payment for $899,464.00 is for the week of Jan 1 thru Jan 7, 2002.  Mo - can you please confirm this?  The wire transfer request is pending 26, but  just says prepay without a trade date.  Payment was made 12/21/02.
+
+  Virginia
+ 
+
+ -----Original Message-----
+From: 	Minnis, Sabrina  
+Sent:	Wednesday, June 12, 2002 1:25 PM
+To:	Thompson, Virginia
+Subject:	Avista Energy Post Petition Pre-Pay
+
+Hi Virginia,
+
+On December 21, 2001, Jake Thomas sent a prepayment wire request of $899,464 to be paid to Avista. I'm doing a reconciliation for Avista and I need to know for what month this should be applied to. Can you please e-mail me back if you have this information? Your help is deeply appreciated. Thanks.
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP","sabrina.minnis@enron.com","sabrina.minnis@enron.com","SMTP","mo.elafandi@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","mo.elafandi@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","SMTP;SMTP;SMTP","mo.elafandi@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","mo.elafandi@enron.com;jennifer.thome@enron.com;lisa.gang@enron.com","SMTP;SMTP;SMTP",,,"Normal"
+"RE: Nevada Power","Hi Lisa,
+The counterparty is showing this deal but I am not and their deal numbers are different from ours. They supplied a tag number but it was not enough information so I have asked the counterparty for addition information and I will get back with you on this. Thanks.
+
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Thursday, June 13, 2002 3:00 PM
+To:	Minnis, Sabrina
+Subject:	Nevada Power
+
+I'm working on settlement issues for NVP, DMS 12398.  Can you provide me with a deal#?
+
+Lisa
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","sabrina.minnis@enron.com","sabrina.minnis@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
+"RE: State Tax","How funny you ask, I spoke to them today and they did say that the deductions should start on your next check.  I realize that the past we have not made any but they have asked me to call back on Monday to discuss.  I will keep you informed.
+
+Thanks for your patience.
+
+Pam LaRue
+Business Accounting Manager
+713-438-0919 (ph)
+
+-----Original Message-----
+From: Rhonda Malley 
+Sent: Wednesday, June 19, 2002 1:20 PM
+To: 'Gang, Lisa'
+Cc: Pam LaRue
+Subject: RE: State Tax
+
+Lisa,
+
+I apologize for the delay!  This is a new one for us and they are taking their sweet time on getting the paper work back to us.  I have copied Pam LaRue on this email as you can see and she will respond to you on how that process is going.
+
+Rhonda
+
+-----Original Message-----
+From: Gang, Lisa [mailto:Lisa.Gang@ENRON.com] 
+Sent: Wednesday, June 19, 2002 1:00 PM
+To: Rhonda Malley
+Subject: State Tax
+
+Hi Rhonda,
+
+ I know you are not the one who is working on this but I forgot who was....Can you tell me who and forward this email to that person.  I'm a little concerned about my State Income Tax deduction.  I have not yet seen any withdraws from my check and I know State of Oregon will charge you penalties if you exceed a certain amount per quarter.  Please look into this as soon as you can.  Thank You.
+
+lisa
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and may contain confidential and privileged material for the sole use of the intended recipient (s). Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender or reply to Enron Corp. at enron.messaging.administration@enron.com and delete all copies of the message. This e-mail (and any attachments hereto) are not intended to be an offer (or an acceptance) and do not create or evidence a binding and enforceable contract between Enron Corp. (or any of its affiliates) and the intended recipient or any other party, and may not be relied on by anyone as the basis of a contract by estoppel or otherwise. Thank you. 
+**********************************************************************
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","plarue@iconconsultants.com","plarue@iconconsultants.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP","rmalley@iconconsultants.com","rmalley@iconconsultants.com","SMTP","rmalley@iconconsultants.com","rmalley@iconconsultants.com","SMTP",,,"Normal"
+"FW: BPA Cuts","Lisa:
+
+Do you know if this issue was resolved ---did we verify how we charge BPA for LDs?
+
+Thanks!  Jenny
+
+ -----Original Message-----
+From: 	Baughman, Edward  
+Sent:	Monday, June 17, 2002 10:05 AM
+To:	Gang, Lisa; Elafandi, Mo
+Cc:	Thompson, Virginia; Thome, Jennifer
+Subject:	RE: BPA Cuts
+
+What matters is what the contract indicates. What is the Enpower deal confirmation number? I will have someone pull the contract to determine EPMI's rights as it relates to charging BPA LD's.
+
+ -----Original Message-----
+From: 	Gang, Lisa  
+Sent:	Monday, June 17, 2002 11:56 AM
+To:	Baughman, Edward; Elafandi, Mo
+Cc:	Thompson, Virginia; Thome, Jennifer
+Subject:	RE: BPA Cuts
+
+Virgina, correct me if I'm wrong, I believe BPA has special rules when energy is curtailed.  Instead of us charging them with liquidated damages, BPA will not bill for the hours curtailed.  I track and record the cuts by modifying the deal in deal scheduling so that settlement is aware of the cuts.
+
+lisa  
+
+ -----Original Message-----
+From: 	Baughman, Edward  
+Sent:	Monday, June 17, 2002 9:09 AM
+To:	Elafandi, Mo
+Cc:	Thompson, Virginia; Thome, Jennifer; Gang, Lisa
+Subject:	RE: BPA Cuts
+
+I assume that on all cuts on COB deliveries that we are charging BPA liquidated damages. In this case $3.50/MWhr for 6/18. Please let me know if this is not the case. Also, how do we track and record COB non-delivery LD's for BPA's? 
+
+ -----Original Message-----
+From: 	Elafandi, Mo  
+Sent:	Monday, June 17, 2002 10:34 AM
+To:	Baughman, Edward
+Cc:	Thompson, Virginia; Thome, Jennifer; Gang, Lisa
+Subject:	BPA Cuts
+
+We were cut 40 MW today by BPA for peak hours on 6/18 at COB on enpower deal number 305699. Lisa purchased replacement power from Avista at $30. Enpower 897712
+
+We presold power to Avista at $33.50 for the month and are now buying it back from them at $30 to book out.  Of course, BPA should not charge us for the 27.25 supply price under their contract.
+
+
+Mo Elafandi 
+Enron North America 
+121 SW Salmon, 3WTC0407
+Portland, OR 97204 
+503-464-5106 
+Fax 503-464-7376
+Cellular 503-860-8564
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","jennifer.thome@enron.com","jennifer.thome@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP","virginia.thompson@enron.com","virginia.thompson@enron.com","SMTP",,,"Normal"
+"FW: More on OATI Certificates","
+
+-----Original Message-----
+From: Bill Comish [mailto:bill@wecc.biz]
+Sent: Tuesday, June 11, 2002 11:59 AM
+To: EHV.Web.Site.Clients@webserv.wscc.com
+Cc: Ben Porath
+Subject: More on OATI Certificates
+
+
+We are hoping to be able to begin using OATI certificates by the end of this 
+week or early next week.  At some point, I will notify you of a default 
+password to use for your first login.  You will be expected to replace the 
+default with your own password on your first login. However, before we can 
+implement, I need updated information from you.    Please reply to this 
+message with the following information.
+
+1.	User name
+
+2.	Email address
+
+3.	Phone number
+
+4.	Do you currently have an OATI digital certificate?
+
+5.	I you have an OATI certificate, what is the common name?
+
+6.	If you do not have an OATI certificate, what is the name of your Security 
+Officer or security contact?
+
+I am not certain at this point whether we can use Tradewave and OATI 
+certificates in parallel.  It seems to be a good possibility, but hasn't yet been 
+confirmed.  If we are able to do so, we have until the end of June to complete 
+everyone's conversion.  If not, we will have to pick a date certain for the 
+change.  Since I will be on the road from June 25-28, the changeover date 
+would have to be no later than June 24.
+
+The attached file describes how to obtain a certificate from OATI.
+
+
+
+
+--
+EnronData.org (http://enrondata.org)
+Reference Enron Datasets","kathryn.sheppard@enron.com","kathryn.sheppard@enron.com","SMTP","lisa.gang@enron.com","lisa.gang@enron.com","SMTP",,,,,,,,,"Normal"
